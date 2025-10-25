@@ -1,0 +1,16 @@
+{
+    "this": {
+        "en": "this",
+        "fr": "ceci / ce…-ci",
+        "es": "esto",
+        "pt": "isto",
+        "ru": {
+            "cyr": "это",
+            "lat": "eto"
+        },
+        "il": {
+            "heb": "זה",
+            "lat": "ze"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "when": {
+        "en": [
+            "When does the bus come?",
+            "Call me when you arrive.",
+            "I know when he comes."
+        ],
+        "fr": [
+            "Quand arrive le bus ?",
+            "Appelle-moi quand tu arrives.",
+            "Je sais quand il vient."
+        ],
+        "es": [
+            "¿Cuándo llega el autobús?",
+            "Llámame cuando llegues.",
+            "Yo sé cuándo viene."
+        ],
+        "pt": [
+            "Quando chega o autocarro?",
+            "Liga-me quando chegares.",
+            "Eu sei quando ele vem."
+        ],
+        "ru": {
+            "cyr": [
+                "Когда приедет автобус?",
+                "Позвони мне, когда придёшь.",
+                "Я знаю, когда он придёт."
+            ],
+            "lat": [
+                "Kogda priyedet avtobus?",
+                "Pozvoni mne, kogda pridyosh'.",
+                "Ya znayu, kogda on pridyot."
+            ]
+        },
+        "il": {
+            "heb": [
+                "מתי האוטובוס מגיע?",
+                "תתקשר אלי כשאתה מגיע.",
+                "אני יודע מתי הוא בא."
+            ],
+            "lat": [
+                "matai ha-otobus magia?",
+                "titkasher elai kshe-ata magia.",
+                "ani yodea matai hu ba."
+            ]
+        }
+    }
+}

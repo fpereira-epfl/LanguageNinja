@@ -1,0 +1,48 @@
+{
+    "at": {
+        "en": [
+            "I am at home.",
+            "She is at school.",
+            "We meet at five."
+        ],
+        "fr": [
+            "Je suis à la maison.",
+            "Elle est à l'école.",
+            "Nous nous retrouvons à cinq heures."
+        ],
+        "es": [
+            "Estoy en casa.",
+            "Ella está en la escuela.",
+            "Nos vemos a las cinco."
+        ],
+        "pt": [
+            "Eu estou em casa.",
+            "Ela está na escola.",
+            "Nós nos encontramos às cinco."
+        ],
+        "ru": {
+            "cyr": [
+                "Я дома.",
+                "Она в школе.",
+                "Мы встречаемся в пять."
+            ],
+            "lat": [
+                "Ya doma.",
+                "Ona v shkole.",
+                "My vstrechayemsya v pyat'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני בבית.",
+                "היא בבית הספר.",
+                "אנחנו נפגשים בחמש."
+            ],
+            "lat": [
+                "ani ba-bayit.",
+                "hi be-beit ha-sefer.",
+                "anachnu nifgashim be-chamesh."
+            ]
+        }
+    }
+}

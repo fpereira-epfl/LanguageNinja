@@ -1,0 +1,48 @@
+{
+    "and": {
+        "en": [
+            "I have bread and water.",
+            "She is tall and strong.",
+            "We read and write."
+        ],
+        "fr": [
+            "J'ai du pain et de l'eau.",
+            "Elle est grande et forte.",
+            "Nous lisons et écrivons."
+        ],
+        "es": [
+            "Tengo pan y agua.",
+            "Ella es alta y fuerte.",
+            "Leemos y escribimos."
+        ],
+        "pt": [
+            "Eu tenho pão e água.",
+            "Ela é alta e forte.",
+            "Nós lemos e escrevemos."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня есть хлеб и вода.",
+                "Она высокая и сильная.",
+                "Мы читаем и пишем."
+            ],
+            "lat": [
+                "U menya yest' khleb i voda.",
+                "Ona vysokaya i sil'naya.",
+                "My chitaem i pishem."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי לחם ומים.",
+                "היא גבוהה וחזקה.",
+                "אנחנו קוראים וכותבים."
+            ],
+            "lat": [
+                "yesh li lechem u-mayim.",
+                "hi gvoha ve-chazaka.",
+                "anachnu korim ve-kotvim."
+            ]
+        }
+    }
+}

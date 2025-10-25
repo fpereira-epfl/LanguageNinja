@@ -1,0 +1,16 @@
+{
+    "you": {
+        "en": "you",
+        "fr": "vous/tu",
+        "es": "usted/tú",
+        "pt": "você/tu",
+        "ru": {
+            "cyr": "вы/ты",
+            "lat": "vy/ty"
+        },
+        "il": {
+            "heb": "אתה (sg.m.)",
+            "lat": "ata"
+        }
+    }
+}

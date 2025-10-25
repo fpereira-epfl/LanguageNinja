@@ -1,0 +1,48 @@
+{
+    "a": {
+        "en": [
+            "I have a cat.",
+            "This is a book.",
+            "She has a car."
+        ],
+        "fr": [
+            "J'ai un chat.",
+            "C'est un livre.",
+            "Elle a une voiture."
+        ],
+        "es": [
+            "Tengo un gato.",
+            "Es un libro.",
+            "Ella tiene un coche."
+        ],
+        "pt": [
+            "Eu tenho um gato.",
+            "É um livro.",
+            "Ela tem uma casa."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня есть кот.",
+                "Это книга.",
+                "У него есть машина."
+            ],
+            "lat": [
+                "U menya yest’ kot.",
+                "Eto kniga.",
+                "U nego yest’ mashina."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי חתול.",
+                "זה ספר.",
+                "יש לו מכונית."
+            ],
+            "lat": [
+                "yesh li chatul.",
+                "ze sefer.",
+                "yesh lo mechonit."
+            ]
+        }
+    }
+}

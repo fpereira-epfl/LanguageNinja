@@ -1,0 +1,48 @@
+{
+    "would": {
+        "en": [
+            "I would like some water.",
+            "He would go, but it is late.",
+            "We would help if we could."
+        ],
+        "fr": [
+            "Je voudrais de l'eau.",
+            "Il irait, mais il est tard.",
+            "Nous aiderions si nous pouvions."
+        ],
+        "es": [
+            "Me gustaría agua.",
+            "Él iría, pero es tarde.",
+            "Ayudaríamos si pudiéramos."
+        ],
+        "pt": [
+            "Eu gostaria de água.",
+            "Ele iria, mas é tarde.",
+            "Ajudaríamos se pudéssemos."
+        ],
+        "ru": {
+            "cyr": [
+                "Я бы хотел воды.",
+                "Он бы пошёл, но уже поздно.",
+                "Мы бы помогли, если бы могли."
+            ],
+            "lat": [
+                "Ya by khotel vody.",
+                "On by poshyol, no uzhe pozdno.",
+                "My by pomogli, yesli by mogli."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הייתי רוצה מים.",
+                "הוא היה הולך, אבל מאוחר.",
+                "היינו עוזרים אם היינו יכולים."
+            ],
+            "lat": [
+                "hayiti rotze mayim.",
+                "hu haya holekh, aval me'uchar.",
+                "hayinu ozrim im hayinu yekholim."
+            ]
+        }
+    }
+}

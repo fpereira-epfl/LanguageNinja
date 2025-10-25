@@ -1,0 +1,48 @@
+{
+    "that": {
+        "en": [
+            "I know that he is here.",
+            "That book is mine.",
+            "Give me that apple."
+        ],
+        "fr": [
+            "Je sais qu'il est ici.",
+            "Ce livre-là est à moi.",
+            "Donne-moi ça."
+        ],
+        "es": [
+            "Sé que él está aquí.",
+            "Ese libro es mío.",
+            "Dame esa manzana."
+        ],
+        "pt": [
+            "Eu sei que ele está aqui.",
+            "Esse livro é meu.",
+            "Dá-me essa maçã."
+        ],
+        "ru": {
+            "cyr": [
+                "Я знаю, что он здесь.",
+                "Та книга моя.",
+                "Дай мне то яблоко."
+            ],
+            "lat": [
+                "Ya znayu, chto on zdes'.",
+                "Ta kniga moya.",
+                "Day mne to yabloko."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני יודע שהוא כאן.",
+                "הספר ההוא שלי.",
+                "תן לי את התפוח ההוא."
+            ],
+            "lat": [
+                "ani yodea she-hu kan.",
+                "ha-sefer ha-hu sheli.",
+                "ten li et ha-tapuach ha-hu."
+            ]
+        }
+    }
+}

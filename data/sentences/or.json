@@ -1,0 +1,48 @@
+{
+    "or": {
+        "en": [
+            "Tea or coffee?",
+            "You can come today or tomorrow.",
+            "Is it red or blue?"
+        ],
+        "fr": [
+            "Thé ou café ?",
+            "Tu peux venir aujourd'hui ou demain.",
+            "C'est rouge ou bleu ?"
+        ],
+        "es": [
+            "¿Té o café?",
+            "Puedes venir hoy o mañana.",
+            "¿Es rojo o azul?"
+        ],
+        "pt": [
+            "Chá ou café?",
+            "Podes vir hoje ou amanhã.",
+            "É vermelho ou azul?"
+        ],
+        "ru": {
+            "cyr": [
+                "Чай или кофе?",
+                "Ты поедешь на автобусе или на поезде?",
+                "Это красный или синий?"
+            ],
+            "lat": [
+                "Chay ili kofe?",
+                "Ty poedesh' na avtobuse ili na poezde?",
+                "Eto krasnyy ili siniy?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "תה או קפה?",
+                "אתה בא היום או מחר?",
+                "זה אדום או כחול?"
+            ],
+            "lat": [
+                "te o kafe?",
+                "ata ba hayom o machar?",
+                "ze adom o kachol?"
+            ]
+        }
+    }
+}

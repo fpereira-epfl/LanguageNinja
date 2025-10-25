@@ -1,0 +1,16 @@
+{
+    "to": {
+        "en": "to",
+        "fr": "à (direction)",
+        "es": "a",
+        "pt": "a/para",
+        "ru": {
+            "cyr": "к / в / на",
+            "lat": "k / v / na"
+        },
+        "il": {
+            "heb": "ל־",
+            "lat": "le-"
+        }
+    }
+}

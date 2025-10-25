@@ -1,0 +1,16 @@
+{
+    "there": {
+        "en": "there",
+        "fr": "là",
+        "es": "allí",
+        "pt": "lá",
+        "ru": {
+            "cyr": "там",
+            "lat": "tam"
+        },
+        "il": {
+            "heb": "שם",
+            "lat": "sham"
+        }
+    }
+}

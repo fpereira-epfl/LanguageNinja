@@ -1,0 +1,48 @@
+{
+    "it": {
+        "en": [
+            "It is a book.",
+            "It is here.",
+            "I like it."
+        ],
+        "fr": [
+            "C'est un livre.",
+            "C'est ici.",
+            "Je l'aime."
+        ],
+        "es": [
+            "Es un libro.",
+            "Está aquí.",
+            "Lo quiero."
+        ],
+        "pt": [
+            "É um livro.",
+            "Está aqui.",
+            "Eu gosto disto."
+        ],
+        "ru": {
+            "cyr": [
+                "Это книга.",
+                "Оно здесь.",
+                "Я люблю это."
+            ],
+            "lat": [
+                "Eto kniga.",
+                "Ono zdes'.",
+                "Ya lyublyu eto."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה ספר.",
+                "זה כאן.",
+                "אני אוהב את זה."
+            ],
+            "lat": [
+                "ze sefer.",
+                "ze kan.",
+                "ani ohev et ze."
+            ]
+        }
+    }
+}

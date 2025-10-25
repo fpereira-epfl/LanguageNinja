@@ -1,0 +1,48 @@
+{
+    "you": {
+        "en": [
+            "You are my friend.",
+            "You are here.",
+            "You have a car."
+        ],
+        "fr": [
+            "Tu es mon ami.",
+            "Tu es ici.",
+            "Tu as une voiture."
+        ],
+        "es": [
+            "Tú eres mi amigo.",
+            "Tú estás aquí.",
+            "Tú tienes un coche."
+        ],
+        "pt": [
+            "Tu és meu amigo.",
+            "Tu estás aqui.",
+            "Tu tens um carro."
+        ],
+        "ru": {
+            "cyr": [
+                "Ты мой друг.",
+                "Ты здесь.",
+                "У тебя есть машина."
+            ],
+            "lat": [
+                "Ty moy drug.",
+                "Ty zdes'.",
+                "U tebya yest' mashina."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אתה חבר שלי.",
+                "אתה כאן.",
+                "יש לך מכונית."
+            ],
+            "lat": [
+                "ata chaver sheli.",
+                "ata kan.",
+                "yesh lecha mechonit."
+            ]
+        }
+    }
+}

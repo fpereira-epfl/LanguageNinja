@@ -1,0 +1,48 @@
+{
+    "I": {
+        "en": [
+            "I am here.",
+            "I have a dog.",
+            "I live in Lisbon."
+        ],
+        "fr": [
+            "Je suis ici.",
+            "J'ai un chien.",
+            "J'habite à Lisbonne."
+        ],
+        "es": [
+            "Yo estoy aquí.",
+            "Yo tengo un perro.",
+            "Yo vivo en Lisboa."
+        ],
+        "pt": [
+            "Eu estou aqui.",
+            "Eu tenho um cão.",
+            "Eu vivo em Lisboa."
+        ],
+        "ru": {
+            "cyr": [
+                "Я здесь.",
+                "У меня есть собака.",
+                "Я живу в Лиссабоне."
+            ],
+            "lat": [
+                "Ya zdes'.",
+                "U menya yest' sobaka.",
+                "Ya zhivu v Lissabone."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני כאן.",
+                "יש לי כלב.",
+                "אני גר בתל אביב."
+            ],
+            "lat": [
+                "ani kan.",
+                "yesh li kelev.",
+                "ani gar be-Tel Aviv."
+            ]
+        }
+    }
+}

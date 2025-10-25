@@ -1,0 +1,16 @@
+{
+    "be": {
+        "en": "be",
+        "fr": "être",
+        "es": "ser / estar",
+        "pt": "ser / estar",
+        "ru": {
+            "cyr": "быть",
+            "lat": "byt’"
+        },
+        "il": {
+            "heb": "להיות",
+            "lat": "lehiyot"
+        }
+    }
+}

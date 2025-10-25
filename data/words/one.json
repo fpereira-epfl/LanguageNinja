@@ -1,0 +1,16 @@
+{
+    "one": {
+        "en": "one",
+        "fr": "un/une",
+        "es": "uno/una",
+        "pt": "um/uma",
+        "ru": {
+            "cyr": "один",
+            "lat": "odin"
+        },
+        "il": {
+            "heb": "אחד",
+            "lat": "echad"
+        }
+    }
+}

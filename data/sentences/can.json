@@ -1,0 +1,48 @@
+{
+    "can": {
+        "en": [
+            "I can swim.",
+            "She can help.",
+            "We can wait."
+        ],
+        "fr": [
+            "Je peux nager.",
+            "Elle peut aider.",
+            "Nous pouvons attendre."
+        ],
+        "es": [
+            "Puedo nadar.",
+            "Ella puede ayudar.",
+            "Podemos esperar."
+        ],
+        "pt": [
+            "Eu posso nadar.",
+            "Ela pode ajudar.",
+            "Podemos esperar."
+        ],
+        "ru": {
+            "cyr": [
+                "Я могу плавать.",
+                "Она может помочь.",
+                "Мы можем подождать."
+            ],
+            "lat": [
+                "Ya mogu plavat'.",
+                "Ona mozhet pomoch'.",
+                "My mozhem podozhdat'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני יכול לשחות.",
+                "היא יכולה לעזור.",
+                "אנחנו יכולים לחכות."
+            ],
+            "lat": [
+                "ani yachol lishchot.",
+                "hi yekhola la'azor.",
+                "anachnu yekholim lechakot."
+            ]
+        }
+    }
+}

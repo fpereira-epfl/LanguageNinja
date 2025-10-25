@@ -1,0 +1,16 @@
+{
+    "but": {
+        "en": "but",
+        "fr": "mais",
+        "es": "pero",
+        "pt": "mas",
+        "ru": {
+            "cyr": "но",
+            "lat": "no"
+        },
+        "il": {
+            "heb": "אבל",
+            "lat": "aval"
+        }
+    }
+}

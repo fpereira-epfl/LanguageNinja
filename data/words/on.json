@@ -1,0 +1,16 @@
+{
+    "on": {
+        "en": "on",
+        "fr": "sur",
+        "es": "en/sobre",
+        "pt": "em/sobre",
+        "ru": {
+            "cyr": "на",
+            "lat": "na"
+        },
+        "il": {
+            "heb": "על",
+            "lat": "al"
+        }
+    }
+}

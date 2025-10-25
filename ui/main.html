@@ -1,0 +1,282 @@
+<!doctype html>
+<meta charset="utf-8" />
+<title>Language Ninja</title>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<style>
+  :root { --bg:#0b0c10; --card:#151820; --muted:#8a93a6; --text:#e6e9ef; --accent:#67b0f5; --warn:#30454c; }
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+  .wrap{max-width:960px;margin:32px auto;padding:0 16px}
+  h1{margin:0 0 12px;font-size:22px}
+  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:8px 0}
+  button{background:#1e2433;border:1px solid #2b3448;color:var(--text);padding:8px 12px;border-radius:8px;cursor:pointer;font:inherit}
+  button:hover{border-color:#3b4762}
+  .grid{display:grid;gap:10px;margin-top:12px}
+  .card{background:var(--card);border:1px solid #202636;border-radius:12px;padding:10px 12px}
+  .top{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .lang{color:var(--muted);font-weight:600;letter-spacing:.02em}
+  .controls{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap}
+  .content{margin-top:6px;display:flex;gap:10px;flex-wrap:wrap}
+  .word,.sent{white-space:pre-wrap}
+  .word{color:var(--accent);font-weight:700}
+  .blur .word,.blur .sent{filter: blur(6px);}
+  .lock{outline:1px solid var(--warn)}
+  .tiny{font-size:12px;color:var(--muted);margin-top:8px}
+</style>
+
+<div class="wrap">
+  <h1>Language Ninja 🥷🏻</h1>
+
+  <!-- global actions -->
+  <div class="row">
+    <button id="revealAll">Reveal all</button>
+    <button id="hideAll">Hide all</button>
+    <button id="lockAll">Lock all</button>
+    <button id="unlockAll">Unlock all</button>
+    <button id="randomize">Randomize sentences</button>
+    <button id="nextWord">Next random word</button>
+  </div>
+
+  <!-- language rows -->
+  <div id="cards" class="grid"></div>
+  <div id="status" class="tiny"></div>
+</div>
+
+<script>
+/* ---------- constants ---------- */
+const LANGS = ["en","fr","es","pt","ru","il"];
+const LABEL = { en:"English", fr:"French", es:"Spanish", pt:"Portuguese", ru:"Russian", il:"Hebrew" };
+const DEFAULT_WPM = { en:130, fr:120, es:100, pt:130, ru:120, il:100 };
+// const SLOW = w => Math.max(60, Math.round(w*0.75));
+
+/* ---------- state ---------- */
+let current = null;     // payload from backend
+let gIdx = null;        // global sentence index (same across languages)
+let state = {};         // { lang: { blur:boolean, locked:boolean } }
+
+/* ---------- helpers ---------- */
+const $  = (s,root=document)=>root.querySelector(s);
+const $$ = (s,root=document)=>[...root.querySelectorAll(s)];
+const rnd = n => Math.floor(Math.random()*n);
+
+function lenFor(lang){
+  if (!current) return 0;
+  if (lang==="ru") return current?.samples?.ru?.cyr?.length || 0;
+  if (lang==="il") return current?.samples?.il?.heb?.length || 0;
+  return current?.samples?.[lang]?.length || 0;
+}
+function maxSamples(){
+  return Math.max(0, ...LANGS.map(lenFor));
+}
+function idxFor(lang){
+  // return gIdx if in range for that language; otherwise null (fallback to base word)
+  const n = lenFor(lang);
+  return (gIdx!=null && gIdx < n) ? gIdx : null;
+}
+function displayWord(lang){
+  if (!current) return "";
+  if (lang==="ru"){
+    const lat = current?.langs?.ru?.lat || "";
+    const cyr = current?.langs?.ru?.cyr || "";
+    return [lat, cyr].filter(Boolean).join(" / ");
+  }
+  if (lang==="il"){
+    const lat = current?.langs?.il?.lat || "";
+    const heb = current?.langs?.il?.heb || "";
+    return [lat, heb].filter(Boolean).join(" / ");
+  }
+  return current?.langs?.[lang] || "";
+}
+function displaySentence(lang){
+  if (!current) return "";
+  const i = idxFor(lang);
+  if (lang==="ru"){
+    const cyr = (i!=null) ? current.samples.ru.cyr[i] : (current.langs.ru?.cyr || "");
+    const lat = (i!=null) ? current.samples.ru.lat[i] : (current.langs.ru?.lat || "");
+    return [lat, cyr].filter(Boolean).join(" / ");
+  }
+  if (lang==="il"){
+    const heb = (i!=null) ? current.samples.il.heb[i] : (current.langs.il?.heb || "");
+    const lat = (i!=null) ? current.samples.il.lat[i] : (current.langs.il?.lat || "");
+    return [lat, heb].filter(Boolean).join(" / ");
+  }
+  const arr = current.samples?.[lang] || [];
+  if (i!=null && arr[i]) return arr[i];
+  return current.langs?.[lang] || "";
+}
+function speak(lang, mode = "normal"){  // mode: "slow" | "normal"
+  if (!current) return;
+  const sentence = idxFor(lang); // null if out of range → backend speaks the word
+  fetch("/api/say", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      key: current.key || current.langs?.en,
+      lang,
+      sentence,
+      rate: mode,          // <-- send "slow" or "normal"
+      save_to: false
+    })
+  }).catch(() => {});
+}
+function pickDifferentIndex(prev, max) {
+  // max = number of available sample indices across languages
+  if (max <= 0) return null;      // no samples anywhere
+  if (max === 1) return 0;        // only one choice; can't differ
+
+  // pick uniformly from [0, max) but exclude `prev`
+  // generate from [0, max-1), then skip past prev
+  if (prev != null && prev >= 0 && prev < max) {
+    let r = Math.floor(Math.random() * (max - 1));
+    if (r >= prev) r += 1;        // jump over prev
+    return r;
+  }
+  // if prev is invalid/unknown, pick any
+  return Math.floor(Math.random() * max);
+}
+
+
+/* ---------- rendering ---------- */
+function card(lang){
+  const el = document.createElement("div");
+  el.className = "card";
+  el.dataset.lang = lang;
+  el.innerHTML = `
+    <div class="top">
+      <span class="lang">${LABEL[lang]}</span>
+      <div class="controls">
+        <button class="btn-hide">hide</button>
+        <button class="btn-lock">lock</button>
+        <button class="btn-slow">play slow</button>
+        <button class="btn-norm">play normal</button>
+      </div>
+    </div>
+    <div class="content">
+      <span class="word"></span>
+      <span class="sent"></span>
+    </div>
+  `;
+  return el;
+}
+function mount(){
+  const host = $("#cards");
+  host.innerHTML = "";
+  LANGS.forEach(l => host.appendChild(card(l)));
+}
+function renderOne(lang){
+  const c = $(`.card[data-lang="${lang}"]`);
+  if (!c) return;
+
+  $(".word", c).textContent = displayWord(lang);
+  $(".sent", c).textContent = displaySentence(lang);
+
+  // blur/lock classes
+  const isLocked = !!state[lang]?.locked;
+  const isBlur   = !!state[lang]?.blur && !isLocked; // locked forces reveal
+  c.classList.toggle("lock", isLocked);
+  c.classList.toggle("blur", isBlur);
+
+  // button labels
+  $(".btn-hide", c).textContent = isBlur ? "show" : "hide";
+  $(".btn-lock", c).textContent = isLocked ? "unlock" : "lock";
+}
+function renderAll(){
+  LANGS.forEach(renderOne);
+  const locked = LANGS.filter(l => state[l]?.locked);
+  const blurred = LANGS.filter(l => state[l]?.blur && !state[l]?.locked);
+  $("#status").textContent = `Locked: ${locked.join(", ") || "none"} | Blurred: ${blurred.join(", ") || "none"} | gIdx: ${gIdx ?? "word"}`;
+}
+
+/* ---------- interactions ---------- */
+$("#cards").addEventListener("click", (e)=>{
+  const card = e.target.closest(".card");
+  if (!card) return;
+  const lang = card.dataset.lang;
+
+  if (e.target.classList.contains("btn-hide")){
+    // toggle blur unless locked
+    if (!state[lang].locked) state[lang].blur = !state[lang].blur;
+    renderOne(lang);
+    return;
+  }
+  if (e.target.classList.contains("btn-lock")){
+    state[lang].locked = !state[lang].locked;
+    if (state[lang].locked) state[lang].blur = false; // lock always reveals
+    renderOne(lang);
+    return;
+  }
+  if (e.target.classList.contains("btn-slow")){
+    speak(lang, "slow");
+    return;
+  }
+  if (e.target.classList.contains("btn-norm")){
+    speak(lang, "normal");
+    return;
+  }
+});
+
+/* ---------- globals ---------- */
+$("#revealAll").onclick = ()=>{
+  LANGS.forEach(l => { state[l].blur = false; });
+  renderAll();
+};
+$("#hideAll").onclick = ()=>{
+  LANGS.forEach(l => { if (!state[l].locked) state[l].blur = true; });
+  renderAll();
+};
+$("#lockAll").onclick = ()=>{
+  LANGS.forEach(l => { state[l].locked = true; state[l].blur = false; });
+  renderAll();
+};
+$("#unlockAll").onclick = ()=>{
+  LANGS.forEach(l => { state[l].locked = false; });
+  renderAll();
+};
+$("#randomize").onclick = ()=>{
+  const max = maxSamples();        // your existing function
+  const prev = gIdx;
+  gIdx = pickDifferentIndex(prev, max);
+  renderAll();
+};
+$("#nextWord").onclick = ()=>{
+  loadRandomWord();
+};
+
+/* ---------- data ---------- */
+async function loadRandomWord(){
+  const r = await fetch("/api/random");
+  if (!r.ok){
+    $("#status").textContent = `Failed to load random word (${r.status})`;
+    return;
+  }
+  current = await r.json();
+
+  // Pick a new global sentence index for this word
+  const max = maxSamples();
+  gIdx = max > 0 ? rnd(max) : null;
+
+  // Preserve lock status; blur everything that's not locked
+  // (Initialize missing entries on first load)
+  const nonLocked = [];
+  LANGS.forEach(l => {
+    state[l] = state[l] || { blur: true, locked: false };
+    if (state[l].locked) {
+      state[l].blur = false;              // locked rows are always revealed
+    } else {
+      state[l].blur = true;               // default blur for non-locked
+      nonLocked.push(l);
+    }
+  });
+
+  // Reveal exactly one random non-locked language (if any exist)
+  if (nonLocked.length) {
+    const reveal = nonLocked[rnd(nonLocked.length)];
+    state[reveal].blur = false;
+  }
+
+  renderAll();
+}
+
+/* ---------- boot ---------- */
+mount();
+loadRandomWord();
+</script>

@@ -1,0 +1,48 @@
+{
+    "we": {
+        "en": [
+            "We are here.",
+            "We have a dog.",
+            "We go to school."
+        ],
+        "fr": [
+            "Nous sommes ici.",
+            "Nous avons un chien.",
+            "Nous allons à l'école."
+        ],
+        "es": [
+            "Nosotros estamos aquí.",
+            "Tenemos un perro.",
+            "Vamos a la escuela."
+        ],
+        "pt": [
+            "Nós estamos aqui.",
+            "Temos um cão.",
+            "Vamos à escola."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы здесь.",
+                "У нас есть собака.",
+                "Мы идём в школу."
+            ],
+            "lat": [
+                "My zdes'.",
+                "U nas yest' sobaka.",
+                "My idyom v shkolu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו כאן.",
+                "יש לנו כלב.",
+                "אנחנו הולכים לבית הספר."
+            ],
+            "lat": [
+                "anachnu kan.",
+                "yesh lanu kelev.",
+                "anachnu holkhim le-beit ha-sefer."
+            ]
+        }
+    }
+}

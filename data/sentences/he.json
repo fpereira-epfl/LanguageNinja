@@ -1,0 +1,48 @@
+{
+    "he": {
+        "en": [
+            "He is my friend.",
+            "He is at home.",
+            "He likes tea."
+        ],
+        "fr": [
+            "Il est mon ami.",
+            "Il est à la maison.",
+            "Il aime le thé."
+        ],
+        "es": [
+            "Él es mi amigo.",
+            "Él está en casa.",
+            "Él bebe té."
+        ],
+        "pt": [
+            "Ele é meu amigo.",
+            "Ele está em casa.",
+            "Ele gosta de chá."
+        ],
+        "ru": {
+            "cyr": [
+                "Он мой друг.",
+                "Он дома.",
+                "Он любит чай."
+            ],
+            "lat": [
+                "On moy drug.",
+                "On doma.",
+                "On lyubit chay."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא חבר שלי.",
+                "הוא בבית.",
+                "הוא אוהב תה."
+            ],
+            "lat": [
+                "hu chaver sheli.",
+                "hu ba-bayit.",
+                "hu ohev te."
+            ]
+        }
+    }
+}

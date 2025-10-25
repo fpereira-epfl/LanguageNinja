@@ -1,0 +1,48 @@
+{
+    "say": {
+        "en": [
+            "I say hello.",
+            "She says yes.",
+            "They say no."
+        ],
+        "fr": [
+            "Je dis bonjour.",
+            "Elle dit oui.",
+            "Ils disent non."
+        ],
+        "es": [
+            "Yo digo hola.",
+            "Ella dice sí.",
+            "Ellos dicen no."
+        ],
+        "pt": [
+            "Eu digo olá.",
+            "Ela diz sim.",
+            "Eles dizem não."
+        ],
+        "ru": {
+            "cyr": [
+                "Я говорю «привет».",
+                "Она говорит «да».",
+                "Они говорят «нет»."
+            ],
+            "lat": [
+                "Ya govoryu \"privet\".",
+                "Ona govorit \"da\".",
+                "Oni govoryat \"net\"."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אומר שלום.",
+                "היא אומרת כן.",
+                "הם אומרים לא."
+            ],
+            "lat": [
+                "ani omer shalom.",
+                "hi omeret ken.",
+                "hem omrim lo."
+            ]
+        }
+    }
+}

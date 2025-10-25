@@ -1,0 +1,48 @@
+{
+    "not": {
+        "en": [
+            "I am not here.",
+            "This is not good.",
+            "He is not coming."
+        ],
+        "fr": [
+            "Je ne suis pas ici.",
+            "Ce n'est pas bon.",
+            "Il ne vient pas."
+        ],
+        "es": [
+            "No estoy aquí.",
+            "Esto no es bueno.",
+            "Él no viene."
+        ],
+        "pt": [
+            "Eu não estou aqui.",
+            "Isto não é bom.",
+            "Ele não vem."
+        ],
+        "ru": {
+            "cyr": [
+                "Я не здесь.",
+                "Это не хорошо.",
+                "Он не идёт."
+            ],
+            "lat": [
+                "Ya ne zdes'.",
+                "Eto ne khorosho.",
+                "On ne idyot."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני לא כאן.",
+                "זה לא טוב.",
+                "הוא לא בא."
+            ],
+            "lat": [
+                "ani lo kan.",
+                "ze lo tov.",
+                "hu lo ba."
+            ]
+        }
+    }
+}

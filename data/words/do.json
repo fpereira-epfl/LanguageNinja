@@ -1,0 +1,16 @@
+{
+    "do": {
+        "en": "do",
+        "fr": "faire",
+        "es": "hacer",
+        "pt": "fazer",
+        "ru": {
+            "cyr": "делать",
+            "lat": "delat’"
+        },
+        "il": {
+            "heb": "לעשות",
+            "lat": "la’asot"
+        }
+    }
+}

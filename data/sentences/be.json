@@ -1,0 +1,48 @@
+{
+    "be": {
+        "en": [
+            "I am happy.",
+            "She is a doctor.",
+            "We are at home."
+        ],
+        "fr": [
+            "Je suis content.",
+            "Elle est médecin.",
+            "Nous sommes à la maison."
+        ],
+        "es": [
+            "Soy feliz.",
+            "Ella es médica.",
+            "Estamos en casa."
+        ],
+        "pt": [
+            "Eu sou feliz.",
+            "Ela é médica.",
+            "Estamos em casa."
+        ],
+        "ru": {
+            "cyr": [
+                "Я хочу быть врачом.",
+                "Дом будет готов.",
+                "Быть добрым — хорошо."
+            ],
+            "lat": [
+                "Ya khochu byt' vrachom.",
+                "Dom budet gotov.",
+                "Byt' dobrym — khorosho."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רוצה להיות מורה.",
+                "זה טוב להיות פה.",
+                "מחר אני אהיה בבית."
+            ],
+            "lat": [
+                "ani rotze lihiyot moreh.",
+                "ze tov lihiyot po.",
+                "machar ani ehye ba-bayit."
+            ]
+        }
+    }
+}

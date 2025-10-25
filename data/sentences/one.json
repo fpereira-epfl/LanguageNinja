@@ -1,0 +1,48 @@
+{
+    "one": {
+        "en": [
+            "I have one book.",
+            "One apple is on the table.",
+            "One day is short."
+        ],
+        "fr": [
+            "J'ai un livre.",
+            "Une pomme est sur la table.",
+            "Un jour est court."
+        ],
+        "es": [
+            "Tengo un libro.",
+            "Una manzana está en la mesa.",
+            "Un día es corto."
+        ],
+        "pt": [
+            "Tenho um livro.",
+            "Uma maçã está na mesa.",
+            "Um dia é curto."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня один брат.",
+                "У неё одна книга.",
+                "Это одно яблоко."
+            ],
+            "lat": [
+                "U menya odin brat.",
+                "U neyo odna kniga.",
+                "Eto odno yabloko."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי ספר אחד.",
+                "יש לה חתול אחד.",
+                "יש לי אחות אחת."
+            ],
+            "lat": [
+                "yesh li sefer echad.",
+                "yesh la chatul echad.",
+                "yesh li achot achat."
+            ]
+        }
+    }
+}

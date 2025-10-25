@@ -1,0 +1,16 @@
+{
+    "with": {
+        "en": "with",
+        "fr": "avec",
+        "es": "con",
+        "pt": "com",
+        "ru": {
+            "cyr": "с",
+            "lat": "s"
+        },
+        "il": {
+            "heb": "עם",
+            "lat": "im"
+        }
+    }
+}

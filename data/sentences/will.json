@@ -1,0 +1,48 @@
+{
+    "will": {
+        "en": [
+            "I will go.",
+            "She will come tomorrow.",
+            "We will eat at six."
+        ],
+        "fr": [
+            "J'irai.",
+            "Elle viendra demain.",
+            "Nous mangerons à six heures."
+        ],
+        "es": [
+            "Iré.",
+            "Ella vendrá mañana.",
+            "Comeremos a las seis."
+        ],
+        "pt": [
+            "Irei.",
+            "Ela virá amanhã.",
+            "Nós comeremos às seis."
+        ],
+        "ru": {
+            "cyr": [
+                "Я пойду.",
+                "Она придёт завтра.",
+                "Мы будем есть в шесть."
+            ],
+            "lat": [
+                "Ya poydu.",
+                "Ona pridyot zavtra.",
+                "My budem yest' v shest'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אלך.",
+                "היא תבוא מחר.",
+                "אנחנו נאכל בשש."
+            ],
+            "lat": [
+                "ani elekh.",
+                "hi tavo machar.",
+                "anachnu nokhal be-shesh."
+            ]
+        }
+    }
+}

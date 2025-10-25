@@ -1,0 +1,48 @@
+{
+    "from": {
+        "en": [
+            "I am from Portugal.",
+            "This letter is from Ana.",
+            "We come from the park."
+        ],
+        "fr": [
+            "Je viens du Portugal.",
+            "Cette lettre est d’Ana.",
+            "Nous venons du parc."
+        ],
+        "es": [
+            "Soy de Portugal.",
+            "Esta carta es de Ana.",
+            "Venimos del parque."
+        ],
+        "pt": [
+            "Sou de Portugal.",
+            "A carta é da Ana.",
+            "Saímos de casa."
+        ],
+        "ru": {
+            "cyr": [
+                "Я из Португалии.",
+                "Письмо от Анны.",
+                "Мы выходим из дома."
+            ],
+            "lat": [
+                "Ya iz Portugalii.",
+                "Pis'mo ot Anny.",
+                "My vykhodim iz doma."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מפורטוגל.",
+                "המכתב מאנה.",
+                "אנחנו יוצאים מהבית."
+            ],
+            "lat": [
+                "ani mi-Portugal.",
+                "ha-mikhtav me-Ana.",
+                "anachnu yotzim me-ha-bayit."
+            ]
+        }
+    }
+}

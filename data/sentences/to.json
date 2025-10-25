@@ -1,0 +1,48 @@
+{
+    "to": {
+        "en": [
+            "I go to school.",
+            "Give the book to Ana.",
+            "We go to the park."
+        ],
+        "fr": [
+            "Je vais à l'école.",
+            "Donne le livre à Ana.",
+            "Nous allons au parc."
+        ],
+        "es": [
+            "Voy a la escuela.",
+            "Da el libro a Ana.",
+            "Vamos al parque."
+        ],
+        "pt": [
+            "Eu vou à escola.",
+            "Dá o livro à Ana.",
+            "Nós vamos ao parque."
+        ],
+        "ru": {
+            "cyr": [
+                "Я иду в школу.",
+                "Дай книгу Анне.",
+                "Мы идём в парк."
+            ],
+            "lat": [
+                "Ya idu v shkolu.",
+                "Day knigu Anne.",
+                "My idyom v park."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני הולך לבית הספר.",
+                "תן את הספר לאנה.",
+                "אנחנו הולכים לפארק."
+            ],
+            "lat": [
+                "ani holech le-beit ha-sefer.",
+                "ten et ha-sefer le-Ana.",
+                "anachnu holkhim la-park."
+            ]
+        }
+    }
+}

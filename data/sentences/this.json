@@ -1,0 +1,48 @@
+{
+    "this": {
+        "en": [
+            "This is a book.",
+            "This book is new.",
+            "This house is big."
+        ],
+        "fr": [
+            "C'est un livre.",
+            "Ce livre est nouveau.",
+            "Cette maison est grande."
+        ],
+        "es": [
+            "Esto es un libro.",
+            "Este libro es nuevo.",
+            "Esta casa es grande."
+        ],
+        "pt": [
+            "Isto é um livro.",
+            "Este livro é novo.",
+            "Esta casa é grande."
+        ],
+        "ru": {
+            "cyr": [
+                "Это книга.",
+                "Этот дом большой.",
+                "Эта чашка чистая."
+            ],
+            "lat": [
+                "Eto kniga.",
+                "Etot dom bol'shoy.",
+                "Eta chashka chistaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה ספר.",
+                "הספר הזה חדש.",
+                "זאת עוגה טובה."
+            ],
+            "lat": [
+                "ze sefer.",
+                "ha-sefer ha-ze chadash.",
+                "zot uga tova."
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "by": {
+        "en": [
+            "The book is written by Ana.",
+            "I am by the door.",
+            "Finish it by five."
+        ],
+        "fr": [
+            "Le livre est écrit par Ana.",
+            "Je suis près de la porte.",
+            "Finis avant cinq heures."
+        ],
+        "es": [
+            "El libro está escrito por Ana.",
+            "Estoy junto a la puerta.",
+            "Termina antes de las cinco."
+        ],
+        "pt": [
+            "O livro está escrito por Ana.",
+            "Estou junto à porta.",
+            "Termina antes das cinco."
+        ],
+        "ru": {
+            "cyr": [
+                "Книга написана Анной.",
+                "Я стою у двери.",
+                "Сделай это к пяти."
+            ],
+            "lat": [
+                "Kniga napisana Annoi.",
+                "Ya stoyu u dveri.",
+                "Sdelay eto k pyati."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הספר נכתב על ידי אנה.",
+                "אני ליד הדלת.",
+                "סיים עד חמש."
+            ],
+            "lat": [
+                "ha-sefer nichtav al yedei Ana.",
+                "ani leyad ha-delet.",
+                "sayem ad chamesh."
+            ]
+        }
+    }
+}

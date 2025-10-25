@@ -1,0 +1,16 @@
+{
+    "by": {
+        "en": "by",
+        "fr": "par",
+        "es": "por",
+        "pt": "por",
+        "ru": {
+            "cyr": "у (near) / кем (agent)",
+            "lat": "u / kem"
+        },
+        "il": {
+            "heb": "על ידי",
+            "lat": "al yedei"
+        }
+    }
+}

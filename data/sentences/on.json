@@ -1,0 +1,48 @@
+{
+    "on": {
+        "en": [
+            "The book is on the table.",
+            "The picture is on the wall.",
+            "The light is on."
+        ],
+        "fr": [
+            "Le livre est sur la table.",
+            "Le tableau est sur le mur.",
+            "La lumière est allumée."
+        ],
+        "es": [
+            "El libro está sobre la mesa.",
+            "El cuadro está en la pared.",
+            "La luz está encendida."
+        ],
+        "pt": [
+            "O livro está em cima da mesa.",
+            "O quadro está na parede.",
+            "A luz está acesa."
+        ],
+        "ru": {
+            "cyr": [
+                "Книга на столе.",
+                "Картина на стене.",
+                "Свет включён."
+            ],
+            "lat": [
+                "Kniga na stole.",
+                "Kartina na stene.",
+                "Svet vklyuchyon."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הספר על השולחן.",
+                "התמונה על הקיר.",
+                "האור דולק."
+            ],
+            "lat": [
+                "ha-sefer al ha-shulchan.",
+                "ha-tmuna al ha-kir.",
+                "ha-or dolek."
+            ]
+        }
+    }
+}

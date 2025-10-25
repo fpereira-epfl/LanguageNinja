@@ -1,0 +1,16 @@
+{
+    "all": {
+        "en": "all",
+        "fr": "tous/tout/toute/toutes",
+        "es": "todos/todas",
+        "pt": "todos/todas",
+        "ru": {
+            "cyr": "все",
+            "lat": "vse"
+        },
+        "il": {
+            "heb": "כל",
+            "lat": "kol"
+        }
+    }
+}

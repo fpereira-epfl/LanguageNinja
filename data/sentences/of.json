@@ -1,0 +1,48 @@
+{
+    "of": {
+        "en": [
+            "The color of the car is red.",
+            "The door of the house is open.",
+            "A cup of tea is hot."
+        ],
+        "fr": [
+            "La couleur de la voiture est rouge.",
+            "La porte de la maison est ouverte.",
+            "Une tasse de thé est chaude."
+        ],
+        "es": [
+            "El color del coche es rojo.",
+            "La puerta de la casa está abierta.",
+            "Una taza de té está caliente."
+        ],
+        "pt": [
+            "A cor do carro é vermelha.",
+            "A porta da casa está aberta.",
+            "Uma chávena de chá está quente."
+        ],
+        "ru": {
+            "cyr": [
+                "Цвет машины красный.",
+                "Дверь дома открыта.",
+                "Чашка чая горячая."
+            ],
+            "lat": [
+                "Tsvet mashiny krasnyy.",
+                "Dver' doma otkryta.",
+                "Chashka chaya goryachaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הצבע של המכונית אדום.",
+                "הדלת של הבית פתוחה.",
+                "התמונה של החתול יפה."
+            ],
+            "lat": [
+                "ha-tzeva shel ha-mechonit adom.",
+                "ha-delet shel ha-bayit ptucha.",
+                "ha-tmuna shel ha-chatul yafa."
+            ]
+        }
+    }
+}

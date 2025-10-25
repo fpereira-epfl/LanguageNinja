@@ -1,0 +1,16 @@
+{
+    "who": {
+        "en": "who",
+        "fr": "qui",
+        "es": "quién",
+        "pt": "quem",
+        "ru": {
+            "cyr": "кто",
+            "lat": "kto"
+        },
+        "il": {
+            "heb": "מי",
+            "lat": "mi"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "with": {
+        "en": [
+            "I drink tea with sugar.",
+            "She goes with her mother.",
+            "We are with friends."
+        ],
+        "fr": [
+            "Je bois du thé avec du sucre.",
+            "Elle va avec sa mère.",
+            "Nous sommes avec des amis."
+        ],
+        "es": [
+            "Tomo té con azúcar.",
+            "Ella va con su madre.",
+            "Estamos con amigos."
+        ],
+        "pt": [
+            "Eu bebo chá com açúcar.",
+            "Ela vai com a mãe.",
+            "Estamos com amigos."
+        ],
+        "ru": {
+            "cyr": [
+                "Я пью чай с сахаром.",
+                "Она идёт с мамой.",
+                "Мы идём с друзьями."
+            ],
+            "lat": [
+                "Ya p'yu chay s sakharom.",
+                "Ona idyot s mamoy.",
+                "My idyom s druz'yami."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני שותה תה עם סוכר.",
+                "היא הולכת עם אמא.",
+                "אנחנו עם חברים."
+            ],
+            "lat": [
+                "ani shote te im sukar.",
+                "hi holekhet im ima.",
+                "anachnu im chaverim."
+            ]
+        }
+    }
+}

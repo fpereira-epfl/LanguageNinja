@@ -1,0 +1,48 @@
+{
+    "do": {
+        "en": [
+            "I do my homework.",
+            "She does the work.",
+            "We do it now."
+        ],
+        "fr": [
+            "Je fais mes devoirs.",
+            "Elle fait le travail.",
+            "Nous le faisons maintenant."
+        ],
+        "es": [
+            "Hago los deberes.",
+            "Ella hace el trabajo.",
+            "Lo hacemos ahora."
+        ],
+        "pt": [
+            "Eu faço os trabalhos de casa.",
+            "Ela faz o trabalho.",
+            "Nós fazemos isso agora."
+        ],
+        "ru": {
+            "cyr": [
+                "Я делаю домашнее задание.",
+                "Она делает работу.",
+                "Мы делаем это сейчас."
+            ],
+            "lat": [
+                "Ya delayu domashnee zadanie.",
+                "Ona delaet rabotu.",
+                "My delaem eto seychas."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני עושה שיעורי בית.",
+                "היא עושה את העבודה.",
+                "אנחנו עושים את זה עכשיו."
+            ],
+            "lat": [
+                "ani ose shiyurei bayit.",
+                "hi osa et ha-avoda.",
+                "anachnu osim et ze akhshav."
+            ]
+        }
+    }
+}

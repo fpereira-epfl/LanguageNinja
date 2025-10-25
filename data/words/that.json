@@ -1,0 +1,16 @@
+{
+    "that": {
+        "en": "that",
+        "fr": "que (conj.) / cela/ce…-là (dem.)",
+        "es": "que / ese",
+        "pt": "que / esse",
+        "ru": {
+            "cyr": "что (conj.) / тот (dem.)",
+            "lat": "chto / tot"
+        },
+        "il": {
+            "heb": "ש־ (conj.)",
+            "lat": "sh-"
+        }
+    }
+}

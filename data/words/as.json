@@ -1,0 +1,16 @@
+{
+    "as": {
+        "en": "as",
+        "fr": "comme",
+        "es": "como",
+        "pt": "como",
+        "ru": {
+            "cyr": "как",
+            "lat": "kak"
+        },
+        "il": {
+            "heb": "כמו",
+            "lat": "kmo"
+        }
+    }
+}

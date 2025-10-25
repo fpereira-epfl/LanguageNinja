@@ -1,0 +1,48 @@
+{
+    "for": {
+        "en": [
+            "This is for you.",
+            "Milk is good for your health.",
+            "I bought bread for dinner."
+        ],
+        "fr": [
+            "C'est pour toi.",
+            "Le lait est bon pour la santé.",
+            "J'ai acheté du pain pour le dîner."
+        ],
+        "es": [
+            "Esto es para ti.",
+            "La leche es buena para la salud.",
+            "Compré pan para la cena."
+        ],
+        "pt": [
+            "Isto é para ti.",
+            "O leite é bom para a saúde.",
+            "Comprei pão para o jantar."
+        ],
+        "ru": {
+            "cyr": [
+                "Это для тебя.",
+                "Молоко полезно для здоровья.",
+                "Я купил хлеб для ужина."
+            ],
+            "lat": [
+                "Eto dlya tebya.",
+                "Moloko polezno dlya zdorov'ya.",
+                "Ya kupil khleb dlya uzhina."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה בשבילך.",
+                "זה טוב בשביל הבריאות.",
+                "קניתי לחם בשביל הארוחה."
+            ],
+            "lat": [
+                "ze bishvilkha.",
+                "ze tov bishvil ha-briyut.",
+                "kaniti lechem bishvil ha-arucha."
+            ]
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "they": {
+        "en": "they",
+        "fr": "ils/elles",
+        "es": "ellos/ellas",
+        "pt": "eles/elas",
+        "ru": {
+            "cyr": "они",
+            "lat": "oni"
+        },
+        "il": {
+            "heb": "הם/הן",
+            "lat": "hem/hen"
+        }
+    }
+}

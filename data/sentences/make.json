@@ -1,0 +1,48 @@
+{
+    "make": {
+        "en": [
+            "I make a cake.",
+            "She makes a salad.",
+            "We make a plan."
+        ],
+        "fr": [
+            "Je fais un gâteau.",
+            "Elle fait une salade.",
+            "Nous faisons un plan."
+        ],
+        "es": [
+            "Hago un pastel.",
+            "Ella hace una ensalada.",
+            "Hacemos un plan."
+        ],
+        "pt": [
+            "Eu faço um bolo.",
+            "Ela faz uma salada.",
+            "Nós fazemos um plano."
+        ],
+        "ru": {
+            "cyr": [
+                "Я делаю торт.",
+                "Она делает салат.",
+                "Мы делаем план."
+            ],
+            "lat": [
+                "Ya delayu tort.",
+                "Ona delaet salat.",
+                "My delaem plan."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני עושה עוגה.",
+                "היא עושה סלט.",
+                "אנחנו עושים תוכנית."
+            ],
+            "lat": [
+                "ani ose uga.",
+                "hi osa salat.",
+                "anachnu osim tochnit."
+            ]
+        }
+    }
+}

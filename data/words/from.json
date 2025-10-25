@@ -1,0 +1,16 @@
+{
+    "from": {
+        "en": "from",
+        "fr": "de",
+        "es": "de",
+        "pt": "de",
+        "ru": {
+            "cyr": "из / от",
+            "lat": "iz / ot"
+        },
+        "il": {
+            "heb": "מ־",
+            "lat": "mi-/me-"
+        }
+    }
+}

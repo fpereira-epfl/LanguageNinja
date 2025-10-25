@@ -1,0 +1,16 @@
+{
+    "we": {
+        "en": "we",
+        "fr": "nous",
+        "es": "nosotros/nosotras",
+        "pt": "nós",
+        "ru": {
+            "cyr": "мы",
+            "lat": "my"
+        },
+        "il": {
+            "heb": "אנחנו",
+            "lat": "anachnu"
+        }
+    }
+}

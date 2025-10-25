@@ -1,0 +1,48 @@
+{
+    "which": {
+        "en": [
+            "Which book is this?",
+            "Which apple do you want?",
+            "Which way is right?"
+        ],
+        "fr": [
+            "Quel est ton livre ?",
+            "Quelle pomme veux-tu ?",
+            "Lequel est ton sac ?"
+        ],
+        "es": [
+            "¿Cuál es tu libro?",
+            "¿Cuál de las manzanas quieres?",
+            "¿Cuál es el camino correcto?"
+        ],
+        "pt": [
+            "Qual é o teu livro?",
+            "Qual maçã queres?",
+            "Qual é o caminho certo?"
+        ],
+        "ru": {
+            "cyr": [
+                "Которая книга твоя?",
+                "Которое яблоко ты хочешь?",
+                "Который автобус идёт в центр?"
+            ],
+            "lat": [
+                "Kotoraya kniga tvoya?",
+                "Kotoroye yabloko ty khochesh'?",
+                "Kotoryy avtobus idyot v tsentr?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "איזה ספר זה?",
+                "איזה תפוח אתה רוצה?",
+                "איזו דרך נכונה?"
+            ],
+            "lat": [
+                "eize sefer ze?",
+                "eize tapuach ata rotze?",
+                "eizo derech nechona?"
+            ]
+        }
+    }
+}

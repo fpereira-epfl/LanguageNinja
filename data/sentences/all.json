@@ -1,0 +1,48 @@
+{
+    "all": {
+        "en": [
+            "All the children are here.",
+            "All the food is cold.",
+            "All is well."
+        ],
+        "fr": [
+            "Tous les enfants sont ici.",
+            "Toute la nourriture est froide.",
+            "Tout va bien."
+        ],
+        "es": [
+            "Todos los niños están aquí.",
+            "Toda la comida está fría.",
+            "Todo está bien."
+        ],
+        "pt": [
+            "Todos os meninos estão aqui.",
+            "Toda a comida está fria.",
+            "Tudo está bem."
+        ],
+        "ru": {
+            "cyr": [
+                "Все дети здесь.",
+                "Вся еда холодная.",
+                "Всё хорошо."
+            ],
+            "lat": [
+                "Vse deti zdes'.",
+                "Vsya yeda kholodnaya.",
+                "Vsyo khorosho."
+            ]
+        },
+        "il": {
+            "heb": [
+                "כל הילדים כאן.",
+                "כל האוכל קר.",
+                "הכול בסדר."
+            ],
+            "lat": [
+                "Kol ha-yeladim kan.",
+                "Kol ha-okhel kar.",
+                "Ha-kol beseder."
+            ]
+        }
+    }
+}

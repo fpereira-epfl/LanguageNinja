@@ -1,0 +1,16 @@
+{
+    "for": {
+        "en": "for",
+        "fr": "pour",
+        "es": "para",
+        "pt": "para/por",
+        "ru": {
+            "cyr": "для",
+            "lat": "dlya"
+        },
+        "il": {
+            "heb": "עבור / בשביל",
+            "lat": "avour / bishvil"
+        }
+    }
+}

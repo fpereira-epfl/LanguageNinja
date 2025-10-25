@@ -1,0 +1,48 @@
+{
+    "the": {
+        "en": [
+            "The cat is small.",
+            "The book is on the table.",
+            "The house is big."
+        ],
+        "fr": [
+            "Le chat est petit.",
+            "Le livre est sur la table.",
+            "La maison est grande."
+        ],
+        "es": [
+            "El gato es pequeño.",
+            "El libro está en la mesa.",
+            "La casa es grande."
+        ],
+        "pt": [
+            "O gato é pequeno.",
+            "O livro está na mesa.",
+            "A casa é grande."
+        ],
+        "ru": {
+            "cyr": [
+                "Кот маленький.",
+                "Книга на столе.",
+                "Дом большой."
+            ],
+            "lat": [
+                "Kot malen'kiy.",
+                "Kniga na stole.",
+                "Dom bol'shoy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "החתול קטן.",
+                "הספר על השולחן.",
+                "הבית גדול."
+            ],
+            "lat": [
+                "ha-chatul katan.",
+                "ha-sefer al ha-shulchan.",
+                "ha-bayit gadol."
+            ]
+        }
+    }
+}

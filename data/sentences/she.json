@@ -1,0 +1,48 @@
+{
+    "she": {
+        "en": [
+            "She is my friend.",
+            "She is at home.",
+            "She likes tea."
+        ],
+        "fr": [
+            "Elle est mon amie.",
+            "Elle est à la maison.",
+            "Elle aime le thé."
+        ],
+        "es": [
+            "Ella es mi amiga.",
+            "Ella está en casa.",
+            "Ella bebe té."
+        ],
+        "pt": [
+            "Ela é minha amiga.",
+            "Ela está em casa.",
+            "Ela gosta de chá."
+        ],
+        "ru": {
+            "cyr": [
+                "Она моя подруга.",
+                "Она дома.",
+                "Она любит чай."
+            ],
+            "lat": [
+                "Ona moya podruga.",
+                "Ona doma.",
+                "Ona lyubit chay."
+            ]
+        },
+        "il": {
+            "heb": [
+                "היא חברה שלי.",
+                "היא בבית.",
+                "היא אוהבת תה."
+            ],
+            "lat": [
+                "hi chavera sheli.",
+                "hi ba-bayit.",
+                "hi ohevet te."
+            ]
+        }
+    }
+}

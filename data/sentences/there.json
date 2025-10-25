@@ -1,0 +1,48 @@
+{
+    "there": {
+        "en": [
+            "There is a cat.",
+            "The park is there.",
+            "Go there."
+        ],
+        "fr": [
+            "Il y a un chat.",
+            "Le parc est là.",
+            "Va là-bas."
+        ],
+        "es": [
+            "Hay un gato.",
+            "El parque está allí.",
+            "Ve allí."
+        ],
+        "pt": [
+            "Há um gato.",
+            "O parque está ali.",
+            "Vai lá."
+        ],
+        "ru": {
+            "cyr": [
+                "Там есть кот.",
+                "Парк там.",
+                "Иди туда."
+            ],
+            "lat": [
+                "Tam yest' kot.",
+                "Park tam.",
+                "Idi tuda."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש שם חתול.",
+                "הפארק שם.",
+                "לך לשם."
+            ],
+            "lat": [
+                "yesh sham chatul.",
+                "ha-park sham.",
+                "lech le-sham."
+            ]
+        }
+    }
+}

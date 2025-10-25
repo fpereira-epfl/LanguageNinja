@@ -1,0 +1,16 @@
+{
+    "the": {
+        "en": "the",
+        "fr": "le/la/les/l’",
+        "es": "el/la/los/las",
+        "pt": "o/a/os/as",
+        "ru": {
+            "cyr": "— (no article)",
+            "lat": "—"
+        },
+        "il": {
+            "heb": "ה־",
+            "lat": "ha-"
+        }
+    }
+}

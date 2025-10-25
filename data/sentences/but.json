@@ -1,0 +1,48 @@
+{
+    "but": {
+        "en": [
+            "I want to go, but I am tired.",
+            "He is small, but strong.",
+            "It is cheap, but good."
+        ],
+        "fr": [
+            "Je veux venir, mais je suis fatigué.",
+            "Il est petit, mais fort.",
+            "C'est cher, mais bon."
+        ],
+        "es": [
+            "Quiero ir, pero estoy cansado.",
+            "Es pequeño, pero fuerte.",
+            "Es caro, pero bueno."
+        ],
+        "pt": [
+            "Quero ir, mas estou cansado.",
+            "Ele é pequeno, mas forte.",
+            "É caro, mas bom."
+        ],
+        "ru": {
+            "cyr": [
+                "Я хочу идти, но я устал.",
+                "Он маленький, но сильный.",
+                "Мы идём, но не сейчас."
+            ],
+            "lat": [
+                "Ya khochu idti, no ya ustal.",
+                "On malen'kiy, no sil'nyy.",
+                "My idyom, no ne seychas."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רוצה ללכת, אבל אני עייף.",
+                "הוא קטן, אבל חזק.",
+                "אנחנו באים, אבל לא עכשיו."
+            ],
+            "lat": [
+                "ani rotze lalekhet, aval ani ayef.",
+                "hu katan, aval chazak.",
+                "anachnu ba'im, aval lo achshav."
+            ]
+        }
+    }
+}

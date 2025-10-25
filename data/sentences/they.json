@@ -1,0 +1,48 @@
+{
+    "they": {
+        "en": [
+            "They are here.",
+            "They have a car.",
+            "They live in Lisbon."
+        ],
+        "fr": [
+            "Ils sont ici.",
+            "Ils ont une voiture.",
+            "Ils vivent à Lisbonne."
+        ],
+        "es": [
+            "Ellos están aquí.",
+            "Ellos tienen un coche.",
+            "Ellos viven en Lisboa."
+        ],
+        "pt": [
+            "Eles estão aqui.",
+            "Eles têm um carro.",
+            "Eles vivem em Lisboa."
+        ],
+        "ru": {
+            "cyr": [
+                "Они здесь.",
+                "У них есть машина.",
+                "Они живут в Лиссабоне."
+            ],
+            "lat": [
+                "Oni zdes'.",
+                "U nikh yest’ mashina.",
+                "Oni zhivut v Lissabone."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הם כאן.",
+                "יש להם מכונית.",
+                "הם גרים בליסבון."
+            ],
+            "lat": [
+                "hem kan.",
+                "yesh lahem mechonit.",
+                "hem garim be-Lisbon."
+            ]
+        }
+    }
+}

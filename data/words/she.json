@@ -1,0 +1,16 @@
+{
+    "she": {
+        "en": "she",
+        "fr": "elle",
+        "es": "ella",
+        "pt": "ela",
+        "ru": {
+            "cyr": "она",
+            "lat": "ona"
+        },
+        "il": {
+            "heb": "היא",
+            "lat": "hi"
+        }
+    }
+}

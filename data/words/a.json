@@ -1,0 +1,16 @@
+{
+    "a": {
+        "en": "a",
+        "fr": "un/une",
+        "es": "un/una",
+        "pt": "um/uma",
+        "ru": {
+            "cyr": "— (no article)",
+            "lat": "—"
+        },
+        "il": {
+            "heb": "— (no article)",
+            "lat": "—"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "in": {
+        "en": [
+            "I am in the room.",
+            "The keys are in the bag.",
+            "We live in Portugal."
+        ],
+        "fr": [
+            "Je suis dans la chambre.",
+            "Les clés sont dans le sac.",
+            "Nous vivons au Portugal."
+        ],
+        "es": [
+            "Estoy en la habitación.",
+            "Las llaves están en la bolsa.",
+            "Vivimos en Portugal."
+        ],
+        "pt": [
+            "Estou no quarto.",
+            "As chaves estão no saco.",
+            "Vivemos em Portugal."
+        ],
+        "ru": {
+            "cyr": [
+                "Я в комнате.",
+                "Ключи в сумке.",
+                "Мы живём в Португалии."
+            ],
+            "lat": [
+                "Ya v komnate.",
+                "Klyuchi v sumke.",
+                "My zhivyom v Portugalii."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני בחדר.",
+                "המפתחות בתיק.",
+                "אנחנו גרים בפורטוגל."
+            ],
+            "lat": [
+                "ani ba-cheder.",
+                "ha-maftehot ba-tik.",
+                "anachnu garim be-Portugal."
+            ]
+        }
+    }
+}

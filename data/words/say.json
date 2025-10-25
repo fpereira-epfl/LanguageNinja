@@ -1,0 +1,16 @@
+{
+    "say": {
+        "en": "say",
+        "fr": "dire",
+        "es": "decir",
+        "pt": "dizer",
+        "ru": {
+            "cyr": "сказать / говорить",
+            "lat": "skazat’ / govorit’"
+        },
+        "il": {
+            "heb": "לומר / להגיד",
+            "lat": "lomar / lehagid"
+        }
+    }
+}

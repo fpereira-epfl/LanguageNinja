@@ -1,0 +1,16 @@
+{
+    "not": {
+        "en": "not",
+        "fr": "ne… pas",
+        "es": "no",
+        "pt": "não",
+        "ru": {
+            "cyr": "не",
+            "lat": "ne"
+        },
+        "il": {
+            "heb": "לא",
+            "lat": "lo"
+        }
+    }
+}

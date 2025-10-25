@@ -1,0 +1,48 @@
+{
+    "as": {
+        "en": [
+            "He works as a teacher.",
+            "She is as tall as me.",
+            "Do it as I do."
+        ],
+        "fr": [
+            "Il travaille comme professeur.",
+            "Elle est aussi grande que moi.",
+            "Fais-le comme moi."
+        ],
+        "es": [
+            "Él trabaja como profesor.",
+            "Ella es tan alta como yo.",
+            "Hazlo como yo lo hago."
+        ],
+        "pt": [
+            "Ele trabalha como professor.",
+            "Ela é tão alta como eu.",
+            "Faz isso como eu faço."
+        ],
+        "ru": {
+            "cyr": [
+                "Он работает как учитель.",
+                "Она такая же высокая, как я.",
+                "Сделай это как я."
+            ],
+            "lat": [
+                "On rabotaet kak uchitel'.",
+                "Ona takaya zhe vysokaya, kak ya.",
+                "Sdelay eto kak ya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא עובד כמורה.",
+                "היא גבוהה כמוני.",
+                "תעשה כמו שאני עושה."
+            ],
+            "lat": [
+                "hu oved ke-moreh.",
+                "hi gvoha kmoni.",
+                "ta'ase kmo she'ani oseh."
+            ]
+        }
+    }
+}

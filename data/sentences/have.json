@@ -1,0 +1,48 @@
+{
+    "have": {
+        "en": [
+            "I have a book.",
+            "She has a cat.",
+            "We have time."
+        ],
+        "fr": [
+            "J'ai un livre.",
+            "Elle a un chat.",
+            "Nous avons du temps."
+        ],
+        "es": [
+            "Tengo un libro.",
+            "Ella tiene un gato.",
+            "Tenemos tiempo."
+        ],
+        "pt": [
+            "Tenho um livro.",
+            "Ela tem um gato.",
+            "Temos tempo."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня есть книга.",
+                "У неё есть кошка.",
+                "У нас есть время."
+            ],
+            "lat": [
+                "U menya yest’ kniga.",
+                "U neyo yest’ koshka.",
+                "U nas yest’ vremya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי ספר.",
+                "יש לה חתול.",
+                "יש לנו זמן."
+            ],
+            "lat": [
+                "yesh li sefer.",
+                "yesh la chatul.",
+                "yesh lanu zman."
+            ]
+        }
+    }
+}

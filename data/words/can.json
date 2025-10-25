@@ -1,0 +1,16 @@
+{
+    "can": {
+        "en": "can",
+        "fr": "pouvoir",
+        "es": "poder",
+        "pt": "poder",
+        "ru": {
+            "cyr": "мочь / можно",
+            "lat": "moch’ / mozhno"
+        },
+        "il": {
+            "heb": "יכול/יכולה",
+            "lat": "yachol/yekhola"
+        }
+    }
+}

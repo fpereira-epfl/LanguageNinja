@@ -1,0 +1,16 @@
+{
+    "when": {
+        "en": "when",
+        "fr": "quand",
+        "es": "cuándo",
+        "pt": "quando",
+        "ru": {
+            "cyr": "когда",
+            "lat": "kogda"
+        },
+        "il": {
+            "heb": "מתי",
+            "lat": "matai"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "who": {
+        "en": [
+            "Who are you?",
+            "Who is she?",
+            "Who did this?"
+        ],
+        "fr": [
+            "Qui es-tu ?",
+            "Qui est-elle ?",
+            "Qui a fait ça ?"
+        ],
+        "es": [
+            "¿Quién eres?",
+            "¿Quién es ella?",
+            "¿Quién hizo esto?"
+        ],
+        "pt": [
+            "Quem és tu?",
+            "Quem é ela?",
+            "Quem fez isto?"
+        ],
+        "ru": {
+            "cyr": [
+                "Кто ты?",
+                "Кто она?",
+                "Кто сделал это?"
+            ],
+            "lat": [
+                "Kto ty?",
+                "Kto ona?",
+                "Kto sdelal eto?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "מי אתה?",
+                "מי היא?",
+                "מי עשה את זה?"
+            ],
+            "lat": [
+                "mi ata?",
+                "mi hi?",
+                "mi asa et ze?"
+            ]
+        }
+    }
+}
