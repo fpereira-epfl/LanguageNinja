@@ -28,7 +28,6 @@ def get_word(key: str):
 @api.get("/random")
 def random_word():
     folder = Path(WORDS_FOLDER_PATH)
-    print(folder)
     files = list(folder.glob("*.json"))
     if not files:
         raise HTTPException(status_code=404, detail="No word files found.")

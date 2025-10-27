@@ -267,11 +267,12 @@ async function loadRandomWord(){
     }
   });
 
-  // Reveal exactly one random non-locked language (if any exist)
-  if (nonLocked.length) {
-    const reveal = nonLocked[rnd(nonLocked.length)];
-    state[reveal].blur = false;
-  }
+    // Reveal exactly one random non-locked language ONLY if none are locked
+    const anyLocked = LANGS.some(l => state[l].locked);
+    if (!anyLocked && nonLocked.length) {
+        const reveal = nonLocked[rnd(nonLocked.length)];
+        state[reveal].blur = false;
+    }
 
   renderAll();
 }
