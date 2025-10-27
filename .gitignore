@@ -211,10 +211,7 @@ _trash/
 resources/
 scripts/
 .DS_Store
-.python-version
 .vscode
 .venv*
-
-# Custom
 .gitleaks.toml
 security_scan.sh
