@@ -211,7 +211,7 @@ class Word():
             os.system(f'say -v {voice} {rate_flag}"{text_to_speak}"')
 
     # Method: Validate translations using GPT
-    def validate(self, what=None):
+    def validate(self, what=None, verbose=False):
 
         # Reload existing data from files (if any)
         self.load()
@@ -227,12 +227,17 @@ class Word():
 
             # Generate and print full prompt
             full_prompt = gpt_prompt_words + '\n' + json.dumps(self.langs, ensure_ascii=False, indent=4)
-            print('')
-            print("--------------------------------------")
-            print("Sending word validation prompt to GPT:")
-            print("--------------------------------------")
-            print(full_prompt)
-            print("--------------------------------------")
+
+            # Print prompt if verbose
+            if verbose:
+                print('')
+                print("--------------------------------------")
+                print("Sending word validation prompt to GPT:")
+                print("--------------------------------------")
+                print(full_prompt)
+                print("--------------------------------------")
+            else:
+                print("⏳ Waiting for word validation ...")
 
             # Execute prompt (function already returns parsed JSON)
             out = ai.send_prompt(full_prompt)
@@ -257,12 +262,17 @@ class Word():
 
             # Generate and print full prompt
             full_prompt = gpt_prompt_sentences + '\n' + json.dumps(self.samples, ensure_ascii=False, indent=4)
-            print('')
-            print("------------------------------------------")
-            print("Sending sentence validation prompt to GPT:")
-            print("------------------------------------------")
-            print(full_prompt)
-            print("------------------------------------------")
+
+            # Print prompt if verbose
+            if verbose:
+                print('')
+                print("------------------------------------------")
+                print("Sending sentence validation prompt to GPT:")
+                print("------------------------------------------")
+                print(full_prompt)
+                print("------------------------------------------")
+            else:
+                print("⏳ Waiting for sentence validation ...")
 
             # Execute prompt (function already returns parsed JSON)
             out = ai.send_prompt(full_prompt)
