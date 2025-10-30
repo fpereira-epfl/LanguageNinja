@@ -3,14 +3,15 @@
         "en": "at",
         "fr": "à",
         "es": "en/a",
-        "pt": "em",
+        "pt": "em/a",
         "ru": {
-            "cyr": "в / у",
-            "lat": "v / u"
+            "cyr": "в / у / на",
+            "lat": "v / u / na"
         },
         "il": {
             "heb": "ב־",
             "lat": "be-"
         }
-    }
+    },
+    "validated": true
 }

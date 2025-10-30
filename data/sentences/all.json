@@ -16,7 +16,7 @@
             "Todo está bien."
         ],
         "pt": [
-            "Todos os meninos estão aqui.",
+            "Todas as crianças estão aqui.",
             "Toda a comida está fria.",
             "Tudo está bem."
         ],
@@ -44,5 +44,6 @@
                 "Ha-kol beseder."
             ]
         }
-    }
+    },
+    "validated": true
 }

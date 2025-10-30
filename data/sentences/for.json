@@ -35,14 +35,15 @@
         "il": {
             "heb": [
                 "זה בשבילך.",
-                "זה טוב בשביל הבריאות.",
-                "קניתי לחם בשביל הארוחה."
+                "החלב טוב לבריאות.",
+                "קניתי לחם לארוחת ערב."
             ],
             "lat": [
                 "ze bishvilkha.",
-                "ze tov bishvil ha-briyut.",
-                "kaniti lechem bishvil ha-arucha."
+                "ha-khalav tov la-briyut.",
+                "kaniti lechem le-aruchat erev."
             ]
         }
-    }
+    },
+    "validated": true
 }

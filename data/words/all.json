@@ -2,15 +2,16 @@
     "all": {
         "en": "all",
         "fr": "tous/tout/toute/toutes",
-        "es": "todos/todas",
-        "pt": "todos/todas",
+        "es": "todo/toda/todos/todas",
+        "pt": "todo/toda/todos/todas/tudo",
         "ru": {
-            "cyr": "все",
-            "lat": "vse"
+            "cyr": "весь/вся/всё/все",
+            "lat": "ves'/vsya/vsyo/vse"
         },
         "il": {
             "heb": "כל",
             "lat": "kol"
         }
-    }
+    },
+    "validated": true
 }

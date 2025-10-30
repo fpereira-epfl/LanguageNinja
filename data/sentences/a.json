@@ -18,31 +18,32 @@
         "pt": [
             "Eu tenho um gato.",
             "É um livro.",
-            "Ela tem uma casa."
+            "Ela tem um carro."
         ],
         "ru": {
             "cyr": [
                 "У меня есть кот.",
                 "Это книга.",
-                "У него есть машина."
+                "У неё есть машина."
             ],
             "lat": [
                 "U menya yest’ kot.",
                 "Eto kniga.",
-                "U nego yest’ mashina."
+                "U neyo yest’ mashina."
             ]
         },
         "il": {
             "heb": [
                 "יש לי חתול.",
                 "זה ספר.",
-                "יש לו מכונית."
+                "יש לה מכונית."
             ],
             "lat": [
                 "yesh li chatul.",
                 "ze sefer.",
-                "yesh lo mechonit."
+                "yesh la mechonit."
             ]
         }
-    }
+    },
+    "validated": true
 }

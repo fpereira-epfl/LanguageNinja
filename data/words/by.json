@@ -5,12 +5,13 @@
         "es": "por",
         "pt": "por",
         "ru": {
-            "cyr": "у (near) / кем (agent)",
-            "lat": "u / kem"
+            "cyr": "у, около (near)",
+            "lat": "u, okolo (near)"
         },
         "il": {
             "heb": "על ידי",
             "lat": "al yedei"
         }
-    }
+    },
+    "validated": true
 }

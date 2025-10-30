@@ -8,7 +8,7 @@
         "fr": [
             "Il travaille comme professeur.",
             "Elle est aussi grande que moi.",
-            "Fais-le comme moi."
+            "Fais-le comme je le fais."
         ],
         "es": [
             "Él trabaja como profesor.",
@@ -22,14 +22,14 @@
         ],
         "ru": {
             "cyr": [
-                "Он работает как учитель.",
+                "Он работает учителем.",
                 "Она такая же высокая, как я.",
-                "Сделай это как я."
+                "Сделай это так же, как я."
             ],
             "lat": [
-                "On rabotaet kak uchitel'.",
+                "On rabotaet uchitelem.",
                 "Ona takaya zhe vysokaya, kak ya.",
-                "Sdelay eto kak ya."
+                "Sdelay eto tak zhe, kak ya."
             ]
         },
         "il": {
@@ -44,5 +44,6 @@
                 "ta'ase kmo she'ani oseh."
             ]
         }
-    }
+    },
+    "validated": true
 }

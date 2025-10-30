@@ -1,6 +1,6 @@
 {
     "a": {
-        "en": "a",
+        "en": "a/an",
         "fr": "un/une",
         "es": "un/una",
         "pt": "um/uma",
@@ -12,5 +12,6 @@
             "heb": "— (no article)",
             "lat": "—"
         }
-    }
+    },
+    "validated": true
 }

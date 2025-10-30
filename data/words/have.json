@@ -2,15 +2,16 @@
     "have": {
         "en": "have",
         "fr": "avoir",
-        "es": "tener",
+        "es": "tener; haber (auxiliary)",
         "pt": "ter",
         "ru": {
             "cyr": "иметь / у меня есть",
             "lat": "imet’ / u menya yest’"
         },
         "il": {
-            "heb": "יש",
-            "lat": "yesh"
+            "heb": "יש לי",
+            "lat": "yesh li"
         }
-    }
+    },
+    "validated": true
 }

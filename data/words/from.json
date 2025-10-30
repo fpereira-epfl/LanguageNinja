@@ -5,12 +5,13 @@
         "es": "de",
         "pt": "de",
         "ru": {
-            "cyr": "из / от",
-            "lat": "iz / ot"
+            "cyr": "из / от / с",
+            "lat": "iz / ot / s"
         },
         "il": {
             "heb": "מ־",
             "lat": "mi-/me-"
         }
-    }
+    },
+    "validated": true
 }

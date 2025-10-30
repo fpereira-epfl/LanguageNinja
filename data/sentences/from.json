@@ -18,31 +18,32 @@
         "pt": [
             "Sou de Portugal.",
             "A carta é da Ana.",
-            "Saímos de casa."
+            "Vimos do parque."
         ],
         "ru": {
             "cyr": [
                 "Я из Португалии.",
-                "Письмо от Анны.",
-                "Мы выходим из дома."
+                "Письмо от Аны.",
+                "Мы идем из парка."
             ],
             "lat": [
                 "Ya iz Portugalii.",
-                "Pis'mo ot Anny.",
-                "My vykhodim iz doma."
+                "Pis'mo ot Any.",
+                "My idem iz parka."
             ]
         },
         "il": {
             "heb": [
                 "אני מפורטוגל.",
                 "המכתב מאנה.",
-                "אנחנו יוצאים מהבית."
+                "אנחנו באים מהפארק."
             ],
             "lat": [
                 "ani mi-Portugal.",
                 "ha-mikhtav me-Ana.",
-                "anachnu yotzim me-ha-bayit."
+                "anachnu ba'im me-ha-park."
             ]
         }
-    }
+    },
+    "validated": true
 }

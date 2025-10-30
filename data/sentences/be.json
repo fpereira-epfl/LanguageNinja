@@ -22,27 +22,28 @@
         ],
         "ru": {
             "cyr": [
-                "Я хочу быть врачом.",
-                "Дом будет готов.",
-                "Быть добрым — хорошо."
+                "Я счастлив.",
+                "Она врач.",
+                "Мы дома."
             ],
             "lat": [
-                "Ya khochu byt' vrachom.",
-                "Dom budet gotov.",
-                "Byt' dobrym — khorosho."
+                "Ya schastliv.",
+                "Ona vrach.",
+                "My doma."
             ]
         },
         "il": {
             "heb": [
-                "אני רוצה להיות מורה.",
-                "זה טוב להיות פה.",
-                "מחר אני אהיה בבית."
+                "אני שמח.",
+                "היא רופאה.",
+                "אנחנו בבית."
             ],
             "lat": [
-                "ani rotze lihiyot moreh.",
-                "ze tov lihiyot po.",
-                "machar ani ehye ba-bayit."
+                "ani sameach.",
+                "hi rof'a.",
+                "anachnu ba-bayit."
             ]
         }
-    }
+    },
+    "validated": true
 }

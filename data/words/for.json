@@ -2,7 +2,7 @@
     "for": {
         "en": "for",
         "fr": "pour",
-        "es": "para",
+        "es": "para/por",
         "pt": "para/por",
         "ru": {
             "cyr": "для",
@@ -10,7 +10,8 @@
         },
         "il": {
             "heb": "עבור / בשביל",
-            "lat": "avour / bishvil"
+            "lat": "avur / bishvil"
         }
-    }
+    },
+    "validated": true
 }
