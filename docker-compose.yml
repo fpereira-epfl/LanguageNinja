@@ -1,0 +1,5 @@
+services:
+  language-ninja:
+    image: fmiguelpintodev/languageninja:macos
+    ports:
+      - "8080:8080"

@@ -14,7 +14,8 @@ class GPTConnector:
 
         api_key = os.getenv("OPENAI_API_KEY")
         if not api_key:
-            raise ValueError("OPENAI_API_KEY not found in .env file")
+            print("⚠️ OPENAI_API_KEY not found in .env file")
+            return None
 
         self.client = OpenAI(api_key=api_key)
         self.model = model
