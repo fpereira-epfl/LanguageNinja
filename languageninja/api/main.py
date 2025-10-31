@@ -19,6 +19,10 @@ app.mount("/audio", StaticFiles(directory=APP_DIR.parent.parent / "data" / "audi
 def root():
     return FileResponse(INDEX_FILE)
 
+@app.get("/favicon.ico")
+def favicon():
+    return FileResponse(APP_DIR.parent.parent / "ui" / "favicon.ico", media_type="image/x-icon")
+
 # This block allows you to run the file directly
 # and have the Uvicorn server start with your specified host and port.
 if __name__ == "__main__":
