@@ -208,6 +208,7 @@ __marimo__/
 
 # Custom
 _trash/
+data/audio/
 resources/
 scripts/
 .DS_Store
