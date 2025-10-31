@@ -1,5 +1,6 @@
 <!doctype html>
 <meta charset="utf-8" />
+<link rel="icon" href="/favicon.ico" />
 <title>Language Ninja</title>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <style>
@@ -103,21 +104,20 @@ function displaySentence(lang){
   if (i!=null && arr[i]) return arr[i];
   return current.langs?.[lang] || "";
 }
+
 function speak(lang, mode = "normal"){  // mode: "slow" | "normal"
   if (!current) return;
-  const sentence = idxFor(lang); // null if out of range → backend speaks the word
-  fetch("/api/say", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      key: current.key || current.langs?.en,
-      lang,
-      sentence,
-      rate: mode,          // <-- send "slow" or "normal"
-      save_to: false
-    })
-  }).catch(() => {});
+
+  const i   = idxFor(lang);                         // null => base word
+  const key = current.key || current.langs?.en;     // folder + filename prefix
+  const k   = (i == null ? 0 : i);                  // use 00 for the base word
+  const file = `${key}_${lang}_${String(k).padStart(2,'0')}_${mode}.mp3`;
+  const url  = `/audio/${encodeURIComponent(key)}/${encodeURIComponent(file)}`;
+
+  const audio = new Audio(url);
+  audio.play().catch(()=>{});
 }
+
 function pickDifferentIndex(prev, max) {
   // max = number of available sample indices across languages
   if (max <= 0) return null;      // no samples anywhere
