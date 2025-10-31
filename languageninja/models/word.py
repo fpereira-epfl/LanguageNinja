@@ -146,7 +146,7 @@ class Word():
 
     # Method: Say the word or sentence using MacOS text-to-speech
     # The 'sentence' parameter can be the index or "random" to select a sample sentence
-    def say(self, lang='en', sentence=None, rate=None, save_to=None):
+    def say(self, lang='en', sentence=None, rate=None, save_to_file=False):
 
         # Randomly select or index a sentence to speak
         if sentence == 'random':
@@ -180,7 +180,7 @@ class Word():
 
         # Rate defaults
         if rate is None or rate == 'normal':
-            rate = {
+            rate_val = {
                 "en": 130,
                 "fr": 130,
                 "es": 90,
@@ -189,7 +189,7 @@ class Word():
                 "il": 100,
             }[lang]
         elif rate == 'slow':
-            rate = {
+            rate_val = {
                 "en": 80,
                 "fr": 70,
                 "es": 40,
@@ -199,16 +199,37 @@ class Word():
             }[lang]
 
         # Optional rate flag (words per minute)
-        rate_flag = f"-r {int(rate)} " if isinstance(rate, (int, float)) else ""
+        rate_flag = f"-r {int(rate_val)} " if isinstance(rate_val, (int, float)) else ""
+
+        # Save to file or speak directly
+        if save_to_file:
+
+            # Generate file path
+            file_path = f"data/audio/{self.key}/{self.key}_{lang}_{str(sentence).zfill(2)}_{rate}.aiff"
+
+            # Create directory if it doesn't exist
+            os.makedirs(os.path.dirname(file_path), exist_ok=True)
+
+            # Check if file already exists
+            if os.path.isfile(file_path):
+                print(f'Audio file already exists: {file_path}')
+                return
+
+            # Print and save audio to file
+            print(f'Saving speech to {file_path} in \'{lang}\' ({voice}): {text_to_print}')
+            os.system(f'say -v {voice} {rate_flag}-o {file_path} "{text_to_speak}"')
 
         # Execute MacOS say command
-        if save_to:
-            file_name = f"{self.langs['en']}_{lang}.aiff"
-            print(f'Saving speech to {file_name} in {lang} ({voice}): {text_to_print}')
-            os.system(f'say -v {voice} {rate_flag}-o {file_name} "{text_to_speak}"')
         else:
             print(f'Speaking in {lang} ({voice}): {text_to_print}')
             os.system(f'say -v {voice} {rate_flag}"{text_to_speak}"')
+
+    # Method: Generate audio files for all languages, sentences, and rates
+    def generate_audio(self):
+        for lang in self.langs:
+            for sentence in [0, 1, 2]:
+                for rate in ['normal', 'slow']:
+                    self.say(lang=lang, sentence=sentence, rate=rate, save_to_file=True)
 
     # Method: Validate translations using GPT
     def validate(self, what=None, verbose=False):
@@ -289,7 +310,6 @@ class Word():
         # Sentences already validated
         elif self.sentences_validated==True and (what is None or what=='sentences'):
             print("👍 Sample sentences already validated.")
-
 
 #================#
 # Main execution #
