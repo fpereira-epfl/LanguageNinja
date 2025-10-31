@@ -2,15 +2,16 @@
     "you": {
         "en": "you",
         "fr": "vous/tu",
-        "es": "usted/tú",
-        "pt": "você/tu",
+        "es": "tú/usted (sg.), vosotros/vosotras/ustedes (pl.)",
+        "pt": "você/tu (sg.), vocês (pl.)",
         "ru": {
             "cyr": "вы/ты",
             "lat": "vy/ty"
         },
         "il": {
-            "heb": "אתה (sg.m.)",
-            "lat": "ata"
+            "heb": "אתה (sg.m.)/את (sg.f.)/אתם (pl.m.)/אתן (pl.f.)",
+            "lat": "ata/at/atem/aten"
         }
-    }
+    },
+    "validated": true
 }

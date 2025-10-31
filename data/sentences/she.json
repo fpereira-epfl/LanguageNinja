@@ -13,7 +13,7 @@
         "es": [
             "Ella es mi amiga.",
             "Ella está en casa.",
-            "Ella bebe té."
+            "A ella le gusta el té."
         ],
         "pt": [
             "Ela é minha amiga.",
@@ -44,5 +44,6 @@
                 "hi ohevet te."
             ]
         }
-    }
+    },
+    "validated": true
 }

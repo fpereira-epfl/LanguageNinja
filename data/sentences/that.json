@@ -8,7 +8,7 @@
         "fr": [
             "Je sais qu'il est ici.",
             "Ce livre-là est à moi.",
-            "Donne-moi ça."
+            "Donne-moi cette pomme-là."
         ],
         "es": [
             "Sé que él está aquí.",
@@ -44,5 +44,6 @@
                 "ten li et ha-tapuach ha-hu."
             ]
         }
-    }
+    },
+    "validated": true
 }

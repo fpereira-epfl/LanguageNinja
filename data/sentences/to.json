@@ -23,12 +23,12 @@
         "ru": {
             "cyr": [
                 "Я иду в школу.",
-                "Дай книгу Анне.",
+                "Дай книгу Ане.",
                 "Мы идём в парк."
             ],
             "lat": [
                 "Ya idu v shkolu.",
-                "Day knigu Anne.",
+                "Day knigu Ane.",
                 "My idyom v park."
             ]
         },
@@ -44,5 +44,6 @@
                 "anachnu holkhim la-park."
             ]
         }
-    }
+    },
+    "validated": true
 }

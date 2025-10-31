@@ -1,16 +1,17 @@
 {
     "will": {
         "en": "will",
-        "fr": "— (future tense)",
-        "es": "— (future)",
-        "pt": "— (future)",
+        "fr": "futur (p. ex., sera 'will be'; ou aller + infinitif)",
+        "es": "futuro (p. ej., será 'will be'; o ir a + infinitivo)",
+        "pt": "futuro (p. ex., será 'will be'; ou ir + infinitivo)",
         "ru": {
-            "cyr": "(future; e.g., буду/будешь… or будет ‘will be’)",
-            "lat": "—"
+            "cyr": "будет 'will be'; буду/будешь… + инфинитив",
+            "lat": "budet 'will be'; budu/budesh'… + infinitive"
         },
         "il": {
-            "heb": "— (future)",
-            "lat": "—"
+            "heb": "יהיה 'will be'; אהיה/תהיה/יהיה… (עתיד)",
+            "lat": "yihye 'will be'; ehye/tihye/yihye…"
         }
-    }
+    },
+    "validated": true
 }

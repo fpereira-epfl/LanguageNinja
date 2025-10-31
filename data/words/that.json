@@ -2,15 +2,16 @@
     "that": {
         "en": "that",
         "fr": "que (conj.) / cela/ce…-là (dem.)",
-        "es": "que / ese",
-        "pt": "que / esse",
+        "es": "que / ese/esa/eso",
+        "pt": "que / esse/essa/isso",
         "ru": {
             "cyr": "что (conj.) / тот (dem.)",
             "lat": "chto / tot"
         },
         "il": {
-            "heb": "ש־ (conj.)",
-            "lat": "sh-"
+            "heb": "ש־ (conj.) / ההוא/ההיא (dem.)",
+            "lat": "sh- / ha-hu / ha-hi"
         }
-    }
+    },
+    "validated": true
 }

@@ -23,26 +23,27 @@
         "ru": {
             "cyr": [
                 "Это книга.",
-                "Этот дом большой.",
-                "Эта чашка чистая."
+                "Эта книга новая.",
+                "Этот дом большой."
             ],
             "lat": [
                 "Eto kniga.",
-                "Etot dom bol'shoy.",
-                "Eta chashka chistaya."
+                "Eta kniga novaya.",
+                "Etot dom bol'shoy."
             ]
         },
         "il": {
             "heb": [
                 "זה ספר.",
                 "הספר הזה חדש.",
-                "זאת עוגה טובה."
+                "הבית הזה גדול."
             ],
             "lat": [
                 "ze sefer.",
                 "ha-sefer ha-ze chadash.",
-                "zot uga tova."
+                "ha-bayit ha-ze gadol."
             ]
         }
-    }
+    },
+    "validated": true
 }

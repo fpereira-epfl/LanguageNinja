@@ -2,15 +2,16 @@
     "which": {
         "en": "which",
         "fr": "lequel / quel",
-        "es": "cuál",
+        "es": "qué / cuál",
         "pt": "qual",
         "ru": {
             "cyr": "который",
             "lat": "kotoryy"
         },
         "il": {
-            "heb": "איזה",
-            "lat": "eize"
+            "heb": "איזה / איזו",
+            "lat": "eize / eizo"
         }
-    }
+    },
+    "validated": true
 }

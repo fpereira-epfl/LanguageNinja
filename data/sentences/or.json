@@ -23,26 +23,27 @@
         "ru": {
             "cyr": [
                 "Чай или кофе?",
-                "Ты поедешь на автобусе или на поезде?",
+                "Ты можешь прийти сегодня или завтра.",
                 "Это красный или синий?"
             ],
             "lat": [
                 "Chay ili kofe?",
-                "Ty poedesh' na avtobuse ili na poezde?",
+                "Ty mozhesh' priyti segodnya ili zavtra.",
                 "Eto krasnyy ili siniy?"
             ]
         },
         "il": {
             "heb": [
                 "תה או קפה?",
-                "אתה בא היום או מחר?",
+                "אתה יכול לבוא היום או מחר.",
                 "זה אדום או כחול?"
             ],
             "lat": [
                 "te o kafe?",
-                "ata ba hayom o machar?",
+                "ata yachol lavo hayom o machar.",
                 "ze adom o kachol?"
             ]
         }
-    }
+    },
+    "validated": true
 }

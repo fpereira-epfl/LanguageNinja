@@ -1,16 +1,17 @@
 {
     "it": {
         "en": "it",
-        "fr": "ça / cela (varies)",
-        "es": "eso/esto (varies)",
-        "pt": "isso/isto (varies)",
+        "fr": "ça/cela",
+        "es": "eso/esto",
+        "pt": "isso/isto",
         "ru": {
-            "cyr": "это (varies)",
-            "lat": "eto"
+            "cyr": "это/оно",
+            "lat": "eto/ono"
         },
         "il": {
-            "heb": "זה (varies)",
-            "lat": "ze"
+            "heb": "זה/זאת",
+            "lat": "ze/zot"
         }
-    }
+    },
+    "validated": true
 }

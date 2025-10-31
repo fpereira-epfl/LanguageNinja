@@ -36,13 +36,14 @@
             "heb": [
                 "אני כאן.",
                 "יש לי כלב.",
-                "אני גר בתל אביב."
+                "אני גר בליסבון."
             ],
             "lat": [
                 "ani kan.",
                 "yesh li kelev.",
-                "ani gar be-Tel Aviv."
+                "ani gar be-Lisbon."
             ]
         }
-    }
+    },
+    "validated": true
 }

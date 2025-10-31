@@ -8,12 +8,12 @@
         "fr": [
             "C'est un livre.",
             "C'est ici.",
-            "Je l'aime."
+            "J'aime ça."
         ],
         "es": [
             "Es un libro.",
             "Está aquí.",
-            "Lo quiero."
+            "Me gusta."
         ],
         "pt": [
             "É um livro.",
@@ -24,12 +24,12 @@
             "cyr": [
                 "Это книга.",
                 "Оно здесь.",
-                "Я люблю это."
+                "Мне это нравится."
             ],
             "lat": [
                 "Eto kniga.",
                 "Ono zdes'.",
-                "Ya lyublyu eto."
+                "Mne eto nravitsya."
             ]
         },
         "il": {
@@ -44,5 +44,6 @@
                 "ani ohev et ze."
             ]
         }
-    }
+    },
+    "validated": true
 }

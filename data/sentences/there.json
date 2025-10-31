@@ -22,27 +22,28 @@
         ],
         "ru": {
             "cyr": [
-                "Там есть кот.",
+                "Есть кот.",
                 "Парк там.",
                 "Иди туда."
             ],
             "lat": [
-                "Tam yest' kot.",
+                "Yest' kot.",
                 "Park tam.",
                 "Idi tuda."
             ]
         },
         "il": {
             "heb": [
-                "יש שם חתול.",
+                "יש חתול.",
                 "הפארק שם.",
                 "לך לשם."
             ],
             "lat": [
-                "yesh sham chatul.",
+                "yesh chatul.",
                 "ha-park sham.",
                 "lech le-sham."
             ]
         }
-    }
+    },
+    "validated": true
 }

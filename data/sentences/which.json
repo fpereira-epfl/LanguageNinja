@@ -6,30 +6,30 @@
             "Which way is right?"
         ],
         "fr": [
-            "Quel est ton livre ?",
+            "Quel livre est-ce ?",
             "Quelle pomme veux-tu ?",
-            "Lequel est ton sac ?"
+            "Quel chemin est le bon ?"
         ],
         "es": [
-            "¿Cuál es tu libro?",
+            "¿Qué libro es este?",
             "¿Cuál de las manzanas quieres?",
             "¿Cuál es el camino correcto?"
         ],
         "pt": [
-            "Qual é o teu livro?",
+            "Que livro é este?",
             "Qual maçã queres?",
             "Qual é o caminho certo?"
         ],
         "ru": {
             "cyr": [
-                "Которая книга твоя?",
+                "Какая это книга?",
                 "Которое яблоко ты хочешь?",
-                "Который автобус идёт в центр?"
+                "Какая дорога правильная?"
             ],
             "lat": [
-                "Kotoraya kniga tvoya?",
+                "Kakaya eto kniga?",
                 "Kotoroye yabloko ty khochesh'?",
-                "Kotoryy avtobus idyot v tsentr?"
+                "Kakaya doroga pravil'naya?"
             ]
         },
         "il": {
@@ -44,5 +44,6 @@
                 "eizo derech nechona?"
             ]
         }
-    }
+    },
+    "validated": true
 }

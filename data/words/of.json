@@ -5,12 +5,13 @@
         "es": "de",
         "pt": "de",
         "ru": {
-            "cyr": "— (genitive; often из/о)",
-            "lat": "— (iz / o)"
+            "cyr": "— (genitive; often из/от)",
+            "lat": "— (iz / ot)"
         },
         "il": {
             "heb": "של",
             "lat": "shel"
         }
-    }
+    },
+    "validated": true
 }

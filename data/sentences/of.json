@@ -36,13 +36,14 @@
             "heb": [
                 "הצבע של המכונית אדום.",
                 "הדלת של הבית פתוחה.",
-                "התמונה של החתול יפה."
+                "כוס תה חמה."
             ],
             "lat": [
                 "ha-tzeva shel ha-mechonit adom.",
                 "ha-delet shel ha-bayit ptucha.",
-                "ha-tmuna shel ha-chatul yafa."
+                "kos te chama."
             ]
         }
-    }
+    },
+    "validated": true
 }

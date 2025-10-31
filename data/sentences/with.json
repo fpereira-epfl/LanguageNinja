@@ -24,12 +24,12 @@
             "cyr": [
                 "Я пью чай с сахаром.",
                 "Она идёт с мамой.",
-                "Мы идём с друзьями."
+                "Мы с друзьями."
             ],
             "lat": [
                 "Ya p'yu chay s sakharom.",
                 "Ona idyot s mamoy.",
-                "My idyom s druz'yami."
+                "My s druz'yami."
             ]
         },
         "il": {
@@ -44,5 +44,6 @@
                 "anachnu im chaverim."
             ]
         }
-    }
+    },
+    "validated": true
 }
