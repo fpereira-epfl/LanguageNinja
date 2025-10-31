@@ -208,7 +208,7 @@ __marimo__/
 
 # Custom
 _trash/
-data/audio/
+data/audio/*/*.aiff
 resources/
 scripts/
 .DS_Store
