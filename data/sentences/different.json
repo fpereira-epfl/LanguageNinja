@@ -1,0 +1,49 @@
+{
+    "different": {
+        "en": [
+            "These apples are different.",
+            "This book is different.",
+            "We are different."
+        ],
+        "fr": [
+            "Ces pommes sont différentes.",
+            "Ce livre est différent.",
+            "Nous sommes différents."
+        ],
+        "es": [
+            "Estas manzanas son diferentes.",
+            "Este libro es diferente.",
+            "Somos diferentes."
+        ],
+        "pt": [
+            "Estas maçãs são diferentes.",
+            "Este livro é diferente.",
+            "Somos diferentes."
+        ],
+        "ru": {
+            "cyr": [
+                "Эти яблоки разные.",
+                "Эта книга другая.",
+                "Мы разные."
+            ],
+            "lat": [
+                "Eti yabloki raznye.",
+                "Eta kniga drugaya.",
+                "My raznye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "התפוחים האלה שונים.",
+                "הספר הזה שונה.",
+                "אנחנו שונים."
+            ],
+            "lat": [
+                "hatapuchim ha'ele shonim.",
+                "hasefer haze shoneh.",
+                "anachnu shonim."
+            ]
+        }
+    },
+    "validated": false
+}

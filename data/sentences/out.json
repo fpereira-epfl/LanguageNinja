@@ -1,0 +1,49 @@
+{
+    "out": {
+        "en": [
+            "It is cold out.",
+            "Let's go out.",
+            "The cat is out."
+        ],
+        "fr": [
+            "Il fait froid dehors.",
+            "Allons dehors.",
+            "Le chat est dehors."
+        ],
+        "es": [
+            "Hace frío fuera.",
+            "Salgamos fuera.",
+            "El gato está fuera."
+        ],
+        "pt": [
+            "Está frio lá fora.",
+            "Vamos para fora.",
+            "O gato está fora."
+        ],
+        "ru": {
+            "cyr": [
+                "Снаружи холодно.",
+                "Пойдём наружу.",
+                "Кот снаружи."
+            ],
+            "lat": [
+                "Snaruzhi kholodno.",
+                "Poydyom naruzhu.",
+                "Kot snaruzhi."
+            ]
+        },
+        "il": {
+            "heb": [
+                "קר בחוץ.",
+                "בואו נצא החוצה.",
+                "החתול בחוץ."
+            ],
+            "lat": [
+                "kar bachutz.",
+                "bo'u netze hachutza.",
+                "hachatul bachutz."
+            ]
+        }
+    },
+    "validated": false
+}

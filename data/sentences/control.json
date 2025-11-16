@@ -1,0 +1,49 @@
+{
+    "control": {
+        "en": [
+            "I control the car.",
+            "She controls the budget.",
+            "We need control."
+        ],
+        "fr": [
+            "Je contrôle la voiture.",
+            "Elle contrôle le budget.",
+            "Nous avons besoin de contrôle."
+        ],
+        "es": [
+            "Yo controlo el coche.",
+            "Ella controla el presupuesto.",
+            "Necesitamos control."
+        ],
+        "pt": [
+            "Eu controlo o carro.",
+            "Ela controla o orçamento.",
+            "Precisamos de controle."
+        ],
+        "ru": {
+            "cyr": [
+                "Я контролирую машину.",
+                "Она контролирует бюджет.",
+                "Нам нужен контроль."
+            ],
+            "lat": [
+                "Ya kontroliruyu mashinu.",
+                "Ona kontroliruyet byudzhet.",
+                "Nam nuzhen kontrol'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני שולט במכונית.",
+                "היא שולטת בתקציב.",
+                "אנחנו צריכים שליטה."
+            ],
+            "lat": [
+                "ani sholet bamechonit.",
+                "hi sholetet bataktsiv.",
+                "anachnu tsrichim shlita."
+            ]
+        }
+    },
+    "validated": false
+}

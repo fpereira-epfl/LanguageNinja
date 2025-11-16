@@ -1,0 +1,49 @@
+{
+    "toward": {
+        "en": [
+            "He walks toward the door.",
+            "The cat ran toward me.",
+            "They drive toward the city."
+        ],
+        "fr": [
+            "Il marche vers la porte.",
+            "Le chat a couru vers moi.",
+            "Ils roulent vers la ville."
+        ],
+        "es": [
+            "Él camina hacia la puerta.",
+            "El gato corrió hacia mí.",
+            "Ellos conducen hacia la ciudad."
+        ],
+        "pt": [
+            "Ele caminha em direção à porta.",
+            "O gato correu em direção a mim.",
+            "Eles dirigem em direção à cidade."
+        ],
+        "ru": {
+            "cyr": [
+                "Он идёт к двери.",
+                "Кот побежал ко мне.",
+                "Они едут к городу."
+            ],
+            "lat": [
+                "On idyot k dveri.",
+                "Kot pobezhal ko mne.",
+                "Oni edut k gorodu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא הולך לכיוון הדלת.",
+                "החתול רץ לכיווני.",
+                "הם נוסעים לכיוון העיר."
+            ],
+            "lat": [
+                "hu holekh lekivun hadelet.",
+                "hachatul ratz lekivuni.",
+                "hem nosim lekivun ha-ir."
+            ]
+        }
+    },
+    "validated": false
+}

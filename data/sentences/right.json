@@ -1,0 +1,49 @@
+{
+    "right": {
+        "en": [
+            "Turn right.",
+            "The store is on the right.",
+            "My right hand hurts."
+        ],
+        "fr": [
+            "Tourne à droite.",
+            "Le magasin est à droite.",
+            "Ma main droite me fait mal."
+        ],
+        "es": [
+            "Gira a la derecha.",
+            "La tienda está a la derecha.",
+            "Me duele la mano derecha."
+        ],
+        "pt": [
+            "Vire à direita.",
+            "A loja está à direita.",
+            "Minha mão direita dói."
+        ],
+        "ru": {
+            "cyr": [
+                "Поверните направо.",
+                "Магазин справа.",
+                "У меня болит правая рука."
+            ],
+            "lat": [
+                "Povernite napravo.",
+                "Magazin sprava.",
+                "U menya bolit pravaya ruka."
+            ]
+        },
+        "il": {
+            "heb": [
+                "פנה ימינה.",
+                "החנות מימין.",
+                "כואבת לי היד הימנית."
+            ],
+            "lat": [
+                "pneh yaminah.",
+                "ha-chanut miyamin.",
+                "koevet li hayad hayeminit."
+            ]
+        }
+    },
+    "validated": false
+}

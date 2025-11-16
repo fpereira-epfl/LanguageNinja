@@ -1,0 +1,49 @@
+{
+    "cloud": {
+        "en": [
+            "The cloud is white.",
+            "I see a cloud.",
+            "The cloud is in the sky."
+        ],
+        "fr": [
+            "Le nuage est blanc.",
+            "Je vois un nuage.",
+            "Le nuage est dans le ciel."
+        ],
+        "es": [
+            "La nube es blanca.",
+            "Veo una nube.",
+            "La nube está en el cielo."
+        ],
+        "pt": [
+            "A nuvem é branca.",
+            "Eu vejo uma nuvem.",
+            "A nuvem está no céu."
+        ],
+        "ru": {
+            "cyr": [
+                "Облако белое.",
+                "Я вижу облако.",
+                "Облако в небе."
+            ],
+            "lat": [
+                "Oblako beloye.",
+                "Ya vizhu oblako.",
+                "Oblako v nebe."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הענן לבן.",
+                "אני רואה ענן.",
+                "הענן בשמיים."
+            ],
+            "lat": [
+                "ha-anan lavan.",
+                "ani ro'e anan.",
+                "ha-anan ba-shamayim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "sky": {
+        "en": [
+            "The sky is blue.",
+            "I look at the sky.",
+            "The birds are in the sky."
+        ],
+        "fr": [
+            "Le ciel est bleu.",
+            "Je regarde le ciel.",
+            "Les oiseaux sont dans le ciel."
+        ],
+        "es": [
+            "El cielo es azul.",
+            "Miro el cielo.",
+            "Los pájaros están en el cielo."
+        ],
+        "pt": [
+            "O céu é azul.",
+            "Eu olho para o céu.",
+            "Os pássaros estão no céu."
+        ],
+        "ru": {
+            "cyr": [
+                "Небо голубое.",
+                "Я смотрю на небо.",
+                "Птицы в небе."
+            ],
+            "lat": [
+                "Nebo goluboye.",
+                "Ya smotryu na nebo.",
+                "Ptitsy v nebe."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השמיים כחולים.",
+                "אני מסתכל על השמיים.",
+                "הציפורים בשמיים."
+            ],
+            "lat": [
+                "hashamayim kchulim.",
+                "ani mistakel al hashamayim.",
+                "hatziporim bashamayim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "boy": {
+        "en": "boy",
+        "fr": "garçon",
+        "es": "niño",
+        "pt": "menino",
+        "ru": {
+            "cyr": "мальчик",
+            "lat": "malchik"
+        },
+        "il": {
+            "heb": "ילד",
+            "lat": "yeled"
+        }
+    },
+    "validated": false
+}

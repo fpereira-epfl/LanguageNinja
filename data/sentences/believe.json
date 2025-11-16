@@ -1,0 +1,49 @@
+{
+    "believe": {
+        "en": [
+            "I believe you.",
+            "She believes in love.",
+            "We believe him."
+        ],
+        "fr": [
+            "Je te crois.",
+            "Elle croit en l'amour.",
+            "Nous le croyons."
+        ],
+        "es": [
+            "Te creo.",
+            "Ella cree en el amor.",
+            "Le creemos."
+        ],
+        "pt": [
+            "Eu acredito em você.",
+            "Ela acredita no amor.",
+            "Nós acreditamos nele."
+        ],
+        "ru": {
+            "cyr": [
+                "Я верю тебе.",
+                "Она верит в любовь.",
+                "Мы верим ему."
+            ],
+            "lat": [
+                "Ya veryu tebe.",
+                "Ona verit v lyubov'.",
+                "My verim yemu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מאמין לך.",
+                "היא מאמינה באהבה.",
+                "אנחנו מאמינים לו."
+            ],
+            "lat": [
+                "ani ma'amin lecha.",
+                "hi ma'aminah ba'ahava.",
+                "anachnu ma'aminim lo."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "business": {
+        "en": [
+            "He works in business.",
+            "Our business is good.",
+            "We do business with them."
+        ],
+        "fr": [
+            "Il travaille dans les affaires.",
+            "Nos affaires sont bonnes.",
+            "Nous faisons des affaires avec eux."
+        ],
+        "es": [
+            "Él trabaja en negocios.",
+            "Nuestros negocios son buenos.",
+            "Hacemos negocios con ellos."
+        ],
+        "pt": [
+            "Ele trabalha nos negócios.",
+            "Nossos negócios são bons.",
+            "Fazemos negócios com eles."
+        ],
+        "ru": {
+            "cyr": [
+                "Он работает в бизнесе.",
+                "Наш бизнес хороший.",
+                "Мы ведём бизнес с ними."
+            ],
+            "lat": [
+                "On rabotaet v biznese.",
+                "Nash biznes khoroshiy.",
+                "My vedyom biznes s nimi."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא עובד בעסקים.",
+                "העסקים שלנו טובים.",
+                "אנחנו עושים עסקים איתם."
+            ],
+            "lat": [
+                "hu oved be'asakim.",
+                "ha'asakim shelanu tovim.",
+                "anachnu osim asakim itam."
+            ]
+        }
+    },
+    "validated": false
+}

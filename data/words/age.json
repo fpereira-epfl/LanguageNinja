@@ -1,0 +1,17 @@
+{
+    "age": {
+        "en": "age",
+        "fr": "âge",
+        "es": "edad",
+        "pt": "idade",
+        "ru": {
+            "cyr": "возраст",
+            "lat": "vozrast"
+        },
+        "il": {
+            "heb": "גיל",
+            "lat": "gil"
+        }
+    },
+    "validated": false
+}

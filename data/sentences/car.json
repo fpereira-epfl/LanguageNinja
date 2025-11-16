@@ -1,0 +1,49 @@
+{
+    "car": {
+        "en": [
+            "The car is red.",
+            "I drive the car.",
+            "The car is new."
+        ],
+        "fr": [
+            "La voiture est rouge.",
+            "Je conduis la voiture.",
+            "La voiture est neuve."
+        ],
+        "es": [
+            "El coche es rojo.",
+            "Conduzco el coche.",
+            "El coche es nuevo."
+        ],
+        "pt": [
+            "O carro é vermelho.",
+            "Eu dirijo o carro.",
+            "O carro é novo."
+        ],
+        "ru": {
+            "cyr": [
+                "Машина красная.",
+                "Я вожу машину.",
+                "Машина новая."
+            ],
+            "lat": [
+                "Mashina krasnaya.",
+                "Ya vozhu mashinu.",
+                "Mashina novaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המכונית אדומה.",
+                "אני נוהג במכונית.",
+                "המכונית חדשה."
+            ],
+            "lat": [
+                "ha-mekhonit aduma.",
+                "ani noheg ba-mekhonit.",
+                "ha-mekhonit chadasha."
+            ]
+        }
+    },
+    "validated": false
+}

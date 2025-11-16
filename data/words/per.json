@@ -1,0 +1,17 @@
+{
+    "per": {
+        "en": "per",
+        "fr": "par",
+        "es": "por",
+        "pt": "por",
+        "ru": {
+            "cyr": "на",
+            "lat": "na"
+        },
+        "il": {
+            "heb": "לפי",
+            "lat": "lefi"
+        }
+    },
+    "validated": false
+}

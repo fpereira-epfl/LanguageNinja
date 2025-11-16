@@ -1,0 +1,17 @@
+{
+    "feel": {
+        "en": "feel",
+        "fr": "sentir",
+        "es": "sentir",
+        "pt": "sentir",
+        "ru": {
+            "cyr": "чувствовать",
+            "lat": "chuvstvovat"
+        },
+        "il": {
+            "heb": "להרגיש",
+            "lat": "lehargish"
+        }
+    },
+    "validated": false
+}

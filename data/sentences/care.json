@@ -1,0 +1,49 @@
+{
+    "care": {
+        "en": [
+            "I don't care.",
+            "She cares about you.",
+            "We take care of the dog."
+        ],
+        "fr": [
+            "Ça m'est égal.",
+            "Elle se soucie de toi.",
+            "Nous prenons soin du chien."
+        ],
+        "es": [
+            "No me importa.",
+            "Ella se preocupa por ti.",
+            "Cuidamos al perro."
+        ],
+        "pt": [
+            "Eu não me importo.",
+            "Ela se importa com você.",
+            "Cuidamos do cachorro."
+        ],
+        "ru": {
+            "cyr": [
+                "Мне всё равно.",
+                "Она заботится о тебе.",
+                "Мы заботимся о собаке."
+            ],
+            "lat": [
+                "Mne vsyo ravno.",
+                "Ona zabotitsya o tebe.",
+                "My zabotimsya o sobake."
+            ]
+        },
+        "il": {
+            "heb": [
+                "לא אכפת לי.",
+                "אכפת לה ממך.",
+                "אנחנו מטפלים בכלב."
+            ],
+            "lat": [
+                "lo echpat li.",
+                "ekhpat la mimcha.",
+                "anachnu metaplim ba-kelev."
+            ]
+        }
+    },
+    "validated": false
+}

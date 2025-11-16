@@ -1,0 +1,49 @@
+{
+    "early": {
+        "en": [
+            "I wake up early.",
+            "She arrives early.",
+            "We leave early."
+        ],
+        "fr": [
+            "Je me lève tôt.",
+            "Elle arrive tôt.",
+            "Nous partons tôt."
+        ],
+        "es": [
+            "Yo me levanto temprano.",
+            "Ella llega temprano.",
+            "Nosotros salimos temprano."
+        ],
+        "pt": [
+            "Eu acordo cedo.",
+            "Ela chega cedo.",
+            "Nós saímos cedo."
+        ],
+        "ru": {
+            "cyr": [
+                "Я встаю рано.",
+                "Она приходит рано.",
+                "Мы уходим рано."
+            ],
+            "lat": [
+                "Ya vstayu rano.",
+                "Ona prikhodit rano.",
+                "My ukhodim rano."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני קם מוקדם.",
+                "היא מגיעה מוקדם.",
+                "אנחנו יוצאים מוקדם."
+            ],
+            "lat": [
+                "ani kam mukdam.",
+                "hi magia mukdam.",
+                "anachnu yotzim mukdam."
+            ]
+        }
+    },
+    "validated": false
+}

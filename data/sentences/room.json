@@ -1,0 +1,49 @@
+{
+    "room": {
+        "en": [
+            "The room is big.",
+            "I clean the room.",
+            "The room has a window."
+        ],
+        "fr": [
+            "La pièce est grande.",
+            "Je nettoie la pièce.",
+            "La pièce a une fenêtre."
+        ],
+        "es": [
+            "La habitación es grande.",
+            "Limpio la habitación.",
+            "La habitación tiene una ventana."
+        ],
+        "pt": [
+            "O quarto é grande.",
+            "Eu limpo o quarto.",
+            "O quarto tem uma janela."
+        ],
+        "ru": {
+            "cyr": [
+                "Комната большая.",
+                "Я убираю комнату.",
+                "В комнате есть окно."
+            ],
+            "lat": [
+                "Komnata bolshaya.",
+                "Ya ubirayu komnatu.",
+                "V komnate yest' okno."
+            ]
+        },
+        "il": {
+            "heb": [
+                "החדר גדול.",
+                "אני מנקה את החדר.",
+                "לחדר יש חלון."
+            ],
+            "lat": [
+                "ha-cheder gadol.",
+                "ani menake et ha-cheder.",
+                "la-cheder yesh chalon."
+            ]
+        }
+    },
+    "validated": false
+}

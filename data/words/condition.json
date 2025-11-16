@@ -1,0 +1,17 @@
+{
+    "condition": {
+        "en": "condition",
+        "fr": "condition",
+        "es": "condición",
+        "pt": "condição",
+        "ru": {
+            "cyr": "условие",
+            "lat": "uslovie"
+        },
+        "il": {
+            "heb": "תנאי",
+            "lat": "tnai"
+        }
+    },
+    "validated": false
+}

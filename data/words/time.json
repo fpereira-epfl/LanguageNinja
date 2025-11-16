@@ -1,0 +1,17 @@
+{
+    "time": {
+        "en": "time",
+        "fr": "temps",
+        "es": "tiempo",
+        "pt": "tempo",
+        "ru": {
+            "cyr": "время",
+            "lat": "vremya"
+        },
+        "il": {
+            "heb": "זמן",
+            "lat": "zman"
+        }
+    },
+    "validated": false
+}

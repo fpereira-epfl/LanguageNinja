@@ -1,0 +1,49 @@
+{
+    "come": {
+        "en": [
+            "Come here.",
+            "They come at five.",
+            "He comes every day."
+        ],
+        "fr": [
+            "Viens ici.",
+            "Ils viennent à cinq heures.",
+            "Il vient tous les jours."
+        ],
+        "es": [
+            "Ven aquí.",
+            "Ellos vienen a las cinco.",
+            "Él viene todos los días."
+        ],
+        "pt": [
+            "Vem aqui.",
+            "Eles vêm às cinco.",
+            "Ele vem todos os dias."
+        ],
+        "ru": {
+            "cyr": [
+                "Приходи сюда.",
+                "Они приходят в пять.",
+                "Он приходит каждый день."
+            ],
+            "lat": [
+                "Prikhodi syuda.",
+                "Oni prikhodyat v pyat'.",
+                "On prikhodit kazhdy den'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בוא לכאן.",
+                "הם באים בחמש.",
+                "הוא בא כל יום."
+            ],
+            "lat": [
+                "bo lekan.",
+                "hem ba'im bechamesh.",
+                "hu ba kol yom."
+            ]
+        }
+    },
+    "validated": false
+}

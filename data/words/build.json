@@ -1,0 +1,17 @@
+{
+    "build": {
+        "en": "build",
+        "fr": "construire",
+        "es": "construir",
+        "pt": "construir",
+        "ru": {
+            "cyr": "строить",
+            "lat": "stroit"
+        },
+        "il": {
+            "heb": "לבנות",
+            "lat": "livnot"
+        }
+    },
+    "validated": false
+}

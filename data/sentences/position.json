@@ -1,0 +1,49 @@
+{
+    "position": {
+        "en": [
+            "Her position is clear.",
+            "What is your position?",
+            "He changed his position."
+        ],
+        "fr": [
+            "Sa position est claire.",
+            "Quelle est ta position ?",
+            "Il a changé sa position."
+        ],
+        "es": [
+            "La posición de ella es clara.",
+            "¿Cuál es tu posición?",
+            "Él cambió su posición."
+        ],
+        "pt": [
+            "A posição dela é clara.",
+            "Qual é a sua posição?",
+            "Ele mudou sua posição."
+        ],
+        "ru": {
+            "cyr": [
+                "Её позиция ясна.",
+                "Какова твоя позиция?",
+                "Он изменил свою позицию."
+            ],
+            "lat": [
+                "Yeyo pozitsiya yasna.",
+                "Kakova tvoya pozitsiya?",
+                "On izmenil svoyu pozitsiyu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "העמדה שלה ברורה.",
+                "מה העמדה שלך?",
+                "הוא שינה את העמדה שלו."
+            ],
+            "lat": [
+                "ha'amda shela brura.",
+                "ma ha'amda shelkha?",
+                "hu shina et ha'amda shelo."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "believe": {
+        "en": "believe",
+        "fr": "croire",
+        "es": "creer",
+        "pt": "acreditar",
+        "ru": {
+            "cyr": "верить",
+            "lat": "verit"
+        },
+        "il": {
+            "heb": "להאמין",
+            "lat": "lehaamin"
+        }
+    },
+    "validated": false
+}

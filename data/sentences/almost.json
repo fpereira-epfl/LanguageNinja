@@ -1,0 +1,49 @@
+{
+    "almost": {
+        "en": [
+            "I almost fell.",
+            "She is almost ready.",
+            "It is almost noon."
+        ],
+        "fr": [
+            "Je suis presque tombé.",
+            "Elle est presque prête.",
+            "Il est presque midi."
+        ],
+        "es": [
+            "Casi me caí.",
+            "Ella está casi lista.",
+            "Casi es mediodía."
+        ],
+        "pt": [
+            "Quase caí.",
+            "Ela está quase pronta.",
+            "Quase é meio-dia."
+        ],
+        "ru": {
+            "cyr": [
+                "Я почти упал.",
+                "Она почти готова.",
+                "Почти полдень."
+            ],
+            "lat": [
+                "Ya pochti upal.",
+                "Ona pochti gotova.",
+                "Pochti polden’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "כמעט נפלתי.",
+                "היא כמעט מוכנה.",
+                "כמעט צהריים."
+            ],
+            "lat": [
+                "kimat nafalti.",
+                "hi kimat mukhana.",
+                "kimat tzohorayim."
+            ]
+        }
+    },
+    "validated": false
+}

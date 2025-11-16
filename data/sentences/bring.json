@@ -1,0 +1,49 @@
+{
+    "bring": {
+        "en": [
+            "I bring water.",
+            "Please bring the book.",
+            "Can you bring a chair?"
+        ],
+        "fr": [
+            "J'apporte de l'eau.",
+            "S'il te plaît, apporte le livre.",
+            "Peux-tu apporter une chaise ?"
+        ],
+        "es": [
+            "Traigo agua.",
+            "Por favor, trae el libro.",
+            "¿Puedes traer una silla?"
+        ],
+        "pt": [
+            "Eu trago água.",
+            "Por favor, traz o livro.",
+            "Você pode trazer uma cadeira?"
+        ],
+        "ru": {
+            "cyr": [
+                "Я приношу воду.",
+                "Пожалуйста, принеси книгу.",
+                "Ты можешь принести стул?"
+            ],
+            "lat": [
+                "Ya prinoshu vodu.",
+                "Pozhaluysta, prinesi knigu.",
+                "Ty mozhesh prinesti stul?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מביא מים.",
+                "בבקשה, תביא את הספר.",
+                "אתה יכול להביא כיסא?"
+            ],
+            "lat": [
+                "ani mevi mayim.",
+                "bevakasha, tavi et ha-sefer.",
+                "ata yachol lehavi kise?"
+            ]
+        }
+    },
+    "validated": false
+}

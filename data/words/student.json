@@ -1,0 +1,17 @@
+{
+    "student": {
+        "en": "student",
+        "fr": "étudiant",
+        "es": "estudiante",
+        "pt": "estudante",
+        "ru": {
+            "cyr": "студент",
+            "lat": "student"
+        },
+        "il": {
+            "heb": "סטודנט",
+            "lat": "student"
+        }
+    },
+    "validated": false
+}

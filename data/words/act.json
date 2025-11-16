@@ -1,0 +1,17 @@
+{
+    "act": {
+        "en": "act",
+        "fr": "acte",
+        "es": "acto",
+        "pt": "ato",
+        "ru": {
+            "cyr": "акт",
+            "lat": "akt"
+        },
+        "il": {
+            "heb": "מעשה",
+            "lat": "maaseh"
+        }
+    },
+    "validated": false
+}

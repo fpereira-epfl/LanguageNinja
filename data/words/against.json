@@ -1,0 +1,17 @@
+{
+    "against": {
+        "en": "against",
+        "fr": "contre",
+        "es": "contra",
+        "pt": "contra",
+        "ru": {
+            "cyr": "против",
+            "lat": "protiv"
+        },
+        "il": {
+            "heb": "נגד",
+            "lat": "neged"
+        }
+    },
+    "validated": false
+}

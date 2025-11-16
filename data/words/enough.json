@@ -1,0 +1,17 @@
+{
+    "enough": {
+        "en": "enough",
+        "fr": "assez",
+        "es": "suficiente",
+        "pt": "suficiente",
+        "ru": {
+            "cyr": "достаточно",
+            "lat": "dostatochno"
+        },
+        "il": {
+            "heb": "מספיק",
+            "lat": "maspik"
+        }
+    },
+    "validated": false
+}

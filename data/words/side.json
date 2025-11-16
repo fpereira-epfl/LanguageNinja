@@ -1,0 +1,17 @@
+{
+    "side": {
+        "en": "side",
+        "fr": "côté",
+        "es": "lado",
+        "pt": "lado",
+        "ru": {
+            "cyr": "сторона",
+            "lat": "storona"
+        },
+        "il": {
+            "heb": "צד",
+            "lat": "tzad"
+        }
+    },
+    "validated": false
+}

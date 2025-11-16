@@ -1,0 +1,17 @@
+{
+    "those": {
+        "en": "those",
+        "fr": "ceux-là",
+        "es": "aquellos",
+        "pt": "aqueles",
+        "ru": {
+            "cyr": "те",
+            "lat": "te"
+        },
+        "il": {
+            "heb": "ההם",
+            "lat": "hahem"
+        }
+    },
+    "validated": false
+}

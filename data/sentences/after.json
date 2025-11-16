@@ -1,0 +1,49 @@
+{
+    "after": {
+        "en": [
+            "We eat after work.",
+            "Call me after dinner.",
+            "After the rain, we walk."
+        ],
+        "fr": [
+            "Nous mangeons après le travail.",
+            "Appelle-moi après le dîner.",
+            "Après la pluie, nous marchons."
+        ],
+        "es": [
+            "Comemos después del trabajo.",
+            "Llámame después de la cena.",
+            "Después de la lluvia, caminamos."
+        ],
+        "pt": [
+            "Comemos depois do trabalho.",
+            "Ligue para mim depois do jantar.",
+            "Depois da chuva, caminhamos."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы едим после работы.",
+                "Позвони мне после ужина.",
+                "После дождя мы гуляем."
+            ],
+            "lat": [
+                "My yedim posle raboty.",
+                "Pozvoni mne posle uzhina.",
+                "Posle dozhdya my gulyayem."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו אוכלים אחרי העבודה.",
+                "תתקשר אליי אחרי ארוחת ערב.",
+                "אחרי הגשם, אנחנו הולכים."
+            ],
+            "lat": [
+                "anachnu okhlim acharei ha'avoda.",
+                "titkasher elay acharei aruchat erev.",
+                "acharei hageshem, anachnu holkhim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "night": {
+        "en": "night",
+        "fr": "nuit",
+        "es": "noche",
+        "pt": "noite",
+        "ru": {
+            "cyr": "ночь",
+            "lat": "noch"
+        },
+        "il": {
+            "heb": "לילה",
+            "lat": "laila"
+        }
+    },
+    "validated": false
+}

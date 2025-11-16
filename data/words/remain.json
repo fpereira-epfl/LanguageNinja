@@ -1,0 +1,17 @@
+{
+    "remain": {
+        "en": "remain",
+        "fr": "rester",
+        "es": "permanecer",
+        "pt": "permanecer",
+        "ru": {
+            "cyr": "оставаться",
+            "lat": "ostavatsya"
+        },
+        "il": {
+            "heb": "להישאר",
+            "lat": "lehishaer"
+        }
+    },
+    "validated": false
+}

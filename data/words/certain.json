@@ -1,0 +1,17 @@
+{
+    "certain": {
+        "en": "certain",
+        "fr": "certain",
+        "es": "cierto",
+        "pt": "certo",
+        "ru": {
+            "cyr": "определенный",
+            "lat": "opredelennyy"
+        },
+        "il": {
+            "heb": "מסוים",
+            "lat": "mesuyam"
+        }
+    },
+    "validated": false
+}

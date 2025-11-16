@@ -1,0 +1,17 @@
+{
+    "up": {
+        "en": "up",
+        "fr": "en haut",
+        "es": "arriba",
+        "pt": "para cima",
+        "ru": {
+            "cyr": "вверх",
+            "lat": "vverkh"
+        },
+        "il": {
+            "heb": "למעלה",
+            "lat": "lemala"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "world": {
+        "en": [
+            "The world is big.",
+            "We live in this world.",
+            "This world is beautiful."
+        ],
+        "fr": [
+            "Le monde est grand.",
+            "Nous vivons dans ce monde.",
+            "Ce monde est beau."
+        ],
+        "es": [
+            "El mundo es grande.",
+            "Vivimos en este mundo.",
+            "Este mundo es hermoso."
+        ],
+        "pt": [
+            "O mundo é grande.",
+            "Vivemos neste mundo.",
+            "Este mundo é lindo."
+        ],
+        "ru": {
+            "cyr": [
+                "Мир большой.",
+                "Мы живём в этом мире.",
+                "Этот мир красивый."
+            ],
+            "lat": [
+                "Mir bolshoy.",
+                "My zhivyom v etom mire.",
+                "Etot mir krasivyy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "העולם גדול.",
+                "אנחנו חיים בעולם הזה.",
+                "העולם הזה יפה."
+            ],
+            "lat": [
+                "haolam gadol.",
+                "anachnu chayim baolam hazeh.",
+                "haolam hazeh yafe."
+            ]
+        }
+    },
+    "validated": false
+}

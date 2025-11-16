@@ -1,0 +1,17 @@
+{
+    "low": {
+        "en": "low",
+        "fr": "bas",
+        "es": "bajo",
+        "pt": "baixo",
+        "ru": {
+            "cyr": "низкий",
+            "lat": "nizkiy"
+        },
+        "il": {
+            "heb": "נמוך",
+            "lat": "namukh"
+        }
+    },
+    "validated": false
+}

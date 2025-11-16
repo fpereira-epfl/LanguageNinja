@@ -1,0 +1,49 @@
+{
+    "place": {
+        "en": [
+            "This place is small.",
+            "That place is far.",
+            "The place is quiet."
+        ],
+        "fr": [
+            "Cet endroit est petit.",
+            "Cet endroit-là est loin.",
+            "L'endroit est calme."
+        ],
+        "es": [
+            "Este lugar es pequeño.",
+            "Ese lugar está lejos.",
+            "El lugar es tranquilo."
+        ],
+        "pt": [
+            "Este lugar é pequeno.",
+            "Esse lugar é longe.",
+            "O lugar é tranquilo."
+        ],
+        "ru": {
+            "cyr": [
+                "Это место маленькое.",
+                "То место далеко.",
+                "Это место тихое."
+            ],
+            "lat": [
+                "Eto mesto malen'koye.",
+                "To mesto daleko.",
+                "Eto mesto tikhoye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המקום הזה קטן.",
+                "המקום ההוא רחוק.",
+                "המקום שקט."
+            ],
+            "lat": [
+                "ha makom ha ze katan.",
+                "ha makom ha hu rachok.",
+                "ha makom shaket."
+            ]
+        }
+    },
+    "validated": false
+}

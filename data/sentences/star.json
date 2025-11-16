@@ -1,0 +1,49 @@
+{
+    "star": {
+        "en": [
+            "The star is bright.",
+            "I see a star.",
+            "There are many stars."
+        ],
+        "fr": [
+            "L'étoile est brillante.",
+            "Je vois une étoile.",
+            "Il y a beaucoup d'étoiles."
+        ],
+        "es": [
+            "La estrella es brillante.",
+            "Veo una estrella.",
+            "Hay muchas estrellas."
+        ],
+        "pt": [
+            "A estrela é brilhante.",
+            "Eu vejo uma estrela.",
+            "Há muitas estrelas."
+        ],
+        "ru": {
+            "cyr": [
+                "Звезда яркая.",
+                "Я вижу звезду.",
+                "Много звёзд."
+            ],
+            "lat": [
+                "Zvezda yarkaya.",
+                "Ya vizhu zvezdu.",
+                "Mnogo zvyozd."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הכוכב בהיר.",
+                "אני רואה כוכב.",
+                "יש הרבה כוכבים."
+            ],
+            "lat": [
+                "hakokhav bahir.",
+                "ani roeh kokhav.",
+                "yesh harbe kokhavim."
+            ]
+        }
+    },
+    "validated": false
+}

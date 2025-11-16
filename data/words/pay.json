@@ -1,0 +1,17 @@
+{
+    "pay": {
+        "en": "pay",
+        "fr": "payer",
+        "es": "pagar",
+        "pt": "pagar",
+        "ru": {
+            "cyr": "платить",
+            "lat": "platit"
+        },
+        "il": {
+            "heb": "לשלם",
+            "lat": "leshalem"
+        }
+    },
+    "validated": false
+}

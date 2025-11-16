@@ -1,0 +1,49 @@
+{
+    "teach": {
+        "en": [
+            "I teach English.",
+            "He teaches math.",
+            "We teach children."
+        ],
+        "fr": [
+            "J'enseigne l'anglais.",
+            "Il enseigne les maths.",
+            "Nous enseignons aux enfants."
+        ],
+        "es": [
+            "Enseño inglés.",
+            "Él enseña matemáticas.",
+            "Enseñamos a los niños."
+        ],
+        "pt": [
+            "Eu ensino inglês.",
+            "Ele ensina matemática.",
+            "Ensinamos as crianças."
+        ],
+        "ru": {
+            "cyr": [
+                "Я преподаю английский.",
+                "Он преподаёт математику.",
+                "Мы учим детей."
+            ],
+            "lat": [
+                "Ya prepodayu angliyskiy.",
+                "On prepodayot matematiku.",
+                "My uchim detey."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מלמד אנגלית.",
+                "הוא מלמד מתמטיקה.",
+                "אנחנו מלמדים ילדים."
+            ],
+            "lat": [
+                "Ani melamed anglit.",
+                "Hu melamed matematika.",
+                "Anakhnu melamdim yeladim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "church": {
+        "en": [
+            "The church is open.",
+            "We go to church on Sunday.",
+            "The church is near the park."
+        ],
+        "fr": [
+            "L'église est ouverte.",
+            "Nous allons à l'église dimanche.",
+            "L'église est près du parc."
+        ],
+        "es": [
+            "La iglesia está abierta.",
+            "Vamos a la iglesia el domingo.",
+            "La iglesia está cerca del parque."
+        ],
+        "pt": [
+            "A igreja está aberta.",
+            "Vamos à igreja no domingo.",
+            "A igreja está perto do parque."
+        ],
+        "ru": {
+            "cyr": [
+                "Церковь открыта.",
+                "Мы ходим в церковь в воскресенье.",
+                "Церковь рядом с парком."
+            ],
+            "lat": [
+                "Tserkov’ otkryta.",
+                "My khodim v tserkov’ v voskresen’e.",
+                "Tserkov’ ryadom s parkom."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הכנסייה פתוחה.",
+                "אנחנו הולכים לכנסייה ביום ראשון.",
+                "הכנסייה ליד הפארק."
+            ],
+            "lat": [
+                "haknesiya ptucha.",
+                "anachnu holkhim leknesiya beyom rishon.",
+                "haknesiya leyad ha-park."
+            ]
+        }
+    },
+    "validated": false
+}

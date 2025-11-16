@@ -1,0 +1,49 @@
+{
+    "condition": {
+        "en": [
+            "There is one condition.",
+            "I accept the condition.",
+            "The condition is simple."
+        ],
+        "fr": [
+            "Il y a une condition.",
+            "J'accepte la condition.",
+            "La condition est simple."
+        ],
+        "es": [
+            "Hay una condición.",
+            "Acepto la condición.",
+            "La condición es simple."
+        ],
+        "pt": [
+            "Há uma condição.",
+            "Eu aceito a condição.",
+            "A condição é simples."
+        ],
+        "ru": {
+            "cyr": [
+                "Есть одно условие.",
+                "Я принимаю условие.",
+                "Условие простое."
+            ],
+            "lat": [
+                "Yest’ odno usloviye.",
+                "Ya prinimayu usloviye.",
+                "Usloviye prostoye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש תנאי אחד.",
+                "אני מקבל את התנאי.",
+                "התנאי פשוט."
+            ],
+            "lat": [
+                "yesh tnai echad.",
+                "ani mekabel et hatnai.",
+                "hatnai pashut."
+            ]
+        }
+    },
+    "validated": false
+}

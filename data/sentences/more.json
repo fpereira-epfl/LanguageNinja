@@ -1,0 +1,49 @@
+{
+    "more": {
+        "en": [
+            "I want more water.",
+            "She needs more time.",
+            "We need more books."
+        ],
+        "fr": [
+            "Je veux plus d'eau.",
+            "Elle a besoin de plus de temps.",
+            "Nous avons besoin de plus de livres."
+        ],
+        "es": [
+            "Quiero más agua.",
+            "Ella necesita más tiempo.",
+            "Necesitamos más libros."
+        ],
+        "pt": [
+            "Quero mais água.",
+            "Ela precisa de mais tempo.",
+            "Precisamos de mais livros."
+        ],
+        "ru": {
+            "cyr": [
+                "Я хочу больше воды.",
+                "Ей нужно больше времени.",
+                "Нам нужно больше книг."
+            ],
+            "lat": [
+                "Ya khochu bolshe vody.",
+                "Ey nuzhno bolshe vremeni.",
+                "Nam nuzhno bolshe knig."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רוצה עוד מים.",
+                "היא צריכה עוד זמן.",
+                "אנחנו צריכים עוד ספרים."
+            ],
+            "lat": [
+                "ani rotze od mayim.",
+                "hi tzricha od zman.",
+                "anachnu tzrikhim od sfarim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "happiness": {
+        "en": "happiness",
+        "fr": "bonheur",
+        "es": "felicidad",
+        "pt": "felicidade",
+        "ru": {
+            "cyr": "счастье",
+            "lat": "schastye"
+        },
+        "il": {
+            "heb": "אושר",
+            "lat": "osher"
+        }
+    },
+    "validated": false
+}

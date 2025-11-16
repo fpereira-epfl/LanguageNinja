@@ -1,0 +1,49 @@
+{
+    "much": {
+        "en": [
+            "We have much work.",
+            "There is much water.",
+            "He eats much bread."
+        ],
+        "fr": [
+            "Nous avons beaucoup de travail.",
+            "Il y a beaucoup d'eau.",
+            "Il mange beaucoup de pain."
+        ],
+        "es": [
+            "Tenemos mucho trabajo.",
+            "Hay mucha agua.",
+            "Él come mucho pan."
+        ],
+        "pt": [
+            "Temos muito trabalho.",
+            "Há muita água.",
+            "Ele come muito pão."
+        ],
+        "ru": {
+            "cyr": [
+                "У нас много работы.",
+                "Много воды.",
+                "Он ест много хлеба."
+            ],
+            "lat": [
+                "U nas mnogo raboty.",
+                "Mnogo vody.",
+                "On yest mnogo khleba."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לנו הרבה עבודה.",
+                "יש הרבה מים.",
+                "הוא אוכל הרבה לחם."
+            ],
+            "lat": [
+                "yesh lanu harbe avoda.",
+                "yesh harbe mayim.",
+                "hu okhel harbe lekhem."
+            ]
+        }
+    },
+    "validated": false
+}

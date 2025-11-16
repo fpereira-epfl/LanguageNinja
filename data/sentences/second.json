@@ -1,0 +1,49 @@
+{
+    "second": {
+        "en": [
+            "One second, please.",
+            "It lasted one second.",
+            "The second door is red."
+        ],
+        "fr": [
+            "Une seconde, s'il vous plaît.",
+            "Ça a duré une seconde.",
+            "La deuxième porte est rouge."
+        ],
+        "es": [
+            "Un segundo, por favor.",
+            "Duró un segundo.",
+            "La segunda puerta es roja."
+        ],
+        "pt": [
+            "Um segundo, por favor.",
+            "Durou um segundo.",
+            "A segunda porta é vermelha."
+        ],
+        "ru": {
+            "cyr": [
+                "Одну секунду, пожалуйста.",
+                "Это длилось одну секунду.",
+                "Вторая дверь красная."
+            ],
+            "lat": [
+                "Odnu sekundu, pozhaluysta.",
+                "Eto dlilos' odnu sekundu.",
+                "Vtoraya dver' krasnaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "שנייה אחת, בבקשה.",
+                "זה נמשך שנייה אחת.",
+                "הדלת השנייה אדומה."
+            ],
+            "lat": [
+                "shniya achat, bevakasha.",
+                "ze nimshakh shniya achat.",
+                "hadelet hashniya aduma."
+            ]
+        }
+    },
+    "validated": false
+}

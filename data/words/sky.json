@@ -1,0 +1,17 @@
+{
+    "sky": {
+        "en": "sky",
+        "fr": "ciel",
+        "es": "cielo",
+        "pt": "céu",
+        "ru": {
+            "cyr": "небо",
+            "lat": "nebo"
+        },
+        "il": {
+            "heb": "שמיים",
+            "lat": "shamayim"
+        }
+    },
+    "validated": false
+}

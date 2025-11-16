@@ -1,0 +1,49 @@
+{
+    "member": {
+        "en": [
+            "I am a member.",
+            "She is a member.",
+            "We are members."
+        ],
+        "fr": [
+            "Je suis membre.",
+            "Elle est membre.",
+            "Nous sommes membres."
+        ],
+        "es": [
+            "Soy miembro.",
+            "Ella es miembro.",
+            "Somos miembros."
+        ],
+        "pt": [
+            "Eu sou membro.",
+            "Ela é membro.",
+            "Nós somos membros."
+        ],
+        "ru": {
+            "cyr": [
+                "Я член.",
+                "Она член.",
+                "Мы члены."
+            ],
+            "lat": [
+                "Ya chlen.",
+                "Ona chlen.",
+                "My chleny."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני חבר.",
+                "היא חברה.",
+                "אנחנו חברים."
+            ],
+            "lat": [
+                "ani chaver.",
+                "hi chavera.",
+                "anachnu chaverim."
+            ]
+        }
+    },
+    "validated": false
+}

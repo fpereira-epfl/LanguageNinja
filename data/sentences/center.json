@@ -1,0 +1,49 @@
+{
+    "center": {
+        "en": [
+            "The center is open.",
+            "We are in the center.",
+            "She walks to the center."
+        ],
+        "fr": [
+            "Le centre est ouvert.",
+            "Nous sommes au centre.",
+            "Elle marche vers le centre."
+        ],
+        "es": [
+            "El centro está abierto.",
+            "Estamos en el centro.",
+            "Ella camina hacia el centro."
+        ],
+        "pt": [
+            "O centro está aberto.",
+            "Estamos no centro.",
+            "Ela caminha até o centro."
+        ],
+        "ru": {
+            "cyr": [
+                "Центр открыт.",
+                "Мы в центре.",
+                "Она идёт к центру."
+            ],
+            "lat": [
+                "Tsentr otkryt.",
+                "My v tsentre.",
+                "Ona idyot k tsentru."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המרכז פתוח.",
+                "אנחנו במרכז.",
+                "היא הולכת אל המרכז."
+            ],
+            "lat": [
+                "ha-merkaz patuach.",
+                "anachnu ba-merkaz.",
+                "hi holekhet el ha-merkaz."
+            ]
+        }
+    },
+    "validated": false
+}

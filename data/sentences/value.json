@@ -1,0 +1,49 @@
+{
+    "value": {
+        "en": [
+            "The value is ten.",
+            "I don't know the value.",
+            "What is the value?"
+        ],
+        "fr": [
+            "La valeur est de dix.",
+            "Je ne connais pas la valeur.",
+            "Quelle est la valeur ?"
+        ],
+        "es": [
+            "El valor es diez.",
+            "No conozco el valor.",
+            "¿Cuál es el valor?"
+        ],
+        "pt": [
+            "O valor é dez.",
+            "Não conheço o valor.",
+            "Qual é o valor?"
+        ],
+        "ru": {
+            "cyr": [
+                "Значение - десять.",
+                "Я не знаю значения.",
+                "Каково значение?"
+            ],
+            "lat": [
+                "Znachenie - desyat'.",
+                "Ya ne znayu znacheniya.",
+                "Kakovo znachenie?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "הערך הוא עשר.",
+                "אני לא יודע את הערך.",
+                "מה הערך?"
+            ],
+            "lat": [
+                "ha-erekh hu eser.",
+                "ani lo yodea et ha-erekh.",
+                "ma ha-erekh?"
+            ]
+        }
+    },
+    "validated": false
+}

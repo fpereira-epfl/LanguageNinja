@@ -1,0 +1,49 @@
+{
+    "country": {
+        "en": [
+            "This country is big.",
+            "I live in this country.",
+            "That country is far."
+        ],
+        "fr": [
+            "Ce pays est grand.",
+            "Je vis dans ce pays.",
+            "Ce pays est loin."
+        ],
+        "es": [
+            "Este país es grande.",
+            "Vivo en este país.",
+            "Ese país está lejos."
+        ],
+        "pt": [
+            "Este país é grande.",
+            "Eu moro neste país.",
+            "Esse país fica longe."
+        ],
+        "ru": {
+            "cyr": [
+                "Эта страна большая.",
+                "Я живу в этой стране.",
+                "Та страна далеко."
+            ],
+            "lat": [
+                "Eta strana bol'shaya.",
+                "Ya zhivu v etoy strane.",
+                "Ta strana daleko."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המדינה הזאת גדולה.",
+                "אני גר במדינה הזאת.",
+                "המדינה ההיא רחוקה."
+            ],
+            "lat": [
+                "ha-medina hazot gdola.",
+                "ani gar ba-medina hazot.",
+                "ha-medina ha-hi rahoka."
+            ]
+        }
+    },
+    "validated": false
+}

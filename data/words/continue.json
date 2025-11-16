@@ -1,0 +1,17 @@
+{
+    "continue": {
+        "en": "continue",
+        "fr": "continuer",
+        "es": "continuar",
+        "pt": "continuar",
+        "ru": {
+            "cyr": "продолжать",
+            "lat": "prodolzhat"
+        },
+        "il": {
+            "heb": "להמשיך",
+            "lat": "lehamshich"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "city": {
+        "en": [
+            "This city is big.",
+            "I live in the city.",
+            "The city has a park."
+        ],
+        "fr": [
+            "Cette ville est grande.",
+            "J'habite dans la ville.",
+            "La ville a un parc."
+        ],
+        "es": [
+            "Esta ciudad es grande.",
+            "Vivo en la ciudad.",
+            "La ciudad tiene un parque."
+        ],
+        "pt": [
+            "Esta cidade é grande.",
+            "Eu moro na cidade.",
+            "A cidade tem um parque."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот город большой.",
+                "Я живу в городе.",
+                "В городе есть парк."
+            ],
+            "lat": [
+                "Etot gorod bol'shoy.",
+                "Ya zhivu v gorode.",
+                "V gorode yest' park."
+            ]
+        },
+        "il": {
+            "heb": [
+                "העיר הזאת גדולה.",
+                "אני גר בעיר.",
+                "בעיר יש פארק."
+            ],
+            "lat": [
+                "ha'ir hazot gdola.",
+                "ani gar ba'ir.",
+                "ba'ir yesh park."
+            ]
+        }
+    },
+    "validated": false
+}

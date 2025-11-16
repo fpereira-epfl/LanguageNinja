@@ -1,0 +1,17 @@
+{
+    "change": {
+        "en": "change",
+        "fr": "changement",
+        "es": "cambio",
+        "pt": "mudança",
+        "ru": {
+            "cyr": "изменение",
+            "lat": "izmenenie"
+        },
+        "il": {
+            "heb": "שינוי",
+            "lat": "shinui"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "then": {
+        "en": "then",
+        "fr": "ensuite",
+        "es": "entonces",
+        "pt": "então",
+        "ru": {
+            "cyr": "тогда",
+            "lat": "togda"
+        },
+        "il": {
+            "heb": "אז",
+            "lat": "az"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "determine": {
+        "en": "determine",
+        "fr": "déterminer",
+        "es": "determinar",
+        "pt": "determinar",
+        "ru": {
+            "cyr": "определять",
+            "lat": "opredelyat"
+        },
+        "il": {
+            "heb": "לקבוע",
+            "lat": "likboa"
+        }
+    },
+    "validated": false
+}

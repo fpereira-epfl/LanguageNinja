@@ -1,0 +1,49 @@
+{
+    "certain": {
+        "en": [
+            "A certain person is here.",
+            "A certain day was very cold.",
+            "We met in a certain place."
+        ],
+        "fr": [
+            "Une certaine personne est ici.",
+            "Un certain jour était très froid.",
+            "Nous nous sommes rencontrés dans un certain endroit."
+        ],
+        "es": [
+            "Cierta persona está aquí.",
+            "Cierto día fue muy frío.",
+            "Nos encontramos en un cierto lugar."
+        ],
+        "pt": [
+            "Uma certa pessoa está aqui.",
+            "Um certo dia foi muito frio.",
+            "Nós nos encontramos em um certo lugar."
+        ],
+        "ru": {
+            "cyr": [
+                "Определенный человек здесь.",
+                "Определенный день был очень холодным.",
+                "Мы встретились в определенном месте."
+            ],
+            "lat": [
+                "Opredelennyy chelovek zdes’.",
+                "Opredelennyy den’ byl ochen’ kholodnym.",
+                "My vstretilis’ v opredelennom meste."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אדם מסוים כאן.",
+                "יום מסוים היה קר מאוד.",
+                "נפגשנו במקום מסוים."
+            ],
+            "lat": [
+                "adam mesuyam kan.",
+                "yom mesuyam haya kar meod.",
+                "nifgashnu bimkom mesuyam."
+            ]
+        }
+    },
+    "validated": false
+}

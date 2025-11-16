@@ -1,0 +1,17 @@
+{
+    "thus": {
+        "en": "thus",
+        "fr": "ainsi",
+        "es": "así",
+        "pt": "assim",
+        "ru": {
+            "cyr": "таким образом",
+            "lat": "takim obrazom"
+        },
+        "il": {
+            "heb": "לפיכך",
+            "lat": "lefikhakh"
+        }
+    },
+    "validated": false
+}

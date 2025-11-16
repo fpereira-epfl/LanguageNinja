@@ -1,0 +1,17 @@
+{
+    "way": {
+        "en": "way",
+        "fr": "chemin",
+        "es": "camino",
+        "pt": "caminho",
+        "ru": {
+            "cyr": "путь",
+            "lat": "put"
+        },
+        "il": {
+            "heb": "דרך",
+            "lat": "derech"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "force": {
+        "en": [
+            "Use less force, please.",
+            "The wind has great force.",
+            "They use force to move the box."
+        ],
+        "fr": [
+            "Utilise moins de force, s'il te plaît.",
+            "Le vent a une grande force.",
+            "Ils utilisent la force pour déplacer la boîte."
+        ],
+        "es": [
+            "Usa menos fuerza, por favor.",
+            "El viento tiene una gran fuerza.",
+            "Ellos usan la fuerza para mover la caja."
+        ],
+        "pt": [
+            "Use menos força, por favor.",
+            "O vento tem uma grande força.",
+            "Eles usam a força para mover a caixa."
+        ],
+        "ru": {
+            "cyr": [
+                "Используй меньше силы, пожалуйста.",
+                "У ветра большая сила.",
+                "Они используют силу, чтобы подвинуть коробку."
+            ],
+            "lat": [
+                "Ispol'zuy men'she sily, pozhaluysta.",
+                "U vetra bol'shaya sila.",
+                "Oni ispol'zuyut silu, chtoby podvinut' korobku."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השתמש בפחות כוח, בבקשה.",
+                "לרוח יש כוח גדול.",
+                "הם משתמשים בכוח כדי להזיז את הקופסה."
+            ],
+            "lat": [
+                "hishtamesh bepachot koach, bevakasha.",
+                "laruach yesh koach gadol.",
+                "hem mishtamshim bekoach kdei lehaziz et hakufsa."
+            ]
+        }
+    },
+    "validated": false
+}

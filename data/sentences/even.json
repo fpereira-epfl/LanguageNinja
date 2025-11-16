@@ -1,0 +1,49 @@
+{
+    "even": {
+        "en": [
+            "Even a child can do it.",
+            "It is even better.",
+            "He is even taller than me."
+        ],
+        "fr": [
+            "Même un enfant peut le faire.",
+            "C'est même mieux.",
+            "Il est même plus grand que moi."
+        ],
+        "es": [
+            "Incluso un niño puede hacerlo.",
+            "Es incluso mejor.",
+            "Él es incluso más alto que yo."
+        ],
+        "pt": [
+            "Até uma criança pode fazer isso.",
+            "É até melhor.",
+            "Ele é até mais alto do que eu."
+        ],
+        "ru": {
+            "cyr": [
+                "Даже ребёнок может это сделать.",
+                "Это даже лучше.",
+                "Он даже выше меня."
+            ],
+            "lat": [
+                "Dazhe rebenok mozhet eto sdelat'.",
+                "Eto dazhe luchshe.",
+                "On dazhe vyshe menya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אפילו ילד יכול לעשות את זה.",
+                "זה אפילו יותר טוב.",
+                "הוא אפילו יותר גבוה ממני."
+            ],
+            "lat": [
+                "afilu yeled yakhol la'asot et ze.",
+                "ze afilu yoter tov.",
+                "hu afilu yoter gavoha mimeni."
+            ]
+        }
+    },
+    "validated": false
+}

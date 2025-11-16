@@ -1,0 +1,17 @@
+{
+    "group": {
+        "en": "group",
+        "fr": "groupe",
+        "es": "grupo",
+        "pt": "grupo",
+        "ru": {
+            "cyr": "группа",
+            "lat": "gruppa"
+        },
+        "il": {
+            "heb": "קבוצה",
+            "lat": "kvutsa"
+        }
+    },
+    "validated": false
+}

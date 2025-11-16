@@ -1,0 +1,49 @@
+{
+    "kind": {
+        "en": [
+            "She is kind.",
+            "He is kind.",
+            "They are kind."
+        ],
+        "fr": [
+            "Elle est gentille.",
+            "Il est gentil.",
+            "Ils sont gentils."
+        ],
+        "es": [
+            "Ella es amable.",
+            "Él es amable.",
+            "Ellos son amables."
+        ],
+        "pt": [
+            "Ela é gentil.",
+            "Ele é gentil.",
+            "Eles são gentis."
+        ],
+        "ru": {
+            "cyr": [
+                "Она добрая.",
+                "Он добрый.",
+                "Они добрые."
+            ],
+            "lat": [
+                "Ona dobraya.",
+                "On dobryy.",
+                "Oni dobrye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "היא אדיבה.",
+                "הוא אדיב.",
+                "הם אדיבים."
+            ],
+            "lat": [
+                "hi adiva.",
+                "hu adiv.",
+                "hem adivim."
+            ]
+        }
+    },
+    "validated": false
+}

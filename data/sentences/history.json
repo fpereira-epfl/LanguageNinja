@@ -1,0 +1,49 @@
+{
+    "history": {
+        "en": [
+            "I like history.",
+            "History is important.",
+            "We study history."
+        ],
+        "fr": [
+            "J'aime l'histoire.",
+            "L'histoire est importante.",
+            "Nous étudions l'histoire."
+        ],
+        "es": [
+            "Me gusta la historia.",
+            "La historia es importante.",
+            "Estudiamos historia."
+        ],
+        "pt": [
+            "Eu gosto de história.",
+            "A história é importante.",
+            "Nós estudamos história."
+        ],
+        "ru": {
+            "cyr": [
+                "Мне нравится история.",
+                "История важна.",
+                "Мы изучаем историю."
+            ],
+            "lat": [
+                "Mne nravitsya istoriya.",
+                "Istoriya vazhna.",
+                "My izuchaem istoriyu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אוהב היסטוריה.",
+                "היסטוריה חשובה.",
+                "אנחנו לומדים היסטוריה."
+            ],
+            "lat": [
+                "ani ohev historia.",
+                "historia chashuva.",
+                "anachnu lomdim historia."
+            ]
+        }
+    },
+    "validated": false
+}

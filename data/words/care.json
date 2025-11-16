@@ -1,0 +1,17 @@
+{
+    "care": {
+        "en": "care",
+        "fr": "soin",
+        "es": "cuidado",
+        "pt": "cuidado",
+        "ru": {
+            "cyr": "забота",
+            "lat": "zabota"
+        },
+        "il": {
+            "heb": "דאגה",
+            "lat": "da'aga"
+        }
+    },
+    "validated": false
+}

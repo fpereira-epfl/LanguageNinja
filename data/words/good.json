@@ -1,0 +1,17 @@
+{
+    "good": {
+        "en": "good",
+        "fr": "bon",
+        "es": "bueno",
+        "pt": "bom",
+        "ru": {
+            "cyr": "хороший",
+            "lat": "khoroshiy"
+        },
+        "il": {
+            "heb": "טוב",
+            "lat": "tov"
+        }
+    },
+    "validated": false
+}

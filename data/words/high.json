@@ -1,0 +1,17 @@
+{
+    "high": {
+        "en": "high",
+        "fr": "haut",
+        "es": "alto",
+        "pt": "alto",
+        "ru": {
+            "cyr": "высокий",
+            "lat": "vysokiy"
+        },
+        "il": {
+            "heb": "גבוה",
+            "lat": "gavoah"
+        }
+    },
+    "validated": false
+}

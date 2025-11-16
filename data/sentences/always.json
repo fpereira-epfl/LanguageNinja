@@ -1,0 +1,49 @@
+{
+    "always": {
+        "en": [
+            "We always eat breakfast.",
+            "She always arrives early.",
+            "It is always cold here."
+        ],
+        "fr": [
+            "Nous prenons toujours le petit déjeuner.",
+            "Elle arrive toujours tôt.",
+            "Il fait toujours froid ici."
+        ],
+        "es": [
+            "Siempre desayunamos.",
+            "Ella siempre llega temprano.",
+            "Siempre hace frío aquí."
+        ],
+        "pt": [
+            "Nós sempre tomamos café da manhã.",
+            "Ela sempre chega cedo.",
+            "Sempre faz frio aqui."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы всегда завтракаем.",
+                "Она всегда приходит рано.",
+                "Здесь всегда холодно."
+            ],
+            "lat": [
+                "My vsegda zavtrakaem.",
+                "Ona vsegda prikhodit rano.",
+                "Zdes’ vsegda kholodno."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו תמיד אוכלים ארוחת בוקר.",
+                "היא תמיד מגיעה מוקדם.",
+                "כאן תמיד קר."
+            ],
+            "lat": [
+                "anachnu tamid okhlim aruchat boker.",
+                "hi tamid magia mukdam.",
+                "kan tamid kar."
+            ]
+        }
+    },
+    "validated": false
+}

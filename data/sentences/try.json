@@ -1,0 +1,49 @@
+{
+    "try": {
+        "en": [
+            "I try again.",
+            "She tries to help.",
+            "We will try tomorrow."
+        ],
+        "fr": [
+            "J'essaie encore.",
+            "Elle essaie d'aider.",
+            "Nous essaierons demain."
+        ],
+        "es": [
+            "Intento de nuevo.",
+            "Ella intenta ayudar.",
+            "Intentaremos mañana."
+        ],
+        "pt": [
+            "Tento de novo.",
+            "Ela tenta ajudar.",
+            "Tentaremos amanhã."
+        ],
+        "ru": {
+            "cyr": [
+                "Я пытаюсь снова.",
+                "Она пытается помочь.",
+                "Мы попытаемся завтра."
+            ],
+            "lat": [
+                "Ya pytayus' snova.",
+                "Ona pytayetsya pomoch'.",
+                "My popytayemsya zavtra."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מנסה שוב.",
+                "היא מנסה לעזור.",
+                "אנחנו ננסה מחר."
+            ],
+            "lat": [
+                "ani menase shuv.",
+                "hi menasa la'azor.",
+                "anachnu nenase machar."
+            ]
+        }
+    },
+    "validated": false
+}

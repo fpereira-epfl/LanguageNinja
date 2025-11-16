@@ -1,0 +1,49 @@
+{
+    "night": {
+        "en": [
+            "It is night now.",
+            "The night is quiet.",
+            "We walk at night."
+        ],
+        "fr": [
+            "C'est la nuit maintenant.",
+            "La nuit est calme.",
+            "Nous marchons la nuit."
+        ],
+        "es": [
+            "Es de noche ahora.",
+            "La noche es tranquila.",
+            "Caminamos de noche."
+        ],
+        "pt": [
+            "É noite agora.",
+            "A noite é tranquila.",
+            "Caminhamos à noite."
+        ],
+        "ru": {
+            "cyr": [
+                "Сейчас ночь.",
+                "Ночь тихая.",
+                "Мы ходим ночью."
+            ],
+            "lat": [
+                "Seichas noch’.",
+                "Noch’ tikhaya.",
+                "My khodim noch’yu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "עכשיו לילה.",
+                "הלילה שקט.",
+                "אנחנו הולכים בלילה."
+            ],
+            "lat": [
+                "akhshav laila.",
+                "halaila shaket.",
+                "anachnu holkhim balaila."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "peace": {
+        "en": "peace",
+        "fr": "paix",
+        "es": "paz",
+        "pt": "paz",
+        "ru": {
+            "cyr": "мир",
+            "lat": "mir"
+        },
+        "il": {
+            "heb": "שלום",
+            "lat": "shalom"
+        }
+    },
+    "validated": false
+}

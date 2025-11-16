@@ -1,0 +1,17 @@
+{
+    "school": {
+        "en": "school",
+        "fr": "école",
+        "es": "escuela",
+        "pt": "escola",
+        "ru": {
+            "cyr": "школа",
+            "lat": "shkola"
+        },
+        "il": {
+            "heb": "בית ספר",
+            "lat": "beit sefer"
+        }
+    },
+    "validated": false
+}

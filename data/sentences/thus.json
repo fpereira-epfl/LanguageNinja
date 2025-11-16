@@ -1,0 +1,49 @@
+{
+    "thus": {
+        "en": [
+            "It rained; thus, we stayed home.",
+            "He was sick; thus, he rested.",
+            "I forgot my keys; thus, I was late."
+        ],
+        "fr": [
+            "Il a plu, donc nous sommes restés à la maison.",
+            "Il était malade, donc il s'est reposé.",
+            "J'ai oublié mes clés, donc j'étais en retard."
+        ],
+        "es": [
+            "Llovió, por lo tanto nos quedamos en casa.",
+            "Estaba enfermo, por lo tanto descansó.",
+            "Olvidé mis llaves, por lo tanto llegué tarde."
+        ],
+        "pt": [
+            "Choveu, portanto ficamos em casa.",
+            "Ele estava doente, portanto descansou.",
+            "Esqueci minhas chaves, portanto me atrasei."
+        ],
+        "ru": {
+            "cyr": [
+                "Шёл дождь, поэтому мы остались дома.",
+                "Он был болен, поэтому он отдохнул.",
+                "Я забыл свои ключи, поэтому я опоздал."
+            ],
+            "lat": [
+                "Shyol dozhd’, poetomu my ostalis’ doma.",
+                "On byl bolen, poetomu on otdokhnul.",
+                "Ya zabyl svoi klyuchi, poetomu ya opozdal."
+            ]
+        },
+        "il": {
+            "heb": [
+                "ירד גשם, ולכן נשארנו בבית.",
+                "הוא היה חולה, ולכן הוא נח.",
+                "שכחתי את המפתחות שלי, ולכן איחרתי."
+            ],
+            "lat": [
+                "yarad geshem, velakhen nish’arnu babayit.",
+                "hu haya chole, velakhen hu nach.",
+                "shachachti et hamaftechot sheli, velakhen icharti."
+            ]
+        }
+    },
+    "validated": false
+}

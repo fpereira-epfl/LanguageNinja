@@ -1,0 +1,17 @@
+{
+    "consider": {
+        "en": "consider",
+        "fr": "considérer",
+        "es": "considerar",
+        "pt": "considerar",
+        "ru": {
+            "cyr": "рассматривать",
+            "lat": "rassmatrivat'"
+        },
+        "il": {
+            "heb": "לשקול",
+            "lat": "lishkol"
+        }
+    },
+    "validated": false
+}

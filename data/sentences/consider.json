@@ -1,0 +1,49 @@
+{
+    "consider": {
+        "en": [
+            "We consider this idea.",
+            "He considers the question.",
+            "The teacher considers the case."
+        ],
+        "fr": [
+            "Nous considérons cette idée.",
+            "Il considère la question.",
+            "Le professeur considère le cas."
+        ],
+        "es": [
+            "Consideramos esta idea.",
+            "Él considera la pregunta.",
+            "El profesor considera el caso."
+        ],
+        "pt": [
+            "Consideramos esta ideia.",
+            "Ele considera a pergunta.",
+            "O professor considera o caso."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы рассматриваем эту идею.",
+                "Он рассматривает вопрос.",
+                "Учитель рассматривает случай."
+            ],
+            "lat": [
+                "My rassmatrivayem etu ideyu.",
+                "On rassmatrivayet vopros.",
+                "Uchitel' rassmatrivayet sluchay."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו שוקלים את הרעיון הזה.",
+                "הוא שוקל את השאלה.",
+                "המורה שוקל את המקרה."
+            ],
+            "lat": [
+                "anachnu shoklim et ha raayon haze.",
+                "hu shokel et ha sheela.",
+                "ha more shokel et ha mikre."
+            ]
+        }
+    },
+    "validated": false
+}

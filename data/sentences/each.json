@@ -1,0 +1,49 @@
+{
+    "each": {
+        "en": [
+            "Each child has a toy.",
+            "Each page is white.",
+            "Each student reads."
+        ],
+        "fr": [
+            "Chaque enfant a un jouet.",
+            "Chaque page est blanche.",
+            "Chaque élève lit."
+        ],
+        "es": [
+            "Cada niño tiene un juguete.",
+            "Cada página es blanca.",
+            "Cada estudiante lee."
+        ],
+        "pt": [
+            "Cada criança tem um brinquedo.",
+            "Cada página é branca.",
+            "Cada estudante lê."
+        ],
+        "ru": {
+            "cyr": [
+                "У каждого ребёнка есть игрушка.",
+                "Каждая страница белая.",
+                "Каждый студент читает."
+            ],
+            "lat": [
+                "U kazhdogo rebyonka yest’ igrushka.",
+                "Kazhdaya stranitsa belaya.",
+                "Kazhdyy student chitayet."
+            ]
+        },
+        "il": {
+            "heb": [
+                "לכל ילד יש צעצוע.",
+                "כל דף לבן.",
+                "כל תלמיד קורא."
+            ],
+            "lat": [
+                "lekol yeled yesh tsa'atsua.",
+                "kol daf lavan.",
+                "kol talmid kore."
+            ]
+        }
+    },
+    "validated": false
+}

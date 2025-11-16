@@ -1,0 +1,49 @@
+{
+    "high": {
+        "en": [
+            "The mountain is high.",
+            "The wall is high.",
+            "The price is high."
+        ],
+        "fr": [
+            "La montagne est haute.",
+            "Le mur est haut.",
+            "Le prix est haut."
+        ],
+        "es": [
+            "La montaña es alta.",
+            "El muro es alto.",
+            "El precio es alto."
+        ],
+        "pt": [
+            "A montanha é alta.",
+            "O muro é alto.",
+            "O preço é alto."
+        ],
+        "ru": {
+            "cyr": [
+                "Гора высокая.",
+                "Стена высокая.",
+                "Цена высокая."
+            ],
+            "lat": [
+                "Gora vysokaya.",
+                "Stena vysokaya.",
+                "Tsena vysokaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "ההר גבוה.",
+                "החומה גבוהה.",
+                "המחיר גבוה."
+            ],
+            "lat": [
+                "ha har gavoah.",
+                "ha choma gvoha.",
+                "ha mechir gavoah."
+            ]
+        }
+    },
+    "validated": false
+}

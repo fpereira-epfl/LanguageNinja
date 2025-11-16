@@ -1,0 +1,17 @@
+{
+    "another": {
+        "en": "another",
+        "fr": "un autre",
+        "es": "otro",
+        "pt": "outro",
+        "ru": {
+            "cyr": "другой",
+            "lat": "drugoy"
+        },
+        "il": {
+            "heb": "אחר",
+            "lat": "acher"
+        }
+    },
+    "validated": false
+}

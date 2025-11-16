@@ -1,0 +1,49 @@
+{
+    "become": {
+        "en": [
+            "I want to become a teacher.",
+            "He became a father.",
+            "They become friends."
+        ],
+        "fr": [
+            "Je veux devenir professeur.",
+            "Il est devenu père.",
+            "Ils deviennent amis."
+        ],
+        "es": [
+            "Quiero hacerme profesor.",
+            "Él se hizo padre.",
+            "Ellos se hacen amigos."
+        ],
+        "pt": [
+            "Quero tornar-me professor.",
+            "Ele tornou-se pai.",
+            "Eles se tornam amigos."
+        ],
+        "ru": {
+            "cyr": [
+                "Я хочу стать учителем.",
+                "Он стал отцом.",
+                "Они становятся друзьями."
+            ],
+            "lat": [
+                "Ya khochu stat’ uchitelem.",
+                "On stal otsom.",
+                "Oni stanovyatsya druz’yami."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רוצה להפוך למורה.",
+                "הוא הפך לאב.",
+                "הם הופכים לחברים."
+            ],
+            "lat": [
+                "ani rotze lehafokh le moreh.",
+                "hu hafakh le av.",
+                "hem hofkhim le khaverim."
+            ]
+        }
+    },
+    "validated": false
+}

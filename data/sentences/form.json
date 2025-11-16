@@ -1,0 +1,49 @@
+{
+    "form": {
+        "en": [
+            "The form is round.",
+            "This form is simple.",
+            "I like this form."
+        ],
+        "fr": [
+            "La forme est ronde.",
+            "Cette forme est simple.",
+            "J'aime cette forme."
+        ],
+        "es": [
+            "La forma es redonda.",
+            "Esta forma es simple.",
+            "Me gusta esta forma."
+        ],
+        "pt": [
+            "A forma é redonda.",
+            "Esta forma é simples.",
+            "Gosto desta forma."
+        ],
+        "ru": {
+            "cyr": [
+                "Форма круглая.",
+                "Эта форма простая.",
+                "Мне нравится эта форма."
+            ],
+            "lat": [
+                "Forma kruglaya.",
+                "Eta forma prostaya.",
+                "Mne nravitsya eta forma."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הצורה עגולה.",
+                "הצורה הזאת פשוטה.",
+                "אני אוהב את הצורה הזאת."
+            ],
+            "lat": [
+                "hatzura agula.",
+                "hatzura hazot pshuta.",
+                "ani ohev et hatzura hazot."
+            ]
+        }
+    },
+    "validated": false
+}

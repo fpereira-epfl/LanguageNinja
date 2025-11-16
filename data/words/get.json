@@ -1,0 +1,17 @@
+{
+    "get": {
+        "en": "get",
+        "fr": "obtenir",
+        "es": "obtener",
+        "pt": "obter",
+        "ru": {
+            "cyr": "получить",
+            "lat": "poluchit"
+        },
+        "il": {
+            "heb": "לקבל",
+            "lat": "lekabel"
+        }
+    },
+    "validated": false
+}

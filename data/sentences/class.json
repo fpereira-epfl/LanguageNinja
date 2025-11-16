@@ -1,0 +1,49 @@
+{
+    "class": {
+        "en": [
+            "I am in class.",
+            "Class starts at nine.",
+            "Class ends at ten."
+        ],
+        "fr": [
+            "Je suis en cours.",
+            "Le cours commence à neuf heures.",
+            "Le cours finit à dix heures."
+        ],
+        "es": [
+            "Estoy en clase.",
+            "La clase empieza a las nueve.",
+            "La clase termina a las diez."
+        ],
+        "pt": [
+            "Estou na aula.",
+            "A aula começa às nove.",
+            "A aula termina às dez."
+        ],
+        "ru": {
+            "cyr": [
+                "Я на уроке.",
+                "Урок начинается в девять.",
+                "Урок заканчивается в десять."
+            ],
+            "lat": [
+                "Ya na uroke.",
+                "Urok nachinayetsya v devyat'.",
+                "Urok zakanchivayetsya v desyat'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני בשיעור.",
+                "השיעור מתחיל בתשע.",
+                "השיעור נגמר בעשר."
+            ],
+            "lat": [
+                "ani beshiur.",
+                "hashiur matchil betesha.",
+                "hashiur nigmar beeser."
+            ]
+        }
+    },
+    "validated": false
+}

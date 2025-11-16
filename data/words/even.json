@@ -1,0 +1,17 @@
+{
+    "even": {
+        "en": "even",
+        "fr": "même",
+        "es": "incluso",
+        "pt": "até",
+        "ru": {
+            "cyr": "даже",
+            "lat": "dazhe"
+        },
+        "il": {
+            "heb": "אפילו",
+            "lat": "afilu"
+        }
+    },
+    "validated": false
+}

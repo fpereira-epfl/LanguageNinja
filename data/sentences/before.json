@@ -1,0 +1,49 @@
+{
+    "before": {
+        "en": [
+            "I eat before work.",
+            "She washes her hands before dinner.",
+            "We arrive before ten."
+        ],
+        "fr": [
+            "Je mange avant le travail.",
+            "Elle se lave les mains avant le dîner.",
+            "Nous arrivons avant dix heures."
+        ],
+        "es": [
+            "Como antes del trabajo.",
+            "Ella se lava las manos antes de la cena.",
+            "Llegamos antes de las diez."
+        ],
+        "pt": [
+            "Eu como antes do trabalho.",
+            "Ela lava as mãos antes do jantar.",
+            "Chegamos antes das dez."
+        ],
+        "ru": {
+            "cyr": [
+                "Я ем до работы.",
+                "Она моет руки до ужина.",
+                "Мы приходим до десяти."
+            ],
+            "lat": [
+                "Ya em do raboty.",
+                "Ona moet ruki do uzhina.",
+                "My prihodim do desyati."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אוכל לפני העבודה.",
+                "היא שוטפת ידיים לפני ארוחת ערב.",
+                "אנחנו מגיעים לפני עשר."
+            ],
+            "lat": [
+                "ani ochel lifnei ha-avoda.",
+                "hi shotefet yadayim lifnei aruchat erev.",
+                "anachnu magi'im lifnei eser."
+            ]
+        }
+    },
+    "validated": false
+}

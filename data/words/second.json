@@ -1,0 +1,17 @@
+{
+    "second": {
+        "en": "second",
+        "fr": "seconde",
+        "es": "segundo",
+        "pt": "segundo",
+        "ru": {
+            "cyr": "секунда",
+            "lat": "sekunda"
+        },
+        "il": {
+            "heb": "שנייה",
+            "lat": "shniya"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "among": {
+        "en": [
+            "I am among friends.",
+            "The keys are among the books.",
+            "We walk among the trees."
+        ],
+        "fr": [
+            "Je suis parmi des amis.",
+            "Les clés sont parmi les livres.",
+            "Nous marchons parmi les arbres."
+        ],
+        "es": [
+            "Estoy entre amigos.",
+            "Las llaves están entre los libros.",
+            "Caminamos entre los árboles."
+        ],
+        "pt": [
+            "Estou entre amigos.",
+            "As chaves estão entre os livros.",
+            "Caminhamos entre as árvores."
+        ],
+        "ru": {
+            "cyr": [
+                "Я среди друзей.",
+                "Ключи среди книг.",
+                "Мы идём среди деревьев."
+            ],
+            "lat": [
+                "Ya sredi druzey.",
+                "Klyuchi sredi knig.",
+                "My idyom sredi derevyev."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני בין חברים.",
+                "המפתחות בין הספרים.",
+                "אנחנו הולכים בין העצים."
+            ],
+            "lat": [
+                "ani bein chaverim.",
+                "ha-maftehot bein ha-sfarim.",
+                "anachnu holchim bein ha-etzim."
+            ]
+        }
+    },
+    "validated": false
+}

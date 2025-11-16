@@ -1,0 +1,49 @@
+{
+    "general": {
+        "en": [
+            "This is a general rule.",
+            "We need a general plan.",
+            "The general idea is clear."
+        ],
+        "fr": [
+            "C'est une règle générale.",
+            "Nous avons besoin d'un plan général.",
+            "L'idée générale est claire."
+        ],
+        "es": [
+            "Esta es una regla general.",
+            "Necesitamos un plan general.",
+            "La idea general es clara."
+        ],
+        "pt": [
+            "Esta é uma regra geral.",
+            "Precisamos de um plano geral.",
+            "A ideia geral é clara."
+        ],
+        "ru": {
+            "cyr": [
+                "Это общее правило.",
+                "Нам нужен общий план.",
+                "Общая идея ясна."
+            ],
+            "lat": [
+                "Eto obshchee pravilo.",
+                "Nam nuzhen obshchiy plan.",
+                "Obshchaya ideya yasna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה כלל כללי.",
+                "אנחנו צריכים תכנית כללית.",
+                "הרעיון הכללי ברור."
+            ],
+            "lat": [
+                "ze klal klali.",
+                "anachnu tsrikhim tokhnit klalit.",
+                "hara'ayon haklali barur."
+            ]
+        }
+    },
+    "validated": false
+}

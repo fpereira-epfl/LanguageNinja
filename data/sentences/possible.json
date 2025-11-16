@@ -1,0 +1,49 @@
+{
+    "possible": {
+        "en": [
+            "It is possible.",
+            "Is it possible today?",
+            "Anything is possible with time."
+        ],
+        "fr": [
+            "C'est possible.",
+            "Est-ce possible aujourd'hui ?",
+            "Tout est possible avec le temps."
+        ],
+        "es": [
+            "Es posible.",
+            "¿Es posible hoy?",
+            "Todo es posible con el tiempo."
+        ],
+        "pt": [
+            "É possível.",
+            "É possível hoje?",
+            "Tudo é possível com o tempo."
+        ],
+        "ru": {
+            "cyr": [
+                "Это возможно.",
+                "Это возможно сегодня?",
+                "Всё возможно со временем."
+            ],
+            "lat": [
+                "Eto vozmozhno.",
+                "Eto vozmozhno segodnya?",
+                "Vsyo vozmozhno so vremenem."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה אפשרי.",
+                "זה אפשרי היום?",
+                "הכול אפשרי עם הזמן."
+            ],
+            "lat": [
+                "ze efshari.",
+                "ze efshari hayom?",
+                "hakol efshari im hazman."
+            ]
+        }
+    },
+    "validated": false
+}

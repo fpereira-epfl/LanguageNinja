@@ -1,0 +1,17 @@
+{
+    "like": {
+        "en": "like",
+        "fr": "aimer",
+        "es": "gustar",
+        "pt": "gostar",
+        "ru": {
+            "cyr": "нравиться",
+            "lat": "nravitsya"
+        },
+        "il": {
+            "heb": "לאהוב",
+            "lat": "leehov"
+        }
+    },
+    "validated": false
+}

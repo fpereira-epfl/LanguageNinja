@@ -1,0 +1,49 @@
+{
+    "walk": {
+        "en": [
+            "I walk to school.",
+            "She walks every day.",
+            "We walk in the park."
+        ],
+        "fr": [
+            "Je vais à l'école à pied.",
+            "Elle marche tous les jours.",
+            "Nous marchons dans le parc."
+        ],
+        "es": [
+            "Camino a la escuela.",
+            "Ella camina todos los días.",
+            "Caminamos en el parque."
+        ],
+        "pt": [
+            "Eu caminho até a escola.",
+            "Ela caminha todos os dias.",
+            "Caminhamos no parque."
+        ],
+        "ru": {
+            "cyr": [
+                "Я хожу в школу пешком.",
+                "Она гуляет каждый день.",
+                "Мы гуляем в парке."
+            ],
+            "lat": [
+                "Ya khozhu v shkolu peshkom.",
+                "Ona gulyayet kazhdy den’.",
+                "My gulyayem v parke."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני הולך לבית הספר ברגל.",
+                "היא הולכת כל יום.",
+                "אנחנו הולכים בפארק."
+            ],
+            "lat": [
+                "Ani holekh leveit hasefer beregel.",
+                "Hi holekhet kol yom.",
+                "Anakhnu holkhim ba-park."
+            ]
+        }
+    },
+    "validated": false
+}

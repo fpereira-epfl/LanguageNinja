@@ -1,0 +1,17 @@
+{
+    "matter": {
+        "en": "matter",
+        "fr": "matière",
+        "es": "materia",
+        "pt": "matéria",
+        "ru": {
+            "cyr": "материя",
+            "lat": "materiya"
+        },
+        "il": {
+            "heb": "חומר",
+            "lat": "chomer"
+        }
+    },
+    "validated": false
+}

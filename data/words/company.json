@@ -1,0 +1,17 @@
+{
+    "company": {
+        "en": "company",
+        "fr": "entreprise",
+        "es": "empresa",
+        "pt": "empresa",
+        "ru": {
+            "cyr": "компания",
+            "lat": "kompaniya"
+        },
+        "il": {
+            "heb": "חברה",
+            "lat": "chevra"
+        }
+    },
+    "validated": false
+}

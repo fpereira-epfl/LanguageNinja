@@ -1,0 +1,17 @@
+{
+    "usual": {
+        "en": "usual",
+        "fr": "habituel",
+        "es": "habitual",
+        "pt": "usual",
+        "ru": {
+            "cyr": "обычный",
+            "lat": "obychniy"
+        },
+        "il": {
+            "heb": "רגיל",
+            "lat": "ragil"
+        }
+    },
+    "validated": false
+}

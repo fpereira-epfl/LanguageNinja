@@ -1,0 +1,17 @@
+{
+    "line": {
+        "en": "line",
+        "fr": "ligne",
+        "es": "línea",
+        "pt": "linha",
+        "ru": {
+            "cyr": "линия",
+            "lat": "liniya"
+        },
+        "il": {
+            "heb": "קו",
+            "lat": "kav"
+        }
+    },
+    "validated": false
+}

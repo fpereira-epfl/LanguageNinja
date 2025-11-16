@@ -1,0 +1,17 @@
+{
+    "early": {
+        "en": "early",
+        "fr": "tôt",
+        "es": "temprano",
+        "pt": "cedo",
+        "ru": {
+            "cyr": "рано",
+            "lat": "rano"
+        },
+        "il": {
+            "heb": "מוקדם",
+            "lat": "mukdam"
+        }
+    },
+    "validated": false
+}

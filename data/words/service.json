@@ -1,0 +1,17 @@
+{
+    "service": {
+        "en": "service",
+        "fr": "service",
+        "es": "servicio",
+        "pt": "serviço",
+        "ru": {
+            "cyr": "служба",
+            "lat": "sluzhba"
+        },
+        "il": {
+            "heb": "שירות",
+            "lat": "sherut"
+        }
+    },
+    "validated": false
+}

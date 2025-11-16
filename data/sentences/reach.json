@@ -1,0 +1,49 @@
+{
+    "reach": {
+        "en": [
+            "I can't reach the shelf.",
+            "We reached the station at noon.",
+            "You can reach me by email."
+        ],
+        "fr": [
+            "Je ne peux pas atteindre l'étagère.",
+            "Nous avons atteint la gare à midi.",
+            "Tu peux me joindre par e-mail."
+        ],
+        "es": [
+            "No puedo alcanzar el estante.",
+            "Llegamos a la estación a mediodía.",
+            "Puedes contactarme por correo electrónico."
+        ],
+        "pt": [
+            "Não consigo alcançar a prateleira.",
+            "Chegamos à estação ao meio-dia.",
+            "Você pode me contatar por e-mail."
+        ],
+        "ru": {
+            "cyr": [
+                "Я не могу достать до полки.",
+                "Мы приехали на станцию в полдень.",
+                "Ты можешь связаться со мной по электронной почте."
+            ],
+            "lat": [
+                "Ya ne mogu dostat’ do polki.",
+                "My priekhali na stantsiyu v polden’.",
+                "Ty mozhesh’ svyazat’sya so mnoy po elektronnoy pochte."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני לא יכול להגיע למדף.",
+                "הגענו לתחנה בצהריים.",
+                "אתה יכול להשיג אותי במייל."
+            ],
+            "lat": [
+                "ani lo yakhol lehagia la-madaf.",
+                "higanu la-tachana ba-tzohorayim.",
+                "ata yakhol lehasig oti be-mail."
+            ]
+        }
+    },
+    "validated": false
+}

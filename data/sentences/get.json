@@ -1,0 +1,49 @@
+{
+    "get": {
+        "en": [
+            "I get the job.",
+            "She gets the keys.",
+            "We get help."
+        ],
+        "fr": [
+            "J'obtiens le poste.",
+            "Elle obtient les clés.",
+            "Nous obtenons de l'aide."
+        ],
+        "es": [
+            "Obtengo el trabajo.",
+            "Ella obtiene las llaves.",
+            "Obtenemos ayuda."
+        ],
+        "pt": [
+            "Eu obtenho o emprego.",
+            "Ela obtém as chaves.",
+            "Nós obtemos ajuda."
+        ],
+        "ru": {
+            "cyr": [
+                "Я получаю работу.",
+                "Она получает ключи.",
+                "Мы получаем помощь."
+            ],
+            "lat": [
+                "Ya poluchayu rabotu.",
+                "Ona poluchayet klyuchi.",
+                "My poluchayem pomoshch’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מקבל את העבודה.",
+                "היא מקבלת את המפתחות.",
+                "אנחנו מקבלים עזרה."
+            ],
+            "lat": [
+                "ani mekabel et haavoda.",
+                "hi mekabelet et hamaftachot.",
+                "anachnu mekablim ezra."
+            ]
+        }
+    },
+    "validated": false
+}

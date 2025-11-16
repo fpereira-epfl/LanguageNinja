@@ -1,0 +1,49 @@
+{
+    "river": {
+        "en": [
+            "The river is long.",
+            "We swim in the river.",
+            "There is a bridge over the river."
+        ],
+        "fr": [
+            "La rivière est longue.",
+            "Nous nageons dans la rivière.",
+            "Il y a un pont au-dessus de la rivière."
+        ],
+        "es": [
+            "El río es largo.",
+            "Nadamos en el río.",
+            "Hay un puente sobre el río."
+        ],
+        "pt": [
+            "O rio é longo.",
+            "Nós nadamos no rio.",
+            "Há uma ponte sobre o rio."
+        ],
+        "ru": {
+            "cyr": [
+                "Река длинная.",
+                "Мы плаваем в реке.",
+                "Над рекой есть мост."
+            ],
+            "lat": [
+                "Reka dlinnaya.",
+                "My plavayem v reke.",
+                "Nad rekoy yest' most."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הנהר ארוך.",
+                "אנחנו שוחים בנהר.",
+                "יש גשר מעל הנהר."
+            ],
+            "lat": [
+                "ha-nahar aruch.",
+                "anachnu sochim be-nahar.",
+                "yesh gesher me'al ha-nahar."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "late": {
+        "en": [
+            "She arrived late.",
+            "They work late.",
+            "We ate late."
+        ],
+        "fr": [
+            "Elle est arrivée tard.",
+            "Ils travaillent tard.",
+            "Nous avons mangé tard."
+        ],
+        "es": [
+            "Ella llegó tarde.",
+            "Ellos trabajan tarde.",
+            "Comimos tarde."
+        ],
+        "pt": [
+            "Ela chegou tarde.",
+            "Eles trabalham tarde.",
+            "Comemos tarde."
+        ],
+        "ru": {
+            "cyr": [
+                "Она пришла поздно.",
+                "Они работают поздно.",
+                "Мы поели поздно."
+            ],
+            "lat": [
+                "Ona prishla pozdno.",
+                "Oni rabotayut pozdno.",
+                "My poeli pozdno."
+            ]
+        },
+        "il": {
+            "heb": [
+                "היא הגיעה מאוחר.",
+                "הם עובדים מאוחר.",
+                "אכלנו מאוחר."
+            ],
+            "lat": [
+                "hi higia meuchar.",
+                "hem ovdim meuchar.",
+                "achalnu meuchar."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "end": {
+        "en": [
+            "This is the end.",
+            "The end of the day is near.",
+            "We reached the end."
+        ],
+        "fr": [
+            "C'est la fin.",
+            "La fin de la journée est proche.",
+            "Nous avons atteint la fin."
+        ],
+        "es": [
+            "Este es el fin.",
+            "El fin del día está cerca.",
+            "Llegamos al final."
+        ],
+        "pt": [
+            "Este é o fim.",
+            "O fim do dia está perto.",
+            "Chegamos ao fim."
+        ],
+        "ru": {
+            "cyr": [
+                "Это конец.",
+                "Конец дня близок.",
+                "Мы достигли конца."
+            ],
+            "lat": [
+                "Eto konets.",
+                "Konets dnya blizok.",
+                "My dostigli kontsa."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה הסוף.",
+                "סוף היום קרוב.",
+                "הגענו לסוף."
+            ],
+            "lat": [
+                "ze hasof.",
+                "sof hayom karov.",
+                "higanu la-sof."
+            ]
+        }
+    },
+    "validated": false
+}

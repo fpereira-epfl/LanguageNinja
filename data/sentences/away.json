@@ -1,0 +1,49 @@
+{
+    "away": {
+        "en": [
+            "He lives far away.",
+            "The park is far away.",
+            "She is far away now."
+        ],
+        "fr": [
+            "Il habite loin.",
+            "Le parc est loin.",
+            "Elle est loin maintenant."
+        ],
+        "es": [
+            "Él vive lejos.",
+            "El parque está lejos.",
+            "Ella está lejos ahora."
+        ],
+        "pt": [
+            "Ele mora longe.",
+            "O parque fica longe.",
+            "Ela está longe agora."
+        ],
+        "ru": {
+            "cyr": [
+                "Он живёт далеко.",
+                "Парк далеко.",
+                "Она далеко сейчас."
+            ],
+            "lat": [
+                "On zhivyot daleko.",
+                "Park daleko.",
+                "Ona daleko seichas."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא גר רחוק.",
+                "הפארק רחוק.",
+                "היא רחוקה עכשיו."
+            ],
+            "lat": [
+                "hu gar rachok.",
+                "hapark rachok.",
+                "hi rechoka akhshav."
+            ]
+        }
+    },
+    "validated": false
+}

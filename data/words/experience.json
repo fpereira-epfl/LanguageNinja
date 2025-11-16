@@ -1,0 +1,17 @@
+{
+    "experience": {
+        "en": "experience",
+        "fr": "expérience",
+        "es": "experiencia",
+        "pt": "experiência",
+        "ru": {
+            "cyr": "опыт",
+            "lat": "opyt"
+        },
+        "il": {
+            "heb": "ניסיון",
+            "lat": "nisayon"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "book": {
+        "en": [
+            "This book is new.",
+            "I read a book.",
+            "The book is on the table."
+        ],
+        "fr": [
+            "Ce livre est nouveau.",
+            "Je lis un livre.",
+            "Le livre est sur la table."
+        ],
+        "es": [
+            "Este libro es nuevo.",
+            "Leo un libro.",
+            "El libro está sobre la mesa."
+        ],
+        "pt": [
+            "Este livro é novo.",
+            "Eu leio um livro.",
+            "O livro está sobre a mesa."
+        ],
+        "ru": {
+            "cyr": [
+                "Эта книга новая.",
+                "Я читаю книгу.",
+                "Книга на столе."
+            ],
+            "lat": [
+                "Eta kniga novaya.",
+                "Ya chitayu knigu.",
+                "Kniga na stole."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הספר הזה חדש.",
+                "אני קורא ספר.",
+                "הספר על השולחן."
+            ],
+            "lat": [
+                "hasefer hazeh chadash.",
+                "ani kore sefer.",
+                "hasefer al hashulchan."
+            ]
+        }
+    },
+    "validated": false
+}

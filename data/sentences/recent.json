@@ -1,0 +1,49 @@
+{
+    "recent": {
+        "en": [
+            "The movie is recent.",
+            "This is a recent photo.",
+            "The changes are recent."
+        ],
+        "fr": [
+            "Le film est récent.",
+            "Ceci est une photo récente.",
+            "Les changements sont récents."
+        ],
+        "es": [
+            "La película es reciente.",
+            "Esta es una foto reciente.",
+            "Los cambios son recientes."
+        ],
+        "pt": [
+            "O filme é recente.",
+            "Esta é uma foto recente.",
+            "As mudanças são recentes."
+        ],
+        "ru": {
+            "cyr": [
+                "Фильм недавний.",
+                "Это недавнее фото.",
+                "Изменения недавние."
+            ],
+            "lat": [
+                "Film nedavniy.",
+                "Eto nedavnee foto.",
+                "Izmeneniya nedavniye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הסרט מהזמן האחרון.",
+                "זו תמונה מהזמן האחרון.",
+                "השינויים מהזמן האחרון."
+            ],
+            "lat": [
+                "haseret mehazman ha'acharon.",
+                "zo tmuna mehazman ha'acharon.",
+                "hashinuyim mehazman ha'acharon."
+            ]
+        }
+    },
+    "validated": false
+}

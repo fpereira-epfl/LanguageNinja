@@ -1,0 +1,49 @@
+{
+    "every": {
+        "en": [
+            "Every day I walk.",
+            "Every apple is red.",
+            "I read every page."
+        ],
+        "fr": [
+            "Chaque jour je marche.",
+            "Chaque pomme est rouge.",
+            "Je lis chaque page."
+        ],
+        "es": [
+            "Cada día camino.",
+            "Cada manzana es roja.",
+            "Leo cada página."
+        ],
+        "pt": [
+            "Cada dia eu caminho.",
+            "Cada maçã é vermelha.",
+            "Leio cada página."
+        ],
+        "ru": {
+            "cyr": [
+                "Каждый день я гуляю.",
+                "Каждое яблоко красное.",
+                "Я читаю каждую страницу."
+            ],
+            "lat": [
+                "Kazhdyi den' ya gulyayu.",
+                "Kazhdoe yabloko krasnoe.",
+                "Ya chitayu kazhduyu stranitsu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "כל יום אני הולך.",
+                "כל תפוח אדום.",
+                "אני קורא כל דף."
+            ],
+            "lat": [
+                "kol yom ani holekh.",
+                "kol tapuach adom.",
+                "ani kore kol daf."
+            ]
+        }
+    },
+    "validated": false
+}

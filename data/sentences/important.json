@@ -1,0 +1,49 @@
+{
+    "important": {
+        "en": [
+            "This book is important.",
+            "It is very important.",
+            "The meeting is important."
+        ],
+        "fr": [
+            "Ce livre est important.",
+            "C'est très important.",
+            "La réunion est importante."
+        ],
+        "es": [
+            "Este libro es importante.",
+            "Es muy importante.",
+            "La reunión es importante."
+        ],
+        "pt": [
+            "Este livro é importante.",
+            "É muito importante.",
+            "A reunião é importante."
+        ],
+        "ru": {
+            "cyr": [
+                "Эта книга важна.",
+                "Это очень важно.",
+                "Встреча важна."
+            ],
+            "lat": [
+                "Eta kniga vazhna.",
+                "Eto ochen' vazhno.",
+                "Vstrecha vazhna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הספר הזה חשוב.",
+                "זה מאוד חשוב.",
+                "הפגישה חשובה."
+            ],
+            "lat": [
+                "ha-sefer ha-ze chashuv.",
+                "ze me'od chashuv.",
+                "ha-pgisha chashuva."
+            ]
+        }
+    },
+    "validated": false
+}

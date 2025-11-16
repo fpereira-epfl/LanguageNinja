@@ -1,0 +1,17 @@
+{
+    "show": {
+        "en": "show",
+        "fr": "montrer",
+        "es": "mostrar",
+        "pt": "mostrar",
+        "ru": {
+            "cyr": "показывать",
+            "lat": "pokazyvat"
+        },
+        "il": {
+            "heb": "להראות",
+            "lat": "leharot"
+        }
+    },
+    "validated": false
+}

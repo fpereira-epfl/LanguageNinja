@@ -1,0 +1,17 @@
+{
+    "young": {
+        "en": "young",
+        "fr": "jeune",
+        "es": "joven",
+        "pt": "jovem",
+        "ru": {
+            "cyr": "молодой",
+            "lat": "molodoy"
+        },
+        "il": {
+            "heb": "צעיר",
+            "lat": "tsair"
+        }
+    },
+    "validated": false
+}

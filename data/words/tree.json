@@ -1,0 +1,17 @@
+{
+    "tree": {
+        "en": "tree",
+        "fr": "arbre",
+        "es": "árbol",
+        "pt": "árvore",
+        "ru": {
+            "cyr": "дерево",
+            "lat": "derevo"
+        },
+        "il": {
+            "heb": "עץ",
+            "lat": "etz"
+        }
+    },
+    "validated": false
+}

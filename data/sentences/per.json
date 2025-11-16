@@ -1,0 +1,49 @@
+{
+    "per": {
+        "en": [
+            "I drink two cups of tea per day.",
+            "Tickets cost five dollars per person.",
+            "He drives 60 kilometers per hour."
+        ],
+        "fr": [
+            "Je bois deux tasses de thé par jour.",
+            "Les billets coûtent cinq dollars par personne.",
+            "Il conduit à 60 kilomètres par heure."
+        ],
+        "es": [
+            "Bebo dos tazas de té por día.",
+            "Los boletos cuestan cinco dólares por persona.",
+            "Él conduce a 60 kilómetros por hora."
+        ],
+        "pt": [
+            "Eu bebo duas xícaras de chá por dia.",
+            "Os ingressos custam cinco dólares por pessoa.",
+            "Ele dirige a 60 quilômetros por hora."
+        ],
+        "ru": {
+            "cyr": [
+                "Я пью две чашки чая в день.",
+                "Билеты стоят пять долларов на человека.",
+                "Он едет 60 километров в час."
+            ],
+            "lat": [
+                "Ya p'yu dve chashki chaya v den'.",
+                "Bilety stoyat pyat' dollarov na cheloveka.",
+                "On yedet 60 kilometrov v chas."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני שותה שתי כוסות תה ביום.",
+                "הכרטיסים עולים חמישה דולרים לאדם.",
+                "הוא נוהג 60 קילומטר לשעה."
+            ],
+            "lat": [
+                "ani shote shtei kosot te bayom.",
+                "ha-kartisim olim chamisha dolarim le-adam.",
+                "hu noheg 60 kilometr le-sha'a."
+            ]
+        }
+    },
+    "validated": false
+}

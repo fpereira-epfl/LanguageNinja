@@ -1,0 +1,17 @@
+{
+    "stand": {
+        "en": "stand",
+        "fr": "se tenir debout",
+        "es": "estar de pie",
+        "pt": "ficar de pé",
+        "ru": {
+            "cyr": "стоять",
+            "lat": "stoyat"
+        },
+        "il": {
+            "heb": "לעמוד",
+            "lat": "laamod"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "music": {
+        "en": [
+            "I like music.",
+            "The music is loud.",
+            "We listen to music."
+        ],
+        "fr": [
+            "J'aime la musique.",
+            "La musique est forte.",
+            "Nous écoutons de la musique."
+        ],
+        "es": [
+            "Me gusta la música.",
+            "La música está alta.",
+            "Escuchamos música."
+        ],
+        "pt": [
+            "Eu gosto de música.",
+            "A música está alta.",
+            "Nós ouvimos música."
+        ],
+        "ru": {
+            "cyr": [
+                "Мне нравится музыка.",
+                "Музыка громкая.",
+                "Мы слушаем музыку."
+            ],
+            "lat": [
+                "Mne nravitsya muzyka.",
+                "Muzyka gromkaya.",
+                "My slushaem muzyku."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אוהב מוזיקה.",
+                "המוזיקה חזקה.",
+                "אנחנו שומעים מוזיקה."
+            ],
+            "lat": [
+                "ani ohev muzika.",
+                "hamuzika chazaka.",
+                "anachnu shomim muzika."
+            ]
+        }
+    },
+    "validated": false
+}

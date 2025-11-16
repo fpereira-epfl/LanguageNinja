@@ -1,0 +1,49 @@
+{
+    "several": {
+        "en": [
+            "I have several books.",
+            "We visited several cities.",
+            "She asked several questions."
+        ],
+        "fr": [
+            "J'ai plusieurs livres.",
+            "Nous avons visité plusieurs villes.",
+            "Elle a posé plusieurs questions."
+        ],
+        "es": [
+            "Tengo varios libros.",
+            "Visitamos varias ciudades.",
+            "Ella hizo varias preguntas."
+        ],
+        "pt": [
+            "Tenho vários livros.",
+            "Visitamos várias cidades.",
+            "Ela fez várias perguntas."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня несколько книг.",
+                "Мы посетили несколько городов.",
+                "Она задала несколько вопросов."
+            ],
+            "lat": [
+                "U menya neskolko knig.",
+                "My posetili neskolko gorodov.",
+                "Ona zadala neskolko voprosov."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי כמה ספרים.",
+                "ביקרנו בכמה ערים.",
+                "היא שאלה כמה שאלות."
+            ],
+            "lat": [
+                "yesh li kama sfarim.",
+                "bikarnu be-kama arim.",
+                "hi sha'ala kama she'elot."
+            ]
+        }
+    },
+    "validated": false
+}

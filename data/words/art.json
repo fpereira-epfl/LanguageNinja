@@ -1,0 +1,17 @@
+{
+    "art": {
+        "en": "art",
+        "fr": "art",
+        "es": "arte",
+        "pt": "arte",
+        "ru": {
+            "cyr": "искусство",
+            "lat": "iskusstvo"
+        },
+        "il": {
+            "heb": "אמנות",
+            "lat": "omanut"
+        }
+    },
+    "validated": false
+}

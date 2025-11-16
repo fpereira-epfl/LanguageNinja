@@ -1,0 +1,17 @@
+{
+    "child": {
+        "en": "child",
+        "fr": "enfant",
+        "es": "niño",
+        "pt": "criança",
+        "ru": {
+            "cyr": "ребёнок",
+            "lat": "rebyonok"
+        },
+        "il": {
+            "heb": "ילד",
+            "lat": "yeled"
+        }
+    },
+    "validated": false
+}

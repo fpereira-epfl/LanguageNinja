@@ -1,0 +1,17 @@
+{
+    "until": {
+        "en": "until",
+        "fr": "jusqu'à",
+        "es": "hasta",
+        "pt": "até",
+        "ru": {
+            "cyr": "до",
+            "lat": "do"
+        },
+        "il": {
+            "heb": "עד",
+            "lat": "ad"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "far": {
+        "en": [
+            "The school is far.",
+            "It is far from here.",
+            "Is the station far?"
+        ],
+        "fr": [
+            "L'école est loin.",
+            "C'est loin d'ici.",
+            "La gare est loin ?"
+        ],
+        "es": [
+            "La escuela está lejos.",
+            "Está lejos de aquí.",
+            "¿La estación está lejos?"
+        ],
+        "pt": [
+            "A escola é longe.",
+            "É longe daqui.",
+            "A estação é longe?"
+        ],
+        "ru": {
+            "cyr": [
+                "Школа далеко.",
+                "Это далеко отсюда.",
+                "Станция далеко?"
+            ],
+            "lat": [
+                "Shkola daleko.",
+                "Eto daleko otsyuda.",
+                "Stantsiya daleko?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "בית הספר רחוק.",
+                "זה רחוק מכאן.",
+                "התחנה רחוקה?"
+            ],
+            "lat": [
+                "beit hasefer rachok.",
+                "ze rachok mikan.",
+                "hatachana rechoka?"
+            ]
+        }
+    },
+    "validated": false
+}

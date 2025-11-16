@@ -1,0 +1,49 @@
+{
+    "though": {
+        "en": [
+            "Though I am tired, I work.",
+            "Though it is raining, we play.",
+            "Though it is hard, he tries."
+        ],
+        "fr": [
+            "Bien que je sois fatigué, je travaille.",
+            "Bien qu'il pleuve, nous jouons.",
+            "Bien que ce soit difficile, il essaie."
+        ],
+        "es": [
+            "Aunque estoy cansado, trabajo.",
+            "Aunque llueve, jugamos.",
+            "Aunque es difícil, él intenta."
+        ],
+        "pt": [
+            "Embora eu esteja cansado, eu trabalho.",
+            "Embora chova, nós brincamos.",
+            "Embora seja difícil, ele tenta."
+        ],
+        "ru": {
+            "cyr": [
+                "Хотя я устал, я работаю.",
+                "Хотя идёт дождь, мы играем.",
+                "Хотя это трудно, он пытается."
+            ],
+            "lat": [
+                "Khotya ya ustal, ya rabotayu.",
+                "Khotya idyot dozhd’, my igraem.",
+                "Khotya eto trudno, on pytayetsya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "למרות שאני עייף, אני עובד.",
+                "למרות שיורד גשם, אנחנו משחקים.",
+                "למרות שזה קשה, הוא מנסה."
+            ],
+            "lat": [
+                "lamrot she ani ayef, ani oved.",
+                "lamrot she yored geshem, anachnu mesachakim.",
+                "lamrot she ze kashe, hu menase."
+            ]
+        }
+    },
+    "validated": false
+}

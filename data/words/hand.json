@@ -1,0 +1,17 @@
+{
+    "hand": {
+        "en": "hand",
+        "fr": "main",
+        "es": "mano",
+        "pt": "mão",
+        "ru": {
+            "cyr": "рука",
+            "lat": "ruka"
+        },
+        "il": {
+            "heb": "יד",
+            "lat": "yad"
+        }
+    },
+    "validated": false
+}

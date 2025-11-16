@@ -1,0 +1,17 @@
+{
+    "no": {
+        "en": "no",
+        "fr": "non",
+        "es": "no",
+        "pt": "não",
+        "ru": {
+            "cyr": "нет",
+            "lat": "net"
+        },
+        "il": {
+            "heb": "לא",
+            "lat": "lo"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "idea": {
+        "en": [
+            "I have an idea.",
+            "Her idea is good.",
+            "The idea is simple."
+        ],
+        "fr": [
+            "J'ai une idée.",
+            "Son idée est bonne.",
+            "L'idée est simple."
+        ],
+        "es": [
+            "Tengo una idea.",
+            "Su idea es buena.",
+            "La idea es simple."
+        ],
+        "pt": [
+            "Tenho uma ideia.",
+            "A ideia dela é boa.",
+            "A ideia é simples."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня есть идея.",
+                "Ее идея хорошая.",
+                "Идея простая."
+            ],
+            "lat": [
+                "U menya yest' ideya.",
+                "Ee ideya khoroshaya.",
+                "Ideya prostaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי רעיון.",
+                "הרעיון שלה טוב.",
+                "הרעיון פשוט."
+            ],
+            "lat": [
+                "yesh li ra'ayon.",
+                "hara'ayon shela tov.",
+                "hara'ayon pashut."
+            ]
+        }
+    },
+    "validated": false
+}

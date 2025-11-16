@@ -1,0 +1,49 @@
+{
+    "change": {
+        "en": [
+            "The change is small.",
+            "I see a change.",
+            "We need a change."
+        ],
+        "fr": [
+            "Le changement est petit.",
+            "Je vois un changement.",
+            "Nous avons besoin d'un changement."
+        ],
+        "es": [
+            "El cambio es pequeño.",
+            "Yo veo un cambio.",
+            "Necesitamos un cambio."
+        ],
+        "pt": [
+            "A mudança é pequena.",
+            "Eu vejo uma mudança.",
+            "Nós precisamos de uma mudança."
+        ],
+        "ru": {
+            "cyr": [
+                "Изменение маленькое.",
+                "Я вижу изменение.",
+                "Нам нужно изменение."
+            ],
+            "lat": [
+                "Izmenenie malen'koye.",
+                "Ya vizhu izmenenie.",
+                "Nam nuzhno izmenenie."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השינוי קטן.",
+                "אני רואה שינוי.",
+                "אנחנו צריכים שינוי."
+            ],
+            "lat": [
+                "hashinui katan.",
+                "ani ro'eh shinui.",
+                "anachnu tzrikhim shinui."
+            ]
+        }
+    },
+    "validated": false
+}

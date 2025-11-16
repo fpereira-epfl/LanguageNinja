@@ -1,0 +1,17 @@
+{
+    "might": {
+        "en": "might",
+        "fr": "peut-être",
+        "es": "quizás",
+        "pt": "talvez",
+        "ru": {
+            "cyr": "возможно",
+            "lat": "vozmozhno"
+        },
+        "il": {
+            "heb": "אולי",
+            "lat": "ulai"
+        }
+    },
+    "validated": false
+}

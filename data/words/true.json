@@ -1,0 +1,17 @@
+{
+    "true": {
+        "en": "true",
+        "fr": "vrai",
+        "es": "verdadero",
+        "pt": "verdadeiro",
+        "ru": {
+            "cyr": "истинный",
+            "lat": "istinnyy"
+        },
+        "il": {
+            "heb": "אמיתי",
+            "lat": "amiti"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "sound": {
+        "en": "sound",
+        "fr": "son",
+        "es": "sonido",
+        "pt": "som",
+        "ru": {
+            "cyr": "звук",
+            "lat": "zvuk"
+        },
+        "il": {
+            "heb": "צליל",
+            "lat": "tzlil"
+        }
+    },
+    "validated": false
+}

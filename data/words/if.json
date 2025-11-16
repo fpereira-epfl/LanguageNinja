@@ -1,0 +1,17 @@
+{
+    "if": {
+        "en": "if",
+        "fr": "si",
+        "es": "si",
+        "pt": "se",
+        "ru": {
+            "cyr": "если",
+            "lat": "yesli"
+        },
+        "il": {
+            "heb": "אם",
+            "lat": "im"
+        }
+    },
+    "validated": false
+}

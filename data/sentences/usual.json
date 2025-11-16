@@ -1,0 +1,49 @@
+{
+    "usual": {
+        "en": [
+            "This is the usual way.",
+            "He came at the usual time.",
+            "Is this the usual price?"
+        ],
+        "fr": [
+            "C'est la façon habituelle.",
+            "Il est venu à l'heure habituelle.",
+            "Est-ce le prix habituel ?"
+        ],
+        "es": [
+            "Esta es la manera habitual.",
+            "Él vino a la hora habitual.",
+            "¿Es este el precio habitual?"
+        ],
+        "pt": [
+            "Esta é a maneira habitual.",
+            "Ele veio na hora habitual.",
+            "Este é o preço habitual?"
+        ],
+        "ru": {
+            "cyr": [
+                "Это обычный способ.",
+                "Он пришел в обычное время.",
+                "Это обычная цена?"
+            ],
+            "lat": [
+                "Eto obychnyy sposob.",
+                "On prishel v obychnoe vremya.",
+                "Eto obychnaya tsena?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו הדרך הרגילה.",
+                "הוא הגיע בזמן הרגיל.",
+                "זה המחיר הרגיל?"
+            ],
+            "lat": [
+                "zo haderekh haragila.",
+                "hu higia bazman haragil.",
+                "ze hamechir haragil?"
+            ]
+        }
+    },
+    "validated": false
+}

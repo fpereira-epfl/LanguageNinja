@@ -1,0 +1,17 @@
+{
+    "kind": {
+        "en": "kind",
+        "fr": "genre",
+        "es": "tipo",
+        "pt": "tipo",
+        "ru": {
+            "cyr": "вид",
+            "lat": "vid"
+        },
+        "il": {
+            "heb": "סוג",
+            "lat": "sug"
+        }
+    },
+    "validated": false
+}

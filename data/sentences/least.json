@@ -1,0 +1,49 @@
+{
+    "least": {
+        "en": [
+            "This is the least expensive book.",
+            "At least we tried.",
+            "She is the least tired of all."
+        ],
+        "fr": [
+            "C'est le livre le moins cher.",
+            "Au moins, nous avons essayé.",
+            "Elle est la moins fatiguée de toutes."
+        ],
+        "es": [
+            "Este es el libro menos caro.",
+            "Al menos lo intentamos.",
+            "Ella es la menos cansada de todas."
+        ],
+        "pt": [
+            "Este é o livro menos caro.",
+            "Pelo menos, nós tentamos.",
+            "Ela é a menos cansada de todas."
+        ],
+        "ru": {
+            "cyr": [
+                "Это наименее дорогая книга.",
+                "По крайней мере, мы попытались.",
+                "Она меньше всех устала."
+            ],
+            "lat": [
+                "Eto naimenee dorogaya kniga.",
+                "Po krayney mere, my popytalis’.",
+                "Ona menshe vsekh ustala."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה הספר הכי פחות יקר.",
+                "לפחות ניסינו.",
+                "היא הכי פחות עייפה מכולן."
+            ],
+            "lat": [
+                "ze ha-sefer ha-khi pachot yakar.",
+                "lefakhot nisinu.",
+                "hi ha-khi pachot ayefa mikulan."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "read": {
+        "en": "read",
+        "fr": "lire",
+        "es": "leer",
+        "pt": "ler",
+        "ru": {
+            "cyr": "читать",
+            "lat": "chitat'"
+        },
+        "il": {
+            "heb": "לקרוא",
+            "lat": "likro"
+        }
+    },
+    "validated": false
+}

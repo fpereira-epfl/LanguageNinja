@@ -1,0 +1,49 @@
+{
+    "note": {
+        "en": [
+            "I write a note.",
+            "Read the note.",
+            "This note is short."
+        ],
+        "fr": [
+            "J'écris une note.",
+            "Lis la note.",
+            "Cette note est courte."
+        ],
+        "es": [
+            "Escribo una nota.",
+            "Lee la nota.",
+            "Esta nota es corta."
+        ],
+        "pt": [
+            "Eu escrevo uma nota.",
+            "Leia a nota.",
+            "Esta nota é curta."
+        ],
+        "ru": {
+            "cyr": [
+                "Я пишу записку.",
+                "Прочитай записку.",
+                "Эта записка короткая."
+            ],
+            "lat": [
+                "Ya pishu zapisku.",
+                "Prochitay zapisku.",
+                "Eta zapiska korotkaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני כותב פתק.",
+                "קרא את הפתק.",
+                "הפתק קצר."
+            ],
+            "lat": [
+                "ani kotev petek.",
+                "kra et hapetek.",
+                "hapetek katsar."
+            ]
+        }
+    },
+    "validated": false
+}

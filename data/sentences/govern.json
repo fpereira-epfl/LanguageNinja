@@ -1,0 +1,49 @@
+{
+    "govern": {
+        "en": [
+            "They govern the country.",
+            "Who will govern after the election?",
+            "A good leader should govern fairly."
+        ],
+        "fr": [
+            "Ils gouvernent le pays.",
+            "Qui gouvernera après l'élection ?",
+            "Un bon dirigeant doit gouverner équitablement."
+        ],
+        "es": [
+            "Ellos gobiernan el país.",
+            "¿Quién gobernará después de la elección?",
+            "Un buen líder debe gobernar con justicia."
+        ],
+        "pt": [
+            "Eles governam o país.",
+            "Quem governará após a eleição?",
+            "Um bom líder deve governar com justiça."
+        ],
+        "ru": {
+            "cyr": [
+                "Они управляют страной.",
+                "Кто будет управлять после выборов?",
+                "Хороший лидер должен управлять справедливо."
+            ],
+            "lat": [
+                "Oni upravlyayut stranoy.",
+                "Kto budet upravlyat’ posle vyborov?",
+                "Khoroshiy lider dolzhen upravlyat’ spravedlivo."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הם מושלים במדינה.",
+                "מי ימשול אחרי הבחירות?",
+                "מנהיג טוב צריך למשול בהגינות."
+            ],
+            "lat": [
+                "hem moshlim bamedina.",
+                "mi yimshol acharei habchirot?",
+                "manhig tov tsarikh limshol behaginut."
+            ]
+        }
+    },
+    "validated": false
+}

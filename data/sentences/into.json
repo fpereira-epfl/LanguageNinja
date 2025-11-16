@@ -1,0 +1,49 @@
+{
+    "into": {
+        "en": [
+            "He goes into the room.",
+            "Put the apples into the basket.",
+            "She fell into the water."
+        ],
+        "fr": [
+            "Il entre dans la pièce.",
+            "Mets les pommes dans le panier.",
+            "Elle est tombée dans l'eau."
+        ],
+        "es": [
+            "Él entra en la habitación.",
+            "Pon las manzanas en la cesta.",
+            "Ella cayó en el agua."
+        ],
+        "pt": [
+            "Ele entra no quarto.",
+            "Coloca as maçãs no cesto.",
+            "Ela caiu na água."
+        ],
+        "ru": {
+            "cyr": [
+                "Он входит в комнату.",
+                "Положи яблоки в корзину.",
+                "Она упала в воду."
+            ],
+            "lat": [
+                "On vkhodit v komnatu.",
+                "Polozhi yabloki v korzinu.",
+                "Ona upala v vodu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא נכנס לתוך החדר.",
+                "שים את התפוחים לתוך הסל.",
+                "היא נפלה לתוך המים."
+            ],
+            "lat": [
+                "hu nikhnas letokh ha-cheder.",
+                "sim et ha-tapuḥim letokh ha-sal.",
+                "hi nafla letokh ha-mayim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "hear": {
+        "en": [
+            "I hear music.",
+            "She hears the baby.",
+            "They hear the birds."
+        ],
+        "fr": [
+            "J'entends de la musique.",
+            "Elle entend le bébé.",
+            "Ils entendent les oiseaux."
+        ],
+        "es": [
+            "Oigo música.",
+            "Ella oye al bebé.",
+            "Ellos oyen a los pájaros."
+        ],
+        "pt": [
+            "Eu ouço música.",
+            "Ela ouve o bebê.",
+            "Eles ouvem os pássaros."
+        ],
+        "ru": {
+            "cyr": [
+                "Я слышу музыку.",
+                "Она слышит ребёнка.",
+                "Они слышат птиц."
+            ],
+            "lat": [
+                "Ya slyshu muzyku.",
+                "Ona slyshit rebyonka.",
+                "Oni slyshat ptits."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני שומע מוזיקה.",
+                "היא שומעת את התינוק.",
+                "הם שומעים את הציפורים."
+            ],
+            "lat": [
+                "ani shomea muzika.",
+                "hi shoma'at et hatinok.",
+                "hem shom'im et hatziporim."
+            ]
+        }
+    },
+    "validated": false
+}

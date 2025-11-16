@@ -1,0 +1,17 @@
+{
+    "turn": {
+        "en": "turn",
+        "fr": "tourner",
+        "es": "girar",
+        "pt": "virar",
+        "ru": {
+            "cyr": "повернуть",
+            "lat": "povernut"
+        },
+        "il": {
+            "heb": "לפנות",
+            "lat": "lifnot"
+        }
+    },
+    "validated": false
+}

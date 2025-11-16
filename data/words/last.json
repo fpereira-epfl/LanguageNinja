@@ -1,0 +1,17 @@
+{
+    "last": {
+        "en": "last",
+        "fr": "dernier",
+        "es": "último",
+        "pt": "último",
+        "ru": {
+            "cyr": "последний",
+            "lat": "posledniy"
+        },
+        "il": {
+            "heb": "אחרון",
+            "lat": "acharon"
+        }
+    },
+    "validated": false
+}

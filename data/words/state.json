@@ -1,0 +1,17 @@
+{
+    "state": {
+        "en": "state",
+        "fr": "état",
+        "es": "estado",
+        "pt": "estado",
+        "ru": {
+            "cyr": "государство",
+            "lat": "gosudarstvo"
+        },
+        "il": {
+            "heb": "מדינה",
+            "lat": "medina"
+        }
+    },
+    "validated": false
+}

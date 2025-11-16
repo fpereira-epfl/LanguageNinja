@@ -1,0 +1,17 @@
+{
+    "should": {
+        "en": "should",
+        "fr": "devrait",
+        "es": "debería",
+        "pt": "deveria",
+        "ru": {
+            "cyr": "следует",
+            "lat": "sleduet"
+        },
+        "il": {
+            "heb": "צריך",
+            "lat": "tsarikh"
+        }
+    },
+    "validated": false
+}

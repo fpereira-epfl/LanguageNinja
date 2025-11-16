@@ -1,0 +1,17 @@
+{
+    "either": {
+        "en": "either",
+        "fr": "l'un ou l'autre",
+        "es": "cualquiera de los dos",
+        "pt": "qualquer um dos dois",
+        "ru": {
+            "cyr": "любой из двух",
+            "lat": "lyuboy iz dvukh"
+        },
+        "il": {
+            "heb": "אחד מן השניים",
+            "lat": "echad min hashnayim"
+        }
+    },
+    "validated": false
+}

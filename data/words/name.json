@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "name",
+        "fr": "nom",
+        "es": "nombre",
+        "pt": "nome",
+        "ru": {
+            "cyr": "имя",
+            "lat": "imya"
+        },
+        "il": {
+            "heb": "שם",
+            "lat": "shem"
+        }
+    },
+    "validated": false
+}

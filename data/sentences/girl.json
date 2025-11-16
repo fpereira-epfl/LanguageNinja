@@ -1,0 +1,49 @@
+{
+    "girl": {
+        "en": [
+            "The girl is happy.",
+            "I see a girl.",
+            "The girl runs fast."
+        ],
+        "fr": [
+            "La fille est heureuse.",
+            "Je vois une fille.",
+            "La fille court vite."
+        ],
+        "es": [
+            "La niña está feliz.",
+            "Veo a una niña.",
+            "La niña corre rápido."
+        ],
+        "pt": [
+            "A menina está feliz.",
+            "Eu vejo uma menina.",
+            "A menina corre rápido."
+        ],
+        "ru": {
+            "cyr": [
+                "Девочка счастлива.",
+                "Я вижу девочку.",
+                "Девочка быстро бегает."
+            ],
+            "lat": [
+                "Devochka schastliva.",
+                "Ya vizhu devochku.",
+                "Devochka bystro begaet."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הילדה שמחה.",
+                "אני רואה ילדה.",
+                "הילדה רצה מהר."
+            ],
+            "lat": [
+                "ha-yalda smecha.",
+                "ani ro'eh yalda.",
+                "ha-yalda ratza maher."
+            ]
+        }
+    },
+    "validated": false
+}

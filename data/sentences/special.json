@@ -1,0 +1,49 @@
+{
+    "special": {
+        "en": [
+            "This cake is special.",
+            "She is a special friend.",
+            "This day is special."
+        ],
+        "fr": [
+            "Ce gâteau est spécial.",
+            "Elle est une amie spéciale.",
+            "Ce jour est spécial."
+        ],
+        "es": [
+            "Este pastel es especial.",
+            "Ella es una amiga especial.",
+            "Este día es especial."
+        ],
+        "pt": [
+            "Este bolo é especial.",
+            "Ela é uma amiga especial.",
+            "Este dia é especial."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот торт особенный.",
+                "Она особенная подруга.",
+                "Этот день особенный."
+            ],
+            "lat": [
+                "Etot tort osobennyy.",
+                "Ona osobennaya podruga.",
+                "Etot den’ osobennyy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "העוגה הזאת מיוחדת.",
+                "היא חברה מיוחדת.",
+                "היום הזה מיוחד."
+            ],
+            "lat": [
+                "ha'uga hazot meyukhedet.",
+                "hi khavera meyukhedet.",
+                "hayom haze meyukhad."
+            ]
+        }
+    },
+    "validated": false
+}

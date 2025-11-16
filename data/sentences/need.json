@@ -1,0 +1,49 @@
+{
+    "need": {
+        "en": [
+            "I need water.",
+            "She needs help.",
+            "Do we need money?"
+        ],
+        "fr": [
+            "J'ai besoin d'eau.",
+            "Elle a besoin d'aide.",
+            "Est-ce que nous avons besoin d'argent ?"
+        ],
+        "es": [
+            "Necesito agua.",
+            "Ella necesita ayuda.",
+            "¿Necesitamos dinero?"
+        ],
+        "pt": [
+            "Preciso de água.",
+            "Ela precisa de ajuda.",
+            "Precisamos de dinheiro?"
+        ],
+        "ru": {
+            "cyr": [
+                "Мне нужна вода.",
+                "Ей нужна помощь.",
+                "Нам нужны деньги?"
+            ],
+            "lat": [
+                "Mne nuzhna voda.",
+                "Ey nuzhna pomoshch’.",
+                "Nam nuzhny den’gi?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני צריך מים.",
+                "היא צריכה עזרה.",
+                "האם אנחנו צריכים כסף?"
+            ],
+            "lat": [
+                "ani tsarich mayim.",
+                "hi tsricha ezra.",
+                "ha'im anachnu tsrichim kesef?"
+            ]
+        }
+    },
+    "validated": false
+}

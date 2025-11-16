@@ -1,0 +1,17 @@
+{
+    "go": {
+        "en": "go",
+        "fr": "aller",
+        "es": "ir",
+        "pt": "ir",
+        "ru": {
+            "cyr": "идти",
+            "lat": "idti"
+        },
+        "il": {
+            "heb": "ללכת",
+            "lat": "lalechet"
+        }
+    },
+    "validated": false
+}

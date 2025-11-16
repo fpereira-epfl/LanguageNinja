@@ -1,0 +1,17 @@
+{
+    "first": {
+        "en": "first",
+        "fr": "premier",
+        "es": "primero",
+        "pt": "primeiro",
+        "ru": {
+            "cyr": "первый",
+            "lat": "pervyy"
+        },
+        "il": {
+            "heb": "ראשון",
+            "lat": "rishon"
+        }
+    },
+    "validated": false
+}

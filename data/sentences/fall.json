@@ -1,0 +1,49 @@
+{
+    "fall": {
+        "en": [
+            "The leaves fall.",
+            "The apple falls.",
+            "I fell yesterday."
+        ],
+        "fr": [
+            "Les feuilles tombent.",
+            "La pomme tombe.",
+            "Je suis tombé hier."
+        ],
+        "es": [
+            "Las hojas caen.",
+            "La manzana cae.",
+            "Ayer me caí."
+        ],
+        "pt": [
+            "As folhas caem.",
+            "A maçã cai.",
+            "Eu caí ontem."
+        ],
+        "ru": {
+            "cyr": [
+                "Листья падают.",
+                "Яблоко падает.",
+                "Я упал вчера."
+            ],
+            "lat": [
+                "List’ya padayut.",
+                "Yabloko padayet.",
+                "Ya upal vchera."
+            ]
+        },
+        "il": {
+            "heb": [
+                "העלים נופלים.",
+                "התפוח נופל.",
+                "נפלתי אתמול."
+            ],
+            "lat": [
+                "ha'alim noflim.",
+                "hatapuach nofel.",
+                "nafalti etmol."
+            ]
+        }
+    },
+    "validated": false
+}

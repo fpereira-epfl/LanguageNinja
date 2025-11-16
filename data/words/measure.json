@@ -1,0 +1,17 @@
+{
+    "measure": {
+        "en": "measure",
+        "fr": "mesure",
+        "es": "medida",
+        "pt": "medida",
+        "ru": {
+            "cyr": "мера",
+            "lat": "mera"
+        },
+        "il": {
+            "heb": "מידה",
+            "lat": "midah"
+        }
+    },
+    "validated": false
+}

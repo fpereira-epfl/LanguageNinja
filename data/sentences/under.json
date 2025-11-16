@@ -1,0 +1,49 @@
+{
+    "under": {
+        "en": [
+            "The cat is under the table.",
+            "The key is under the book.",
+            "We sit under a tree."
+        ],
+        "fr": [
+            "Le chat est sous la table.",
+            "La clé est sous le livre.",
+            "Nous nous asseyons sous un arbre."
+        ],
+        "es": [
+            "El gato está bajo la mesa.",
+            "La llave está bajo el libro.",
+            "Nos sentamos bajo un árbol."
+        ],
+        "pt": [
+            "O gato está sob a mesa.",
+            "A chave está sob o livro.",
+            "Nós nos sentamos sob uma árvore."
+        ],
+        "ru": {
+            "cyr": [
+                "Кошка под столом.",
+                "Ключ под книгой.",
+                "Мы сидим под деревом."
+            ],
+            "lat": [
+                "Koshka pod stolom.",
+                "Klyuch pod knigoy.",
+                "My sidim pod derevom."
+            ]
+        },
+        "il": {
+            "heb": [
+                "החתול מתחת לשולחן.",
+                "המפתח מתחת לספר.",
+                "אנחנו יושבים מתחת לעץ."
+            ],
+            "lat": [
+                "hachatul mitachat la-shulchan.",
+                "ha-mafteach mitachat le-sefer.",
+                "anachnu yoshvim mitachat la-etz."
+            ]
+        }
+    },
+    "validated": false
+}

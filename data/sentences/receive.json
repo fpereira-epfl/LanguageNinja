@@ -1,0 +1,49 @@
+{
+    "receive": {
+        "en": [
+            "I receive a letter.",
+            "Did you receive my email?",
+            "We receive many calls."
+        ],
+        "fr": [
+            "Je reçois une lettre.",
+            "As-tu reçu mon e-mail ?",
+            "Nous recevons beaucoup d'appels."
+        ],
+        "es": [
+            "Recibo una carta.",
+            "¿Recibiste mi correo electrónico?",
+            "Recibimos muchas llamadas."
+        ],
+        "pt": [
+            "Recebo uma carta.",
+            "Você recebeu meu e-mail?",
+            "Recebemos muitas ligações."
+        ],
+        "ru": {
+            "cyr": [
+                "Я получаю письмо.",
+                "Ты получил моё электронное письмо?",
+                "Мы получаем много звонков."
+            ],
+            "lat": [
+                "Ya poluchayu pis’mo.",
+                "Ty poluchil moyo elektronnoe pis’mo?",
+                "My poluchaem mnogo zvonkov."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מקבל מכתב.",
+                "קיבלת את האימייל שלי?",
+                "אנחנו מקבלים הרבה שיחות."
+            ],
+            "lat": [
+                "ani mekabel mikhtav.",
+                "kibalta et ha-imeyl sheli?",
+                "anachnu mekablim harbe sikhot."
+            ]
+        }
+    },
+    "validated": false
+}

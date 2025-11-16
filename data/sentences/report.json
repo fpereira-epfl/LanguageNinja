@@ -1,0 +1,49 @@
+{
+    "report": {
+        "en": [
+            "We read the report.",
+            "The report is long.",
+            "She wrote a report."
+        ],
+        "fr": [
+            "Nous lisons le rapport.",
+            "Le rapport est long.",
+            "Elle a écrit un rapport."
+        ],
+        "es": [
+            "Leemos el informe.",
+            "El informe es largo.",
+            "Ella escribió un informe."
+        ],
+        "pt": [
+            "Lemos o relatório.",
+            "O relatório é longo.",
+            "Ela escreveu um relatório."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы читаем отчёт.",
+                "Отчёт длинный.",
+                "Она написала отчёт."
+            ],
+            "lat": [
+                "My chitaem otchet.",
+                "Otchet dlinnyy.",
+                "Ona napisala otchet."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו קוראים את הדוח.",
+                "הדוח ארוך.",
+                "היא כתבה דוח."
+            ],
+            "lat": [
+                "anachnu korim et haduach.",
+                "haduach aruch.",
+                "hi katva duach."
+            ]
+        }
+    },
+    "validated": false
+}

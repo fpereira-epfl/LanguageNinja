@@ -1,0 +1,17 @@
+{
+    "hold": {
+        "en": "hold",
+        "fr": "tenir",
+        "es": "sostener",
+        "pt": "segurar",
+        "ru": {
+            "cyr": "держать",
+            "lat": "derzhat"
+        },
+        "il": {
+            "heb": "להחזיק",
+            "lat": "lehachzik"
+        }
+    },
+    "validated": false
+}

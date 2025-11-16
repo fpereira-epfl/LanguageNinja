@@ -1,0 +1,17 @@
+{
+    "world": {
+        "en": "world",
+        "fr": "monde",
+        "es": "mundo",
+        "pt": "mundo",
+        "ru": {
+            "cyr": "мир",
+            "lat": "mir"
+        },
+        "il": {
+            "heb": "עולם",
+            "lat": "olam"
+        }
+    },
+    "validated": false
+}

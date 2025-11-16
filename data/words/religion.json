@@ -1,0 +1,17 @@
+{
+    "religion": {
+        "en": "religion",
+        "fr": "religion",
+        "es": "religión",
+        "pt": "religião",
+        "ru": {
+            "cyr": "религия",
+            "lat": "religiya"
+        },
+        "il": {
+            "heb": "דת",
+            "lat": "dat"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "program": {
+        "en": [
+            "The program starts now.",
+            "I like this program.",
+            "We watch the program."
+        ],
+        "fr": [
+            "Le programme commence maintenant.",
+            "J'aime ce programme.",
+            "Nous regardons le programme."
+        ],
+        "es": [
+            "El programa empieza ahora.",
+            "Me gusta este programa.",
+            "Vemos el programa."
+        ],
+        "pt": [
+            "O programa começa agora.",
+            "Gosto deste programa.",
+            "Vemos o programa."
+        ],
+        "ru": {
+            "cyr": [
+                "Программа начинается сейчас.",
+                "Мне нравится эта программа.",
+                "Мы смотрим программу."
+            ],
+            "lat": [
+                "Programma nachinayetsya seychas.",
+                "Mne nravitsya eta programma.",
+                "My smotrim programmu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "התוכנית מתחילה עכשיו.",
+                "אני אוהב את התוכנית הזאת.",
+                "אנחנו צופים בתוכנית."
+            ],
+            "lat": [
+                "ha tochnit matchila achshav.",
+                "ani ohev et ha tochnit hazot.",
+                "anachnu tsofim ba tochnit."
+            ]
+        }
+    },
+    "validated": false
+}

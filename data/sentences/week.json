@@ -1,0 +1,49 @@
+{
+    "week": {
+        "en": [
+            "The week is long.",
+            "Next week, I work.",
+            "This week, we rest."
+        ],
+        "fr": [
+            "La semaine est longue.",
+            "La semaine prochaine, je travaille.",
+            "Cette semaine, nous nous reposons."
+        ],
+        "es": [
+            "La semana es larga.",
+            "La próxima semana, trabajo.",
+            "Esta semana, descansamos."
+        ],
+        "pt": [
+            "A semana é longa.",
+            "Na próxima semana, eu trabalho.",
+            "Esta semana, descansamos."
+        ],
+        "ru": {
+            "cyr": [
+                "Неделя длинная.",
+                "На следующей неделе я работаю.",
+                "На этой неделе мы отдыхаем."
+            ],
+            "lat": [
+                "Nedelya dlinnaya.",
+                "Na sleduyushchey nedele ya rabotayu.",
+                "Na etoy nedele my otdykhayem."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השבוע ארוך.",
+                "בשבוע הבא אני עובד.",
+                "השבוע אנחנו נחים."
+            ],
+            "lat": [
+                "hashavua arokh.",
+                "bashavua haba ani oved.",
+                "hashavua anachnu nachim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "find": {
+        "en": [
+            "I find the key.",
+            "She finds a job.",
+            "We find the answer."
+        ],
+        "fr": [
+            "Je trouve la clé.",
+            "Elle trouve un travail.",
+            "Nous trouvons la réponse."
+        ],
+        "es": [
+            "Encuentro la llave.",
+            "Ella encuentra un trabajo.",
+            "Encontramos la respuesta."
+        ],
+        "pt": [
+            "Encontro a chave.",
+            "Ela encontra um trabalho.",
+            "Encontramos a resposta."
+        ],
+        "ru": {
+            "cyr": [
+                "Я нахожу ключ.",
+                "Она находит работу.",
+                "Мы находим ответ."
+            ],
+            "lat": [
+                "Ya nakhozhu klyuch.",
+                "Ona nakhodit rabotu.",
+                "My nakhodim otvet."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מוצא את המפתח.",
+                "היא מוצאת עבודה.",
+                "אנחנו מוצאים את התשובה."
+            ],
+            "lat": [
+                "ani motze et ha-mafteakh.",
+                "hi motzet avoda.",
+                "anachnu motzim et ha-teshuva."
+            ]
+        }
+    },
+    "validated": false
+}

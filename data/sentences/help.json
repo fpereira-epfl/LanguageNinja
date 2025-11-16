@@ -1,0 +1,49 @@
+{
+    "help": {
+        "en": [
+            "I need help.",
+            "Thank you for the help.",
+            "Her help was important."
+        ],
+        "fr": [
+            "J'ai besoin d'aide.",
+            "Merci pour l'aide.",
+            "Son aide était importante."
+        ],
+        "es": [
+            "Necesito ayuda.",
+            "Gracias por la ayuda.",
+            "Su ayuda fue importante."
+        ],
+        "pt": [
+            "Eu preciso de ajuda.",
+            "Obrigado pela ajuda.",
+            "A ajuda dela foi importante."
+        ],
+        "ru": {
+            "cyr": [
+                "Мне нужна помощь.",
+                "Спасибо за помощь.",
+                "Её помощь была важна."
+            ],
+            "lat": [
+                "Mne nuzhna pomoshch.",
+                "Spasibo za pomoshch.",
+                "Eyo pomoshch byla vazhna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני צריך עזרה.",
+                "תודה על העזרה.",
+                "העזרה שלה הייתה חשובה."
+            ],
+            "lat": [
+                "ani tsarikh ezra.",
+                "toda al ha-ezra.",
+                "ha-ezra shela hayta khashuva."
+            ]
+        }
+    },
+    "validated": false
+}

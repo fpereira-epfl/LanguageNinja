@@ -1,0 +1,17 @@
+{
+    "today": {
+        "en": "today",
+        "fr": "aujourd'hui",
+        "es": "hoy",
+        "pt": "hoje",
+        "ru": {
+            "cyr": "сегодня",
+            "lat": "segodnya"
+        },
+        "il": {
+            "heb": "היום",
+            "lat": "hayom"
+        }
+    },
+    "validated": false
+}

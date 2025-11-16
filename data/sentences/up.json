@@ -1,0 +1,49 @@
+{
+    "up": {
+        "en": [
+            "Look up!",
+            "The balloon goes up.",
+            "He stands up."
+        ],
+        "fr": [
+            "Regarde en haut !",
+            "Le ballon monte.",
+            "Il se lève."
+        ],
+        "es": [
+            "¡Mira arriba!",
+            "El globo sube.",
+            "Él se levanta."
+        ],
+        "pt": [
+            "Olha para cima!",
+            "O balão sobe.",
+            "Ele se levanta."
+        ],
+        "ru": {
+            "cyr": [
+                "Смотри вверх!",
+                "Шар поднимается вверх.",
+                "Он встаёт."
+            ],
+            "lat": [
+                "Smotri vverkh!",
+                "Shar podnimayetsya vverkh.",
+                "On vstayot."
+            ]
+        },
+        "il": {
+            "heb": [
+                "תסתכל למעלה!",
+                "הבלון עולה למעלה.",
+                "הוא קם."
+            ],
+            "lat": [
+                "tistakel lemala!",
+                "ha-balon oleh lemala.",
+                "hu kam."
+            ]
+        }
+    },
+    "validated": false
+}

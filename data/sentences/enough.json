@@ -1,0 +1,49 @@
+{
+    "enough": {
+        "en": [
+            "We have enough food.",
+            "Do you have enough water?",
+            "There are enough chairs."
+        ],
+        "fr": [
+            "Nous avons assez de nourriture.",
+            "As-tu assez d'eau ?",
+            "Il y a assez de chaises."
+        ],
+        "es": [
+            "Tenemos suficiente comida.",
+            "¿Tienes suficiente agua?",
+            "Hay suficientes sillas."
+        ],
+        "pt": [
+            "Temos comida suficiente.",
+            "Você tem água suficiente?",
+            "Há cadeiras suficientes."
+        ],
+        "ru": {
+            "cyr": [
+                "У нас достаточно еды.",
+                "У вас достаточно воды?",
+                "Есть достаточно стульев."
+            ],
+            "lat": [
+                "U nas dostatochno yedy.",
+                "U vas dostatochno vody?",
+                "Yest’ dostatochno stul’yev."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לנו מספיק אוכל.",
+                "יש לכם מספיק מים?",
+                "יש מספיק כיסאות."
+            ],
+            "lat": [
+                "yesh lanu maspik ochel.",
+                "yesh lachem maspik mayim?",
+                "yesh maspik kiseot."
+            ]
+        }
+    },
+    "validated": false
+}

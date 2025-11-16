@@ -1,0 +1,17 @@
+{
+    "mountain": {
+        "en": "mountain",
+        "fr": "montagne",
+        "es": "montaña",
+        "pt": "montanha",
+        "ru": {
+            "cyr": "гора",
+            "lat": "gora"
+        },
+        "il": {
+            "heb": "הר",
+            "lat": "har"
+        }
+    },
+    "validated": false
+}

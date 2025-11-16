@@ -1,0 +1,17 @@
+{
+    "train": {
+        "en": "train",
+        "fr": "train",
+        "es": "tren",
+        "pt": "comboio",
+        "ru": {
+            "cyr": "поезд",
+            "lat": "poezd"
+        },
+        "il": {
+            "heb": "רכבת",
+            "lat": "rakevet"
+        }
+    },
+    "validated": false
+}

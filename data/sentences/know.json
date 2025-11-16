@@ -1,0 +1,49 @@
+{
+    "know": {
+        "en": [
+            "I know the answer.",
+            "She knows what to do.",
+            "We know the truth."
+        ],
+        "fr": [
+            "Je sais la réponse.",
+            "Elle sait quoi faire.",
+            "Nous savons la vérité."
+        ],
+        "es": [
+            "Yo sé la respuesta.",
+            "Ella sabe qué hacer.",
+            "Nosotros sabemos la verdad."
+        ],
+        "pt": [
+            "Eu sei a resposta.",
+            "Ela sabe o que fazer.",
+            "Nós sabemos a verdade."
+        ],
+        "ru": {
+            "cyr": [
+                "Я знаю ответ.",
+                "Она знает, что делать.",
+                "Мы знаем правду."
+            ],
+            "lat": [
+                "Ya znayu otvet.",
+                "Ona znaet, chto delat'.",
+                "My znaem pravdu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני יודע את התשובה.",
+                "היא יודעת מה לעשות.",
+                "אנחנו יודעים את האמת."
+            ],
+            "lat": [
+                "ani yodea et hat'shuva.",
+                "hi yoda'at ma la'asot.",
+                "anachnu yod'im et ha'emet."
+            ]
+        }
+    },
+    "validated": false
+}

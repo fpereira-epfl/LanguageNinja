@@ -1,0 +1,49 @@
+{
+    "woman": {
+        "en": [
+            "The woman is here.",
+            "I see a woman.",
+            "That woman is my friend."
+        ],
+        "fr": [
+            "La femme est ici.",
+            "Je vois une femme.",
+            "Cette femme est mon amie."
+        ],
+        "es": [
+            "La mujer está aquí.",
+            "Veo a una mujer.",
+            "Esa mujer es mi amiga."
+        ],
+        "pt": [
+            "A mulher está aqui.",
+            "Eu vejo uma mulher.",
+            "Essa mulher é minha amiga."
+        ],
+        "ru": {
+            "cyr": [
+                "Женщина здесь.",
+                "Я вижу женщину.",
+                "Эта женщина моя подруга."
+            ],
+            "lat": [
+                "Zhenshchina zdes’.",
+                "Ya vizhu zhenshchinu.",
+                "Eta zhenshchina moya podruga."
+            ]
+        },
+        "il": {
+            "heb": [
+                "האישה כאן.",
+                "אני רואה אישה.",
+                "האישה הזאת היא חברה שלי."
+            ],
+            "lat": [
+                "ha'isha kan.",
+                "ani ro'e isha.",
+                "ha'isha hazot hi chavera sheli."
+            ]
+        }
+    },
+    "validated": false
+}

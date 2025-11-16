@@ -1,0 +1,49 @@
+{
+    "law": {
+        "en": [
+            "The law is clear.",
+            "She studies law.",
+            "We obey the law."
+        ],
+        "fr": [
+            "La loi est claire.",
+            "Elle étudie le droit.",
+            "Nous obéissons à la loi."
+        ],
+        "es": [
+            "La ley es clara.",
+            "Ella estudia derecho.",
+            "Obedecemos la ley."
+        ],
+        "pt": [
+            "A lei é clara.",
+            "Ela estuda direito.",
+            "Nós obedecemos à lei."
+        ],
+        "ru": {
+            "cyr": [
+                "Закон ясен.",
+                "Она изучает право.",
+                "Мы соблюдаем закон."
+            ],
+            "lat": [
+                "Zakon yasen.",
+                "Ona izuchaet pravo.",
+                "My soblyudaem zakon."
+            ]
+        },
+        "il": {
+            "heb": [
+                "החוק ברור.",
+                "היא לומדת משפטים.",
+                "אנחנו מצייתים לחוק."
+            ],
+            "lat": [
+                "ha-chok barur.",
+                "hi lomedet mishpatim.",
+                "anachnu mitzaytim la-chok."
+            ]
+        }
+    },
+    "validated": false
+}

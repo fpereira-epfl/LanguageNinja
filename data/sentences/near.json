@@ -1,0 +1,49 @@
+{
+    "near": {
+        "en": [
+            "I live near the park.",
+            "The school is near.",
+            "Stay near me."
+        ],
+        "fr": [
+            "J'habite près du parc.",
+            "L'école est proche.",
+            "Reste près de moi."
+        ],
+        "es": [
+            "Vivo cerca del parque.",
+            "La escuela está cerca.",
+            "Quédate cerca de mí."
+        ],
+        "pt": [
+            "Eu moro perto do parque.",
+            "A escola está perto.",
+            "Fique perto de mim."
+        ],
+        "ru": {
+            "cyr": [
+                "Я живу рядом с парком.",
+                "Школа рядом.",
+                "Оставайся рядом со мной."
+            ],
+            "lat": [
+                "Ya zhivu ryadom s parkom.",
+                "Shkola ryadom.",
+                "Ostavaisya ryadom so mnoy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני גר ליד הפארק.",
+                "בית הספר קרוב.",
+                "תישאר קרוב אליי."
+            ],
+            "lat": [
+                "ani gar leyad ha-park.",
+                "beit ha-sefer karov.",
+                "tisha'er karov elay."
+            ]
+        }
+    },
+    "validated": false
+}

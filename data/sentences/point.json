@@ -1,0 +1,49 @@
+{
+    "point": {
+        "en": [
+            "The point is small.",
+            "I see a point on the map.",
+            "Put a point here."
+        ],
+        "fr": [
+            "Le point est petit.",
+            "Je vois un point sur la carte.",
+            "Mets un point ici."
+        ],
+        "es": [
+            "El punto es pequeño.",
+            "Veo un punto en el mapa.",
+            "Pon un punto aquí."
+        ],
+        "pt": [
+            "O ponto é pequeno.",
+            "Vejo um ponto no mapa.",
+            "Põe um ponto aqui."
+        ],
+        "ru": {
+            "cyr": [
+                "Точка маленькая.",
+                "Я вижу точку на карте.",
+                "Поставь точку здесь."
+            ],
+            "lat": [
+                "Tochka malen'kaya.",
+                "Ya vizhu tochku na karte.",
+                "Postav' tochku zdes'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הנקודה קטנה.",
+                "אני רואה נקודה במפה.",
+                "שים נקודה כאן."
+            ],
+            "lat": [
+                "hanekuda ktana.",
+                "ani roeh nekuda bamapa.",
+                "sim nekuda kan."
+            ]
+        }
+    },
+    "validated": false
+}

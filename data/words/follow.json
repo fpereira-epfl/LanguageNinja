@@ -1,0 +1,17 @@
+{
+    "follow": {
+        "en": "follow",
+        "fr": "suivre",
+        "es": "seguir",
+        "pt": "seguir",
+        "ru": {
+            "cyr": "следовать",
+            "lat": "sledovat"
+        },
+        "il": {
+            "heb": "לעקוב",
+            "lat": "laakov"
+        }
+    },
+    "validated": false
+}

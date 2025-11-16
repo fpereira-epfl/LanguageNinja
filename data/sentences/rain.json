@@ -1,0 +1,49 @@
+{
+    "rain": {
+        "en": [
+            "It is raining.",
+            "I like the rain.",
+            "The rain is cold."
+        ],
+        "fr": [
+            "Il pleut.",
+            "J'aime la pluie.",
+            "La pluie est froide."
+        ],
+        "es": [
+            "Está lloviendo.",
+            "Me gusta la lluvia.",
+            "La lluvia es fría."
+        ],
+        "pt": [
+            "Está chovendo.",
+            "Eu gosto da chuva.",
+            "A chuva é fria."
+        ],
+        "ru": {
+            "cyr": [
+                "Идёт дождь.",
+                "Мне нравится дождь.",
+                "Дождь холодный."
+            ],
+            "lat": [
+                "Idyot dozhd.",
+                "Mne nravitsya dozhd.",
+                "Dozhd kholodnyy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יורד גשם.",
+                "אני אוהב את הגשם.",
+                "הגשם קר."
+            ],
+            "lat": [
+                "yored geshem.",
+                "ani ohev et ha-geshem.",
+                "ha-geshem kar."
+            ]
+        }
+    },
+    "validated": false
+}

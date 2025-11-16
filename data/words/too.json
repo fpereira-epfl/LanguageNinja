@@ -1,0 +1,17 @@
+{
+    "too": {
+        "en": "too",
+        "fr": "aussi",
+        "es": "también",
+        "pt": "também",
+        "ru": {
+            "cyr": "тоже",
+            "lat": "tozhe"
+        },
+        "il": {
+            "heb": "גם",
+            "lat": "gam"
+        }
+    },
+    "validated": false
+}

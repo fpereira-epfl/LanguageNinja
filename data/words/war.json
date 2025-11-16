@@ -1,0 +1,17 @@
+{
+    "war": {
+        "en": "war",
+        "fr": "guerre",
+        "es": "guerra",
+        "pt": "guerra",
+        "ru": {
+            "cyr": "война",
+            "lat": "voyna"
+        },
+        "il": {
+            "heb": "מלחמה",
+            "lat": "milchama"
+        }
+    },
+    "validated": false
+}

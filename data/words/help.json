@@ -1,0 +1,17 @@
+{
+    "help": {
+        "en": "help",
+        "fr": "aide",
+        "es": "ayuda",
+        "pt": "ajuda",
+        "ru": {
+            "cyr": "помощь",
+            "lat": "pomoshch"
+        },
+        "il": {
+            "heb": "עזרה",
+            "lat": "ezra"
+        }
+    },
+    "validated": false
+}

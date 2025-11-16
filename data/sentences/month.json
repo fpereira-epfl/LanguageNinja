@@ -1,0 +1,49 @@
+{
+    "month": {
+        "en": [
+            "There are twelve months in a year.",
+            "Next month we travel.",
+            "The month is almost over."
+        ],
+        "fr": [
+            "Il y a douze mois dans une année.",
+            "Le mois prochain, nous voyageons.",
+            "Le mois est presque fini."
+        ],
+        "es": [
+            "Hay doce meses en un año.",
+            "El próximo mes viajamos.",
+            "El mes casi termina."
+        ],
+        "pt": [
+            "Há doze meses em um ano.",
+            "No próximo mês viajamos.",
+            "O mês está quase no fim."
+        ],
+        "ru": {
+            "cyr": [
+                "В году двенадцать месяцев.",
+                "В следующем месяце мы путешествуем.",
+                "Месяц почти закончился."
+            ],
+            "lat": [
+                "V godu dvenadtsat' mesyatsev.",
+                "V sleduyushchem mesyatse my puteshestvuem.",
+                "Mesyats pochti zakonchilsya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש שנים עשר חודשים בשנה.",
+                "בחודש הבא אנחנו נוסעים.",
+                "החודש כמעט נגמר."
+            ],
+            "lat": [
+                "yesh shneim asar chodashim b'shana.",
+                "ba-chodesh ha-ba anachnu nos'im.",
+                "ha-chodesh kim'at nigmar."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "level": {
+        "en": "level",
+        "fr": "niveau",
+        "es": "nivel",
+        "pt": "nível",
+        "ru": {
+            "cyr": "уровень",
+            "lat": "uroven"
+        },
+        "il": {
+            "heb": "רמה",
+            "lat": "rama"
+        }
+    },
+    "validated": false
+}

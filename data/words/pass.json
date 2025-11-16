@@ -1,0 +1,17 @@
+{
+    "pass": {
+        "en": "pass",
+        "fr": "passer",
+        "es": "pasar",
+        "pt": "passar",
+        "ru": {
+            "cyr": "проходить",
+            "lat": "prokhodit"
+        },
+        "il": {
+            "heb": "לעבור",
+            "lat": "laavor"
+        }
+    },
+    "validated": false
+}

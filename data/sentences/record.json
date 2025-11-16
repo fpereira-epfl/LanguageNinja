@@ -1,0 +1,49 @@
+{
+    "record": {
+        "en": [
+            "I record a video.",
+            "She records audio.",
+            "We record the class."
+        ],
+        "fr": [
+            "J'enregistre une vidéo.",
+            "Elle enregistre de l'audio.",
+            "Nous enregistrons le cours."
+        ],
+        "es": [
+            "Grabo un video.",
+            "Ella graba audio.",
+            "Grabamos la clase."
+        ],
+        "pt": [
+            "Eu gravo um vídeo.",
+            "Ela grava áudio.",
+            "Gravamos a aula."
+        ],
+        "ru": {
+            "cyr": [
+                "Я записываю видео.",
+                "Она записывает аудио.",
+                "Мы записываем урок."
+            ],
+            "lat": [
+                "Ya zapisivayu video.",
+                "Ona zapisivayet audio.",
+                "My zapisivayem urok."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מקליט וידאו.",
+                "היא מקליטה אודיו.",
+                "אנחנו מקליטים את השיעור."
+            ],
+            "lat": [
+                "ani maklit video.",
+                "hi maklita audio.",
+                "anachnu maklitim et ha-shi'ur."
+            ]
+        }
+    },
+    "validated": false
+}

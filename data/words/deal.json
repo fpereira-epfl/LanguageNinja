@@ -1,0 +1,17 @@
+{
+    "deal": {
+        "en": "deal",
+        "fr": "accord",
+        "es": "acuerdo",
+        "pt": "acordo",
+        "ru": {
+            "cyr": "сделка",
+            "lat": "sdelka"
+        },
+        "il": {
+            "heb": "עסקה",
+            "lat": "iska"
+        }
+    },
+    "validated": false
+}

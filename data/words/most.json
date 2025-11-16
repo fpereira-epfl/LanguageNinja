@@ -1,0 +1,17 @@
+{
+    "most": {
+        "en": "most",
+        "fr": "la plupart",
+        "es": "la mayoría",
+        "pt": "a maioria",
+        "ru": {
+            "cyr": "большинство",
+            "lat": "bolshinstvo"
+        },
+        "il": {
+            "heb": "רוב",
+            "lat": "rov"
+        }
+    },
+    "validated": false
+}

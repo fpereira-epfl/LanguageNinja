@@ -1,0 +1,49 @@
+{
+    "true": {
+        "en": [
+            "This is true.",
+            "Is it true?",
+            "The story is true."
+        ],
+        "fr": [
+            "C'est vrai.",
+            "Est-ce vrai ?",
+            "L'histoire est vraie."
+        ],
+        "es": [
+            "Esto es verdad.",
+            "¿Es verdad?",
+            "La historia es verdadera."
+        ],
+        "pt": [
+            "Isto é verdade.",
+            "É verdade?",
+            "A história é verdadeira."
+        ],
+        "ru": {
+            "cyr": [
+                "Это правда.",
+                "Это правда?",
+                "Эта история правдива."
+            ],
+            "lat": [
+                "Eto pravda.",
+                "Eto pravda?",
+                "Eta istoriya pravdiva."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה נכון.",
+                "זה נכון?",
+                "הסיפור אמיתי."
+            ],
+            "lat": [
+                "ze nachon.",
+                "ze nachon?",
+                "hasipur amiti."
+            ]
+        }
+    },
+    "validated": false
+}

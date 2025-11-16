@@ -1,0 +1,17 @@
+{
+    "let": {
+        "en": "let",
+        "fr": "laisser",
+        "es": "dejar",
+        "pt": "deixar",
+        "ru": {
+            "cyr": "позволять",
+            "lat": "pozvolyat"
+        },
+        "il": {
+            "heb": "לאפשר",
+            "lat": "lehafsher"
+        }
+    },
+    "validated": false
+}

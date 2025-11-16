@@ -1,0 +1,17 @@
+{
+    "wind": {
+        "en": "wind",
+        "fr": "vent",
+        "es": "viento",
+        "pt": "vento",
+        "ru": {
+            "cyr": "ветер",
+            "lat": "veter"
+        },
+        "il": {
+            "heb": "רוח",
+            "lat": "ruach"
+        }
+    },
+    "validated": false
+}

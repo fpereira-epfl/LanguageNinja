@@ -1,0 +1,17 @@
+{
+    "open": {
+        "en": "open",
+        "fr": "ouvrir",
+        "es": "abrir",
+        "pt": "abrir",
+        "ru": {
+            "cyr": "открыть",
+            "lat": "otkryt"
+        },
+        "il": {
+            "heb": "לפתוח",
+            "lat": "liftoach"
+        }
+    },
+    "validated": false
+}

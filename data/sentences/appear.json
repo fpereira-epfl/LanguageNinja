@@ -1,0 +1,49 @@
+{
+    "appear": {
+        "en": [
+            "The stars appear at night.",
+            "A rainbow appears after rain.",
+            "He appears on stage."
+        ],
+        "fr": [
+            "Les étoiles apparaissent la nuit.",
+            "Un arc-en-ciel apparaît après la pluie.",
+            "Il apparaît sur scène."
+        ],
+        "es": [
+            "Las estrellas aparecen por la noche.",
+            "Un arcoíris aparece después de la lluvia.",
+            "Él aparece en el escenario."
+        ],
+        "pt": [
+            "As estrelas aparecem à noite.",
+            "Um arco-íris aparece depois da chuva.",
+            "Ele aparece no palco."
+        ],
+        "ru": {
+            "cyr": [
+                "Звезды появляются ночью.",
+                "Радуга появляется после дождя.",
+                "Он появляется на сцене."
+            ],
+            "lat": [
+                "Zvezdy poyavlyayutsya noch'yu.",
+                "Raduga poyavlyayetsya posle dozhdya.",
+                "On poyavlyayetsya na stsene."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הכוכבים מופיעים בלילה.",
+                "קשת מופיעה אחרי הגשם.",
+                "הוא מופיע על הבמה."
+            ],
+            "lat": [
+                "hakochavim mofi'im balayla.",
+                "keshet mofi'a acharei hageshem.",
+                "hu mofi'a al habama."
+            ]
+        }
+    },
+    "validated": false
+}

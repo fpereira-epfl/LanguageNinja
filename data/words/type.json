@@ -1,0 +1,17 @@
+{
+    "type": {
+        "en": "type",
+        "fr": "type",
+        "es": "tipo",
+        "pt": "tipo",
+        "ru": {
+            "cyr": "тип",
+            "lat": "tip"
+        },
+        "il": {
+            "heb": "סוג",
+            "lat": "sug"
+        }
+    },
+    "validated": false
+}

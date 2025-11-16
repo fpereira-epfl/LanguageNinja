@@ -1,0 +1,49 @@
+{
+    "clear": {
+        "en": [
+            "The sky is clear.",
+            "The water is clear.",
+            "Is that clear?"
+        ],
+        "fr": [
+            "Le ciel est clair.",
+            "L'eau est claire.",
+            "Est-ce clair ?"
+        ],
+        "es": [
+            "El cielo está despejado.",
+            "El agua está clara.",
+            "¿Está claro?"
+        ],
+        "pt": [
+            "O céu está limpo.",
+            "A água está clara.",
+            "Está claro?"
+        ],
+        "ru": {
+            "cyr": [
+                "Небо ясное.",
+                "Вода прозрачная.",
+                "Это ясно?"
+            ],
+            "lat": [
+                "Nebo yasnoe.",
+                "Voda prozrachnaya.",
+                "Eto yasno?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "השמיים בהירים.",
+                "המים צלולים.",
+                "זה ברור?"
+            ],
+            "lat": [
+                "ha-shamayim behirim.",
+                "ha-mayim tslulim.",
+                "ze barur?"
+            ]
+        }
+    },
+    "validated": false
+}

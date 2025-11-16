@@ -1,0 +1,17 @@
+{
+    "see": {
+        "en": "see",
+        "fr": "voir",
+        "es": "ver",
+        "pt": "ver",
+        "ru": {
+            "cyr": "видеть",
+            "lat": "videt'"
+        },
+        "il": {
+            "heb": "לראות",
+            "lat": "lirot"
+        }
+    },
+    "validated": false
+}

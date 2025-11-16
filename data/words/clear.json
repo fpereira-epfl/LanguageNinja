@@ -1,0 +1,17 @@
+{
+    "clear": {
+        "en": "clear",
+        "fr": "clair",
+        "es": "claro",
+        "pt": "claro",
+        "ru": {
+            "cyr": "ясный",
+            "lat": "yasnyy"
+        },
+        "il": {
+            "heb": "ברור",
+            "lat": "barur"
+        }
+    },
+    "validated": false
+}

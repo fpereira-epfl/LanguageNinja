@@ -1,0 +1,49 @@
+{
+    "sure": {
+        "en": [
+            "I am sure.",
+            "Are you sure?",
+            "She is not sure."
+        ],
+        "fr": [
+            "Je suis sûr.",
+            "Tu es sûr ?",
+            "Elle n'est pas sûre."
+        ],
+        "es": [
+            "Estoy seguro.",
+            "¿Estás seguro?",
+            "Ella no está segura."
+        ],
+        "pt": [
+            "Estou seguro.",
+            "Você tem certeza?",
+            "Ela não tem certeza."
+        ],
+        "ru": {
+            "cyr": [
+                "Я уверен.",
+                "Ты уверен?",
+                "Она не уверена."
+            ],
+            "lat": [
+                "Ya uveren.",
+                "Ty uveren?",
+                "Ona ne uverena."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני בטוח.",
+                "אתה בטוח?",
+                "היא לא בטוחה."
+            ],
+            "lat": [
+                "ani batuach.",
+                "ata batuach?",
+                "hi lo betucha."
+            ]
+        }
+    },
+    "validated": false
+}

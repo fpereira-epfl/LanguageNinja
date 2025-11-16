@@ -1,0 +1,49 @@
+{
+    "probable": {
+        "en": [
+            "It is probable that he will come.",
+            "It is probable that it will rain tomorrow.",
+            "A delay is probable."
+        ],
+        "fr": [
+            "Il est probable qu'il viendra.",
+            "Il est probable qu'il pleuvra demain.",
+            "Un retard est probable."
+        ],
+        "es": [
+            "Es probable que él venga.",
+            "Es probable que llueva mañana.",
+            "Un retraso es probable."
+        ],
+        "pt": [
+            "É provável que ele venha.",
+            "É provável que chova amanhã.",
+            "Um atraso é provável."
+        ],
+        "ru": {
+            "cyr": [
+                "Вероятно, он придёт.",
+                "Вероятно, завтра пойдёт дождь.",
+                "Задержка вероятна."
+            ],
+            "lat": [
+                "Veroiatno, on pridyot.",
+                "Veroiatno, zavtra poydyot dozhd’.",
+                "Zaderzhka veroyatna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "סביר שהוא יבוא.",
+                "סביר שירד גשם מחר.",
+                "עיכוב הוא סביר."
+            ],
+            "lat": [
+                "savir shehu yavo.",
+                "savir sheyered geshem makhar.",
+                "ikuv hu savir."
+            ]
+        }
+    },
+    "validated": false
+}

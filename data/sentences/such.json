@@ -1,0 +1,49 @@
+{
+    "such": {
+        "en": [
+            "Such a problem is hard.",
+            "It is such a big house.",
+            "Such people are kind."
+        ],
+        "fr": [
+            "Un tel problème est difficile.",
+            "C'est une maison si grande.",
+            "De telles personnes sont gentilles."
+        ],
+        "es": [
+            "Tal problema es difícil.",
+            "Es una casa tan grande.",
+            "Tales personas son amables."
+        ],
+        "pt": [
+            "Tal problema é difícil.",
+            "É uma casa tão grande.",
+            "Tais pessoas são gentis."
+        ],
+        "ru": {
+            "cyr": [
+                "Такая проблема трудная.",
+                "Это такой большой дом.",
+                "Такие люди добрые."
+            ],
+            "lat": [
+                "Takaya problema trudnaya.",
+                "Eto takoy bol'shoy dom.",
+                "Takiye lyudi dobrye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בעיה כזו קשה.",
+                "זה בית כזה גדול.",
+                "אנשים כאלה נחמדים."
+            ],
+            "lat": [
+                "be'aya kazo kasha.",
+                "ze bayit kaze gadol.",
+                "anashim ka'ele nechmadim."
+            ]
+        }
+    },
+    "validated": false
+}

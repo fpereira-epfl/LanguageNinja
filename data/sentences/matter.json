@@ -1,0 +1,49 @@
+{
+    "matter": {
+        "en": [
+            "It does not matter.",
+            "Does it matter?",
+            "This is a serious matter."
+        ],
+        "fr": [
+            "Ça n'a pas d'importance.",
+            "Est-ce que ça a de l'importance ?",
+            "C'est une affaire sérieuse."
+        ],
+        "es": [
+            "No importa.",
+            "¿Importa?",
+            "Es un asunto serio."
+        ],
+        "pt": [
+            "Não importa.",
+            "Isso importa?",
+            "É um assunto sério."
+        ],
+        "ru": {
+            "cyr": [
+                "Это не имеет значения.",
+                "Это имеет значение?",
+                "Это серьезное дело."
+            ],
+            "lat": [
+                "Eto ne imeet znacheniya.",
+                "Eto imeet znachenie?",
+                "Eto seryoznoye delo."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה לא משנה.",
+                "זה משנה?",
+                "זה עניין רציני."
+            ],
+            "lat": [
+                "ze lo meshane.",
+                "ze meshane?",
+                "ze inyan retsini."
+            ]
+        }
+    },
+    "validated": false
+}

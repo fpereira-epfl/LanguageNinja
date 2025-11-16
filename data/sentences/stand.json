@@ -1,0 +1,49 @@
+{
+    "stand": {
+        "en": [
+            "I stand here.",
+            "They stand in line.",
+            "We stand and wait."
+        ],
+        "fr": [
+            "Je me tiens debout ici.",
+            "Ils sont debout dans la file.",
+            "Nous sommes debout et nous attendons."
+        ],
+        "es": [
+            "Estoy de pie aquí.",
+            "Ellos están de pie en fila.",
+            "Estamos de pie y esperamos."
+        ],
+        "pt": [
+            "Estou de pé aqui.",
+            "Eles estão de pé na fila.",
+            "Estamos de pé e esperamos."
+        ],
+        "ru": {
+            "cyr": [
+                "Я стою здесь.",
+                "Они стоят в очереди.",
+                "Мы стоим и ждём."
+            ],
+            "lat": [
+                "Ya stoyu zdes'.",
+                "Oni stoyat v ocheredi.",
+                "My stoim i zhdyom."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני עומד כאן.",
+                "הם עומדים בתור.",
+                "אנחנו עומדים ומחכים."
+            ],
+            "lat": [
+                "ani omed kan.",
+                "hem omdim ba-tor.",
+                "anachnu omdim u-mechakim."
+            ]
+        }
+    },
+    "validated": false
+}

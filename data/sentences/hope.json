@@ -1,0 +1,49 @@
+{
+    "hope": {
+        "en": [
+            "I hope you are well.",
+            "We hope for peace.",
+            "She hopes to win."
+        ],
+        "fr": [
+            "J'espère que tu vas bien.",
+            "Nous espérons la paix.",
+            "Elle espère gagner."
+        ],
+        "es": [
+            "Espero que estés bien.",
+            "Esperamos la paz.",
+            "Ella espera ganar."
+        ],
+        "pt": [
+            "Espero que você esteja bem.",
+            "Nós esperamos a paz.",
+            "Ela espera ganhar."
+        ],
+        "ru": {
+            "cyr": [
+                "Надеюсь, ты в порядке.",
+                "Мы надеемся на мир.",
+                "Она надеется выиграть."
+            ],
+            "lat": [
+                "Nadeyus’, ty v poryadke.",
+                "My nadeyemsya na mir.",
+                "Ona nadeyetsya vyigrat’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מקווה שאתה בסדר.",
+                "אנחנו מקווים לשלום.",
+                "היא מקווה לנצח."
+            ],
+            "lat": [
+                "ani mekave she'ata beseder.",
+                "anachnu mekavim leshalom.",
+                "hi mekava lenatzeach."
+            ]
+        }
+    },
+    "validated": false
+}

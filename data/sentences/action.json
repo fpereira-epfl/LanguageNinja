@@ -1,0 +1,49 @@
+{
+    "action": {
+        "en": [
+            "This is an action.",
+            "The action is simple.",
+            "We start the action."
+        ],
+        "fr": [
+            "C'est une action.",
+            "L'action est simple.",
+            "Nous commençons l'action."
+        ],
+        "es": [
+            "Esta es una acción.",
+            "La acción es simple.",
+            "Comenzamos la acción."
+        ],
+        "pt": [
+            "Esta é uma ação.",
+            "A ação é simples.",
+            "Começamos a ação."
+        ],
+        "ru": {
+            "cyr": [
+                "Это действие.",
+                "Действие простое.",
+                "Мы начинаем действие."
+            ],
+            "lat": [
+                "Eto deystvie.",
+                "Deystvie prostoye.",
+                "My nachinayem deystvie."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו פעולה.",
+                "הפעולה פשוטה.",
+                "אנחנו מתחילים את הפעולה."
+            ],
+            "lat": [
+                "zo peula.",
+                "ha-peula pshuta.",
+                "anachnu matchilim et ha-peula."
+            ]
+        }
+    },
+    "validated": false
+}

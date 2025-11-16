@@ -1,0 +1,49 @@
+{
+    "through": {
+        "en": [
+            "We walked through the park.",
+            "The ball went through the window.",
+            "We drove through the tunnel."
+        ],
+        "fr": [
+            "Nous avons marché à travers le parc.",
+            "La balle est passée à travers la fenêtre.",
+            "Nous avons conduit à travers le tunnel."
+        ],
+        "es": [
+            "Caminamos a través del parque.",
+            "La pelota pasó a través de la ventana.",
+            "Condujimos a través del túnel."
+        ],
+        "pt": [
+            "Caminhamos através do parque.",
+            "A bola passou através da janela.",
+            "Conduzimos através do túnel."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы прошли через парк.",
+                "Мяч пролетел через окно.",
+                "Мы проехали через тоннель."
+            ],
+            "lat": [
+                "My proshli cherez park.",
+                "Myach proletel cherez okno.",
+                "My proekhali cherez tonnel'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הלכנו דרך הפארק.",
+                "הכדור עבר דרך החלון.",
+                "נסענו דרך המנהרה."
+            ],
+            "lat": [
+                "halakhnu derekh ha-park.",
+                "ha-kadur avar derekh ha-khalon.",
+                "nasanu derekh ha-minhara."
+            ]
+        }
+    },
+    "validated": false
+}

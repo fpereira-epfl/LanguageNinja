@@ -1,0 +1,49 @@
+{
+    "first": {
+        "en": [
+            "The first book is mine.",
+            "He is the first student.",
+            "This is my first day."
+        ],
+        "fr": [
+            "Le premier livre est à moi.",
+            "Il est le premier élève.",
+            "C'est mon premier jour."
+        ],
+        "es": [
+            "El primer libro es mío.",
+            "Él es el primer estudiante.",
+            "Este es mi primer día."
+        ],
+        "pt": [
+            "O primeiro livro é meu.",
+            "Ele é o primeiro estudante.",
+            "Este é meu primeiro dia."
+        ],
+        "ru": {
+            "cyr": [
+                "Первая книга моя.",
+                "Он первый ученик.",
+                "Это мой первый день."
+            ],
+            "lat": [
+                "Pervaya kniga moya.",
+                "On pervyy uchenik.",
+                "Eto moy pervyy den’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הספר הראשון שלי.",
+                "הוא התלמיד הראשון.",
+                "זה היום הראשון שלי."
+            ],
+            "lat": [
+                "hasefer harishon sheli.",
+                "hu hatalmid harishon.",
+                "ze hayom harishon sheli."
+            ]
+        }
+    },
+    "validated": false
+}

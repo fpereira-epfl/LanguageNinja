@@ -1,0 +1,17 @@
+{
+    "effect": {
+        "en": "effect",
+        "fr": "effet",
+        "es": "efecto",
+        "pt": "efeito",
+        "ru": {
+            "cyr": "эффект",
+            "lat": "effekt"
+        },
+        "il": {
+            "heb": "השפעה",
+            "lat": "hashpaa"
+        }
+    },
+    "validated": false
+}

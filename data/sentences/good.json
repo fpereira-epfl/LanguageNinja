@@ -1,0 +1,49 @@
+{
+    "good": {
+        "en": [
+            "He is good.",
+            "This book is good.",
+            "The food is good."
+        ],
+        "fr": [
+            "Il est bon.",
+            "Ce livre est bon.",
+            "La nourriture est bonne."
+        ],
+        "es": [
+            "Él es bueno.",
+            "Este libro es bueno.",
+            "La comida es buena."
+        ],
+        "pt": [
+            "Ele é bom.",
+            "Este livro é bom.",
+            "A comida é boa."
+        ],
+        "ru": {
+            "cyr": [
+                "Он хороший.",
+                "Эта книга хорошая.",
+                "Еда хорошая."
+            ],
+            "lat": [
+                "On khoroshiy.",
+                "Eta kniga khoroshaya.",
+                "Yeda khoroshaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא טוב.",
+                "הספר הזה טוב.",
+                "האוכל טוב."
+            ],
+            "lat": [
+                "hu tov.",
+                "hasefer haze tov.",
+                "ha'ochel tov."
+            ]
+        }
+    },
+    "validated": false
+}

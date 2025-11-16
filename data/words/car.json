@@ -1,0 +1,17 @@
+{
+    "car": {
+        "en": "car",
+        "fr": "voiture",
+        "es": "coche",
+        "pt": "carro",
+        "ru": {
+            "cyr": "машина",
+            "lat": "mashina"
+        },
+        "il": {
+            "heb": "מכונית",
+            "lat": "mekhonit"
+        }
+    },
+    "validated": false
+}

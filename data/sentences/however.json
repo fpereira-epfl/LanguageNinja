@@ -1,0 +1,49 @@
+{
+    "however": {
+        "en": [
+            "It is raining; however, we are going out.",
+            "I am tired; however, I will read.",
+            "The task is hard; however, it is possible."
+        ],
+        "fr": [
+            "Il pleut ; cependant, nous sortons.",
+            "Je suis fatigué ; cependant, je vais lire.",
+            "La tâche est difficile ; cependant, elle est possible."
+        ],
+        "es": [
+            "Está lloviendo; sin embargo, estamos saliendo.",
+            "Estoy cansado; sin embargo, voy a leer.",
+            "La tarea es difícil; sin embargo, es posible."
+        ],
+        "pt": [
+            "Está chovendo; porém, estamos saindo.",
+            "Estou cansado; porém, vou ler.",
+            "A tarefa é difícil; porém, é possível."
+        ],
+        "ru": {
+            "cyr": [
+                "Идет дождь; однако мы выходим.",
+                "Я устал; однако я буду читать.",
+                "Задача трудная; однако она возможна."
+            ],
+            "lat": [
+                "Idet dozhd'; odnako my vykhodim.",
+                "Ya ustal; odnako ya budu chitat'.",
+                "Zadacha trudnaya; odnako ona vozmozhna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יורד גשם; עם זאת, אנחנו יוצאים.",
+                "אני עייף; עם זאת, אקרא.",
+                "המשימה קשה; עם זאת, היא אפשרית."
+            ],
+            "lat": [
+                "yored geshem; im zot, anachnu yotzim.",
+                "ani ayef; im zot, ekra.",
+                "hamesima kasha; im zot, hi efsharit."
+            ]
+        }
+    },
+    "validated": false
+}

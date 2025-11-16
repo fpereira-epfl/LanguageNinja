@@ -1,0 +1,49 @@
+{
+    "how": {
+        "en": [
+            "How are you?",
+            "How is the weather?",
+            "How do we go home?"
+        ],
+        "fr": [
+            "Comment ça va ?",
+            "Comment est le temps ?",
+            "Comment allons-nous à la maison ?"
+        ],
+        "es": [
+            "¿Cómo estás?",
+            "¿Cómo está el tiempo?",
+            "¿Cómo vamos a casa?"
+        ],
+        "pt": [
+            "Como você está?",
+            "Como está o tempo?",
+            "Como vamos para casa?"
+        ],
+        "ru": {
+            "cyr": [
+                "Как ты?",
+                "Как погода?",
+                "Как мы идём домой?"
+            ],
+            "lat": [
+                "Kak ty?",
+                "Kak pogoda?",
+                "Kak my idyom domoy?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "איך אתה?",
+                "איך מזג האוויר?",
+                "איך אנחנו הולכים הביתה?"
+            ],
+            "lat": [
+                "eich ata?",
+                "eich mezeg ha avir?",
+                "eich anachnu holchim habayta?"
+            ]
+        }
+    },
+    "validated": false
+}

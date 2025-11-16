@@ -1,0 +1,49 @@
+{
+    "person": {
+        "en": [
+            "He is a good person.",
+            "I see a person.",
+            "Every person has a name."
+        ],
+        "fr": [
+            "C'est une bonne personne.",
+            "Je vois une personne.",
+            "Chaque personne a un nom."
+        ],
+        "es": [
+            "Él es una buena persona.",
+            "Veo a una persona.",
+            "Cada persona tiene un nombre."
+        ],
+        "pt": [
+            "Ele é uma boa pessoa.",
+            "Vejo uma pessoa.",
+            "Cada pessoa tem um nome."
+        ],
+        "ru": {
+            "cyr": [
+                "Он хороший человек.",
+                "Я вижу человека.",
+                "У каждого человека есть имя."
+            ],
+            "lat": [
+                "On khoroshiy chelovek.",
+                "Ya vizhu cheloveka.",
+                "U kazhdogo cheloveka yest’ imya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא אדם טוב.",
+                "אני רואה אדם.",
+                "לכל אדם יש שם."
+            ],
+            "lat": [
+                "hu adam tov.",
+                "ani ro'eh adam.",
+                "lechol adam yesh shem."
+            ]
+        }
+    },
+    "validated": false
+}

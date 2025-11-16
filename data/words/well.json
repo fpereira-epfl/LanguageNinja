@@ -1,0 +1,17 @@
+{
+    "well": {
+        "en": "well",
+        "fr": "bien",
+        "es": "bien",
+        "pt": "bem",
+        "ru": {
+            "cyr": "хорошо",
+            "lat": "khorosho"
+        },
+        "il": {
+            "heb": "טוב",
+            "lat": "tov"
+        }
+    },
+    "validated": false
+}

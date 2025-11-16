@@ -1,0 +1,49 @@
+{
+    "act": {
+        "en": [
+            "I act in a play.",
+            "She acts in a movie.",
+            "They act on stage."
+        ],
+        "fr": [
+            "Je joue dans une pièce.",
+            "Elle joue dans un film.",
+            "Ils jouent sur scène."
+        ],
+        "es": [
+            "Actúo en una obra.",
+            "Ella actúa en una película.",
+            "Ellos actúan en el escenario."
+        ],
+        "pt": [
+            "Eu atuo em uma peça.",
+            "Ela atua em um filme.",
+            "Eles atuam no palco."
+        ],
+        "ru": {
+            "cyr": [
+                "Я играю в пьесе.",
+                "Она играет в фильме.",
+                "Они играют на сцене."
+            ],
+            "lat": [
+                "Ya igrayu v p'yese.",
+                "Ona igraet v fil'me.",
+                "Oni igrayut na stsene."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני משחק בהצגה.",
+                "היא משחקת בסרט.",
+                "הם משחקים על הבמה."
+            ],
+            "lat": [
+                "ani mesakhek behatsaga.",
+                "hi mesakheket beseret.",
+                "hem mesakhakim al habama."
+            ]
+        }
+    },
+    "validated": false
+}

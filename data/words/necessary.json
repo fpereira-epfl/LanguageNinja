@@ -1,0 +1,17 @@
+{
+    "necessary": {
+        "en": "necessary",
+        "fr": "nécessaire",
+        "es": "necesario",
+        "pt": "necessário",
+        "ru": {
+            "cyr": "необходимый",
+            "lat": "neobkhodimyi"
+        },
+        "il": {
+            "heb": "נחוץ",
+            "lat": "nachutz"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "full": {
+        "en": "full",
+        "fr": "plein",
+        "es": "lleno",
+        "pt": "cheio",
+        "ru": {
+            "cyr": "полный",
+            "lat": "polnyi"
+        },
+        "il": {
+            "heb": "מלא",
+            "lat": "male"
+        }
+    },
+    "validated": false
+}

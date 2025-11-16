@@ -1,0 +1,17 @@
+{
+    "nature": {
+        "en": "nature",
+        "fr": "nature",
+        "es": "naturaleza",
+        "pt": "natureza",
+        "ru": {
+            "cyr": "природа",
+            "lat": "priroda"
+        },
+        "il": {
+            "heb": "טבע",
+            "lat": "teva"
+        }
+    },
+    "validated": false
+}

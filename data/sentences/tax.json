@@ -1,0 +1,49 @@
+{
+    "tax": {
+        "en": [
+            "The tax is high.",
+            "I pay the tax.",
+            "They added a tax."
+        ],
+        "fr": [
+            "La taxe est élevée.",
+            "Je paie la taxe.",
+            "Ils ont ajouté une taxe."
+        ],
+        "es": [
+            "El impuesto es alto.",
+            "Pago el impuesto.",
+            "Ellos agregaron un impuesto."
+        ],
+        "pt": [
+            "O imposto é alto.",
+            "Eu pago o imposto.",
+            "Eles adicionaram um imposto."
+        ],
+        "ru": {
+            "cyr": [
+                "Налог высокий.",
+                "Я плачу налог.",
+                "Они добавили налог."
+            ],
+            "lat": [
+                "Nalog vysokiy.",
+                "Ya plachu nalog.",
+                "Oni dobavili nalog."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המס גבוה.",
+                "אני משלם את המס.",
+                "הם הוסיפו מס."
+            ],
+            "lat": [
+                "ha-mas gavoa.",
+                "ani meshalem et ha-mas.",
+                "hem hosifu mas."
+            ]
+        }
+    },
+    "validated": false
+}

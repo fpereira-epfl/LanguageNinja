@@ -1,0 +1,17 @@
+{
+    "plan": {
+        "en": "plan",
+        "fr": "plan",
+        "es": "plan",
+        "pt": "plano",
+        "ru": {
+            "cyr": "план",
+            "lat": "plan"
+        },
+        "il": {
+            "heb": "תוכנית",
+            "lat": "tochnit"
+        }
+    },
+    "validated": false
+}

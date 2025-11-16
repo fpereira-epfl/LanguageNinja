@@ -1,0 +1,49 @@
+{
+    "increase": {
+        "en": [
+            "We increase the size.",
+            "He wants to increase the number.",
+            "The company will increase production."
+        ],
+        "fr": [
+            "Nous augmentons la taille.",
+            "Il veut augmenter le nombre.",
+            "L'entreprise va augmenter la production."
+        ],
+        "es": [
+            "Aumentamos el tamaño.",
+            "Él quiere aumentar el número.",
+            "La empresa va aumentar la producción."
+        ],
+        "pt": [
+            "Aumentamos o tamanho.",
+            "Ele quer aumentar o número.",
+            "A empresa vai aumentar a produção."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы увеличиваем размер.",
+                "Он хочет увеличить число.",
+                "Компания увеличит производство."
+            ],
+            "lat": [
+                "My uvelichivaem razmer.",
+                "On khochet uvelichit' chislo.",
+                "Kompaniya uvelichit proizvodstvo."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו מגדילים את הגודל.",
+                "הוא רוצה להגדיל את המספר.",
+                "החברה תגדיל את הייצור."
+            ],
+            "lat": [
+                "anachnu magdilim et ha-godel.",
+                "hu rotze lehagdil et ha-mispar.",
+                "ha-chevra tagdil et ha-yitsur."
+            ]
+        }
+    },
+    "validated": false
+}

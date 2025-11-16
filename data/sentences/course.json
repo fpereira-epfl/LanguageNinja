@@ -1,0 +1,49 @@
+{
+    "course": {
+        "en": [
+            "This course is easy.",
+            "I like the course.",
+            "The course starts today."
+        ],
+        "fr": [
+            "Ce cours est facile.",
+            "J'aime le cours.",
+            "Le cours commence aujourd'hui."
+        ],
+        "es": [
+            "Este curso es fácil.",
+            "Me gusta el curso.",
+            "El curso empieza hoy."
+        ],
+        "pt": [
+            "Este curso é fácil.",
+            "Eu gosto do curso.",
+            "O curso começa hoje."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот курс лёгкий.",
+                "Мне нравится курс.",
+                "Курс начинается сегодня."
+            ],
+            "lat": [
+                "Etot kurs lyogkiy.",
+                "Mne nravitsya kurs.",
+                "Kurs nachinayetsya segodnya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הקורס הזה קל.",
+                "אני אוהב את הקורס.",
+                "הקורס מתחיל היום."
+            ],
+            "lat": [
+                "hakurs haze kal.",
+                "ani ohev et hakurs.",
+                "hakurs matkhil hayom."
+            ]
+        }
+    },
+    "validated": false
+}

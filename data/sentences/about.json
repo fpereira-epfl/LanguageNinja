@@ -1,0 +1,49 @@
+{
+    "about": {
+        "en": [
+            "This book is about cats.",
+            "The movie is about love.",
+            "I have questions about the job."
+        ],
+        "fr": [
+            "Ce livre est sur les chats.",
+            "Le film est sur l'amour.",
+            "J'ai des questions sur le travail."
+        ],
+        "es": [
+            "Este libro es sobre gatos.",
+            "La película es sobre el amor.",
+            "Tengo preguntas sobre el trabajo."
+        ],
+        "pt": [
+            "Este livro é sobre gatos.",
+            "O filme é sobre o amor.",
+            "Tenho perguntas sobre o trabalho."
+        ],
+        "ru": {
+            "cyr": [
+                "Эта книга о кошках.",
+                "Фильм о любви.",
+                "У меня есть вопросы о работе."
+            ],
+            "lat": [
+                "Eta kniga o koshkakh.",
+                "Fil’m o lyubvi.",
+                "U menya yest’ voprosy o rabote."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הספר הזה על חתולים.",
+                "הסרט הזה על אהבה.",
+                "יש לי שאלות על העבודה."
+            ],
+            "lat": [
+                "ha-sefer hazeh al chatulim.",
+                "ha-seret hazeh al ahava.",
+                "yesh li she'elot al ha-avoda."
+            ]
+        }
+    },
+    "validated": false
+}

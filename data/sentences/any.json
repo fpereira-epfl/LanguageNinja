@@ -1,0 +1,49 @@
+{
+    "any": {
+        "en": [
+            "You can choose any color.",
+            "Any seat is fine.",
+            "You can ask any question."
+        ],
+        "fr": [
+            "Tu peux choisir n'importe quelle couleur.",
+            "N'importe quel siège convient.",
+            "Tu peux poser n'importe quelle question."
+        ],
+        "es": [
+            "Puedes elegir cualquier color.",
+            "Cualquier asiento está bien.",
+            "Puedes hacer cualquier pregunta."
+        ],
+        "pt": [
+            "Você pode escolher qualquer cor.",
+            "Qualquer assento está bom.",
+            "Você pode fazer qualquer pergunta."
+        ],
+        "ru": {
+            "cyr": [
+                "Ты можешь выбрать любой цвет.",
+                "Любое место подходит.",
+                "Ты можешь задать любой вопрос."
+            ],
+            "lat": [
+                "Ty mozhesh’ vybrat’ lyuboy tsvet.",
+                "Lyuboye mesto podkhodit.",
+                "Ty mozhesh’ zadat’ lyuboy vopros."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אתה יכול לבחור כל צבע.",
+                "כל מושב בסדר.",
+                "אתה יכול לשאול כל שאלה."
+            ],
+            "lat": [
+                "ata yachol livchor kol tseva.",
+                "kol moshav beseder.",
+                "ata yachol lishol kol sheela."
+            ]
+        }
+    },
+    "validated": false
+}

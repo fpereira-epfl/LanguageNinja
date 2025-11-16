@@ -1,0 +1,49 @@
+{
+    "carry": {
+        "en": [
+            "I carry a bag.",
+            "She carries a box.",
+            "We carry food."
+        ],
+        "fr": [
+            "Je porte un sac.",
+            "Elle porte une boîte.",
+            "Nous portons de la nourriture."
+        ],
+        "es": [
+            "Llevo una bolsa.",
+            "Ella lleva una caja.",
+            "Llevamos comida."
+        ],
+        "pt": [
+            "Eu carrego uma bolsa.",
+            "Ela carrega uma caixa.",
+            "Nós carregamos comida."
+        ],
+        "ru": {
+            "cyr": [
+                "Я несу сумку.",
+                "Она несёт коробку.",
+                "Мы несём еду."
+            ],
+            "lat": [
+                "Ya nesu sumku.",
+                "Ona nesyot korobku.",
+                "My nesyom yedu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני סוחב תיק.",
+                "היא סוחבת קופסה.",
+                "אנחנו סוחבים אוכל."
+            ],
+            "lat": [
+                "ani sohev tik.",
+                "hi sohevet kufsa.",
+                "anachnu sohavim okhel."
+            ]
+        }
+    },
+    "validated": false
+}

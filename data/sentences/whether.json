@@ -1,0 +1,49 @@
+{
+    "whether": {
+        "en": [
+            "I don't know whether he is home.",
+            "Tell me whether it works.",
+            "We will go whether it rains or not."
+        ],
+        "fr": [
+            "Je ne sais pas s'il est à la maison.",
+            "Dis-moi si ça marche.",
+            "Nous irons, qu'il pleuve ou non."
+        ],
+        "es": [
+            "No sé si él está en casa.",
+            "Dime si funciona.",
+            "Iremos, llueva o no."
+        ],
+        "pt": [
+            "Eu não sei se ele está em casa.",
+            "Diga-me se funciona.",
+            "Iremos, chova ou não."
+        ],
+        "ru": {
+            "cyr": [
+                "Я не знаю, дома ли он.",
+                "Скажи мне, работает ли это.",
+                "Мы пойдём, будет ли дождь или нет."
+            ],
+            "lat": [
+                "Ya ne znayu, doma li on.",
+                "Skazhi mne, rabotaet li eto.",
+                "My poydyom, budet li dozhd’ ili net."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני לא יודע אם הוא בבית.",
+                "תגיד לי אם זה עובד.",
+                "נלך, אם ירד גשם או לא."
+            ],
+            "lat": [
+                "ani lo yodea im hu babayit.",
+                "tagid li im ze oved.",
+                "nelech, im yered geshem o lo."
+            ]
+        }
+    },
+    "validated": false
+}

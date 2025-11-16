@@ -1,0 +1,49 @@
+{
+    "sit": {
+        "en": [
+            "I sit on the chair.",
+            "She sits here.",
+            "We sit and talk."
+        ],
+        "fr": [
+            "Je m'assieds sur la chaise.",
+            "Elle s'assoit ici.",
+            "Nous nous asseyons et nous parlons."
+        ],
+        "es": [
+            "Me siento en la silla.",
+            "Ella se sienta aquí.",
+            "Nos sentamos y hablamos."
+        ],
+        "pt": [
+            "Eu me sento na cadeira.",
+            "Ela se senta aqui.",
+            "Nós nos sentamos e conversamos."
+        ],
+        "ru": {
+            "cyr": [
+                "Я сижу на стуле.",
+                "Она сидит здесь.",
+                "Мы сидим и разговариваем."
+            ],
+            "lat": [
+                "Ya sizhu na stule.",
+                "Ona sidit zdes’.",
+                "My sidim i razgovarivayem."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני יושב על הכיסא.",
+                "היא יושבת כאן.",
+                "אנחנו יושבים ומדברים."
+            ],
+            "lat": [
+                "ani yoshev al ha-kise.",
+                "hi yoshevet kan.",
+                "anachnu yoshvim u-medabrim."
+            ]
+        }
+    },
+    "validated": false
+}

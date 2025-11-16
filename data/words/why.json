@@ -1,0 +1,17 @@
+{
+    "why": {
+        "en": "why",
+        "fr": "pourquoi",
+        "es": "por qué",
+        "pt": "por que",
+        "ru": {
+            "cyr": "почему",
+            "lat": "pochemu"
+        },
+        "il": {
+            "heb": "למה",
+            "lat": "lama"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "hour": {
+        "en": "hour",
+        "fr": "heure",
+        "es": "hora",
+        "pt": "hora",
+        "ru": {
+            "cyr": "час",
+            "lat": "chas"
+        },
+        "il": {
+            "heb": "שעה",
+            "lat": "sha'a"
+        }
+    },
+    "validated": false
+}

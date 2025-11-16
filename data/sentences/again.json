@@ -1,0 +1,49 @@
+{
+    "again": {
+        "en": [
+            "Do it again.",
+            "Say it again, please.",
+            "We will try again tomorrow."
+        ],
+        "fr": [
+            "Fais-le encore.",
+            "Dis-le encore, s'il te plaît.",
+            "Nous essaierons encore demain."
+        ],
+        "es": [
+            "Hazlo otra vez.",
+            "Dilo otra vez, por favor.",
+            "Intentaremos otra vez mañana."
+        ],
+        "pt": [
+            "Faça isso de novo.",
+            "Diga isso de novo, por favor.",
+            "Vamos tentar de novo amanhã."
+        ],
+        "ru": {
+            "cyr": [
+                "Сделай это снова.",
+                "Скажи это снова, пожалуйста.",
+                "Мы попробуем снова завтра."
+            ],
+            "lat": [
+                "Sdelay eto snova.",
+                "Skazhi eto snova, pozhaluysta.",
+                "My poprobuyem snova zavtra."
+            ]
+        },
+        "il": {
+            "heb": [
+                "תעשה את זה שוב.",
+                "תגיד את זה שוב, בבקשה.",
+                "ננסה שוב מחר."
+            ],
+            "lat": [
+                "ta'ase et ze shuv.",
+                "tagid et ze shuv, bevakasha.",
+                "nenase shuv machar."
+            ]
+        }
+    },
+    "validated": false
+}

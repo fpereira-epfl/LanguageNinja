@@ -1,0 +1,17 @@
+{
+    "face": {
+        "en": "face",
+        "fr": "visage",
+        "es": "cara",
+        "pt": "rosto",
+        "ru": {
+            "cyr": "лицо",
+            "lat": "litso"
+        },
+        "il": {
+            "heb": "פנים",
+            "lat": "panim"
+        }
+    },
+    "validated": false
+}

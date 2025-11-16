@@ -1,0 +1,49 @@
+{
+    "group": {
+        "en": [
+            "We are a group.",
+            "The group is small.",
+            "I join the group."
+        ],
+        "fr": [
+            "Nous sommes un groupe.",
+            "Le groupe est petit.",
+            "Je rejoins le groupe."
+        ],
+        "es": [
+            "Somos un grupo.",
+            "El grupo es pequeño.",
+            "Me uno al grupo."
+        ],
+        "pt": [
+            "Somos um grupo.",
+            "O grupo é pequeno.",
+            "Eu entro no grupo."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы группа.",
+                "Группа маленькая.",
+                "Я вступаю в группу."
+            ],
+            "lat": [
+                "My gruppa.",
+                "Gruppa malenkaya.",
+                "Ya vstupayu v gruppu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו קבוצה.",
+                "הקבוצה קטנה.",
+                "אני מצטרף לקבוצה."
+            ],
+            "lat": [
+                "anachnu kvutsa.",
+                "ha-kvutsa ktana.",
+                "ani mitztaref la-kvutsa."
+            ]
+        }
+    },
+    "validated": false
+}

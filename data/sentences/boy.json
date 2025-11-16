@@ -1,0 +1,49 @@
+{
+    "boy": {
+        "en": [
+            "The boy is here.",
+            "The boy is happy.",
+            "The boy runs fast."
+        ],
+        "fr": [
+            "Le garçon est ici.",
+            "Le garçon est heureux.",
+            "Le garçon court vite."
+        ],
+        "es": [
+            "El niño está aquí.",
+            "El niño está feliz.",
+            "El niño corre rápido."
+        ],
+        "pt": [
+            "O menino está aqui.",
+            "O menino está feliz.",
+            "O menino corre rápido."
+        ],
+        "ru": {
+            "cyr": [
+                "Мальчик здесь.",
+                "Мальчик счастлив.",
+                "Мальчик бежит быстро."
+            ],
+            "lat": [
+                "Malchik zdes’.",
+                "Malchik schastliv.",
+                "Malchik bezhit bystro."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הילד כאן.",
+                "הילד שמח.",
+                "הילד רץ מהר."
+            ],
+            "lat": [
+                "hayeled kan.",
+                "hayeled sameach.",
+                "hayeled ratz maher."
+            ]
+        }
+    },
+    "validated": false
+}

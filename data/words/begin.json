@@ -1,0 +1,17 @@
+{
+    "begin": {
+        "en": "begin",
+        "fr": "commencer",
+        "es": "empezar",
+        "pt": "começar",
+        "ru": {
+            "cyr": "начинать",
+            "lat": "nachinat"
+        },
+        "il": {
+            "heb": "להתחיל",
+            "lat": "lehatchil"
+        }
+    },
+    "validated": false
+}

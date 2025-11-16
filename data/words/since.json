@@ -1,0 +1,17 @@
+{
+    "since": {
+        "en": "since",
+        "fr": "depuis",
+        "es": "desde",
+        "pt": "desde",
+        "ru": {
+            "cyr": "с тех пор",
+            "lat": "s tekh por"
+        },
+        "il": {
+            "heb": "מאז",
+            "lat": "meaz"
+        }
+    },
+    "validated": false
+}

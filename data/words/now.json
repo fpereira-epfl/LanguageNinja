@@ -1,0 +1,17 @@
+{
+    "now": {
+        "en": "now",
+        "fr": "maintenant",
+        "es": "ahora",
+        "pt": "agora",
+        "ru": {
+            "cyr": "сейчас",
+            "lat": "seichas"
+        },
+        "il": {
+            "heb": "עכשיו",
+            "lat": "achshav"
+        }
+    },
+    "validated": false
+}

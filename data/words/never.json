@@ -1,0 +1,17 @@
+{
+    "never": {
+        "en": "never",
+        "fr": "jamais",
+        "es": "nunca",
+        "pt": "nunca",
+        "ru": {
+            "cyr": "никогда",
+            "lat": "nikogda"
+        },
+        "il": {
+            "heb": "לעולם לא",
+            "lat": "le'olam lo"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "back": {
+        "en": [
+            "My back hurts.",
+            "He has a strong back.",
+            "She rubbed her back."
+        ],
+        "fr": [
+            "J'ai mal au dos.",
+            "Il a un dos fort.",
+            "Elle s'est frotté le dos."
+        ],
+        "es": [
+            "Me duele la espalda.",
+            "Él tiene la espalda fuerte.",
+            "Ella se frotó la espalda."
+        ],
+        "pt": [
+            "Estou com dor nas costas.",
+            "Ele tem as costas fortes.",
+            "Ela esfregou as costas."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня болит спина.",
+                "У него сильная спина.",
+                "Она потерла спину."
+            ],
+            "lat": [
+                "U menya bolit spina.",
+                "U nego sil'naya spina.",
+                "Ona poterla spinu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "כואב לי הגב.",
+                "יש לו גב חזק.",
+                "היא שפשפה את הגב."
+            ],
+            "lat": [
+                "koev li ha-gav.",
+                "yesh lo gav chazak.",
+                "hi shifshfa et ha-gav."
+            ]
+        }
+    },
+    "validated": false
+}

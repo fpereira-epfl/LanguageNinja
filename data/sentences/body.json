@@ -1,0 +1,49 @@
+{
+    "body": {
+        "en": [
+            "My body is tired.",
+            "The human body needs water.",
+            "I take care of my body."
+        ],
+        "fr": [
+            "Mon corps est fatigué.",
+            "Le corps humain a besoin d'eau.",
+            "Je prends soin de mon corps."
+        ],
+        "es": [
+            "Mi cuerpo está cansado.",
+            "El cuerpo humano necesita agua.",
+            "Cuido mi cuerpo."
+        ],
+        "pt": [
+            "Meu corpo está cansado.",
+            "O corpo humano precisa de água.",
+            "Eu cuido do meu corpo."
+        ],
+        "ru": {
+            "cyr": [
+                "Моё тело устало.",
+                "Человеческому телу нужна вода.",
+                "Я забочусь о своём теле."
+            ],
+            "lat": [
+                "Moyo telo ustalo.",
+                "Chelovecheskomu telu nuzhna voda.",
+                "Ya zabochus’ o svoem tele."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הגוף שלי עייף.",
+                "הגוף האנושי צריך מים.",
+                "אני שומר על הגוף שלי."
+            ],
+            "lat": [
+                "ha-guf sheli ayef.",
+                "ha-guf ha-enoshi tsarikh mayim.",
+                "ani shomer al ha-guf sheli."
+            ]
+        }
+    },
+    "validated": false
+}

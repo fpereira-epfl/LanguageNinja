@@ -1,0 +1,49 @@
+{
+    "until": {
+        "en": [
+            "Wait until five.",
+            "I will stay until Monday.",
+            "Read until page ten."
+        ],
+        "fr": [
+            "Attends jusqu'à cinq heures.",
+            "Je resterai jusqu'à lundi.",
+            "Lis jusqu'à la page dix."
+        ],
+        "es": [
+            "Espera hasta las cinco.",
+            "Me quedaré hasta el lunes.",
+            "Lee hasta la página diez."
+        ],
+        "pt": [
+            "Espera até as cinco.",
+            "Vou ficar até segunda.",
+            "Leia até a página dez."
+        ],
+        "ru": {
+            "cyr": [
+                "Подожди до пяти.",
+                "Я останусь до понедельника.",
+                "Читай до десятой страницы."
+            ],
+            "lat": [
+                "Podozhdi do pyati.",
+                "Ya ostanus’ do ponedelnika.",
+                "Chitay do desyatoi stranitsy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "חכה עד חמש.",
+                "אני אשאר עד יום שני.",
+                "קרא עד עמוד עשר."
+            ],
+            "lat": [
+                "chake ad chamesh.",
+                "ani esha'er ad yom sheni.",
+                "kra ad amud eser."
+            ]
+        }
+    },
+    "validated": false
+}

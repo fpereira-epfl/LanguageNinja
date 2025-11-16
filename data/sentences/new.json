@@ -1,0 +1,49 @@
+{
+    "new": {
+        "en": [
+            "I have a new car.",
+            "This book is new.",
+            "They need a new house."
+        ],
+        "fr": [
+            "J'ai une nouvelle voiture.",
+            "Ce livre est nouveau.",
+            "Ils ont besoin d'une nouvelle maison."
+        ],
+        "es": [
+            "Tengo un coche nuevo.",
+            "Este libro es nuevo.",
+            "Ellos necesitan una casa nueva."
+        ],
+        "pt": [
+            "Tenho um carro novo.",
+            "Este livro é novo.",
+            "Eles precisam de uma casa nova."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня новая машина.",
+                "Эта книга новая.",
+                "Им нужен новый дом."
+            ],
+            "lat": [
+                "U menya novaya mashina.",
+                "Eta kniga novaya.",
+                "Im nuzhen novy dom."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי מכונית חדשה.",
+                "הספר הזה חדש.",
+                "הם צריכים בית חדש."
+            ],
+            "lat": [
+                "yesh li mekhonit chadasha.",
+                "hasefer haze chadash.",
+                "hem tsrichim bayit chadash."
+            ]
+        }
+    },
+    "validated": false
+}

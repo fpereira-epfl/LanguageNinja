@@ -1,0 +1,49 @@
+{
+    "if": {
+        "en": [
+            "If it rains, we will stay home.",
+            "If you see him, call me.",
+            "If I had time, I would help."
+        ],
+        "fr": [
+            "S'il pleut, nous resterons à la maison.",
+            "Si tu le vois, appelle-moi.",
+            "Si j'avais du temps, j'aiderais."
+        ],
+        "es": [
+            "Si llueve, nos quedaremos en casa.",
+            "Si lo ves, llámame.",
+            "Si tuviera tiempo, ayudaría."
+        ],
+        "pt": [
+            "Se chover, ficaremos em casa.",
+            "Se você o vir, ligue para mim.",
+            "Se eu tivesse tempo, eu ajudaria."
+        ],
+        "ru": {
+            "cyr": [
+                "Если будет дождь, мы останемся дома.",
+                "Если ты его увидишь, позвони мне.",
+                "Если бы у меня было время, я бы помог."
+            ],
+            "lat": [
+                "Esli budet dozhd', my ostanemsya doma.",
+                "Esli ty ego uvidish', pozvoni mne.",
+                "Esli by u menya bylo vremya, ya by pomog."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אם ירד גשם, נישאר בבית.",
+                "אם אתה רואה אותו, תתקשר אליי.",
+                "אם היה לי זמן, הייתי עוזר."
+            ],
+            "lat": [
+                "im yered geshem, nisha'er babayit.",
+                "im ata ro'e oto, titkasher elay.",
+                "im haya li zman, hayiti ozer."
+            ]
+        }
+    },
+    "validated": false
+}

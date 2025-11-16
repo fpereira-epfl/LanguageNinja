@@ -1,0 +1,49 @@
+{
+    "nation": {
+        "en": [
+            "Our nation is strong.",
+            "This nation is young.",
+            "We love our nation."
+        ],
+        "fr": [
+            "Notre nation est forte.",
+            "Cette nation est jeune.",
+            "Nous aimons notre nation."
+        ],
+        "es": [
+            "Nuestra nación es fuerte.",
+            "Esta nación es joven.",
+            "Amamos nuestra nación."
+        ],
+        "pt": [
+            "Nossa nação é forte.",
+            "Esta nação é jovem.",
+            "Amamos nossa nação."
+        ],
+        "ru": {
+            "cyr": [
+                "Наша нация сильная.",
+                "Эта нация молодая.",
+                "Мы любим нашу нацию."
+            ],
+            "lat": [
+                "Nasha natsiya silnaya.",
+                "Eta natsiya molodaya.",
+                "My lyubim nashu natsiyu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "האומה שלנו חזקה.",
+                "האומה הזאת צעירה.",
+                "אנחנו אוהבים את האומה שלנו."
+            ],
+            "lat": [
+                "hauma shelanu chazaka.",
+                "hauma hazot tzeira.",
+                "anachnu ohavim et hauma shelanu."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "problem": {
+        "en": [
+            "We have a problem.",
+            "The problem is small.",
+            "He solves the problem."
+        ],
+        "fr": [
+            "Nous avons un problème.",
+            "Le problème est petit.",
+            "Il résout le problème."
+        ],
+        "es": [
+            "Tenemos un problema.",
+            "El problema es pequeño.",
+            "Él resuelve el problema."
+        ],
+        "pt": [
+            "Temos um problema.",
+            "O problema é pequeno.",
+            "Ele resolve o problema."
+        ],
+        "ru": {
+            "cyr": [
+                "У нас есть проблема.",
+                "Проблема маленькая.",
+                "Он решает проблему."
+            ],
+            "lat": [
+                "U nas yest' problema.",
+                "Problema malen'kaya.",
+                "On reshayet problemu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לנו בעיה.",
+                "הבעיה קטנה.",
+                "הוא פותר את הבעיה."
+            ],
+            "lat": [
+                "yesh lanu beaya.",
+                "ha beaya ktana.",
+                "hu poter et ha beaya."
+            ]
+        }
+    },
+    "validated": false
+}

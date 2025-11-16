@@ -1,0 +1,17 @@
+{
+    "idea": {
+        "en": "idea",
+        "fr": "idée",
+        "es": "idea",
+        "pt": "ideia",
+        "ru": {
+            "cyr": "идея",
+            "lat": "ideya"
+        },
+        "il": {
+            "heb": "רעיון",
+            "lat": "raayon"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "unite": {
+        "en": "unite",
+        "fr": "unir",
+        "es": "unir",
+        "pt": "unir",
+        "ru": {
+            "cyr": "объединять",
+            "lat": "obedinyat"
+        },
+        "il": {
+            "heb": "לאחד",
+            "lat": "le'ached"
+        }
+    },
+    "validated": false
+}

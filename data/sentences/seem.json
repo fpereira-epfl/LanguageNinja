@@ -1,0 +1,49 @@
+{
+    "seem": {
+        "en": [
+            "He seems tired.",
+            "It seems easy.",
+            "They seem happy."
+        ],
+        "fr": [
+            "Il semble fatigué.",
+            "Ça semble facile.",
+            "Ils semblent heureux."
+        ],
+        "es": [
+            "Él parece cansado.",
+            "Parece fácil.",
+            "Ellos parecen felices."
+        ],
+        "pt": [
+            "Ele parece cansado.",
+            "Parece fácil.",
+            "Eles parecem felizes."
+        ],
+        "ru": {
+            "cyr": [
+                "Он кажется уставшим.",
+                "Это кажется лёгким.",
+                "Они кажутся счастливыми."
+            ],
+            "lat": [
+                "On kazhetsya ustavshim.",
+                "Eto kazhetsya lyogkim.",
+                "Oni kazhutsya schastlivymi."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא נראה עייף.",
+                "זה נראה קל.",
+                "הם נראים שמחים."
+            ],
+            "lat": [
+                "hu nir'eh ayef.",
+                "ze nir'eh kal.",
+                "hem nir'im smechim."
+            ]
+        }
+    },
+    "validated": false
+}

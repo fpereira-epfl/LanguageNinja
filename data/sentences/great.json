@@ -1,0 +1,49 @@
+{
+    "great": {
+        "en": [
+            "This movie is great.",
+            "You did a great job.",
+            "This idea is great."
+        ],
+        "fr": [
+            "Ce film est génial.",
+            "Vous avez fait un excellent travail.",
+            "Cette idée est géniale."
+        ],
+        "es": [
+            "Esta película es genial.",
+            "Usted hizo un gran trabajo.",
+            "Esta idea es genial."
+        ],
+        "pt": [
+            "Este filme é ótimo.",
+            "Você fez um ótimo trabalho.",
+            "Esta ideia é ótima."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот фильм отличный.",
+                "Вы проделали отличную работу.",
+                "Эта идея отличная."
+            ],
+            "lat": [
+                "Etot film otlichnyy.",
+                "Vy prodelali otlichnuyu rabotu.",
+                "Eta ideya otlichnaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הסרט הזה נהדר.",
+                "עשית עבודה נהדרת.",
+                "הרעיון הזה נהדר."
+            ],
+            "lat": [
+                "ha-seret haze nehedar.",
+                "asita avoda nehederet.",
+                "haraayon haze nehedar."
+            ]
+        }
+    },
+    "validated": false
+}

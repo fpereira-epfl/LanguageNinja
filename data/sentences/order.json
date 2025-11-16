@@ -1,0 +1,49 @@
+{
+    "order": {
+        "en": [
+            "I like order.",
+            "The room is in order.",
+            "We keep order here."
+        ],
+        "fr": [
+            "J'aime l'ordre.",
+            "La chambre est en ordre.",
+            "Nous maintenons l'ordre ici."
+        ],
+        "es": [
+            "Me gusta el orden.",
+            "La habitación está en orden.",
+            "Mantenemos el orden aquí."
+        ],
+        "pt": [
+            "Eu gosto de ordem.",
+            "O quarto está em ordem.",
+            "Mantemos a ordem aqui."
+        ],
+        "ru": {
+            "cyr": [
+                "Мне нравится порядок.",
+                "Комната в порядке.",
+                "Мы поддерживаем порядок здесь."
+            ],
+            "lat": [
+                "Mne nravitsya poryadok.",
+                "Komnata v poryadke.",
+                "My podderzhivaem poryadok zdes'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אוהב סדר.",
+                "החדר מסודר.",
+                "אנחנו שומרים על הסדר כאן."
+            ],
+            "lat": [
+                "ani ohev seder.",
+                "ha-cheder mesudar.",
+                "anachnu shomrim al ha-seder kan."
+            ]
+        }
+    },
+    "validated": false
+}

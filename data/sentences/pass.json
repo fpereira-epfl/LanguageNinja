@@ -1,0 +1,49 @@
+{
+    "pass": {
+        "en": [
+            "Please pass the salt.",
+            "We pass the ball.",
+            "I passed the exam."
+        ],
+        "fr": [
+            "S'il te plaît, passe le sel.",
+            "Nous passons le ballon.",
+            "J'ai réussi l'examen."
+        ],
+        "es": [
+            "Por favor, pasa la sal.",
+            "Pasamos la pelota.",
+            "Aprobé el examen."
+        ],
+        "pt": [
+            "Por favor, passe o sal.",
+            "Nós passamos a bola.",
+            "Eu passei no exame."
+        ],
+        "ru": {
+            "cyr": [
+                "Пожалуйста, передай соль.",
+                "Мы передаём мяч.",
+                "Я сдал экзамен."
+            ],
+            "lat": [
+                "Pozhaluysta, pereday sol’.",
+                "My peredayom myach.",
+                "Ya sdal ekzamen."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בבקשה, תעביר את המלח.",
+                "אנחנו מוסרים את הכדור.",
+                "עברתי את המבחן."
+            ],
+            "lat": [
+                "bevakasha, ta'avir et hamelach.",
+                "anachnu mosrim et hakadur.",
+                "avarti et hamivchan."
+            ]
+        }
+    },
+    "validated": false
+}

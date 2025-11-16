@@ -1,0 +1,49 @@
+{
+    "too": {
+        "en": [
+            "I am tired too.",
+            "She is here too.",
+            "We want tea too."
+        ],
+        "fr": [
+            "Je suis fatigué aussi.",
+            "Elle est ici aussi.",
+            "Nous voulons du thé aussi."
+        ],
+        "es": [
+            "Yo también estoy cansado.",
+            "Ella también está aquí.",
+            "Nosotros también queremos té."
+        ],
+        "pt": [
+            "Eu também estou cansado.",
+            "Ela também está aqui.",
+            "Nós também queremos chá."
+        ],
+        "ru": {
+            "cyr": [
+                "Я тоже устал.",
+                "Она тоже здесь.",
+                "Мы тоже хотим чаю."
+            ],
+            "lat": [
+                "Ya tozhe ustal.",
+                "Ona tozhe zdyes'.",
+                "My tozhe khotim chayu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני גם עייף.",
+                "היא גם כאן.",
+                "אנחנו גם רוצים תה."
+            ],
+            "lat": [
+                "ani gam ayef.",
+                "hi gam kan.",
+                "anachnu gam rotsim te."
+            ]
+        }
+    },
+    "validated": false
+}

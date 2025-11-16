@@ -1,0 +1,17 @@
+{
+    "same": {
+        "en": "same",
+        "fr": "même",
+        "es": "mismo",
+        "pt": "mesmo",
+        "ru": {
+            "cyr": "тот же самый",
+            "lat": "tot zhe samyy"
+        },
+        "il": {
+            "heb": "אותו",
+            "lat": "oto"
+        }
+    },
+    "validated": false
+}

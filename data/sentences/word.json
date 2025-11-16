@@ -1,0 +1,49 @@
+{
+    "word": {
+        "en": [
+            "This word is new.",
+            "I like this word.",
+            "What does this word mean?"
+        ],
+        "fr": [
+            "Ce mot est nouveau.",
+            "J'aime ce mot.",
+            "Que veut dire ce mot ?"
+        ],
+        "es": [
+            "Esta palabra es nueva.",
+            "Me gusta esta palabra.",
+            "¿Qué significa esta palabra?"
+        ],
+        "pt": [
+            "Esta palavra é nova.",
+            "Gosto desta palavra.",
+            "O que significa esta palavra?"
+        ],
+        "ru": {
+            "cyr": [
+                "Это новое слово.",
+                "Мне нравится это слово.",
+                "Что означает это слово?"
+            ],
+            "lat": [
+                "Eto novoye slovo.",
+                "Mne nravitsya eto slovo.",
+                "Chto oznachayet eto slovo?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "המילה הזאת חדשה.",
+                "אני אוהב את המילה הזאת.",
+                "מה פירוש המילה הזאת?"
+            ],
+            "lat": [
+                "ha mila hazot hadasha.",
+                "ani ohev et ha mila hazot.",
+                "ma pirush ha mila hazot?"
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "family": {
+        "en": "family",
+        "fr": "famille",
+        "es": "familia",
+        "pt": "família",
+        "ru": {
+            "cyr": "семья",
+            "lat": "semya"
+        },
+        "il": {
+            "heb": "משפחה",
+            "lat": "mishpacha"
+        }
+    },
+    "validated": false
+}

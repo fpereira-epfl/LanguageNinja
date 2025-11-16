@@ -1,0 +1,49 @@
+{
+    "upon": {
+        "en": [
+            "The book is upon the table.",
+            "She sat upon the rock.",
+            "He put his hand upon the wall."
+        ],
+        "fr": [
+            "Le livre est sur la table.",
+            "Elle s'est assise sur le rocher.",
+            "Il a posé la main sur le mur."
+        ],
+        "es": [
+            "El libro está sobre la mesa.",
+            "Ella se sentó sobre la roca.",
+            "Él puso la mano sobre la pared."
+        ],
+        "pt": [
+            "O livro está sobre a mesa.",
+            "Ela se sentou sobre a pedra.",
+            "Ele colocou a mão sobre a parede."
+        ],
+        "ru": {
+            "cyr": [
+                "Книга на столе.",
+                "Она села на камень.",
+                "Он положил руку на стену."
+            ],
+            "lat": [
+                "Kniga na stole.",
+                "Ona sela na kamen.",
+                "On polozhil ruku na stenu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הספר על השולחן.",
+                "היא ישבה על הסלע.",
+                "הוא הניח את ידו על הקיר."
+            ],
+            "lat": [
+                "ha-sefer al ha-shulchan.",
+                "hi yashva al ha-sela.",
+                "hu hiniach et yado al ha-kir."
+            ]
+        }
+    },
+    "validated": false
+}

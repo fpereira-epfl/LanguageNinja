@@ -1,0 +1,17 @@
+{
+    "moment": {
+        "en": "moment",
+        "fr": "moment",
+        "es": "momento",
+        "pt": "momento",
+        "ru": {
+            "cyr": "момент",
+            "lat": "moment"
+        },
+        "il": {
+            "heb": "רגע",
+            "lat": "rega"
+        }
+    },
+    "validated": false
+}

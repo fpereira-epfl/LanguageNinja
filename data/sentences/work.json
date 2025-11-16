@@ -1,0 +1,49 @@
+{
+    "work": {
+        "en": [
+            "I work every day.",
+            "She works at a school.",
+            "We start work at nine."
+        ],
+        "fr": [
+            "Je travaille tous les jours.",
+            "Elle travaille dans une école.",
+            "Nous commençons le travail à neuf heures."
+        ],
+        "es": [
+            "Trabajo todos los días.",
+            "Ella trabaja en una escuela.",
+            "Empezamos el trabajo a las nueve."
+        ],
+        "pt": [
+            "Eu trabalho todos os dias.",
+            "Ela trabalha em uma escola.",
+            "Começamos o trabalho às nove."
+        ],
+        "ru": {
+            "cyr": [
+                "Я работаю каждый день.",
+                "Она работает в школе.",
+                "Мы начинаем работу в девять."
+            ],
+            "lat": [
+                "Ya rabotayu kazhdy den'.",
+                "Ona rabotaet v shkole.",
+                "My nachinaem rabotu v devyat'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני עובד כל יום.",
+                "היא עובדת בבית ספר.",
+                "אנחנו מתחילים את העבודה בתשע."
+            ],
+            "lat": [
+                "ani oved kol yom.",
+                "hi ovedet be-beit sefer.",
+                "anachnu matchilim et ha-avoda be-tesha."
+            ]
+        }
+    },
+    "validated": false
+}

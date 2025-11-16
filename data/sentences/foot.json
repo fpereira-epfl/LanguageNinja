@@ -1,0 +1,49 @@
+{
+    "foot": {
+        "en": [
+            "My foot hurts.",
+            "This is my foot.",
+            "Wash your foot."
+        ],
+        "fr": [
+            "Mon pied me fait mal.",
+            "C'est mon pied.",
+            "Lave ton pied."
+        ],
+        "es": [
+            "Me duele el pie.",
+            "Este es mi pie.",
+            "Lava tu pie."
+        ],
+        "pt": [
+            "Meu pé dói.",
+            "Este é o meu pé.",
+            "Lava o seu pé."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня болит стопа.",
+                "Это моя стопа.",
+                "Помой свою стопу."
+            ],
+            "lat": [
+                "U menya bolit stopa.",
+                "Eto moya stopa.",
+                "Pomoy svoyu stopu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "כואבת לי כף הרגל.",
+                "זו כף הרגל שלי.",
+                "שטוף את כף הרגל שלך."
+            ],
+            "lat": [
+                "ko'evet li kaf ha-regel.",
+                "zo kaf ha-regel sheli.",
+                "shtof et kaf ha-regel shelcha."
+            ]
+        }
+    },
+    "validated": false
+}

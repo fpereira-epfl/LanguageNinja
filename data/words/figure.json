@@ -1,0 +1,17 @@
+{
+    "figure": {
+        "en": "figure",
+        "fr": "figure",
+        "es": "figura",
+        "pt": "figura",
+        "ru": {
+            "cyr": "фигура",
+            "lat": "figura"
+        },
+        "il": {
+            "heb": "דמות",
+            "lat": "demut"
+        }
+    },
+    "validated": false
+}

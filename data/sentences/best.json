@@ -1,0 +1,49 @@
+{
+    "best": {
+        "en": [
+            "This is the best book.",
+            "I want the best option.",
+            "She is my best friend."
+        ],
+        "fr": [
+            "C'est le meilleur livre.",
+            "Je veux la meilleure option.",
+            "Elle est ma meilleure amie."
+        ],
+        "es": [
+            "Este es el mejor libro.",
+            "Quiero la mejor opción.",
+            "Ella es mi mejor amiga."
+        ],
+        "pt": [
+            "Este é o melhor livro.",
+            "Eu quero a melhor opção.",
+            "Ela é minha melhor amiga."
+        ],
+        "ru": {
+            "cyr": [
+                "Это лучшая книга.",
+                "Я хочу лучший вариант.",
+                "Она моя лучшая подруга."
+            ],
+            "lat": [
+                "Eto luchshaya kniga.",
+                "Ya khochu luchshiy variant.",
+                "Ona moya luchshaya podruga."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה הספר הכי טוב.",
+                "אני רוצה את האפשרות הכי טובה.",
+                "היא החברה הכי טובה שלי."
+            ],
+            "lat": [
+                "ze ha-sefer hachi tov.",
+                "ani rotze et ha-efsharut hachi tova.",
+                "hi ha-chavera hachi tova sheli."
+            ]
+        }
+    },
+    "validated": false
+}

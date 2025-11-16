@@ -1,0 +1,49 @@
+{
+    "another": {
+        "en": [
+            "I want another book.",
+            "Give me another cup.",
+            "We need another day."
+        ],
+        "fr": [
+            "Je veux un autre livre.",
+            "Donne-moi une autre tasse.",
+            "Nous avons besoin d'un autre jour."
+        ],
+        "es": [
+            "Quiero otro libro.",
+            "Dame otra taza.",
+            "Necesitamos otro día."
+        ],
+        "pt": [
+            "Quero outro livro.",
+            "Me dê outra xícara.",
+            "Precisamos de outro dia."
+        ],
+        "ru": {
+            "cyr": [
+                "Я хочу другую книгу.",
+                "Дай мне другую чашку.",
+                "Нам нужен другой день."
+            ],
+            "lat": [
+                "Ya khochu druguyu knigu.",
+                "Day mne druguyu chashku.",
+                "Nam nuzhen drugoy den’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רוצה ספר אחר.",
+                "תן לי כוס אחרת.",
+                "אנחנו צריכים יום אחר."
+            ],
+            "lat": [
+                "ani rotze sefer acher.",
+                "ten li kos acheret.",
+                "anachnu tsrikhim yom acher."
+            ]
+        }
+    },
+    "validated": false
+}

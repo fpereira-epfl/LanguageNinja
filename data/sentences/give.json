@@ -1,0 +1,49 @@
+{
+    "give": {
+        "en": [
+            "I give you a book.",
+            "She gives me water.",
+            "Please give us the pen."
+        ],
+        "fr": [
+            "Je te donne un livre.",
+            "Elle me donne de l'eau.",
+            "S'il te plaît, donne-nous le stylo."
+        ],
+        "es": [
+            "Te doy un libro.",
+            "Ella me da agua.",
+            "Por favor, danos el bolígrafo."
+        ],
+        "pt": [
+            "Eu te dou um livro.",
+            "Ela me dá água.",
+            "Por favor, nos dê a caneta."
+        ],
+        "ru": {
+            "cyr": [
+                "Я даю тебе книгу.",
+                "Она даёт мне воду.",
+                "Пожалуйста, дай нам ручку."
+            ],
+            "lat": [
+                "Ya dayu tebe knigu.",
+                "Ona dayot mne vodu.",
+                "Pozhaluysta, dai nam ruchku."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני נותן לך ספר.",
+                "היא נותנת לי מים.",
+                "בבקשה תן לנו את העט."
+            ],
+            "lat": [
+                "ani noten lecha sefer.",
+                "hi notenet li mayim.",
+                "bevakasha ten lanu et ha-et."
+            ]
+        }
+    },
+    "validated": false
+}

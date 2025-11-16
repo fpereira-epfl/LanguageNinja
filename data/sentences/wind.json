@@ -1,0 +1,49 @@
+{
+    "wind": {
+        "en": [
+            "The wind is strong.",
+            "I feel the wind.",
+            "The wind moves the leaves."
+        ],
+        "fr": [
+            "Le vent est fort.",
+            "Je sens le vent.",
+            "Le vent fait bouger les feuilles."
+        ],
+        "es": [
+            "El viento es fuerte.",
+            "Siento el viento.",
+            "El viento mueve las hojas."
+        ],
+        "pt": [
+            "O vento é forte.",
+            "Eu sinto o vento.",
+            "O vento move as folhas."
+        ],
+        "ru": {
+            "cyr": [
+                "Ветер сильный.",
+                "Я чувствую ветер.",
+                "Ветер двигает листья."
+            ],
+            "lat": [
+                "Veter silnyy.",
+                "Ya chuvstvuyu veter.",
+                "Veter dvigaet listya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הרוח חזקה.",
+                "אני מרגיש את הרוח.",
+                "הרוח מזיזה את העלים."
+            ],
+            "lat": [
+                "ha-ruach chazaka.",
+                "ani margish et ha-ruach.",
+                "ha-ruach meziza et ha-alim."
+            ]
+        }
+    },
+    "validated": false
+}

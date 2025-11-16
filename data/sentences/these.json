@@ -1,0 +1,49 @@
+{
+    "these": {
+        "en": [
+            "These books are new.",
+            "These shoes are big.",
+            "These cars are fast."
+        ],
+        "fr": [
+            "Ces livres sont nouveaux.",
+            "Ces chaussures sont grandes.",
+            "Ces voitures sont rapides."
+        ],
+        "es": [
+            "Estos libros son nuevos.",
+            "Estos zapatos son grandes.",
+            "Estos coches son rápidos."
+        ],
+        "pt": [
+            "Estes livros são novos.",
+            "Estes sapatos são grandes.",
+            "Estes carros são rápidos."
+        ],
+        "ru": {
+            "cyr": [
+                "Эти книги новые.",
+                "Эти туфли большие.",
+                "Эти машины быстрые."
+            ],
+            "lat": [
+                "Eti knigi novye.",
+                "Eti tufli bol'shie.",
+                "Eti mashiny bystrye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הספרים האלה חדשים.",
+                "הנעליים האלה גדולות.",
+                "המכוניות האלה מהירות."
+            ],
+            "lat": [
+                "hasefarim ha'ele chadashim.",
+                "hana'alayim ha'ele gedolot.",
+                "hamechoniyot ha'ele mehirot."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "concern": {
+        "en": "concern",
+        "fr": "préoccupation",
+        "es": "preocupación",
+        "pt": "preocupação",
+        "ru": {
+            "cyr": "беспокойство",
+            "lat": "bespokoystvo"
+        },
+        "il": {
+            "heb": "דאגה",
+            "lat": "deaga"
+        }
+    },
+    "validated": false
+}

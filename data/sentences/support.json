@@ -1,0 +1,49 @@
+{
+    "support": {
+        "en": [
+            "I support you.",
+            "She supports her team.",
+            "We need your support."
+        ],
+        "fr": [
+            "Je te soutiens.",
+            "Elle soutient son équipe.",
+            "Nous avons besoin de ton soutien."
+        ],
+        "es": [
+            "Te apoyo.",
+            "Ella apoya a su equipo.",
+            "Necesitamos tu apoyo."
+        ],
+        "pt": [
+            "Eu te apoio.",
+            "Ela apoia sua equipe.",
+            "Precisamos do seu apoio."
+        ],
+        "ru": {
+            "cyr": [
+                "Я поддерживаю тебя.",
+                "Она поддерживает свою команду.",
+                "Нам нужна твоя поддержка."
+            ],
+            "lat": [
+                "Ya podderzhivayu tebya.",
+                "Ona podderzhivaet svoyu komandu.",
+                "Nam nuzhna tvoya podderzhka."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני תומך בך.",
+                "היא תומכת בקבוצה שלה.",
+                "אנחנו צריכים את התמיכה שלך."
+            ],
+            "lat": [
+                "ani tomekh bekha.",
+                "hi tomekhet ba-kvutsa shela.",
+                "anachnu tsrikhim et ha-tmikha shelkha."
+            ]
+        }
+    },
+    "validated": false
+}

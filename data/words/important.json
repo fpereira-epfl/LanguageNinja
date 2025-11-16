@@ -1,0 +1,17 @@
+{
+    "important": {
+        "en": "important",
+        "fr": "important",
+        "es": "importante",
+        "pt": "importante",
+        "ru": {
+            "cyr": "важный",
+            "lat": "vazhnyy"
+        },
+        "il": {
+            "heb": "חשוב",
+            "lat": "chashuv"
+        }
+    },
+    "validated": false
+}

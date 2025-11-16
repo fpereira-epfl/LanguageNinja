@@ -1,0 +1,49 @@
+{
+    "next": {
+        "en": [
+            "Who is next?",
+            "Next time, we will win.",
+            "The next bus is here."
+        ],
+        "fr": [
+            "Qui est le prochain ?",
+            "La prochaine fois, nous gagnerons.",
+            "Le prochain bus est ici."
+        ],
+        "es": [
+            "¿Quién es el siguiente?",
+            "La próxima vez, ganaremos.",
+            "El próximo autobús está aquí."
+        ],
+        "pt": [
+            "Quem é o próximo?",
+            "Da próxima vez, ganharemos.",
+            "O próximo ônibus está aqui."
+        ],
+        "ru": {
+            "cyr": [
+                "Кто следующий?",
+                "В следующий раз мы выиграем.",
+                "Следующий автобус здесь."
+            ],
+            "lat": [
+                "Kto sleduyushchiy?",
+                "V sleduyushchiy raz my vyigraem.",
+                "Sleduyushchiy avtobus zdes’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "מי הבא?",
+                "בפעם הבאה ננצח.",
+                "האוטובוס הבא כאן."
+            ],
+            "lat": [
+                "mi ha-ba?",
+                "bepa'am ha-ba'a nenatzeach.",
+                "ha-otobus ha-ba kan."
+            ]
+        }
+    },
+    "validated": false
+}

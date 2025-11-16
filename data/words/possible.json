@@ -1,0 +1,17 @@
+{
+    "possible": {
+        "en": "possible",
+        "fr": "possible",
+        "es": "posible",
+        "pt": "possível",
+        "ru": {
+            "cyr": "возможный",
+            "lat": "vozmozhnyy"
+        },
+        "il": {
+            "heb": "אפשרי",
+            "lat": "efshari"
+        }
+    },
+    "validated": false
+}

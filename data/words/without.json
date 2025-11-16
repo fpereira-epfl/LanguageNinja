@@ -1,0 +1,17 @@
+{
+    "without": {
+        "en": "without",
+        "fr": "sans",
+        "es": "sin",
+        "pt": "sem",
+        "ru": {
+            "cyr": "без",
+            "lat": "bez"
+        },
+        "il": {
+            "heb": "בלי",
+            "lat": "bli"
+        }
+    },
+    "validated": false
+}

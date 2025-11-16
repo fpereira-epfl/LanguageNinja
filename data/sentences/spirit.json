@@ -1,0 +1,49 @@
+{
+    "spirit": {
+        "en": [
+            "His spirit is calm.",
+            "We celebrate the spirit of peace.",
+            "Her spirit is strong."
+        ],
+        "fr": [
+            "Son esprit est calme.",
+            "Nous célébrons l'esprit de paix.",
+            "Son esprit est fort."
+        ],
+        "es": [
+            "Su espíritu está tranquilo.",
+            "Celebramos el espíritu de paz.",
+            "Su espíritu es fuerte."
+        ],
+        "pt": [
+            "Seu espírito está calmo.",
+            "Celebramos o espírito de paz.",
+            "Seu espírito é forte."
+        ],
+        "ru": {
+            "cyr": [
+                "Его дух спокоен.",
+                "Мы празднуем дух мира.",
+                "Её дух сильный."
+            ],
+            "lat": [
+                "Yego dukh spokoyen.",
+                "My prazdnuem dukh mira.",
+                "Eyo dukh sil’nyy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הרוח שלו רגועה.",
+                "אנחנו חוגגים את רוח השלום.",
+                "הרוח שלה חזקה."
+            ],
+            "lat": [
+                "ha-ruach shelo regu'a.",
+                "anachnu chogegim et ruach ha-shalom.",
+                "ha-ruach shela chazaka."
+            ]
+        }
+    },
+    "validated": false
+}

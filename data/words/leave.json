@@ -1,0 +1,17 @@
+{
+    "leave": {
+        "en": "leave",
+        "fr": "partir",
+        "es": "salir",
+        "pt": "sair",
+        "ru": {
+            "cyr": "уходить",
+            "lat": "uhodit"
+        },
+        "il": {
+            "heb": "לעזוב",
+            "lat": "laazov"
+        }
+    },
+    "validated": false
+}

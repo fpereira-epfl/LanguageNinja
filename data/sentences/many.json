@@ -1,0 +1,49 @@
+{
+    "many": {
+        "en": [
+            "I have many books.",
+            "Many people are here.",
+            "She has many friends."
+        ],
+        "fr": [
+            "J'ai beaucoup de livres.",
+            "Beaucoup de gens sont ici.",
+            "Elle a beaucoup d'amis."
+        ],
+        "es": [
+            "Tengo muchos libros.",
+            "Muchas personas están aquí.",
+            "Ella tiene muchos amigos."
+        ],
+        "pt": [
+            "Tenho muitos livros.",
+            "Muitas pessoas estão aqui.",
+            "Ela tem muitos amigos."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня много книг.",
+                "Здесь много людей.",
+                "У неё много друзей."
+            ],
+            "lat": [
+                "U menya mnogo knig.",
+                "Zdes' mnogo lyudey.",
+                "U neyo mnogo druzey."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי הרבה ספרים.",
+                "הרבה אנשים כאן.",
+                "יש לה הרבה חברים."
+            ],
+            "lat": [
+                "yesh li harbe sfarim.",
+                "harbe anashim kan.",
+                "yesh la harbe chaverim."
+            ]
+        }
+    },
+    "validated": false
+}

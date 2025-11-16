@@ -1,0 +1,49 @@
+{
+    "office": {
+        "en": [
+            "I am in the office.",
+            "The office is closed.",
+            "We clean the office."
+        ],
+        "fr": [
+            "Je suis au bureau.",
+            "Le bureau est fermé.",
+            "Nous nettoyons le bureau."
+        ],
+        "es": [
+            "Estoy en la oficina.",
+            "La oficina está cerrada.",
+            "Limpiamos la oficina."
+        ],
+        "pt": [
+            "Estou no escritório.",
+            "O escritório está fechado.",
+            "Nós limpamos o escritório."
+        ],
+        "ru": {
+            "cyr": [
+                "Я в офисе.",
+                "Офис закрыт.",
+                "Мы убираем офис."
+            ],
+            "lat": [
+                "Ya v ofise.",
+                "Ofis zakryt.",
+                "My ubiraem ofis."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני במשרד.",
+                "המשרד סגור.",
+                "אנחנו מנקים את המשרד."
+            ],
+            "lat": [
+                "ani bamisrad.",
+                "hamisrad sagur.",
+                "anachnu menakim et hamisrad."
+            ]
+        }
+    },
+    "validated": false
+}

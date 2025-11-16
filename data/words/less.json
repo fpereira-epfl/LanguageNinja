@@ -1,0 +1,17 @@
+{
+    "less": {
+        "en": "less",
+        "fr": "moins",
+        "es": "menos",
+        "pt": "menos",
+        "ru": {
+            "cyr": "меньше",
+            "lat": "menshe"
+        },
+        "il": {
+            "heb": "פחות",
+            "lat": "pachot"
+        }
+    },
+    "validated": false
+}

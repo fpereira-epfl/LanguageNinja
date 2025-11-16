@@ -1,0 +1,49 @@
+{
+    "so": {
+        "en": [
+            "So, we go now.",
+            "So, it is easy.",
+            "So, I agree."
+        ],
+        "fr": [
+            "Donc, nous allons maintenant.",
+            "Donc, c'est facile.",
+            "Donc, je suis d'accord."
+        ],
+        "es": [
+            "Entonces, vamos ahora.",
+            "Entonces, es fácil.",
+            "Entonces, estoy de acuerdo."
+        ],
+        "pt": [
+            "Então, vamos agora.",
+            "Então, é fácil.",
+            "Então, eu concordo."
+        ],
+        "ru": {
+            "cyr": [
+                "Так, мы идём сейчас.",
+                "Так, это легко.",
+                "Так, я согласен."
+            ],
+            "lat": [
+                "Tak, my idyom seychas.",
+                "Tak, eto legko.",
+                "Tak, ya soglasen."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אז, אנחנו הולכים עכשיו.",
+                "אז, זה קל.",
+                "אז, אני מסכים."
+            ],
+            "lat": [
+                "az, anachnu holkhim akhshav.",
+                "az, ze kal.",
+                "az, ani maskim."
+            ]
+        }
+    },
+    "validated": false
+}

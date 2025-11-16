@@ -1,0 +1,17 @@
+{
+    "interest": {
+        "en": "interest",
+        "fr": "intérêt",
+        "es": "interés",
+        "pt": "interesse",
+        "ru": {
+            "cyr": "интерес",
+            "lat": "interes"
+        },
+        "il": {
+            "heb": "עניין",
+            "lat": "inyan"
+        }
+    },
+    "validated": false
+}

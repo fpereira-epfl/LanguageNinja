@@ -1,0 +1,17 @@
+{
+    "become": {
+        "en": "become",
+        "fr": "devenir",
+        "es": "hacerse",
+        "pt": "tornar-se",
+        "ru": {
+            "cyr": "становиться",
+            "lat": "stanovitsya"
+        },
+        "il": {
+            "heb": "להפוך",
+            "lat": "lehafokh"
+        }
+    },
+    "validated": false
+}

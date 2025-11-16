@@ -1,0 +1,49 @@
+{
+    "real": {
+        "en": [
+            "This is real.",
+            "The story is real.",
+            "The fear is real."
+        ],
+        "fr": [
+            "C'est réel.",
+            "L'histoire est réelle.",
+            "La peur est réelle."
+        ],
+        "es": [
+            "Esto es real.",
+            "La historia es real.",
+            "El miedo es real."
+        ],
+        "pt": [
+            "Isto é real.",
+            "A história é real.",
+            "O medo é real."
+        ],
+        "ru": {
+            "cyr": [
+                "Это реально.",
+                "История реальна.",
+                "Страх реален."
+            ],
+            "lat": [
+                "Eto real'no.",
+                "Istoriya real'na.",
+                "Strakh realen."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה אמיתי.",
+                "הסיפור אמיתי.",
+                "הפחד אמיתי."
+            ],
+            "lat": [
+                "ze amiti.",
+                "hasipur amiti.",
+                "hapachad amiti."
+            ]
+        }
+    },
+    "validated": false
+}

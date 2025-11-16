@@ -1,0 +1,49 @@
+{
+    "example": {
+        "en": [
+            "This is an example.",
+            "Can you give an example?",
+            "I need a simple example."
+        ],
+        "fr": [
+            "Ceci est un exemple.",
+            "Peux-tu donner un exemple ?",
+            "J'ai besoin d'un exemple simple."
+        ],
+        "es": [
+            "Este es un ejemplo.",
+            "¿Puedes dar un ejemplo?",
+            "Necesito un ejemplo simple."
+        ],
+        "pt": [
+            "Este é um exemplo.",
+            "Você pode dar um exemplo?",
+            "Eu preciso de um exemplo simples."
+        ],
+        "ru": {
+            "cyr": [
+                "Это пример.",
+                "Ты можешь привести пример?",
+                "Мне нужен простой пример."
+            ],
+            "lat": [
+                "Eto primer.",
+                "Ty mozhesh’ privesti primer?",
+                "Mne nuzhen prostoy primer."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו דוגמה.",
+                "אתה יכול לתת דוגמה?",
+                "אני צריך דוגמה פשוטה."
+            ],
+            "lat": [
+                "zo dugma.",
+                "ata yachol latet dugma?",
+                "ani tsarikh dugma pshuta."
+            ]
+        }
+    },
+    "validated": false
+}

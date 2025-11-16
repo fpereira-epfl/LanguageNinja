@@ -1,0 +1,49 @@
+{
+    "often": {
+        "en": [
+            "I often read books.",
+            "She often visits her parents.",
+            "We often eat at home."
+        ],
+        "fr": [
+            "Je lis souvent des livres.",
+            "Elle rend souvent visite à ses parents.",
+            "Nous mangeons souvent à la maison."
+        ],
+        "es": [
+            "Leo libros a menudo.",
+            "Ella visita a sus padres a menudo.",
+            "Comemos a menudo en casa."
+        ],
+        "pt": [
+            "Eu frequentemente leio livros.",
+            "Ela visita os pais frequentemente.",
+            "Nós comemos frequentemente em casa."
+        ],
+        "ru": {
+            "cyr": [
+                "Я часто читаю книги.",
+                "Она часто навещает своих родителей.",
+                "Мы часто едим дома."
+            ],
+            "lat": [
+                "Ya chasto chitayu knigi.",
+                "Ona chasto naveshchayet svoikh roditeley.",
+                "My chasto yedim doma."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני קורא לעיתים קרובות ספרים.",
+                "היא מבקרת לעיתים קרובות את ההורים שלה.",
+                "אנחנו אוכלים לעיתים קרובות בבית."
+            ],
+            "lat": [
+                "ani kore le'itim krovot sfarim.",
+                "hi mevakeret le'itim krovot et ha-horim shela.",
+                "anachnu ochlim le'itim krovot babayit."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "woman": {
+        "en": "woman",
+        "fr": "femme",
+        "es": "mujer",
+        "pt": "mulher",
+        "ru": {
+            "cyr": "женщина",
+            "lat": "zhenshchina"
+        },
+        "il": {
+            "heb": "אישה",
+            "lat": "isha"
+        }
+    },
+    "validated": false
+}

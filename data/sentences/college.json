@@ -1,0 +1,49 @@
+{
+    "college": {
+        "en": [
+            "He goes to college next year.",
+            "She studies at college.",
+            "The college is near the city."
+        ],
+        "fr": [
+            "Il va à l'université l'année prochaine.",
+            "Elle étudie à l'université.",
+            "L'université est près de la ville."
+        ],
+        "es": [
+            "Él va a la universidad el próximo año.",
+            "Ella estudia en la universidad.",
+            "La universidad está cerca de la ciudad."
+        ],
+        "pt": [
+            "Ele vai para a faculdade no próximo ano.",
+            "Ela estuda na faculdade.",
+            "A faculdade fica perto da cidade."
+        ],
+        "ru": {
+            "cyr": [
+                "Он пойдёт в колледж в следующем году.",
+                "Она учится в колледже.",
+                "Колледж находится недалеко от города."
+            ],
+            "lat": [
+                "On poydyot v kolledzh v sleduyushchem godu.",
+                "Ona uchitsya v kolledzhe.",
+                "Kolledzh nakhoditsya nedaleko ot goroda."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא ילך למכללה בשנה הבאה.",
+                "היא לומדת במכללה.",
+                "המכללה נמצאת ליד העיר."
+            ],
+            "lat": [
+                "hu yelekh la-michlala ba-shana ha-ba'a.",
+                "hi lomedet ba-michlala.",
+                "ha-michlala nimtzet leyad ha-ir."
+            ]
+        }
+    },
+    "validated": false
+}

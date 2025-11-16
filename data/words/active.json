@@ -1,0 +1,17 @@
+{
+    "active": {
+        "en": "active",
+        "fr": "actif",
+        "es": "activo",
+        "pt": "ativo",
+        "ru": {
+            "cyr": "активный",
+            "lat": "aktivnyy"
+        },
+        "il": {
+            "heb": "פעיל",
+            "lat": "pa'il"
+        }
+    },
+    "validated": false
+}

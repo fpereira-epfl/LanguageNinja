@@ -1,0 +1,49 @@
+{
+    "both": {
+        "en": [
+            "Both books are on the table.",
+            "We both like tea.",
+            "Both houses are big."
+        ],
+        "fr": [
+            "Les deux livres sont sur la table.",
+            "Nous aimons tous les deux le thé.",
+            "Les deux maisons sont grandes."
+        ],
+        "es": [
+            "Ambos libros están sobre la mesa.",
+            "A ambos nos gusta el té.",
+            "Ambas casas son grandes."
+        ],
+        "pt": [
+            "Ambos os livros estão sobre a mesa.",
+            "Nós ambos gostamos de chá.",
+            "Ambas as casas são grandes."
+        ],
+        "ru": {
+            "cyr": [
+                "Обе книги на столе.",
+                "Мы оба любим чай.",
+                "Оба дома большие."
+            ],
+            "lat": [
+                "Obe knigi na stole.",
+                "My oba lyubim chai.",
+                "Oba doma bol’shie."
+            ]
+        },
+        "il": {
+            "heb": [
+                "שני הספרים על השולחן.",
+                "שנינו אוהבים תה.",
+                "שני הבתים גדולים."
+            ],
+            "lat": [
+                "shnei hasefarim al hashulchan.",
+                "shneinu ohavim te.",
+                "shnei habatim gdolim."
+            ]
+        }
+    },
+    "validated": false
+}

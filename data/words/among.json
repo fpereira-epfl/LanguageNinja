@@ -1,0 +1,17 @@
+{
+    "among": {
+        "en": "among",
+        "fr": "parmi",
+        "es": "entre",
+        "pt": "entre",
+        "ru": {
+            "cyr": "среди",
+            "lat": "sredi"
+        },
+        "il": {
+            "heb": "בין",
+            "lat": "bein"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "fall": {
+        "en": "fall",
+        "fr": "tomber",
+        "es": "caer",
+        "pt": "cair",
+        "ru": {
+            "cyr": "падать",
+            "lat": "padat"
+        },
+        "il": {
+            "heb": "ליפול",
+            "lat": "lipol"
+        }
+    },
+    "validated": false
+}

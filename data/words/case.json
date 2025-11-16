@@ -1,0 +1,17 @@
+{
+    "case": {
+        "en": "case",
+        "fr": "cas",
+        "es": "caso",
+        "pt": "caso",
+        "ru": {
+            "cyr": "случай",
+            "lat": "sluchay"
+        },
+        "il": {
+            "heb": "מקרה",
+            "lat": "mikre"
+        }
+    },
+    "validated": false
+}

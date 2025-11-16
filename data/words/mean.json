@@ -1,0 +1,17 @@
+{
+    "mean": {
+        "en": "mean",
+        "fr": "vouloir dire",
+        "es": "querer decir",
+        "pt": "querer dizer",
+        "ru": {
+            "cyr": "иметь в виду",
+            "lat": "imet v vidu"
+        },
+        "il": {
+            "heb": "להתכוון",
+            "lat": "lehitkaven"
+        }
+    },
+    "validated": false
+}

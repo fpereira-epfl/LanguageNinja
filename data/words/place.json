@@ -1,0 +1,17 @@
+{
+    "place": {
+        "en": "place",
+        "fr": "endroit",
+        "es": "lugar",
+        "pt": "lugar",
+        "ru": {
+            "cyr": "место",
+            "lat": "mesto"
+        },
+        "il": {
+            "heb": "מקום",
+            "lat": "makom"
+        }
+    },
+    "validated": false
+}

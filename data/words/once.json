@@ -1,0 +1,17 @@
+{
+    "once": {
+        "en": "once",
+        "fr": "une fois",
+        "es": "una vez",
+        "pt": "uma vez",
+        "ru": {
+            "cyr": "однажды",
+            "lat": "odnazhdy"
+        },
+        "il": {
+            "heb": "פעם אחת",
+            "lat": "pa'am achat"
+        }
+    },
+    "validated": false
+}

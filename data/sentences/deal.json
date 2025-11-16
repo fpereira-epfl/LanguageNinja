@@ -1,0 +1,49 @@
+{
+    "deal": {
+        "en": [
+            "We made a deal.",
+            "The deal is good.",
+            "They have a deal."
+        ],
+        "fr": [
+            "Nous avons conclu un accord.",
+            "L'accord est bon.",
+            "Ils ont un accord."
+        ],
+        "es": [
+            "Hicimos un trato.",
+            "El trato es bueno.",
+            "Ellos tienen un trato."
+        ],
+        "pt": [
+            "Fizemos um acordo.",
+            "O acordo é bom.",
+            "Eles têm um acordo."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы заключили сделку.",
+                "Сделка хорошая.",
+                "У них есть сделка."
+            ],
+            "lat": [
+                "My zaklyuchili sdelku.",
+                "Sdelka khoroshaya.",
+                "U nikh yest’ sdelka."
+            ]
+        },
+        "il": {
+            "heb": [
+                "עשינו עסקה.",
+                "העסקה טובה.",
+                "יש להם עסקה."
+            ],
+            "lat": [
+                "asinu iska.",
+                "ha’iska tova.",
+                "yesh lahem iska."
+            ]
+        }
+    },
+    "validated": false
+}

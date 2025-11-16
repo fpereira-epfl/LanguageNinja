@@ -1,0 +1,49 @@
+{
+    "cause": {
+        "en": [
+            "What is the cause?",
+            "The cause is unknown.",
+            "They cause a problem."
+        ],
+        "fr": [
+            "Quelle est la cause ?",
+            "La cause est inconnue.",
+            "Ils causent un problème."
+        ],
+        "es": [
+            "¿Cuál es la causa?",
+            "La causa es desconocida.",
+            "Ellos causan un problema."
+        ],
+        "pt": [
+            "Qual é a causa?",
+            "A causa é desconhecida.",
+            "Eles causam um problema."
+        ],
+        "ru": {
+            "cyr": [
+                "В чём причина?",
+                "Причина неизвестна.",
+                "Они вызывают проблему."
+            ],
+            "lat": [
+                "V chyom prichina?",
+                "Prichina neizvestna.",
+                "Oni vyzyvayut problemu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "מה הסיבה?",
+                "הסיבה לא ידועה.",
+                "הם גורמים לבעיה."
+            ],
+            "lat": [
+                "ma hasiba?",
+                "hasiba lo yedua.",
+                "hem gormim lebeaya."
+            ]
+        }
+    },
+    "validated": false
+}

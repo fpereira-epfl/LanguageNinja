@@ -1,0 +1,17 @@
+{
+    "law": {
+        "en": "law",
+        "fr": "loi",
+        "es": "ley",
+        "pt": "lei",
+        "ru": {
+            "cyr": "закон",
+            "lat": "zakon"
+        },
+        "il": {
+            "heb": "חוק",
+            "lat": "chok"
+        }
+    },
+    "validated": false
+}

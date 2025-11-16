@@ -1,0 +1,49 @@
+{
+    "close": {
+        "en": [
+            "Close the door, please.",
+            "I close the window at night.",
+            "She closes the store at six."
+        ],
+        "fr": [
+            "Ferme la porte, s'il te plaît.",
+            "Je ferme la fenêtre la nuit.",
+            "Elle ferme le magasin à six heures."
+        ],
+        "es": [
+            "Cierra la puerta, por favor.",
+            "Cierro la ventana por la noche.",
+            "Ella cierra la tienda a las seis."
+        ],
+        "pt": [
+            "Feche a porta, por favor.",
+            "Eu fecho a janela à noite.",
+            "Ela fecha a loja às seis."
+        ],
+        "ru": {
+            "cyr": [
+                "Закрой дверь, пожалуйста.",
+                "Я закрываю окно ночью.",
+                "Она закрывает магазин в шесть."
+            ],
+            "lat": [
+                "Zakroy dver', pozhaluysta.",
+                "Ya zakryvayu okno noch'yu.",
+                "Ona zakryvayet magazin v shest'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "סגור את הדלת, בבקשה.",
+                "אני סוגר את החלון בלילה.",
+                "היא סוגרת את החנות בשש."
+            ],
+            "lat": [
+                "sgor et hadelet, bevakasha.",
+                "ani soger et hachalon balayla.",
+                "hi sogeret et hachanut beshesh."
+            ]
+        }
+    },
+    "validated": false
+}

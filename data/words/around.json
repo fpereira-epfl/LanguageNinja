@@ -1,0 +1,17 @@
+{
+    "around": {
+        "en": "around",
+        "fr": "autour",
+        "es": "alrededor",
+        "pt": "ao redor",
+        "ru": {
+            "cyr": "вокруг",
+            "lat": "vokrug"
+        },
+        "il": {
+            "heb": "מסביב",
+            "lat": "misaviv"
+        }
+    },
+    "validated": false
+}

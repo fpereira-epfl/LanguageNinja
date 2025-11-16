@@ -1,0 +1,17 @@
+{
+    "street": {
+        "en": "street",
+        "fr": "rue",
+        "es": "calle",
+        "pt": "rua",
+        "ru": {
+            "cyr": "улица",
+            "lat": "ulitsa"
+        },
+        "il": {
+            "heb": "רחוב",
+            "lat": "rechov"
+        }
+    },
+    "validated": false
+}

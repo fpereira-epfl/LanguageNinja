@@ -1,0 +1,17 @@
+{
+    "point": {
+        "en": "point",
+        "fr": "point",
+        "es": "punto",
+        "pt": "ponto",
+        "ru": {
+            "cyr": "точка",
+            "lat": "tochka"
+        },
+        "il": {
+            "heb": "נקודה",
+            "lat": "nekuda"
+        }
+    },
+    "validated": false
+}

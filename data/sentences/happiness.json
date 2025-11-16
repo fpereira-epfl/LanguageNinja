@@ -1,0 +1,49 @@
+{
+    "happiness": {
+        "en": [
+            "Happiness is important.",
+            "Happiness is a feeling.",
+            "There is happiness here."
+        ],
+        "fr": [
+            "Le bonheur est important.",
+            "Le bonheur est un sentiment.",
+            "Il y a du bonheur ici."
+        ],
+        "es": [
+            "La felicidad es importante.",
+            "La felicidad es un sentimiento.",
+            "Hay felicidad aquí."
+        ],
+        "pt": [
+            "A felicidade é importante.",
+            "A felicidade é um sentimento.",
+            "Há felicidade aqui."
+        ],
+        "ru": {
+            "cyr": [
+                "Счастье важно.",
+                "Счастье — это чувство.",
+                "Здесь есть счастье."
+            ],
+            "lat": [
+                "Schastye vazhno.",
+                "Schastye — eto chuvstvo.",
+                "Zdes’ yest’ schastye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אושר חשוב.",
+                "אושר הוא רגש.",
+                "יש כאן אושר."
+            ],
+            "lat": [
+                "osher chashuv.",
+                "osher hu regesh.",
+                "yesh kan osher."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "day": {
+        "en": "day",
+        "fr": "jour",
+        "es": "día",
+        "pt": "dia",
+        "ru": {
+            "cyr": "день",
+            "lat": "den"
+        },
+        "il": {
+            "heb": "יום",
+            "lat": "yom"
+        }
+    },
+    "validated": false
+}

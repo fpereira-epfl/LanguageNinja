@@ -1,0 +1,17 @@
+{
+    "very": {
+        "en": "very",
+        "fr": "très",
+        "es": "muy",
+        "pt": "muito",
+        "ru": {
+            "cyr": "очень",
+            "lat": "ochen"
+        },
+        "il": {
+            "heb": "מאוד",
+            "lat": "meod"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "try": {
+        "en": "try",
+        "fr": "essayer",
+        "es": "intentar",
+        "pt": "tentar",
+        "ru": {
+            "cyr": "пытаться",
+            "lat": "pytatsya"
+        },
+        "il": {
+            "heb": "לנסות",
+            "lat": "lenasot"
+        }
+    },
+    "validated": false
+}

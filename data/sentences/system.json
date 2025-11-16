@@ -1,0 +1,49 @@
+{
+    "system": {
+        "en": [
+            "The system is new.",
+            "This system works well.",
+            "We use the system."
+        ],
+        "fr": [
+            "Le système est nouveau.",
+            "Ce système fonctionne bien.",
+            "Nous utilisons le système."
+        ],
+        "es": [
+            "El sistema es nuevo.",
+            "Este sistema funciona bien.",
+            "Usamos el sistema."
+        ],
+        "pt": [
+            "O sistema é novo.",
+            "Este sistema funciona bem.",
+            "Usamos o sistema."
+        ],
+        "ru": {
+            "cyr": [
+                "Система новая.",
+                "Эта система хорошо работает.",
+                "Мы используем систему."
+            ],
+            "lat": [
+                "Sistema novaya.",
+                "Eta sistema khorosho rabotaet.",
+                "My ispol'zuem sistemu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המערכת חדשה.",
+                "המערכת הזאת עובדת טוב.",
+                "אנחנו משתמשים במערכת."
+            ],
+            "lat": [
+                "ha-maarechet chadasha.",
+                "ha-maarechet ha-zot ovedet tov.",
+                "anachnu mishtamshim ba-maarechet."
+            ]
+        }
+    },
+    "validated": false
+}

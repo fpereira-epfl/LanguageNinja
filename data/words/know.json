@@ -1,0 +1,17 @@
+{
+    "know": {
+        "en": "know",
+        "fr": "savoir",
+        "es": "saber",
+        "pt": "saber",
+        "ru": {
+            "cyr": "знать",
+            "lat": "znat'"
+        },
+        "il": {
+            "heb": "לדעת",
+            "lat": "ladaat"
+        }
+    },
+    "validated": false
+}

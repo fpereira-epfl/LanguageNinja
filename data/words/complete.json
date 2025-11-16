@@ -1,0 +1,17 @@
+{
+    "complete": {
+        "en": "complete",
+        "fr": "complet",
+        "es": "completo",
+        "pt": "completo",
+        "ru": {
+            "cyr": "полный",
+            "lat": "polnyi"
+        },
+        "il": {
+            "heb": "שלם",
+            "lat": "shalem"
+        }
+    },
+    "validated": false
+}

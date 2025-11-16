@@ -1,0 +1,49 @@
+{
+    "power": {
+        "en": [
+            "He has power.",
+            "The power of the king is great.",
+            "Power is important."
+        ],
+        "fr": [
+            "Il a du pouvoir.",
+            "Le pouvoir du roi est grand.",
+            "Le pouvoir est important."
+        ],
+        "es": [
+            "Él tiene poder.",
+            "El poder del rey es grande.",
+            "El poder es importante."
+        ],
+        "pt": [
+            "Ele tem poder.",
+            "O poder do rei é grande.",
+            "O poder é importante."
+        ],
+        "ru": {
+            "cyr": [
+                "У него есть власть.",
+                "Власть короля большая.",
+                "Власть важна."
+            ],
+            "lat": [
+                "U nego yest’ vlast’.",
+                "Vlast’ korolya bol’shaya.",
+                "Vlast’ vazhna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לו כוח.",
+                "הכוח של המלך גדול.",
+                "הכוח חשוב."
+            ],
+            "lat": [
+                "yesh lo koach.",
+                "hakoach shel hamelech gadol.",
+                "hakoach chashuv."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "hour": {
+        "en": [
+            "It takes one hour.",
+            "The class lasts one hour.",
+            "We have two hours."
+        ],
+        "fr": [
+            "Ça prend une heure.",
+            "Le cours dure une heure.",
+            "Nous avons deux heures."
+        ],
+        "es": [
+            "Tarda una hora.",
+            "La clase dura una hora.",
+            "Tenemos dos horas."
+        ],
+        "pt": [
+            "Leva uma hora.",
+            "A aula dura uma hora.",
+            "Temos duas horas."
+        ],
+        "ru": {
+            "cyr": [
+                "Это занимает один час.",
+                "Урок длится один час.",
+                "У нас есть два часа."
+            ],
+            "lat": [
+                "Eto zanimaet odin chas.",
+                "Urok dlitsya odin chas.",
+                "U nas yest’ dva chasa."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה לוקח שעה.",
+                "השיעור נמשך שעה.",
+                "יש לנו שעתיים."
+            ],
+            "lat": [
+                "Ze lokeach sha'a.",
+                "Ha-shi'ur nimshakh sha'a.",
+                "Yesh lanu sha'ataim."
+            ]
+        }
+    },
+    "validated": false
+}

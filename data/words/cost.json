@@ -1,0 +1,17 @@
+{
+    "cost": {
+        "en": "cost",
+        "fr": "coût",
+        "es": "costo",
+        "pt": "custo",
+        "ru": {
+            "cyr": "стоимость",
+            "lat": "stoimost"
+        },
+        "il": {
+            "heb": "עלות",
+            "lat": "alut"
+        }
+    },
+    "validated": false
+}

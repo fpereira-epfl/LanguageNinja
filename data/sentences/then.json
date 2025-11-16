@@ -1,0 +1,49 @@
+{
+    "then": {
+        "en": [
+            "Then we go home.",
+            "Then she calls me.",
+            "Then they eat."
+        ],
+        "fr": [
+            "Ensuite, nous rentrons à la maison.",
+            "Ensuite, elle m'appelle.",
+            "Ensuite, ils mangent."
+        ],
+        "es": [
+            "Entonces vamos a casa.",
+            "Entonces ella me llama.",
+            "Entonces ellos comen."
+        ],
+        "pt": [
+            "Então vamos para casa.",
+            "Então ela me liga.",
+            "Então eles comem."
+        ],
+        "ru": {
+            "cyr": [
+                "Тогда мы идём домой.",
+                "Тогда она мне звонит.",
+                "Тогда они едят."
+            ],
+            "lat": [
+                "Togda my idyom domoy.",
+                "Togda ona mne zvonit.",
+                "Togda oni edyat."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אז אנחנו הולכים הביתה.",
+                "אז היא מתקשרת אליי.",
+                "אז הם אוכלים."
+            ],
+            "lat": [
+                "az anachnu holkhim habayta.",
+                "az hi mitkasheret elay.",
+                "az hem okhlim."
+            ]
+        }
+    },
+    "validated": false
+}

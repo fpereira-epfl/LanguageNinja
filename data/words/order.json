@@ -1,0 +1,17 @@
+{
+    "order": {
+        "en": "order",
+        "fr": "ordre",
+        "es": "orden",
+        "pt": "ordem",
+        "ru": {
+            "cyr": "порядок",
+            "lat": "poryadok"
+        },
+        "il": {
+            "heb": "סדר",
+            "lat": "seder"
+        }
+    },
+    "validated": false
+}

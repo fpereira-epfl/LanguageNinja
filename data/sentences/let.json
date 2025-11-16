@@ -1,0 +1,49 @@
+{
+    "let": {
+        "en": [
+            "Let me help you.",
+            "Please let him speak.",
+            "They do not let me go."
+        ],
+        "fr": [
+            "Laisse-moi t'aider.",
+            "S'il te plaît, laisse-le parler.",
+            "Ils ne me laissent pas partir."
+        ],
+        "es": [
+            "Déjame ayudarte.",
+            "Por favor, déjalo hablar.",
+            "No me dejan ir."
+        ],
+        "pt": [
+            "Deixa-me ajudar-te.",
+            "Por favor, deixa-o falar.",
+            "Eles não me deixam ir."
+        ],
+        "ru": {
+            "cyr": [
+                "Позволь мне помочь тебе.",
+                "Пожалуйста, позволь ему говорить.",
+                "Они не позволяют мне уйти."
+            ],
+            "lat": [
+                "Pozvol' mne pomoch' tebe.",
+                "Pozhaluysta, pozvol' yemu govorit'.",
+                "Oni ne pozvolyayut mne uyti."
+            ]
+        },
+        "il": {
+            "heb": [
+                "תן לי לעזור לך.",
+                "בבקשה, תן לו לדבר.",
+                "הם לא נותנים לי ללכת."
+            ],
+            "lat": [
+                "ten li la'azor lekha.",
+                "bevakasha, ten lo ledaber.",
+                "hem lo notnim li lalechet."
+            ]
+        }
+    },
+    "validated": false
+}

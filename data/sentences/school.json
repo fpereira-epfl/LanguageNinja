@@ -1,0 +1,49 @@
+{
+    "school": {
+        "en": [
+            "The school is big.",
+            "I go to school.",
+            "The school starts at eight."
+        ],
+        "fr": [
+            "L'école est grande.",
+            "Je vais à l'école.",
+            "L'école commence à huit heures."
+        ],
+        "es": [
+            "La escuela es grande.",
+            "Voy a la escuela.",
+            "La escuela empieza a las ocho."
+        ],
+        "pt": [
+            "A escola é grande.",
+            "Eu vou à escola.",
+            "A escola começa às oito."
+        ],
+        "ru": {
+            "cyr": [
+                "Школа большая.",
+                "Я хожу в школу.",
+                "Школа начинается в восемь."
+            ],
+            "lat": [
+                "Shkola bol’shaya.",
+                "Ya khozhu v shkolu.",
+                "Shkola nachinayetsya v vosem’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בית הספר גדול.",
+                "אני הולך לבית הספר.",
+                "בית הספר מתחיל בשמונה."
+            ],
+            "lat": [
+                "beit hasefer gadol.",
+                "ani holekh lebeit hasefer.",
+                "beit hasefer matchil beshmone."
+            ]
+        }
+    },
+    "validated": false
+}

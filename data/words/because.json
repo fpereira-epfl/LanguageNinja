@@ -1,0 +1,17 @@
+{
+    "because": {
+        "en": "because",
+        "fr": "parce que",
+        "es": "porque",
+        "pt": "porque",
+        "ru": {
+            "cyr": "потому что",
+            "lat": "potomu chto"
+        },
+        "il": {
+            "heb": "כי",
+            "lat": "ki"
+        }
+    },
+    "validated": false
+}

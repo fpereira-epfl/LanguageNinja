@@ -1,0 +1,49 @@
+{
+    "see": {
+        "en": [
+            "I see the house.",
+            "Do you see the bird?",
+            "She sees the stars."
+        ],
+        "fr": [
+            "Je vois la maison.",
+            "Tu vois l'oiseau ?",
+            "Elle voit les étoiles."
+        ],
+        "es": [
+            "Veo la casa.",
+            "¿Ves el pájaro?",
+            "Ella ve las estrellas."
+        ],
+        "pt": [
+            "Eu vejo a casa.",
+            "Você vê o pássaro?",
+            "Ela vê as estrelas."
+        ],
+        "ru": {
+            "cyr": [
+                "Я вижу дом.",
+                "Ты видишь птицу?",
+                "Она видит звёзды."
+            ],
+            "lat": [
+                "Ya vizhu dom.",
+                "Ty vidish' ptitsu?",
+                "Ona vidit zvyozdy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רואה את הבית.",
+                "אתה רואה את הציפור?",
+                "היא רואה את הכוכבים."
+            ],
+            "lat": [
+                "ani ro'eh et habayit.",
+                "ata ro'eh et hatsipor?",
+                "hi ro'a et hakokhavim."
+            ]
+        }
+    },
+    "validated": false
+}

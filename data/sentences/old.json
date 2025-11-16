@@ -1,0 +1,49 @@
+{
+    "old": {
+        "en": [
+            "The book is old.",
+            "This car is old.",
+            "The house is old."
+        ],
+        "fr": [
+            "Le livre est vieux.",
+            "Cette voiture est vieille.",
+            "La maison est vieille."
+        ],
+        "es": [
+            "El libro es viejo.",
+            "Este coche es viejo.",
+            "La casa es vieja."
+        ],
+        "pt": [
+            "O livro é velho.",
+            "Este carro é velho.",
+            "A casa é velha."
+        ],
+        "ru": {
+            "cyr": [
+                "Книга старая.",
+                "Эта машина старая.",
+                "Дом старый."
+            ],
+            "lat": [
+                "Kniga staraya.",
+                "Eta mashina staraya.",
+                "Dom staryy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הספר ישן.",
+                "המכונית הזאת ישנה.",
+                "הבית ישן."
+            ],
+            "lat": [
+                "ha-sefer yashan.",
+                "ha-mechonit hazot yeshana.",
+                "ha-bayit yashan."
+            ]
+        }
+    },
+    "validated": false
+}

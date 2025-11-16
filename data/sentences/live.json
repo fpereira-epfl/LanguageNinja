@@ -1,0 +1,49 @@
+{
+    "live": {
+        "en": [
+            "We live here.",
+            "She lives in a small city.",
+            "They live with their parents."
+        ],
+        "fr": [
+            "Nous vivons ici.",
+            "Elle vit dans une petite ville.",
+            "Ils vivent avec leurs parents."
+        ],
+        "es": [
+            "Vivimos aquí.",
+            "Ella vive en una ciudad pequeña.",
+            "Ellos viven con sus padres."
+        ],
+        "pt": [
+            "Vivemos aqui.",
+            "Ela vive em uma cidade pequena.",
+            "Eles vivem com seus pais."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы живём здесь.",
+                "Она живёт в маленьком городе.",
+                "Они живут с родителями."
+            ],
+            "lat": [
+                "My zhivyom zdes’.",
+                "Ona zhivyot v malen’kom gorode.",
+                "Oni zhivut s roditelyami."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו חיים כאן.",
+                "היא חיה בעיר קטנה.",
+                "הם חיים עם ההורים שלהם."
+            ],
+            "lat": [
+                "anachnu chayim kan.",
+                "hi chaya be'ir ktana.",
+                "hem chayim im hahorim shelahem."
+            ]
+        }
+    },
+    "validated": false
+}

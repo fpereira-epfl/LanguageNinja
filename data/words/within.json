@@ -1,0 +1,17 @@
+{
+    "within": {
+        "en": "within",
+        "fr": "à l'intérieur de",
+        "es": "dentro de",
+        "pt": "dentro de",
+        "ru": {
+            "cyr": "внутри",
+            "lat": "vnutri"
+        },
+        "il": {
+            "heb": "בתוך",
+            "lat": "betoch"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "long": {
+        "en": [
+            "The day is long.",
+            "The road is long.",
+            "His hair is long."
+        ],
+        "fr": [
+            "Le jour est long.",
+            "La route est longue.",
+            "Ses cheveux sont longs."
+        ],
+        "es": [
+            "El día es largo.",
+            "El camino es largo.",
+            "Su pelo es largo."
+        ],
+        "pt": [
+            "O dia é longo.",
+            "A estrada é longa.",
+            "O cabelo dele é longo."
+        ],
+        "ru": {
+            "cyr": [
+                "День длинный.",
+                "Дорога длинная.",
+                "У него длинные волосы."
+            ],
+            "lat": [
+                "Den' dlinnyy.",
+                "Doroga dlinnaya.",
+                "U nego dlinnyye volosy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "היום ארוך.",
+                "הדרך ארוכה.",
+                "השיער שלו ארוך."
+            ],
+            "lat": [
+                "hayom arokh.",
+                "ha-derekh aruka.",
+                "ha-se'ar shelo arokh."
+            ]
+        }
+    },
+    "validated": false
+}

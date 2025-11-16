@@ -1,0 +1,17 @@
+{
+    "next": {
+        "en": "next",
+        "fr": "suivant",
+        "es": "siguiente",
+        "pt": "próximo",
+        "ru": {
+            "cyr": "следующий",
+            "lat": "sleduyushchiy"
+        },
+        "il": {
+            "heb": "הבא",
+            "lat": "haba"
+        }
+    },
+    "validated": false
+}

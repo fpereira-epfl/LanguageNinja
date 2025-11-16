@@ -1,0 +1,17 @@
+{
+    "long": {
+        "en": "long",
+        "fr": "long",
+        "es": "largo",
+        "pt": "longo",
+        "ru": {
+            "cyr": "длинный",
+            "lat": "dlinnyy"
+        },
+        "il": {
+            "heb": "ארוך",
+            "lat": "arokh"
+        }
+    },
+    "validated": false
+}

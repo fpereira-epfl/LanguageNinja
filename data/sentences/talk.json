@@ -1,0 +1,49 @@
+{
+    "talk": {
+        "en": [
+            "I want to talk.",
+            "They talk every day.",
+            "Can we talk now?"
+        ],
+        "fr": [
+            "Je veux parler.",
+            "Ils parlent tous les jours.",
+            "Pouvons-nous parler maintenant ?"
+        ],
+        "es": [
+            "Quiero hablar.",
+            "Ellos hablan todos los días.",
+            "¿Podemos hablar ahora?"
+        ],
+        "pt": [
+            "Quero falar.",
+            "Eles falam todos os dias.",
+            "Podemos falar agora?"
+        ],
+        "ru": {
+            "cyr": [
+                "Я хочу поговорить.",
+                "Они говорят каждый день.",
+                "Мы можем поговорить сейчас?"
+            ],
+            "lat": [
+                "Ya khochu pogovorit’.",
+                "Oni govoryat kazhdyy den’.",
+                "My mozhem pogovorit’ seychas?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רוצה לדבר.",
+                "הם מדברים כל יום.",
+                "אנחנו יכולים לדבר עכשיו?"
+            ],
+            "lat": [
+                "ani rotze ledaber.",
+                "hem medabrim kol yom.",
+                "anachnu yecholim ledaber akhshav?"
+            ]
+        }
+    },
+    "validated": false
+}

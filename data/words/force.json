@@ -1,0 +1,17 @@
+{
+    "force": {
+        "en": "force",
+        "fr": "force",
+        "es": "fuerza",
+        "pt": "força",
+        "ru": {
+            "cyr": "сила",
+            "lat": "sila"
+        },
+        "il": {
+            "heb": "כוח",
+            "lat": "koach"
+        }
+    },
+    "validated": false
+}

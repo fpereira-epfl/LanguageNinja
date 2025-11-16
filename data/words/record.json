@@ -1,0 +1,17 @@
+{
+    "record": {
+        "en": "record",
+        "fr": "enregistrer",
+        "es": "grabar",
+        "pt": "gravar",
+        "ru": {
+            "cyr": "записывать",
+            "lat": "zapisyvat"
+        },
+        "il": {
+            "heb": "להקליט",
+            "lat": "lehaklit"
+        }
+    },
+    "validated": false
+}

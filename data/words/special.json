@@ -1,0 +1,17 @@
+{
+    "special": {
+        "en": "special",
+        "fr": "spécial",
+        "es": "especial",
+        "pt": "especial",
+        "ru": {
+            "cyr": "особенный",
+            "lat": "osobennyy"
+        },
+        "il": {
+            "heb": "מיוחד",
+            "lat": "meyuchad"
+        }
+    },
+    "validated": false
+}

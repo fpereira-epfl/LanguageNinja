@@ -1,0 +1,49 @@
+{
+    "time": {
+        "en": [
+            "Time is money.",
+            "I need time.",
+            "Do you have time?"
+        ],
+        "fr": [
+            "Le temps, c'est de l'argent.",
+            "J'ai besoin de temps.",
+            "Tu as du temps ?"
+        ],
+        "es": [
+            "El tiempo es dinero.",
+            "Necesito tiempo.",
+            "¿Tienes tiempo?"
+        ],
+        "pt": [
+            "Tempo é dinheiro.",
+            "Preciso de tempo.",
+            "Você tem tempo?"
+        ],
+        "ru": {
+            "cyr": [
+                "Время — деньги.",
+                "Мне нужно время.",
+                "У тебя есть время?"
+            ],
+            "lat": [
+                "Vremya — den'gi.",
+                "Mne nuzhno vremya.",
+                "U tebya yest' vremya?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "זמן הוא כסף.",
+                "אני צריך זמן.",
+                "יש לך זמן?"
+            ],
+            "lat": [
+                "zman hu kesef.",
+                "ani tsarikh zman.",
+                "yesh lekha zman?"
+            ]
+        }
+    },
+    "validated": false
+}

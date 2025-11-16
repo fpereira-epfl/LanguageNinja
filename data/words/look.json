@@ -1,0 +1,17 @@
+{
+    "look": {
+        "en": "look",
+        "fr": "regarder",
+        "es": "mirar",
+        "pt": "olhar",
+        "ru": {
+            "cyr": "смотреть",
+            "lat": "smotret"
+        },
+        "il": {
+            "heb": "להסתכל",
+            "lat": "lehistakel"
+        }
+    },
+    "validated": false
+}

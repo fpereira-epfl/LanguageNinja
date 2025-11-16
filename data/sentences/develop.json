@@ -1,0 +1,49 @@
+{
+    "develop": {
+        "en": [
+            "We develop new skills.",
+            "The city is developing fast.",
+            "He develops his talent."
+        ],
+        "fr": [
+            "Nous développons de nouvelles compétences.",
+            "La ville se développe vite.",
+            "Il développe son talent."
+        ],
+        "es": [
+            "Desarrollamos nuevas habilidades.",
+            "La ciudad se desarrolla rápido.",
+            "Él desarrolla su talento."
+        ],
+        "pt": [
+            "Desenvolvemos novas habilidades.",
+            "A cidade se desenvolve rápido.",
+            "Ele desenvolve seu talento."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы развиваем новые навыки.",
+                "Город развивается быстро.",
+                "Он развивает свой талант."
+            ],
+            "lat": [
+                "My razvivayem novye navyki.",
+                "Gorod razvivayetsya bystro.",
+                "On razvivayet svoy talant."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו מפתחים כישורים חדשים.",
+                "העיר מתפתחת מהר.",
+                "הוא מפתח את הכישרון שלו."
+            ],
+            "lat": [
+                "anachnu mefatchim kishurim chadashim.",
+                "hair mitpateachat maher.",
+                "hu mefateach et hakisharon shelo."
+            ]
+        }
+    },
+    "validated": false
+}

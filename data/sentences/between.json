@@ -1,0 +1,49 @@
+{
+    "between": {
+        "en": [
+            "The ball is between the boxes.",
+            "I am between Tom and Ana.",
+            "Put the table between the chairs."
+        ],
+        "fr": [
+            "La balle est entre les boîtes.",
+            "Je suis entre Tom et Ana.",
+            "Mets la table entre les chaises."
+        ],
+        "es": [
+            "La pelota está entre las cajas.",
+            "Estoy entre Tom y Ana.",
+            "Pon la mesa entre las sillas."
+        ],
+        "pt": [
+            "A bola está entre as caixas.",
+            "Estou entre Tom e Ana.",
+            "Coloque a mesa entre as cadeiras."
+        ],
+        "ru": {
+            "cyr": [
+                "Мяч между коробками.",
+                "Я между Томом и Аной.",
+                "Поставь стол между стульями."
+            ],
+            "lat": [
+                "Myach mezhdu korobkami.",
+                "Ya mezhdu Tomom i Anoy.",
+                "Postav’ stol mezhdu stul’yami."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הכדור בין הקופסאות.",
+                "אני בין טום לאנה.",
+                "שים את השולחן בין הכיסאות."
+            ],
+            "lat": [
+                "hakadur bein hakufsaot.",
+                "ani bein tom leana.",
+                "sim et hashulchan bein hakisaot."
+            ]
+        }
+    },
+    "validated": false
+}

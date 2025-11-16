@@ -1,0 +1,17 @@
+{
+    "better": {
+        "en": "better",
+        "fr": "mieux",
+        "es": "mejor",
+        "pt": "melhor",
+        "ru": {
+            "cyr": "лучше",
+            "lat": "luchshe"
+        },
+        "il": {
+            "heb": "טוב יותר",
+            "lat": "tov yoter"
+        }
+    },
+    "validated": false
+}

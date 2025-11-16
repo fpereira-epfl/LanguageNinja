@@ -1,0 +1,17 @@
+{
+    "big": {
+        "en": "big",
+        "fr": "grand",
+        "es": "grande",
+        "pt": "grande",
+        "ru": {
+            "cyr": "большой",
+            "lat": "bolshoy"
+        },
+        "il": {
+            "heb": "גדול",
+            "lat": "gadol"
+        }
+    },
+    "validated": false
+}

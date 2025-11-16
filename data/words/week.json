@@ -1,0 +1,17 @@
+{
+    "week": {
+        "en": "week",
+        "fr": "semaine",
+        "es": "semana",
+        "pt": "semana",
+        "ru": {
+            "cyr": "неделя",
+            "lat": "nedelya"
+        },
+        "il": {
+            "heb": "שבוע",
+            "lat": "shavua"
+        }
+    },
+    "validated": false
+}

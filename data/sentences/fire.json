@@ -1,0 +1,49 @@
+{
+    "fire": {
+        "en": [
+            "The fire is hot.",
+            "I see a fire.",
+            "We sit by the fire."
+        ],
+        "fr": [
+            "Le feu est chaud.",
+            "Je vois un feu.",
+            "Nous nous asseyons près du feu."
+        ],
+        "es": [
+            "El fuego está caliente.",
+            "Veo un fuego.",
+            "Nos sentamos junto al fuego."
+        ],
+        "pt": [
+            "O fogo está quente.",
+            "Eu vejo um fogo.",
+            "Nós nos sentamos perto do fogo."
+        ],
+        "ru": {
+            "cyr": [
+                "Огонь горячий.",
+                "Я вижу огонь.",
+                "Мы сидим у огня."
+            ],
+            "lat": [
+                "Ogon' goryachiy.",
+                "Ya vizhu ogon'.",
+                "My sidim u ognya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "האש חמה.",
+                "אני רואה אש.",
+                "אנחנו יושבים ליד האש."
+            ],
+            "lat": [
+                "ha-esh chama.",
+                "ani ro'eh esh.",
+                "anachnu yoshvim leyad ha-esh."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "move": {
+        "en": "move",
+        "fr": "bouger",
+        "es": "mover",
+        "pt": "mover",
+        "ru": {
+            "cyr": "двигаться",
+            "lat": "dvigatsya"
+        },
+        "il": {
+            "heb": "לזוז",
+            "lat": "lazuz"
+        }
+    },
+    "validated": false
+}

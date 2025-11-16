@@ -1,0 +1,17 @@
+{
+    "fact": {
+        "en": "fact",
+        "fr": "fait",
+        "es": "hecho",
+        "pt": "fato",
+        "ru": {
+            "cyr": "факт",
+            "lat": "fakt"
+        },
+        "il": {
+            "heb": "עובדה",
+            "lat": "uvda"
+        }
+    },
+    "validated": false
+}

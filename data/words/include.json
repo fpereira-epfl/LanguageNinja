@@ -1,0 +1,17 @@
+{
+    "include": {
+        "en": "include",
+        "fr": "inclure",
+        "es": "incluir",
+        "pt": "incluir",
+        "ru": {
+            "cyr": "включать",
+            "lat": "vklyuchat'"
+        },
+        "il": {
+            "heb": "לכלול",
+            "lat": "lichlol"
+        }
+    },
+    "validated": false
+}

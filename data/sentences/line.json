@@ -1,0 +1,49 @@
+{
+    "line": {
+        "en": [
+            "I draw a line.",
+            "The line is straight.",
+            "I see a red line."
+        ],
+        "fr": [
+            "Je dessine une ligne.",
+            "La ligne est droite.",
+            "Je vois une ligne rouge."
+        ],
+        "es": [
+            "Yo dibujo una línea.",
+            "La línea es recta.",
+            "Yo veo una línea roja."
+        ],
+        "pt": [
+            "Eu desenho uma linha.",
+            "A linha é reta.",
+            "Eu vejo uma linha vermelha."
+        ],
+        "ru": {
+            "cyr": [
+                "Я рисую линию.",
+                "Линия прямая.",
+                "Я вижу красную линию."
+            ],
+            "lat": [
+                "Ya risuyu liniyu.",
+                "Liniya pryamaya.",
+                "Ya vizhu krasnuyu liniyu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מצייר קו.",
+                "הקו ישר.",
+                "אני רואה קו אדום."
+            ],
+            "lat": [
+                "ani metzayer kav.",
+                "ha-kav yashar.",
+                "ani ro'eh kav adom."
+            ]
+        }
+    },
+    "validated": false
+}

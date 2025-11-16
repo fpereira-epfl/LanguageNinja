@@ -1,0 +1,17 @@
+{
+    "end": {
+        "en": "end",
+        "fr": "fin",
+        "es": "fin",
+        "pt": "fim",
+        "ru": {
+            "cyr": "конец",
+            "lat": "konets"
+        },
+        "il": {
+            "heb": "סוף",
+            "lat": "sof"
+        }
+    },
+    "validated": false
+}

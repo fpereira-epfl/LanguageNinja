@@ -1,0 +1,17 @@
+{
+    "seem": {
+        "en": "seem",
+        "fr": "sembler",
+        "es": "parecer",
+        "pt": "parecer",
+        "ru": {
+            "cyr": "казаться",
+            "lat": "kazat'sya"
+        },
+        "il": {
+            "heb": "להיראות",
+            "lat": "lehera'ot"
+        }
+    },
+    "validated": false
+}

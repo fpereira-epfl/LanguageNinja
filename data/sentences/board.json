@@ -1,0 +1,49 @@
+{
+    "board": {
+        "en": [
+            "The board is clean.",
+            "He writes on the board.",
+            "The board is on the wall."
+        ],
+        "fr": [
+            "Le tableau est propre.",
+            "Il écrit au tableau.",
+            "Le tableau est sur le mur."
+        ],
+        "es": [
+            "La pizarra está limpia.",
+            "Él escribe en la pizarra.",
+            "La pizarra está en la pared."
+        ],
+        "pt": [
+            "O quadro está limpo.",
+            "Ele escreve no quadro.",
+            "O quadro está na parede."
+        ],
+        "ru": {
+            "cyr": [
+                "Доска чистая.",
+                "Он пишет на доске.",
+                "Доска на стене."
+            ],
+            "lat": [
+                "Doska chistaya.",
+                "On pishet na doske.",
+                "Doska na stene."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הלוח נקי.",
+                "הוא כותב על הלוח.",
+                "הלוח על הקיר."
+            ],
+            "lat": [
+                "haluach naki.",
+                "hu kotev al haluach.",
+                "haluach al hakir."
+            ]
+        }
+    },
+    "validated": false
+}

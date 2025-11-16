@@ -1,0 +1,49 @@
+{
+    "court": {
+        "en": [
+            "The court is open.",
+            "We go to the court.",
+            "The court is closed."
+        ],
+        "fr": [
+            "Le tribunal est ouvert.",
+            "Nous allons au tribunal.",
+            "Le tribunal est fermé."
+        ],
+        "es": [
+            "El tribunal está abierto.",
+            "Vamos al tribunal.",
+            "El tribunal está cerrado."
+        ],
+        "pt": [
+            "O tribunal está aberto.",
+            "Vamos ao tribunal.",
+            "O tribunal está fechado."
+        ],
+        "ru": {
+            "cyr": [
+                "Суд открыт.",
+                "Мы идём в суд.",
+                "Суд закрыт."
+            ],
+            "lat": [
+                "Sud otkryt.",
+                "My idyom v sud.",
+                "Sud zakryt."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בית המשפט פתוח.",
+                "אנחנו הולכים לבית המשפט.",
+                "בית המשפט סגור."
+            ],
+            "lat": [
+                "beit hamishpat patuach.",
+                "anachnu holkhim leveit hamishpat.",
+                "beit hamishpat sagur."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "river": {
+        "en": "river",
+        "fr": "rivière",
+        "es": "río",
+        "pt": "rio",
+        "ru": {
+            "cyr": "река",
+            "lat": "reka"
+        },
+        "il": {
+            "heb": "נהר",
+            "lat": "nahar"
+        }
+    },
+    "validated": false
+}

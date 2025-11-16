@@ -1,0 +1,49 @@
+{
+    "student": {
+        "en": [
+            "I am a student.",
+            "The student reads a book.",
+            "That student is new."
+        ],
+        "fr": [
+            "Je suis étudiant.",
+            "L'étudiant lit un livre.",
+            "Cet étudiant est nouveau."
+        ],
+        "es": [
+            "Soy estudiante.",
+            "El estudiante lee un libro.",
+            "Ese estudiante es nuevo."
+        ],
+        "pt": [
+            "Sou estudante.",
+            "O estudante lê um livro.",
+            "Esse estudante é novo."
+        ],
+        "ru": {
+            "cyr": [
+                "Я студент.",
+                "Студент читает книгу.",
+                "Этот студент новый."
+            ],
+            "lat": [
+                "Ya student.",
+                "Student chitayet knigu.",
+                "Etot student novyy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני סטודנט.",
+                "הסטודנט קורא ספר.",
+                "הסטודנט הזה חדש."
+            ],
+            "lat": [
+                "ani student.",
+                "ha-student kore sefer.",
+                "ha-student ha-ze chadash."
+            ]
+        }
+    },
+    "validated": false
+}

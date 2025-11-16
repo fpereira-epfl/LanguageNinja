@@ -1,0 +1,49 @@
+{
+    "leave": {
+        "en": [
+            "I leave now.",
+            "She leaves at five.",
+            "They leave tomorrow."
+        ],
+        "fr": [
+            "Je pars maintenant.",
+            "Elle part à cinq heures.",
+            "Ils partent demain."
+        ],
+        "es": [
+            "Salgo ahora.",
+            "Ella sale a las cinco.",
+            "Ellos salen mañana."
+        ],
+        "pt": [
+            "Eu saio agora.",
+            "Ela sai às cinco.",
+            "Eles saem amanhã."
+        ],
+        "ru": {
+            "cyr": [
+                "Я ухожу сейчас.",
+                "Она уходит в пять.",
+                "Они уходят завтра."
+            ],
+            "lat": [
+                "Ya ukhozhu seychas.",
+                "Ona ukhodit v pyat’.",
+                "Oni ukhodyat zavtra."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני עוזב עכשיו.",
+                "היא עוזבת בחמש.",
+                "הם עוזבים מחר."
+            ],
+            "lat": [
+                "ani ozev achshav.",
+                "hi ozevet bechamesh.",
+                "hem ozvim machar."
+            ]
+        }
+    },
+    "validated": false
+}

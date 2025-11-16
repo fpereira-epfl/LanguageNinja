@@ -1,0 +1,49 @@
+{
+    "meet": {
+        "en": [
+            "Let's meet today.",
+            "We meet at the cafe.",
+            "I meet my friend on Monday."
+        ],
+        "fr": [
+            "Rencontrons-nous aujourd'hui.",
+            "Nous nous rencontrons au café.",
+            "Je rencontre mon ami lundi."
+        ],
+        "es": [
+            "Reunámonos hoy.",
+            "Nos reunimos en el café.",
+            "Me reúno con mi amigo el lunes."
+        ],
+        "pt": [
+            "Vamos nos reunir hoje.",
+            "Nós nos reunimos no café.",
+            "Eu me reúno com meu amigo na segunda-feira."
+        ],
+        "ru": {
+            "cyr": [
+                "Давай встретимся сегодня.",
+                "Мы встречаемся в кафе.",
+                "Я встречаюсь с другом в понедельник."
+            ],
+            "lat": [
+                "Davay vstretimsya segodnya.",
+                "My vstrechayemsya v kafe.",
+                "Ya vstrechayus s drugom v ponedelnik."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בוא ניפגש היום.",
+                "אנחנו נפגשים בבית הקפה.",
+                "אני נפגש עם חבר שלי ביום שני."
+            ],
+            "lat": [
+                "bo nipagesh hayom.",
+                "anachnu nifgashim be-veit ha-kafe.",
+                "ani nifgash im chaver sheli beyom sheni."
+            ]
+        }
+    },
+    "validated": false
+}

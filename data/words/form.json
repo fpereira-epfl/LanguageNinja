@@ -1,0 +1,17 @@
+{
+    "form": {
+        "en": "form",
+        "fr": "forme",
+        "es": "forma",
+        "pt": "forma",
+        "ru": {
+            "cyr": "форма",
+            "lat": "forma"
+        },
+        "il": {
+            "heb": "צורה",
+            "lat": "tzura"
+        }
+    },
+    "validated": false
+}

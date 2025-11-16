@@ -1,0 +1,17 @@
+{
+    "any": {
+        "en": "any",
+        "fr": "n'importe quel",
+        "es": "cualquier",
+        "pt": "qualquer",
+        "ru": {
+            "cyr": "любой",
+            "lat": "lyuboy"
+        },
+        "il": {
+            "heb": "כל",
+            "lat": "kol"
+        }
+    },
+    "validated": false
+}

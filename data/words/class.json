@@ -1,0 +1,17 @@
+{
+    "class": {
+        "en": "class",
+        "fr": "classe",
+        "es": "clase",
+        "pt": "classe",
+        "ru": {
+            "cyr": "класс",
+            "lat": "klass"
+        },
+        "il": {
+            "heb": "כיתה",
+            "lat": "kita"
+        }
+    },
+    "validated": false
+}

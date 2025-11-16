@@ -1,0 +1,49 @@
+{
+    "service": {
+        "en": [
+            "This service is free.",
+            "We called the service.",
+            "The service is open today."
+        ],
+        "fr": [
+            "Ce service est gratuit.",
+            "Nous avons appelé le service.",
+            "Le service est ouvert aujourd'hui."
+        ],
+        "es": [
+            "Este servicio es gratis.",
+            "Llamamos al servicio.",
+            "El servicio está abierto hoy."
+        ],
+        "pt": [
+            "Este serviço é gratuito.",
+            "Ligamos para o serviço.",
+            "O serviço está aberto hoje."
+        ],
+        "ru": {
+            "cyr": [
+                "Эта служба бесплатная.",
+                "Мы позвонили в службу.",
+                "Служба открыта сегодня."
+            ],
+            "lat": [
+                "Eta sluzhba besplatnaya.",
+                "My pozvonili v sluzhbu.",
+                "Sluzhba otkryta segodnya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השירות הזה חינם.",
+                "אנחנו התקשרנו לשירות.",
+                "השירות פתוח היום."
+            ],
+            "lat": [
+                "hasherut haze chinam.",
+                "anachnu hitkasharnu lasherut.",
+                "hasherut patuach hayom."
+            ]
+        }
+    },
+    "validated": false
+}

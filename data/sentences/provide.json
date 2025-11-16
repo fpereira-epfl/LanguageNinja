@@ -1,0 +1,49 @@
+{
+    "provide": {
+        "en": [
+            "They provide food.",
+            "The school provides books.",
+            "I will provide water."
+        ],
+        "fr": [
+            "Ils fournissent de la nourriture.",
+            "L'école fournit des livres.",
+            "Je fournirai de l'eau."
+        ],
+        "es": [
+            "Ellos proveen comida.",
+            "La escuela provee libros.",
+            "Proveeré agua."
+        ],
+        "pt": [
+            "Eles fornecem comida.",
+            "A escola fornece livros.",
+            "Fornecerei água."
+        ],
+        "ru": {
+            "cyr": [
+                "Они предоставляют еду.",
+                "Школа предоставляет книги.",
+                "Я предоставлю воду."
+            ],
+            "lat": [
+                "Oni predostavlyayut yedu.",
+                "Shkola predostavlyaet knigi.",
+                "Ya predostavlyu vodu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הם מספקים אוכל.",
+                "בית הספר מספק ספרים.",
+                "אני אספק מים."
+            ],
+            "lat": [
+                "hem mesapkim ochel.",
+                "beit hasefer mesapek sfarim.",
+                "ani asapek mayim."
+            ]
+        }
+    },
+    "validated": false
+}

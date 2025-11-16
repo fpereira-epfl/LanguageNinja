@@ -1,0 +1,49 @@
+{
+    "keep": {
+        "en": [
+            "Keep the window open.",
+            "Keep the door closed.",
+            "Keep the room clean."
+        ],
+        "fr": [
+            "Garde la fenêtre ouverte.",
+            "Garde la porte fermée.",
+            "Garde la chambre propre."
+        ],
+        "es": [
+            "Mantén la ventana abierta.",
+            "Mantén la puerta cerrada.",
+            "Mantén el cuarto limpio."
+        ],
+        "pt": [
+            "Mantenha a janela aberta.",
+            "Mantenha a porta fechada.",
+            "Mantenha o quarto limpo."
+        ],
+        "ru": {
+            "cyr": [
+                "Держи окно открытым.",
+                "Держи дверь закрытой.",
+                "Держи комнату чистой."
+            ],
+            "lat": [
+                "Derzhi okno otkrytym.",
+                "Derzhi dver' zakrytoy.",
+                "Derzhi komnatu chistoy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "שמור את החלון פתוח.",
+                "שמור את הדלת סגורה.",
+                "שמור את החדר נקי."
+            ],
+            "lat": [
+                "shmor et hachalon patuach.",
+                "shmor et hadelet sgura.",
+                "shmor et hacheder naki."
+            ]
+        }
+    },
+    "validated": false
+}

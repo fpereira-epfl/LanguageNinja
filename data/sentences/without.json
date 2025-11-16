@@ -1,0 +1,49 @@
+{
+    "without": {
+        "en": [
+            "I drink tea without sugar.",
+            "He goes out without a coat.",
+            "We cannot live without water."
+        ],
+        "fr": [
+            "Je bois du thé sans sucre.",
+            "Il sort sans manteau.",
+            "Nous ne pouvons pas vivre sans eau."
+        ],
+        "es": [
+            "Bebo té sin azúcar.",
+            "Él sale sin abrigo.",
+            "No podemos vivir sin agua."
+        ],
+        "pt": [
+            "Eu bebo chá sem açúcar.",
+            "Ele sai sem casaco.",
+            "Nós não podemos viver sem água."
+        ],
+        "ru": {
+            "cyr": [
+                "Я пью чай без сахара.",
+                "Он выходит без пальто.",
+                "Мы не можем жить без воды."
+            ],
+            "lat": [
+                "Ya pyu chai bez sakhara.",
+                "On vykhodit bez pal'to.",
+                "My ne mozhem zhit' bez vody."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני שותה תה בלי סוכר.",
+                "הוא יוצא בלי מעיל.",
+                "אנחנו לא יכולים לחיות בלי מים."
+            ],
+            "lat": [
+                "ani shoteh te bli sukar.",
+                "hu yotze bli meil.",
+                "anachnu lo yecholim lichyot bli mayim."
+            ]
+        }
+    },
+    "validated": false
+}

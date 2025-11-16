@@ -1,0 +1,49 @@
+{
+    "man": {
+        "en": [
+            "This man is tall.",
+            "I see a man in the park.",
+            "The man is reading a book."
+        ],
+        "fr": [
+            "Cet homme est grand.",
+            "Je vois un homme dans le parc.",
+            "L'homme lit un livre."
+        ],
+        "es": [
+            "Este hombre es alto.",
+            "Veo a un hombre en el parque.",
+            "El hombre lee un libro."
+        ],
+        "pt": [
+            "Este homem é alto.",
+            "Vejo um homem no parque.",
+            "O homem lê um livro."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот мужчина высокий.",
+                "Я вижу мужчину в парке.",
+                "Мужчина читает книгу."
+            ],
+            "lat": [
+                "Etot muzhchina vysokiy.",
+                "Ya vizhu muzhchinu v parke.",
+                "Muzhchina chitayet knigu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הגבר הזה גבוה.",
+                "אני רואה גבר בפארק.",
+                "הגבר קורא ספר."
+            ],
+            "lat": [
+                "ha-gever hazeh gavoah.",
+                "ani ro'e gever ba-park.",
+                "ha-gever kore sefer."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "call": {
+        "en": "call",
+        "fr": "appeler",
+        "es": "llamar",
+        "pt": "ligar",
+        "ru": {
+            "cyr": "звонить",
+            "lat": "zvonit"
+        },
+        "il": {
+            "heb": "להתקשר",
+            "lat": "lehitkasher"
+        }
+    },
+    "validated": false
+}

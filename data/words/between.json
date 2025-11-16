@@ -1,0 +1,17 @@
+{
+    "between": {
+        "en": "between",
+        "fr": "entre",
+        "es": "entre",
+        "pt": "entre",
+        "ru": {
+            "cyr": "между",
+            "lat": "mezhdu"
+        },
+        "il": {
+            "heb": "בין",
+            "lat": "bein"
+        }
+    },
+    "validated": false
+}

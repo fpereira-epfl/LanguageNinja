@@ -1,0 +1,49 @@
+{
+    "party": {
+        "en": [
+            "The party is tonight.",
+            "I will go to the party.",
+            "We had fun at the party."
+        ],
+        "fr": [
+            "La fête est ce soir.",
+            "J'irai à la fête.",
+            "Nous nous sommes amusés à la fête."
+        ],
+        "es": [
+            "La fiesta es esta noche.",
+            "Iré a la fiesta.",
+            "Nos divertimos en la fiesta."
+        ],
+        "pt": [
+            "A festa é hoje à noite.",
+            "Eu irei à festa.",
+            "Nós nos divertimos na festa."
+        ],
+        "ru": {
+            "cyr": [
+                "Вечеринка сегодня вечером.",
+                "Я пойду на вечеринку.",
+                "Нам было весело на вечеринке."
+            ],
+            "lat": [
+                "Vecherinka segodnya vecherom.",
+                "Ya poydu na vecherinku.",
+                "Nam bylo veselo na vecherinke."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המסיבה היא הערב.",
+                "אני אלך למסיבה.",
+                "היה לנו כיף במסיבה."
+            ],
+            "lat": [
+                "ha-mesiba hi ha-erev.",
+                "ani elekh la-mesiba.",
+                "haya lanu kef ba-mesiba."
+            ]
+        }
+    },
+    "validated": false
+}

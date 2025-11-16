@@ -1,0 +1,49 @@
+{
+    "some": {
+        "en": [
+            "Some people are here.",
+            "I have some questions.",
+            "She bought some books."
+        ],
+        "fr": [
+            "Quelques personnes sont ici.",
+            "J'ai quelques questions.",
+            "Elle a acheté quelques livres."
+        ],
+        "es": [
+            "Algunas personas están aquí.",
+            "Tengo algunas preguntas.",
+            "Ella compró algunos libros."
+        ],
+        "pt": [
+            "Algumas pessoas estão aqui.",
+            "Tenho algumas perguntas.",
+            "Ela comprou alguns livros."
+        ],
+        "ru": {
+            "cyr": [
+                "Некоторые люди здесь.",
+                "У меня есть некоторые вопросы.",
+                "Она купила некоторые книги."
+            ],
+            "lat": [
+                "Nekotorye lyudi zdes’.",
+                "U menya yest’ nekotorye voprosy.",
+                "Ona kupila nekotorye knigi."
+            ]
+        },
+        "il": {
+            "heb": [
+                "כמה אנשים כאן.",
+                "יש לי כמה שאלות.",
+                "היא קנתה כמה ספרים."
+            ],
+            "lat": [
+                "kama anashim kan.",
+                "yesh li kama she'elot.",
+                "hi kanta kama sfarim."
+            ]
+        }
+    },
+    "validated": false
+}

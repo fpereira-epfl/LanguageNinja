@@ -1,0 +1,17 @@
+{
+    "ask": {
+        "en": "ask",
+        "fr": "demander",
+        "es": "preguntar",
+        "pt": "perguntar",
+        "ru": {
+            "cyr": "спросить",
+            "lat": "sprosit"
+        },
+        "il": {
+            "heb": "לשאול",
+            "lat": "lishol"
+        }
+    },
+    "validated": false
+}

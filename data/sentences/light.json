@@ -1,0 +1,49 @@
+{
+    "light": {
+        "en": [
+            "I light a candle.",
+            "She lights the lamp.",
+            "They light the fire."
+        ],
+        "fr": [
+            "J'allume une bougie.",
+            "Elle allume la lampe.",
+            "Ils allument le feu."
+        ],
+        "es": [
+            "Enciendo una vela.",
+            "Ella enciende la lámpara.",
+            "Ellos encienden el fuego."
+        ],
+        "pt": [
+            "Eu acendo uma vela.",
+            "Ela acende a lâmpada.",
+            "Eles acendem o fogo."
+        ],
+        "ru": {
+            "cyr": [
+                "Я зажигаю свечу.",
+                "Она зажигает лампу.",
+                "Они зажигают огонь."
+            ],
+            "lat": [
+                "Ya zazhigayu svechu.",
+                "Ona zazhigaet lampu.",
+                "Oni zazhigayut ogon’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מדליק נר.",
+                "היא מדליקה את המנורה.",
+                "הם מדליקים את האש."
+            ],
+            "lat": [
+                "ani madlik ner.",
+                "hi madlika et hamenorah.",
+                "hem madlikim et haesh."
+            ]
+        }
+    },
+    "validated": false
+}

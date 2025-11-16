@@ -1,0 +1,49 @@
+{
+    "remain": {
+        "en": [
+            "We remain here.",
+            "He remains calm.",
+            "They remain at school."
+        ],
+        "fr": [
+            "Nous restons ici.",
+            "Il reste calme.",
+            "Ils restent à l'école."
+        ],
+        "es": [
+            "Nosotros nos quedamos aquí.",
+            "Él permanece tranquilo.",
+            "Ellos se quedan en la escuela."
+        ],
+        "pt": [
+            "Nós ficamos aqui.",
+            "Ele permanece calmo.",
+            "Eles ficam na escola."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы остаёмся здесь.",
+                "Он остаётся спокойным.",
+                "Они остаются в школе."
+            ],
+            "lat": [
+                "My ostayomsya zdes'.",
+                "On ostayotsya spokoynym.",
+                "Oni ostayutsya v shkole."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו נשארים כאן.",
+                "הוא נשאר רגוע.",
+                "הם נשארים בבית הספר."
+            ],
+            "lat": [
+                "anachnu nisharim kan.",
+                "hu nishar ragua.",
+                "hem nisharim bebeit hasefer."
+            ]
+        }
+    },
+    "validated": false
+}

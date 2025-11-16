@@ -1,0 +1,49 @@
+{
+    "small": {
+        "en": [
+            "The house is small.",
+            "The dog is small.",
+            "I have a small car."
+        ],
+        "fr": [
+            "La maison est petite.",
+            "Le chien est petit.",
+            "J'ai une petite voiture."
+        ],
+        "es": [
+            "La casa es pequeña.",
+            "El perro es pequeño.",
+            "Tengo un coche pequeño."
+        ],
+        "pt": [
+            "A casa é pequena.",
+            "O cachorro é pequeno.",
+            "Tenho um carro pequeno."
+        ],
+        "ru": {
+            "cyr": [
+                "Дом маленький.",
+                "Собака маленькая.",
+                "У меня маленькая машина."
+            ],
+            "lat": [
+                "Dom malenkiy.",
+                "Sobaka malenkaya.",
+                "U menya malenkaya mashina."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הבית קטן.",
+                "הכלב קטן.",
+                "יש לי מכונית קטנה."
+            ],
+            "lat": [
+                "habayit katan.",
+                "hakelev katan.",
+                "yesh li mechonit ktana."
+            ]
+        }
+    },
+    "validated": false
+}

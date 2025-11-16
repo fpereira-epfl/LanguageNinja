@@ -1,0 +1,49 @@
+{
+    "present": {
+        "en": [
+            "This present is for you.",
+            "He gives her a present.",
+            "I like the present."
+        ],
+        "fr": [
+            "Ce cadeau est pour toi.",
+            "Il lui donne un cadeau.",
+            "J'aime le cadeau."
+        ],
+        "es": [
+            "Este regalo es para ti.",
+            "Él le da un regalo.",
+            "Me gusta el regalo."
+        ],
+        "pt": [
+            "Este presente é para você.",
+            "Ele dá a ela um presente.",
+            "Eu gosto do presente."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот подарок для тебя.",
+                "Он дарит ей подарок.",
+                "Мне нравится подарок."
+            ],
+            "lat": [
+                "Etot podarok dlya tebya.",
+                "On darit yey podarok.",
+                "Mne nravitsya podarok."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המתנה הזאת בשבילך.",
+                "הוא נותן לה מתנה.",
+                "אני אוהב את המתנה."
+            ],
+            "lat": [
+                "hamatana hazot bishvilcha.",
+                "hu noten la matana.",
+                "ani ohev et hamatana."
+            ]
+        }
+    },
+    "validated": false
+}

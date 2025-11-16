@@ -1,0 +1,17 @@
+{
+    "drive": {
+        "en": "drive",
+        "fr": "conduire",
+        "es": "conducir",
+        "pt": "dirigir",
+        "ru": {
+            "cyr": "водить",
+            "lat": "vodit"
+        },
+        "il": {
+            "heb": "לנהוג",
+            "lat": "linhog"
+        }
+    },
+    "validated": false
+}

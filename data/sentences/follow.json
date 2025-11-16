@@ -1,0 +1,49 @@
+{
+    "follow": {
+        "en": [
+            "Follow me, please.",
+            "I follow the rules.",
+            "The cat follows the boy."
+        ],
+        "fr": [
+            "Suis-moi, s'il te plaît.",
+            "Je suis les règles.",
+            "Le chat suit le garçon."
+        ],
+        "es": [
+            "Sígueme, por favor.",
+            "Yo sigo las reglas.",
+            "El gato sigue al niño."
+        ],
+        "pt": [
+            "Siga-me, por favor.",
+            "Eu sigo as regras.",
+            "O gato segue o menino."
+        ],
+        "ru": {
+            "cyr": [
+                "Следуй за мной, пожалуйста.",
+                "Я следую правилам.",
+                "Кот следует за мальчиком."
+            ],
+            "lat": [
+                "Sleduy za mnoy, pozhaluysta.",
+                "Ya sleduyu pravilam.",
+                "Kot sleduet za malchikom."
+            ]
+        },
+        "il": {
+            "heb": [
+                "עקוב אחרי, בבקשה.",
+                "אני עוקב אחרי הכללים.",
+                "החתול עוקב אחרי הילד."
+            ],
+            "lat": [
+                "akov akharai, bevakasha.",
+                "ani okev akharei haklalim.",
+                "hachatul okev akharei hayeled."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "large": {
+        "en": [
+            "The house is large.",
+            "This bag is large.",
+            "The room is large."
+        ],
+        "fr": [
+            "La maison est grande.",
+            "Ce sac est grand.",
+            "La chambre est grande."
+        ],
+        "es": [
+            "La casa es grande.",
+            "Esta bolsa es grande.",
+            "La habitación es grande."
+        ],
+        "pt": [
+            "A casa é grande.",
+            "Esta bolsa é grande.",
+            "O quarto é grande."
+        ],
+        "ru": {
+            "cyr": [
+                "Дом большой.",
+                "Эта сумка большая.",
+                "Комната большая."
+            ],
+            "lat": [
+                "Dom bolshoy.",
+                "Eta sumka bolshaya.",
+                "Komnata bolshaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הבית גדול.",
+                "התיק הזה גדול.",
+                "החדר גדול."
+            ],
+            "lat": [
+                "habayit gadol.",
+                "hatik hazeh gadol.",
+                "hacheder gadol."
+            ]
+        }
+    },
+    "validated": false
+}

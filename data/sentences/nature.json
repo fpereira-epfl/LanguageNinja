@@ -1,0 +1,49 @@
+{
+    "nature": {
+        "en": [
+            "I love nature.",
+            "Nature is beautiful.",
+            "We protect nature."
+        ],
+        "fr": [
+            "J'aime la nature.",
+            "La nature est belle.",
+            "Nous protégeons la nature."
+        ],
+        "es": [
+            "Amo la naturaleza.",
+            "La naturaleza es hermosa.",
+            "Protegemos la naturaleza."
+        ],
+        "pt": [
+            "Eu amo a natureza.",
+            "A natureza é bonita.",
+            "Protegemos a natureza."
+        ],
+        "ru": {
+            "cyr": [
+                "Я люблю природу.",
+                "Природа красивая.",
+                "Мы защищаем природу."
+            ],
+            "lat": [
+                "Ya lyublyu prirodu.",
+                "Priroda krasivaya.",
+                "My zashchishchaem prirodu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אוהב את הטבע.",
+                "הטבע יפה.",
+                "אנחנו מגנים על הטבע."
+            ],
+            "lat": [
+                "ani ohev et ha-teva.",
+                "ha-teva yafe.",
+                "anachnu meganim al ha-teva."
+            ]
+        }
+    },
+    "validated": false
+}

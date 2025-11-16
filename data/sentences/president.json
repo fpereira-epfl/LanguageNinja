@@ -1,0 +1,49 @@
+{
+    "president": {
+        "en": [
+            "The president speaks.",
+            "The president is here.",
+            "We met the president."
+        ],
+        "fr": [
+            "Le président parle.",
+            "Le président est ici.",
+            "Nous avons rencontré le président."
+        ],
+        "es": [
+            "El presidente habla.",
+            "El presidente está aquí.",
+            "Nosotros nos encontramos con el presidente."
+        ],
+        "pt": [
+            "O presidente fala.",
+            "O presidente está aqui.",
+            "Nós nos encontramos com o presidente."
+        ],
+        "ru": {
+            "cyr": [
+                "Президент говорит.",
+                "Президент здесь.",
+                "Мы встретились с президентом."
+            ],
+            "lat": [
+                "Prezident govorit.",
+                "Prezident zdes’.",
+                "My vstretilis’ s prezidentom."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הנשיא מדבר.",
+                "הנשיא כאן.",
+                "נפגשנו עם הנשיא."
+            ],
+            "lat": [
+                "ha-nasi medaber.",
+                "ha-nasi kan.",
+                "nifgashnu im ha-nasi."
+            ]
+        }
+    },
+    "validated": false
+}

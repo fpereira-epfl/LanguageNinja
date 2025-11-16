@@ -1,0 +1,17 @@
+{
+    "sun": {
+        "en": "sun",
+        "fr": "soleil",
+        "es": "sol",
+        "pt": "sol",
+        "ru": {
+            "cyr": "солнце",
+            "lat": "solntse"
+        },
+        "il": {
+            "heb": "שמש",
+            "lat": "shemesh"
+        }
+    },
+    "validated": false
+}

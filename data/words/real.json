@@ -1,0 +1,17 @@
+{
+    "real": {
+        "en": "real",
+        "fr": "réel",
+        "es": "real",
+        "pt": "real",
+        "ru": {
+            "cyr": "реальный",
+            "lat": "realnyy"
+        },
+        "il": {
+            "heb": "אמיתי",
+            "lat": "amiti"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "side": {
+        "en": [
+            "This side is clean.",
+            "That side is dirty.",
+            "The door has two sides."
+        ],
+        "fr": [
+            "Ce côté est propre.",
+            "Ce côté-là est sale.",
+            "La porte a deux côtés."
+        ],
+        "es": [
+            "Este lado está limpio.",
+            "Ese lado está sucio.",
+            "La puerta tiene dos lados."
+        ],
+        "pt": [
+            "Este lado está limpo.",
+            "Esse lado está sujo.",
+            "A porta tem dois lados."
+        ],
+        "ru": {
+            "cyr": [
+                "Эта сторона чистая.",
+                "Та сторона грязная.",
+                "У двери две стороны."
+            ],
+            "lat": [
+                "Eta storona chistaya.",
+                "Ta storona gryaznaya.",
+                "U dveri dve storony."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הצד הזה נקי.",
+                "הצד ההוא מלוכלך.",
+                "לדלת יש שני צדדים."
+            ],
+            "lat": [
+                "hatzad haze naki.",
+                "hatzad hahu meluchlach.",
+                "la delet yesh shnei tzdadim."
+            ]
+        }
+    },
+    "validated": false
+}

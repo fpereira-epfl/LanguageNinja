@@ -1,0 +1,17 @@
+{
+    "body": {
+        "en": "body",
+        "fr": "corps",
+        "es": "cuerpo",
+        "pt": "corpo",
+        "ru": {
+            "cyr": "тело",
+            "lat": "telo"
+        },
+        "il": {
+            "heb": "גוף",
+            "lat": "guf"
+        }
+    },
+    "validated": false
+}

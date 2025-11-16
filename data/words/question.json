@@ -1,0 +1,17 @@
+{
+    "question": {
+        "en": "question",
+        "fr": "question",
+        "es": "pregunta",
+        "pt": "pergunta",
+        "ru": {
+            "cyr": "вопрос",
+            "lat": "vopros"
+        },
+        "il": {
+            "heb": "שאלה",
+            "lat": "sheela"
+        }
+    },
+    "validated": false
+}

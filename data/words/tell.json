@@ -1,0 +1,17 @@
+{
+    "tell": {
+        "en": "tell",
+        "fr": "dire",
+        "es": "decir",
+        "pt": "dizer",
+        "ru": {
+            "cyr": "сказать",
+            "lat": "skazat"
+        },
+        "il": {
+            "heb": "להגיד",
+            "lat": "lehagid"
+        }
+    },
+    "validated": false
+}

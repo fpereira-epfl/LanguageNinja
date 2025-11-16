@@ -1,0 +1,49 @@
+{
+    "complete": {
+        "en": [
+            "I complete the task.",
+            "She completes the form.",
+            "We complete the project."
+        ],
+        "fr": [
+            "Je complète la tâche.",
+            "Elle complète le formulaire.",
+            "Nous complétons le projet."
+        ],
+        "es": [
+            "Completo la tarea.",
+            "Ella completa el formulario.",
+            "Completamos el proyecto."
+        ],
+        "pt": [
+            "Eu completo a tarefa.",
+            "Ela completa o formulário.",
+            "Nós completamos o projeto."
+        ],
+        "ru": {
+            "cyr": [
+                "Я завершаю задание.",
+                "Она заполняет форму.",
+                "Мы завершаем проект."
+            ],
+            "lat": [
+                "Ya zavershayu zadanie.",
+                "Ona zapolnyayet formu.",
+                "My zavershayem proyekt."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני משלים את המשימה.",
+                "היא משלימה את הטופס.",
+                "אנחנו משלימים את הפרויקט."
+            ],
+            "lat": [
+                "ani mashlim et hamesima.",
+                "hi mashlima et hatofes.",
+                "anachnu mashlimim et haproyekt."
+            ]
+        }
+    },
+    "validated": false
+}

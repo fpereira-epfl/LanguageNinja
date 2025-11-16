@@ -1,0 +1,49 @@
+{
+    "although": {
+        "en": [
+            "Although it is cold, I go out.",
+            "Although she is tired, she works.",
+            "Although we are busy, we help."
+        ],
+        "fr": [
+            "Bien qu'il fasse froid, je sors.",
+            "Bien qu'elle soit fatiguée, elle travaille.",
+            "Bien que nous soyons occupés, nous aidons."
+        ],
+        "es": [
+            "Aunque hace frío, salgo.",
+            "Aunque ella está cansada, ella trabaja.",
+            "Aunque estamos ocupados, ayudamos."
+        ],
+        "pt": [
+            "Embora esteja frio, eu saio.",
+            "Embora ela esteja cansada, ela trabalha.",
+            "Embora estejamos ocupados, nós ajudamos."
+        ],
+        "ru": {
+            "cyr": [
+                "Хотя холодно, я выхожу.",
+                "Хотя она устала, она работает.",
+                "Хотя мы заняты, мы помогаем."
+            ],
+            "lat": [
+                "Khotya kholodno, ya vykhozhu.",
+                "Khotya ona ustala, ona rabotayet.",
+                "Khotya my zanyaty, my pomogaem."
+            ]
+        },
+        "il": {
+            "heb": [
+                "למרות שקר, אני יוצא.",
+                "למרות שהיא עייפה, היא עובדת.",
+                "למרות שאנחנו עסוקים, אנחנו עוזרים."
+            ],
+            "lat": [
+                "lamrot she-kar, ani yotse.",
+                "lamrot she-hi ayefa, hi ovedet.",
+                "lamrot she-anachnu asukim, anachnu ozrim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "both": {
+        "en": "both",
+        "fr": "les deux",
+        "es": "ambos",
+        "pt": "ambos",
+        "ru": {
+            "cyr": "оба",
+            "lat": "oba"
+        },
+        "il": {
+            "heb": "שניהם",
+            "lat": "shneyhem"
+        }
+    },
+    "validated": false
+}

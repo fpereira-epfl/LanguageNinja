@@ -1,0 +1,49 @@
+{
+    "because": {
+        "en": [
+            "We stay because it rains.",
+            "He eats because he is hungry.",
+            "We study because we want to learn."
+        ],
+        "fr": [
+            "Nous restons parce qu'il pleut.",
+            "Il mange parce qu'il a faim.",
+            "Nous étudions parce que nous voulons apprendre."
+        ],
+        "es": [
+            "Nos quedamos porque llueve.",
+            "Él come porque tiene hambre.",
+            "Estudiamos porque queremos aprender."
+        ],
+        "pt": [
+            "Ficamos porque chove.",
+            "Ele come porque está com fome.",
+            "Estudamos porque queremos aprender."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы остаёмся, потому что идёт дождь.",
+                "Он ест, потому что он голоден.",
+                "Мы учимся, потому что мы хотим учиться."
+            ],
+            "lat": [
+                "My ostayomsya, potomu chto idyot dozhd’.",
+                "On yest, potomu chto on goloden.",
+                "My uchimsya, potomu chto my khotim uchitsya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו נשארים כי יורד גשם.",
+                "הוא אוכל כי הוא רעב.",
+                "אנחנו לומדים כי אנחנו רוצים ללמוד."
+            ],
+            "lat": [
+                "anachnu nisharim ki yored geshem.",
+                "hu ochel ki hu ra'ev.",
+                "anachnu lomdim ki anachnu rotzim lilmod."
+            ]
+        }
+    },
+    "validated": false
+}

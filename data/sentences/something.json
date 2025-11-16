@@ -1,0 +1,49 @@
+{
+    "something": {
+        "en": [
+            "I see something.",
+            "She heard something.",
+            "Do you know something?"
+        ],
+        "fr": [
+            "Je vois quelque chose.",
+            "Elle a entendu quelque chose.",
+            "Tu sais quelque chose ?"
+        ],
+        "es": [
+            "Veo algo.",
+            "Ella oyó algo.",
+            "¿Sabes algo?"
+        ],
+        "pt": [
+            "Eu vejo algo.",
+            "Ela ouviu algo.",
+            "Você sabe de algo?"
+        ],
+        "ru": {
+            "cyr": [
+                "Я вижу что-то.",
+                "Она услышала что-то.",
+                "Ты знаешь что-то?"
+            ],
+            "lat": [
+                "Ya vizhu chto-to.",
+                "Ona uslyshala chto-to.",
+                "Ty znayesh’ chto-to?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רואה משהו.",
+                "היא שמעה משהו.",
+                "אתה יודע משהו?"
+            ],
+            "lat": [
+                "ani roeh mashehu.",
+                "hi shama mashehu.",
+                "ata yodea mashehu?"
+            ]
+        }
+    },
+    "validated": false
+}

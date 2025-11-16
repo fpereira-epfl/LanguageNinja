@@ -1,0 +1,17 @@
+{
+    "system": {
+        "en": "system",
+        "fr": "système",
+        "es": "sistema",
+        "pt": "sistema",
+        "ru": {
+            "cyr": "система",
+            "lat": "sistema"
+        },
+        "il": {
+            "heb": "מערכת",
+            "lat": "maarechet"
+        }
+    },
+    "validated": false
+}

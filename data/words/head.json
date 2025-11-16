@@ -1,0 +1,17 @@
+{
+    "head": {
+        "en": "head",
+        "fr": "tête",
+        "es": "cabeza",
+        "pt": "cabeça",
+        "ru": {
+            "cyr": "голова",
+            "lat": "golova"
+        },
+        "il": {
+            "heb": "ראש",
+            "lat": "rosh"
+        }
+    },
+    "validated": false
+}

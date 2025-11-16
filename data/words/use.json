@@ -1,0 +1,17 @@
+{
+    "use": {
+        "en": "use",
+        "fr": "utiliser",
+        "es": "usar",
+        "pt": "usar",
+        "ru": {
+            "cyr": "использовать",
+            "lat": "ispol'zovat'"
+        },
+        "il": {
+            "heb": "להשתמש",
+            "lat": "lehishtamesh"
+        }
+    },
+    "validated": false
+}

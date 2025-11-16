@@ -1,0 +1,49 @@
+{
+    "take": {
+        "en": [
+            "I take the keys.",
+            "She takes the book.",
+            "We take a taxi."
+        ],
+        "fr": [
+            "Je prends les clés.",
+            "Elle prend le livre.",
+            "Nous prenons un taxi."
+        ],
+        "es": [
+            "Tomo las llaves.",
+            "Ella toma el libro.",
+            "Tomamos un taxi."
+        ],
+        "pt": [
+            "Eu tomo as chaves.",
+            "Ela toma o livro.",
+            "Nós tomamos um táxi."
+        ],
+        "ru": {
+            "cyr": [
+                "Я беру ключи.",
+                "Она берёт книгу.",
+                "Мы берём такси."
+            ],
+            "lat": [
+                "Ya beru klyuchi.",
+                "Ona beryot knigu.",
+                "My beryom taksi."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני לוקח את המפתחות.",
+                "היא לוקחת את הספר.",
+                "אנחנו לוקחים מונית."
+            ],
+            "lat": [
+                "ani lokeach et hamaftechot.",
+                "hi lokachat et hasefer.",
+                "anachnu lokchim monit."
+            ]
+        }
+    },
+    "validated": false
+}

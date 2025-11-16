@@ -1,0 +1,17 @@
+{
+    "business": {
+        "en": "business",
+        "fr": "affaires",
+        "es": "negocio",
+        "pt": "negócio",
+        "ru": {
+            "cyr": "бизнес",
+            "lat": "biznes"
+        },
+        "il": {
+            "heb": "עסקים",
+            "lat": "asakim"
+        }
+    },
+    "validated": false
+}

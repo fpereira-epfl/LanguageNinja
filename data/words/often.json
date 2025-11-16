@@ -1,0 +1,17 @@
+{
+    "often": {
+        "en": "often",
+        "fr": "souvent",
+        "es": "a menudo",
+        "pt": "frequentemente",
+        "ru": {
+            "cyr": "часто",
+            "lat": "chasto"
+        },
+        "il": {
+            "heb": "לעיתים קרובות",
+            "lat": "leitim krovot"
+        }
+    },
+    "validated": false
+}

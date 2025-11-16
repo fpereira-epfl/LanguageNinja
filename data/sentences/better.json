@@ -1,0 +1,49 @@
+{
+    "better": {
+        "en": [
+            "I feel better.",
+            "This is better.",
+            "She writes better."
+        ],
+        "fr": [
+            "Je me sens mieux.",
+            "C'est mieux.",
+            "Elle écrit mieux."
+        ],
+        "es": [
+            "Me siento mejor.",
+            "Esto es mejor.",
+            "Ella escribe mejor."
+        ],
+        "pt": [
+            "Eu me sinto melhor.",
+            "Isto é melhor.",
+            "Ela escreve melhor."
+        ],
+        "ru": {
+            "cyr": [
+                "Я чувствую себя лучше.",
+                "Это лучше.",
+                "Она пишет лучше."
+            ],
+            "lat": [
+                "Ya chuvstvuyu sebya luchshe.",
+                "Eto luchshe.",
+                "Ona pishet luchshe."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מרגיש טוב יותר.",
+                "זה טוב יותר.",
+                "היא כותבת טוב יותר."
+            ],
+            "lat": [
+                "ani margish tov yoter.",
+                "ze tov yoter.",
+                "hi kotevet tov yoter."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "into": {
+        "en": "into",
+        "fr": "dans",
+        "es": "en",
+        "pt": "em",
+        "ru": {
+            "cyr": "в",
+            "lat": "v"
+        },
+        "il": {
+            "heb": "לתוך",
+            "lat": "letokh"
+        }
+    },
+    "validated": false
+}

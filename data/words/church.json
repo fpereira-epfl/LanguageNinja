@@ -1,0 +1,17 @@
+{
+    "church": {
+        "en": "church",
+        "fr": "église",
+        "es": "iglesia",
+        "pt": "igreja",
+        "ru": {
+            "cyr": "церковь",
+            "lat": "tserkov"
+        },
+        "il": {
+            "heb": "כנסייה",
+            "lat": "knesiya"
+        }
+    },
+    "validated": false
+}

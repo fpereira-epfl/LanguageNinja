@@ -1,0 +1,17 @@
+{
+    "run": {
+        "en": "run",
+        "fr": "courir",
+        "es": "correr",
+        "pt": "correr",
+        "ru": {
+            "cyr": "бежать",
+            "lat": "bezhat"
+        },
+        "il": {
+            "heb": "לרוץ",
+            "lat": "larutz"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "street": {
+        "en": [
+            "The street is long.",
+            "Our street is quiet.",
+            "Children play in the street."
+        ],
+        "fr": [
+            "La rue est longue.",
+            "Notre rue est calme.",
+            "Les enfants jouent dans la rue."
+        ],
+        "es": [
+            "La calle es larga.",
+            "Nuestra calle es tranquila.",
+            "Los niños juegan en la calle."
+        ],
+        "pt": [
+            "A rua é longa.",
+            "Nossa rua é tranquila.",
+            "As crianças brincam na rua."
+        ],
+        "ru": {
+            "cyr": [
+                "Улица длинная.",
+                "Наша улица тихая.",
+                "Дети играют на улице."
+            ],
+            "lat": [
+                "Ulitsa dlinnaya.",
+                "Nasha ulitsa tikhaya.",
+                "Deti igrayut na ulitse."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הרחוב ארוך.",
+                "הרחוב שלנו שקט.",
+                "ילדים משחקים ברחוב."
+            ],
+            "lat": [
+                "harechov arokh.",
+                "harechov shelanu shaket.",
+                "yeladim mesachakim barechov."
+            ]
+        }
+    },
+    "validated": false
+}

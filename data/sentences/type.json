@@ -1,0 +1,49 @@
+{
+    "type": {
+        "en": [
+            "I type a letter.",
+            "She types slowly.",
+            "We type on the computer."
+        ],
+        "fr": [
+            "Je tape une lettre.",
+            "Elle tape lentement.",
+            "Nous tapons sur l'ordinateur."
+        ],
+        "es": [
+            "Tecleo una carta.",
+            "Ella teclea lentamente.",
+            "Tecleamos en la computadora."
+        ],
+        "pt": [
+            "Eu digito uma carta.",
+            "Ela digita devagar.",
+            "Digitamos no computador."
+        ],
+        "ru": {
+            "cyr": [
+                "Я печатаю письмо.",
+                "Она печатает медленно.",
+                "Мы печатаем на компьютере."
+            ],
+            "lat": [
+                "Ya pechatayu pis’mo.",
+                "Ona pechataet medlenno.",
+                "My pechataem na komp’yutere."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מקליד מכתב.",
+                "היא מקלידה לאט.",
+                "אנחנו מקלידים במחשב."
+            ],
+            "lat": [
+                "Ani maklid mikhtav.",
+                "Hi maklida le'at.",
+                "Anakhnu maklidim ba-machshev."
+            ]
+        }
+    },
+    "validated": false
+}

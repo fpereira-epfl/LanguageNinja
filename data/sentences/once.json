@@ -1,0 +1,49 @@
+{
+    "once": {
+        "en": [
+            "I saw her once.",
+            "He came once.",
+            "We met once."
+        ],
+        "fr": [
+            "Je l'ai vue une fois.",
+            "Il est venu une fois.",
+            "Nous nous sommes rencontrés une fois."
+        ],
+        "es": [
+            "La vi una vez.",
+            "Él vino una vez.",
+            "Nos reunimos una vez."
+        ],
+        "pt": [
+            "Eu a vi uma vez.",
+            "Ele veio uma vez.",
+            "Nós nos reunimos uma vez."
+        ],
+        "ru": {
+            "cyr": [
+                "Я увидел её однажды.",
+                "Он пришёл однажды.",
+                "Мы встретились однажды."
+            ],
+            "lat": [
+                "Ya uvidel yeyo odnazhdy.",
+                "On prishel odnazhdy.",
+                "My vstretilis odnazhdy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "ראיתי אותה פעם אחת.",
+                "הוא בא פעם אחת.",
+                "נפגשנו פעם אחת."
+            ],
+            "lat": [
+                "ra'iti ota pa'am achat.",
+                "hu ba pa'am achat.",
+                "nifgashnu pa'am achat."
+            ]
+        }
+    },
+    "validated": false
+}

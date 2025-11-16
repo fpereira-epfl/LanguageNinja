@@ -1,0 +1,17 @@
+{
+    "understand": {
+        "en": "understand",
+        "fr": "comprendre",
+        "es": "entender",
+        "pt": "entender",
+        "ru": {
+            "cyr": "понимать",
+            "lat": "ponimat"
+        },
+        "il": {
+            "heb": "להבין",
+            "lat": "lehavin"
+        }
+    },
+    "validated": false
+}

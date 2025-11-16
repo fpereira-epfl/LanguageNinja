@@ -1,0 +1,17 @@
+{
+    "what": {
+        "en": "what",
+        "fr": "quoi",
+        "es": "qué",
+        "pt": "o que",
+        "ru": {
+            "cyr": "что",
+            "lat": "chto"
+        },
+        "il": {
+            "heb": "מה",
+            "lat": "ma"
+        }
+    },
+    "validated": false
+}

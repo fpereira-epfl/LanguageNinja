@@ -1,0 +1,49 @@
+{
+    "people": {
+        "en": [
+            "People are here.",
+            "People talk a lot.",
+            "I like people."
+        ],
+        "fr": [
+            "Les gens sont ici.",
+            "Les gens parlent beaucoup.",
+            "J'aime les gens."
+        ],
+        "es": [
+            "La gente está aquí.",
+            "La gente habla mucho.",
+            "Me gusta la gente."
+        ],
+        "pt": [
+            "As pessoas estão aqui.",
+            "As pessoas falam muito.",
+            "Gosto de pessoas."
+        ],
+        "ru": {
+            "cyr": [
+                "Люди здесь.",
+                "Люди много говорят.",
+                "Я люблю людей."
+            ],
+            "lat": [
+                "Lyudi zdes’.",
+                "Lyudi mnogo govoryat.",
+                "Ya lyublyu lyudey."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנשים כאן.",
+                "אנשים מדברים הרבה.",
+                "אני אוהב אנשים."
+            ],
+            "lat": [
+                "anashim kan.",
+                "anashim medabrim harbe.",
+                "ani ohev anashim."
+            ]
+        }
+    },
+    "validated": false
+}

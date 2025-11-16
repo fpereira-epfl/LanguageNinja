@@ -1,0 +1,17 @@
+{
+    "receive": {
+        "en": "receive",
+        "fr": "recevoir",
+        "es": "recibir",
+        "pt": "receber",
+        "ru": {
+            "cyr": "получать",
+            "lat": "poluchat"
+        },
+        "il": {
+            "heb": "לקבל",
+            "lat": "lekabel"
+        }
+    },
+    "validated": false
+}

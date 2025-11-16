@@ -1,0 +1,49 @@
+{
+    "include": {
+        "en": [
+            "The price includes tax.",
+            "Please include your name.",
+            "We include everyone."
+        ],
+        "fr": [
+            "Le prix inclut la taxe.",
+            "S'il vous plaît, incluez votre nom.",
+            "Nous incluons tout le monde."
+        ],
+        "es": [
+            "El precio incluye el impuesto.",
+            "Por favor, incluya su nombre.",
+            "Incluimos a todos."
+        ],
+        "pt": [
+            "O preço inclui o imposto.",
+            "Por favor, inclua seu nome.",
+            "Nós incluímos todos."
+        ],
+        "ru": {
+            "cyr": [
+                "Цена включает налог.",
+                "Пожалуйста, включите своё имя.",
+                "Мы включаем всех."
+            ],
+            "lat": [
+                "Tsena vklyuchayet nalog.",
+                "Pozhaluysta, vklyuchite svoyo imya.",
+                "My vklyuchayem vsekh."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המחיר כולל מס.",
+                "בבקשה, תכלול את שמך.",
+                "אנחנו כוללים את כולם."
+            ],
+            "lat": [
+                "ha-mechir kolel mas.",
+                "bevakasha, tikhlol et shimkha.",
+                "anachnu kolelim et kulam."
+            ]
+        }
+    },
+    "validated": false
+}

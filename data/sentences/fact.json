@@ -1,0 +1,49 @@
+{
+    "fact": {
+        "en": [
+            "This is a fact.",
+            "I know this fact.",
+            "The fact is important."
+        ],
+        "fr": [
+            "C'est un fait.",
+            "Je connais ce fait.",
+            "Le fait est important."
+        ],
+        "es": [
+            "Es un hecho.",
+            "Conozco este hecho.",
+            "El hecho es importante."
+        ],
+        "pt": [
+            "É um fato.",
+            "Eu conheço este fato.",
+            "O fato é importante."
+        ],
+        "ru": {
+            "cyr": [
+                "Это факт.",
+                "Я знаю этот факт.",
+                "Факт важен."
+            ],
+            "lat": [
+                "Eto fakt.",
+                "Ya znayu etot fakt.",
+                "Fakt vazhen."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו עובדה.",
+                "אני יודע את העובדה הזאת.",
+                "העובדה חשובה."
+            ],
+            "lat": [
+                "zo uvda.",
+                "ani yodea et ha-uvda hazot.",
+                "ha-uvda chashuva."
+            ]
+        }
+    },
+    "validated": false
+}

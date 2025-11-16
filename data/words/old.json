@@ -1,0 +1,17 @@
+{
+    "old": {
+        "en": "old",
+        "fr": "vieux",
+        "es": "viejo",
+        "pt": "velho",
+        "ru": {
+            "cyr": "старый",
+            "lat": "staryy"
+        },
+        "il": {
+            "heb": "ישן",
+            "lat": "yashan"
+        }
+    },
+    "validated": false
+}

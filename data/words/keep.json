@@ -1,0 +1,17 @@
+{
+    "keep": {
+        "en": "keep",
+        "fr": "garder",
+        "es": "mantener",
+        "pt": "manter",
+        "ru": {
+            "cyr": "держать",
+            "lat": "derzhat"
+        },
+        "il": {
+            "heb": "לשמור",
+            "lat": "lishmor"
+        }
+    },
+    "validated": false
+}

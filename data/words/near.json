@@ -1,0 +1,17 @@
+{
+    "near": {
+        "en": "near",
+        "fr": "près",
+        "es": "cerca",
+        "pt": "perto",
+        "ru": {
+            "cyr": "рядом",
+            "lat": "ryadom"
+        },
+        "il": {
+            "heb": "קרוב",
+            "lat": "karov"
+        }
+    },
+    "validated": false
+}

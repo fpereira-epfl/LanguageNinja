@@ -1,0 +1,49 @@
+{
+    "want": {
+        "en": [
+            "I want water.",
+            "Do you want coffee?",
+            "They want to go."
+        ],
+        "fr": [
+            "Je veux de l'eau.",
+            "Tu veux du café ?",
+            "Ils veulent partir."
+        ],
+        "es": [
+            "Quiero agua.",
+            "¿Quieres café?",
+            "Ellos quieren ir."
+        ],
+        "pt": [
+            "Quero água.",
+            "Você quer café?",
+            "Eles querem ir."
+        ],
+        "ru": {
+            "cyr": [
+                "Я хочу воды.",
+                "Ты хочешь кофе?",
+                "Они хотят идти."
+            ],
+            "lat": [
+                "Ya khochu vody.",
+                "Ty khochesh' kofe?",
+                "Oni khotyat idti."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רוצה מים.",
+                "אתה רוצה קפה?",
+                "הם רוצים ללכת."
+            ],
+            "lat": [
+                "ani rotze mayim.",
+                "ata rotze kafe?",
+                "hem rotzim lalekhet."
+            ]
+        }
+    },
+    "validated": false
+}

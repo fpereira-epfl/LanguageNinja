@@ -1,0 +1,49 @@
+{
+    "plan": {
+        "en": [
+            "We have a plan.",
+            "The plan is simple.",
+            "I like the plan."
+        ],
+        "fr": [
+            "Nous avons un plan.",
+            "Le plan est simple.",
+            "J'aime le plan."
+        ],
+        "es": [
+            "Tenemos un plan.",
+            "El plan es simple.",
+            "Me gusta el plan."
+        ],
+        "pt": [
+            "Temos um plano.",
+            "O plano é simples.",
+            "Gosto do plano."
+        ],
+        "ru": {
+            "cyr": [
+                "У нас есть план.",
+                "План простой.",
+                "Мне нравится план."
+            ],
+            "lat": [
+                "U nas yest' plan.",
+                "Plan prostoy.",
+                "Mne nravitsya plan."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לנו תוכנית.",
+                "התוכנית פשוטה.",
+                "אני אוהב את התוכנית."
+            ],
+            "lat": [
+                "yesh lanu tochnit.",
+                "hatochnit pshuta.",
+                "ani ohev et hatochnit."
+            ]
+        }
+    },
+    "validated": false
+}

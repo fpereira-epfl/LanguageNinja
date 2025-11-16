@@ -1,0 +1,49 @@
+{
+    "company": {
+        "en": [
+            "I work for a company.",
+            "The company is small.",
+            "This company makes phones."
+        ],
+        "fr": [
+            "Je travaille pour une entreprise.",
+            "L'entreprise est petite.",
+            "Cette entreprise fabrique des téléphones."
+        ],
+        "es": [
+            "Trabajo para una empresa.",
+            "La empresa es pequeña.",
+            "Esta empresa hace teléfonos."
+        ],
+        "pt": [
+            "Eu trabalho para uma empresa.",
+            "A empresa é pequena.",
+            "Esta empresa fabrica telefones."
+        ],
+        "ru": {
+            "cyr": [
+                "Я работаю в компании.",
+                "Компания маленькая.",
+                "Эта компания делает телефоны."
+            ],
+            "lat": [
+                "Ya rabotayu v kompanii.",
+                "Kompaniya malen’kaya.",
+                "Eta kompaniya delaet telefony."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני עובד בחברה.",
+                "החברה קטנה.",
+                "החברה הזו מייצרת טלפונים."
+            ],
+            "lat": [
+                "ani oved bechevra.",
+                "hachevra ktana.",
+                "hachevra hazot meyatseret telefonim."
+            ]
+        }
+    },
+    "validated": false
+}

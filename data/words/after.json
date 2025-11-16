@@ -1,0 +1,17 @@
+{
+    "after": {
+        "en": "after",
+        "fr": "après",
+        "es": "después",
+        "pt": "depois",
+        "ru": {
+            "cyr": "после",
+            "lat": "posle"
+        },
+        "il": {
+            "heb": "אחרי",
+            "lat": "acharei"
+        }
+    },
+    "validated": false
+}

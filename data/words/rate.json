@@ -1,0 +1,17 @@
+{
+    "rate": {
+        "en": "rate",
+        "fr": "taux",
+        "es": "tasa",
+        "pt": "taxa",
+        "ru": {
+            "cyr": "ставка",
+            "lat": "stavka"
+        },
+        "il": {
+            "heb": "שיעור",
+            "lat": "shiur"
+        }
+    },
+    "validated": false
+}

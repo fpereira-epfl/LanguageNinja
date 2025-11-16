@@ -1,0 +1,17 @@
+{
+    "cloud": {
+        "en": "cloud",
+        "fr": "nuage",
+        "es": "nube",
+        "pt": "nuvem",
+        "ru": {
+            "cyr": "облако",
+            "lat": "oblako"
+        },
+        "il": {
+            "heb": "ענן",
+            "lat": "anan"
+        }
+    },
+    "validated": false
+}

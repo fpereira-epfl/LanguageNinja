@@ -1,0 +1,49 @@
+{
+    "study": {
+        "en": [
+            "I study math.",
+            "She studies English.",
+            "We study history."
+        ],
+        "fr": [
+            "J'étudie les maths.",
+            "Elle étudie l'anglais.",
+            "Nous étudions l'histoire."
+        ],
+        "es": [
+            "Estudio matemáticas.",
+            "Ella estudia inglés.",
+            "Estudiamos historia."
+        ],
+        "pt": [
+            "Eu estudo matemática.",
+            "Ela estuda inglês.",
+            "Nós estudamos história."
+        ],
+        "ru": {
+            "cyr": [
+                "Я изучаю математику.",
+                "Она изучает английский.",
+                "Мы изучаем историю."
+            ],
+            "lat": [
+                "Ya izuchayu matematiku.",
+                "Ona izuchaet angliyskiy.",
+                "My izuchaem istoriyu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני לומד מתמטיקה.",
+                "היא לומדת אנגלית.",
+                "אנחנו לומדים היסטוריה."
+            ],
+            "lat": [
+                "ani lomed matematika.",
+                "hi lomedet anglit.",
+                "anachnu lomdim historia."
+            ]
+        }
+    },
+    "validated": false
+}

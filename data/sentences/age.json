@@ -1,0 +1,49 @@
+{
+    "age": {
+        "en": [
+            "My age is ten years.",
+            "What is your age?",
+            "The age is unknown."
+        ],
+        "fr": [
+            "Mon âge est de dix ans.",
+            "Quel est ton âge ?",
+            "L'âge est inconnu."
+        ],
+        "es": [
+            "Mi edad es de diez años.",
+            "¿Cuál es tu edad?",
+            "La edad es desconocida."
+        ],
+        "pt": [
+            "Minha idade é de dez anos.",
+            "Qual é a sua idade?",
+            "A idade é desconhecida."
+        ],
+        "ru": {
+            "cyr": [
+                "Мой возраст — десять лет.",
+                "Какой у тебя возраст?",
+                "Возраст неизвестен."
+            ],
+            "lat": [
+                "Moy vozrast — desyat’ let.",
+                "Kakoy u tebya vozrast?",
+                "Vozrast neizvesten."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הגיל שלי הוא עשר שנים.",
+                "מה הגיל שלך?",
+                "הגיל אינו ידוע."
+            ],
+            "lat": [
+                "hagil sheli hu eser shanim.",
+                "ma hagil shelkha?",
+                "hagil eino yadua."
+            ]
+        }
+    },
+    "validated": false
+}

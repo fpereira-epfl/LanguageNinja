@@ -1,0 +1,49 @@
+{
+    "begin": {
+        "en": [
+            "I begin now.",
+            "She begins to read.",
+            "The class begins at nine."
+        ],
+        "fr": [
+            "Je commence maintenant.",
+            "Elle commence à lire.",
+            "Le cours commence à neuf heures."
+        ],
+        "es": [
+            "Empiezo ahora.",
+            "Ella empieza a leer.",
+            "La clase empieza a las nueve."
+        ],
+        "pt": [
+            "Começo agora.",
+            "Ela começa a ler.",
+            "A aula começa às nove."
+        ],
+        "ru": {
+            "cyr": [
+                "Я начинаю сейчас.",
+                "Она начинает читать.",
+                "Урок начинается в девять."
+            ],
+            "lat": [
+                "Ya nachinayu seychas.",
+                "Ona nachinayet chitat'.",
+                "Urok nachinayetsya v devyat'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מתחיל עכשיו.",
+                "היא מתחילה לקרוא.",
+                "השיעור מתחיל בתשע."
+            ],
+            "lat": [
+                "ani matchil akhshav.",
+                "hi matchila likro.",
+                "ha-shiur matchil be-tesha."
+            ]
+        }
+    },
+    "validated": false
+}

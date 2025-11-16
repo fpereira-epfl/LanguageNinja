@@ -1,0 +1,49 @@
+{
+    "day": {
+        "en": [
+            "The day is long.",
+            "I like this day.",
+            "We work every day."
+        ],
+        "fr": [
+            "Le jour est long.",
+            "J'aime ce jour.",
+            "Nous travaillons chaque jour."
+        ],
+        "es": [
+            "El día es largo.",
+            "Me gusta este día.",
+            "Trabajamos cada día."
+        ],
+        "pt": [
+            "O dia é longo.",
+            "Gosto deste dia.",
+            "Trabalhamos todos os dias."
+        ],
+        "ru": {
+            "cyr": [
+                "День длинный.",
+                "Мне нравится этот день.",
+                "Мы работаем каждый день."
+            ],
+            "lat": [
+                "Den' dlinnyy.",
+                "Mne nravitsya etot den'.",
+                "My rabotaem kazhdyy den'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "היום ארוך.",
+                "אני אוהב את היום הזה.",
+                "אנחנו עובדים כל יום."
+            ],
+            "lat": [
+                "hayom arokh.",
+                "ani ohev et hayom hazeh.",
+                "anachnu ovdim kol yom."
+            ]
+        }
+    },
+    "validated": false
+}

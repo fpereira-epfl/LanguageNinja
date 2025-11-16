@@ -1,0 +1,49 @@
+{
+    "child": {
+        "en": [
+            "The child is happy.",
+            "I see a child.",
+            "The child plays."
+        ],
+        "fr": [
+            "L'enfant est heureux.",
+            "Je vois un enfant.",
+            "L'enfant joue."
+        ],
+        "es": [
+            "El niño está feliz.",
+            "Veo a un niño.",
+            "El niño juega."
+        ],
+        "pt": [
+            "A criança está feliz.",
+            "Eu vejo uma criança.",
+            "A criança brinca."
+        ],
+        "ru": {
+            "cyr": [
+                "Ребёнок счастлив.",
+                "Я вижу ребёнка.",
+                "Ребёнок играет."
+            ],
+            "lat": [
+                "Rebyonok schastliv.",
+                "Ya vizhu rebyonka.",
+                "Rebyonok igraet."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הילד שמח.",
+                "אני רואה ילד.",
+                "הילד משחק."
+            ],
+            "lat": [
+                "ha-yeled sameach.",
+                "ani ro'e yeled.",
+                "ha-yeled mesachek."
+            ]
+        }
+    },
+    "validated": false
+}

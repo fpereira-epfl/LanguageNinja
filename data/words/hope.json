@@ -1,0 +1,17 @@
+{
+    "hope": {
+        "en": "hope",
+        "fr": "espoir",
+        "es": "esperanza",
+        "pt": "esperança",
+        "ru": {
+            "cyr": "надежда",
+            "lat": "nadezhda"
+        },
+        "il": {
+            "heb": "תקווה",
+            "lat": "tikva"
+        }
+    },
+    "validated": false
+}

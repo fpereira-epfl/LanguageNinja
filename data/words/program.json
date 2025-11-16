@@ -1,0 +1,17 @@
+{
+    "program": {
+        "en": "program",
+        "fr": "programme",
+        "es": "programa",
+        "pt": "programa",
+        "ru": {
+            "cyr": "программа",
+            "lat": "programma"
+        },
+        "il": {
+            "heb": "תוכנית",
+            "lat": "tochnit"
+        }
+    },
+    "validated": false
+}

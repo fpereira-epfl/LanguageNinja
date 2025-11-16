@@ -1,0 +1,17 @@
+{
+    "support": {
+        "en": "support",
+        "fr": "soutien",
+        "es": "apoyo",
+        "pt": "apoio",
+        "ru": {
+            "cyr": "поддержка",
+            "lat": "podderzhka"
+        },
+        "il": {
+            "heb": "תמיכה",
+            "lat": "tmikha"
+        }
+    },
+    "validated": false
+}

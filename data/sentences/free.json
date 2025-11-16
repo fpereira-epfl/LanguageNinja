@@ -1,0 +1,49 @@
+{
+    "free": {
+        "en": [
+            "The water is free.",
+            "I am free today.",
+            "The bird is free."
+        ],
+        "fr": [
+            "L'eau est gratuite.",
+            "Je suis libre aujourd'hui.",
+            "L'oiseau est libre."
+        ],
+        "es": [
+            "El agua es gratis.",
+            "Estoy libre hoy.",
+            "El pájaro es libre."
+        ],
+        "pt": [
+            "A água é grátis.",
+            "Estou livre hoje.",
+            "O pássaro é livre."
+        ],
+        "ru": {
+            "cyr": [
+                "Вода бесплатная.",
+                "Я свободен сегодня.",
+                "Птица свободна."
+            ],
+            "lat": [
+                "Voda besplatnaya.",
+                "Ya svoboden segodnya.",
+                "Ptitsa svobodna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המים בחינם.",
+                "אני פנוי היום.",
+                "הציפור חופשייה."
+            ],
+            "lat": [
+                "hamayim bechinam.",
+                "ani panui hayom.",
+                "hatzipor chofshiya."
+            ]
+        }
+    },
+    "validated": false
+}

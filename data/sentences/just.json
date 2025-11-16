@@ -1,0 +1,49 @@
+{
+    "just": {
+        "en": [
+            "I just want water.",
+            "It is just a game.",
+            "He is just a child."
+        ],
+        "fr": [
+            "Je veux seulement de l'eau.",
+            "C'est seulement un jeu.",
+            "Il est seulement un enfant."
+        ],
+        "es": [
+            "Solo quiero agua.",
+            "Es solo un juego.",
+            "Él es solo un niño."
+        ],
+        "pt": [
+            "Só quero água.",
+            "É só um jogo.",
+            "Ele é só uma criança."
+        ],
+        "ru": {
+            "cyr": [
+                "Я только хочу воды.",
+                "Это только игра.",
+                "Он только ребёнок."
+            ],
+            "lat": [
+                "Ya tolko khochu vody.",
+                "Eto tolko igra.",
+                "On tolko rebyonok."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רק רוצה מים.",
+                "זה רק משחק.",
+                "הוא רק ילד."
+            ],
+            "lat": [
+                "ani rak rotze mayim.",
+                "ze rak mischak.",
+                "hu rak yeled."
+            ]
+        }
+    },
+    "validated": false
+}

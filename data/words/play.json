@@ -1,0 +1,17 @@
+{
+    "play": {
+        "en": "play",
+        "fr": "jouer",
+        "es": "jugar",
+        "pt": "jogar",
+        "ru": {
+            "cyr": "играть",
+            "lat": "igrat"
+        },
+        "il": {
+            "heb": "לשחק",
+            "lat": "lesachek"
+        }
+    },
+    "validated": false
+}

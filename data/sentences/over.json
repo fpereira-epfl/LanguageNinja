@@ -1,0 +1,49 @@
+{
+    "over": {
+        "en": [
+            "The lamp is over the table.",
+            "The plane flies over the city.",
+            "Hang the picture over the bed."
+        ],
+        "fr": [
+            "La lampe est au-dessus de la table.",
+            "L'avion vole au-dessus de la ville.",
+            "Accroche le tableau au-dessus du lit."
+        ],
+        "es": [
+            "La lámpara está sobre la mesa.",
+            "El avión vuela sobre la ciudad.",
+            "Cuelga el cuadro sobre la cama."
+        ],
+        "pt": [
+            "A lâmpada está sobre a mesa.",
+            "O avião voa sobre a cidade.",
+            "Pendura o quadro sobre a cama."
+        ],
+        "ru": {
+            "cyr": [
+                "Лампа над столом.",
+                "Самолёт летит над городом.",
+                "Повесь картину над кроватью."
+            ],
+            "lat": [
+                "Lampa nad stolom.",
+                "Samolet letit nad gorodom.",
+                "Poves' kartinu nad krovatyu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המנורה מעל השולחן.",
+                "המטוס טס מעל העיר.",
+                "תלה את התמונה מעל המיטה."
+            ],
+            "lat": [
+                "ha-menorah me'al ha-shulchan.",
+                "ha-matos tas me'al ha-ir.",
+                "tale et ha-tmuna me'al ha-mita."
+            ]
+        }
+    },
+    "validated": false
+}

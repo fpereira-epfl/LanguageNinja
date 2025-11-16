@@ -1,0 +1,17 @@
+{
+    "serve": {
+        "en": "serve",
+        "fr": "servir",
+        "es": "servir",
+        "pt": "servir",
+        "ru": {
+            "cyr": "служить",
+            "lat": "sluzhit"
+        },
+        "il": {
+            "heb": "לשרת",
+            "lat": "lesharet"
+        }
+    },
+    "validated": false
+}

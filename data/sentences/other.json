@@ -1,0 +1,49 @@
+{
+    "other": {
+        "en": [
+            "The other car is faster.",
+            "Do you have any other questions?",
+            "I need the other key."
+        ],
+        "fr": [
+            "L'autre voiture est plus rapide.",
+            "As-tu d'autres questions ?",
+            "J'ai besoin de l'autre clé."
+        ],
+        "es": [
+            "El otro coche es más rápido.",
+            "¿Tienes otras preguntas?",
+            "Necesito la otra llave."
+        ],
+        "pt": [
+            "O outro carro é mais rápido.",
+            "Você tem outras perguntas?",
+            "Eu preciso da outra chave."
+        ],
+        "ru": {
+            "cyr": [
+                "Другая машина быстрее.",
+                "У тебя есть другие вопросы?",
+                "Мне нужен другой ключ."
+            ],
+            "lat": [
+                "Drugaya mashina bystree.",
+                "U tebya yest' drugie voprosy?",
+                "Mne nuzhen drugoy klyuch."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המכונית האחרת מהירה יותר.",
+                "יש לך שאלות אחרות?",
+                "אני צריך את המפתח האחר."
+            ],
+            "lat": [
+                "hamekhonit ha'acheret mehira yoter.",
+                "yesh lekha she'elot acherot?",
+                "ani tsarikh et hamafteach ha'acher."
+            ]
+        }
+    },
+    "validated": false
+}

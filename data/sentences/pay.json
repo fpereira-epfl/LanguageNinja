@@ -1,0 +1,49 @@
+{
+    "pay": {
+        "en": [
+            "I pay the bill.",
+            "She pays the rent.",
+            "We pay in cash."
+        ],
+        "fr": [
+            "Je paie la facture.",
+            "Elle paie le loyer.",
+            "Nous payons en espèces."
+        ],
+        "es": [
+            "Pago la factura.",
+            "Ella paga el alquiler.",
+            "Pagamos en efectivo."
+        ],
+        "pt": [
+            "Eu pago a conta.",
+            "Ela paga o aluguel.",
+            "Pagamos em dinheiro."
+        ],
+        "ru": {
+            "cyr": [
+                "Я плачу счёт.",
+                "Она платит за аренду.",
+                "Мы платим наличными."
+            ],
+            "lat": [
+                "Ya plachu schet.",
+                "Ona platit za arendu.",
+                "My platim nalichnymi."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני משלם את החשבון.",
+                "היא משלמת את שכר הדירה.",
+                "אנחנו משלמים במזומן."
+            ],
+            "lat": [
+                "ani meshalem et hachesbon.",
+                "hi meshalemet et sekhar hadira.",
+                "anachnu meshalmim bemzuman."
+            ]
+        }
+    },
+    "validated": false
+}

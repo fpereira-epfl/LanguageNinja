@@ -1,0 +1,49 @@
+{
+    "way": {
+        "en": [
+            "This way is short.",
+            "Is this the right way?",
+            "We walk along the way."
+        ],
+        "fr": [
+            "Ce chemin est court.",
+            "Est-ce le bon chemin ?",
+            "Nous marchons le long du chemin."
+        ],
+        "es": [
+            "Este camino es corto.",
+            "¿Es este el camino correcto?",
+            "Caminamos por el camino."
+        ],
+        "pt": [
+            "Este caminho é curto.",
+            "Este é o caminho certo?",
+            "Caminhamos pelo caminho."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот путь короткий.",
+                "Это правильный путь?",
+                "Мы идём по пути."
+            ],
+            "lat": [
+                "Etot put' korotkiy.",
+                "Eto pravil'nyy put'?",
+                "My idyom po puti."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הדרך הזו קצרה.",
+                "זו הדרך הנכונה?",
+                "אנחנו הולכים לאורך הדרך."
+            ],
+            "lat": [
+                "haderekh hazot ktsara.",
+                "zo haderekh hanekhona?",
+                "anachnu holkhim le'orekh haderekh."
+            ]
+        }
+    },
+    "validated": false
+}

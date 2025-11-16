@@ -1,0 +1,49 @@
+{
+    "number": {
+        "en": [
+            "The number is five.",
+            "Write the number three.",
+            "This number is big."
+        ],
+        "fr": [
+            "Le nombre est cinq.",
+            "Écris le nombre trois.",
+            "Ce nombre est grand."
+        ],
+        "es": [
+            "El número es cinco.",
+            "Escribe el número tres.",
+            "Este número es grande."
+        ],
+        "pt": [
+            "O número é cinco.",
+            "Escreva o número três.",
+            "Este número é grande."
+        ],
+        "ru": {
+            "cyr": [
+                "Число пять.",
+                "Напиши число три.",
+                "Это число большое."
+            ],
+            "lat": [
+                "Chislo pyat'.",
+                "Napishi chislo tri.",
+                "Eto chislo bol'shoe."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המספר הוא חמש.",
+                "כתוב את המספר שלוש.",
+                "המספר הזה גדול."
+            ],
+            "lat": [
+                "ha-mispar hu chamesh.",
+                "ktov et ha-mispar shalosh.",
+                "ha-mispar ha-ze gadol."
+            ]
+        }
+    },
+    "validated": false
+}

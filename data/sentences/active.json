@@ -1,0 +1,49 @@
+{
+    "active": {
+        "en": [
+            "She is active.",
+            "The child is active.",
+            "We are very active."
+        ],
+        "fr": [
+            "Elle est active.",
+            "L'enfant est actif.",
+            "Nous sommes très actifs."
+        ],
+        "es": [
+            "Ella es activa.",
+            "El niño es activo.",
+            "Somos muy activos."
+        ],
+        "pt": [
+            "Ela é ativa.",
+            "A criança é ativa.",
+            "Somos muito ativos."
+        ],
+        "ru": {
+            "cyr": [
+                "Она активная.",
+                "Ребенок активный.",
+                "Мы очень активные."
+            ],
+            "lat": [
+                "Ona aktivnaya.",
+                "Rebenok aktivnyy.",
+                "My ochen' aktivnye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "היא פעילה.",
+                "הילד פעיל.",
+                "אנחנו מאוד פעילים."
+            ],
+            "lat": [
+                "hi pe'ila.",
+                "hayeled pa'il.",
+                "anachnu me'od pe'ilim."
+            ]
+        }
+    },
+    "validated": false
+}

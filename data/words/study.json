@@ -1,0 +1,17 @@
+{
+    "study": {
+        "en": "study",
+        "fr": "étudier",
+        "es": "estudiar",
+        "pt": "estudar",
+        "ru": {
+            "cyr": "изучать",
+            "lat": "izuchat"
+        },
+        "il": {
+            "heb": "ללמוד",
+            "lat": "lilmod"
+        }
+    },
+    "validated": false
+}

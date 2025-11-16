@@ -1,0 +1,49 @@
+{
+    "face": {
+        "en": [
+            "Wash your face.",
+            "Her face is beautiful.",
+            "I see your face."
+        ],
+        "fr": [
+            "Lave ton visage.",
+            "Son visage est beau.",
+            "Je vois ton visage."
+        ],
+        "es": [
+            "Lava tu cara.",
+            "Su cara es bonita.",
+            "Veo tu cara."
+        ],
+        "pt": [
+            "Lava o rosto.",
+            "O rosto dela é bonito.",
+            "Vejo seu rosto."
+        ],
+        "ru": {
+            "cyr": [
+                "Помой лицо.",
+                "Её лицо красивое.",
+                "Я вижу твоё лицо."
+            ],
+            "lat": [
+                "Pomoy litso.",
+                "Yeyo litso krasivoye.",
+                "Ya vizhu tvoyo litso."
+            ]
+        },
+        "il": {
+            "heb": [
+                "שטוף את הפנים.",
+                "הפנים שלה יפות.",
+                "אני רואה את הפנים שלך."
+            ],
+            "lat": [
+                "shtof et hapanim.",
+                "hapanim shela yafot.",
+                "ani ro'eh et hapanim shelkha."
+            ]
+        }
+    },
+    "validated": false
+}

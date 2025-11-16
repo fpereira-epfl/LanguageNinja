@@ -1,0 +1,17 @@
+{
+    "room": {
+        "en": "room",
+        "fr": "pièce",
+        "es": "habitación",
+        "pt": "quarto",
+        "ru": {
+            "cyr": "комната",
+            "lat": "komnata"
+        },
+        "il": {
+            "heb": "חדר",
+            "lat": "cheder"
+        }
+    },
+    "validated": false
+}

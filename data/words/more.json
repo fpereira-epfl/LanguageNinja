@@ -1,0 +1,17 @@
+{
+    "more": {
+        "en": "more",
+        "fr": "plus",
+        "es": "más",
+        "pt": "mais",
+        "ru": {
+            "cyr": "больше",
+            "lat": "bolshe"
+        },
+        "il": {
+            "heb": "עוד",
+            "lat": "od"
+        }
+    },
+    "validated": false
+}

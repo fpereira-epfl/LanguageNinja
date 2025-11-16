@@ -1,0 +1,49 @@
+{
+    "inform": {
+        "en": [
+            "Please inform me.",
+            "I will inform you tomorrow.",
+            "She informed the team."
+        ],
+        "fr": [
+            "Informe-moi, s'il te plaît.",
+            "Je t'informerai demain.",
+            "Elle a informé l'équipe."
+        ],
+        "es": [
+            "Por favor, infórmame.",
+            "Te informaré mañana.",
+            "Ella informó al equipo."
+        ],
+        "pt": [
+            "Por favor, informe-me.",
+            "Vou te informar amanhã.",
+            "Ela informou a equipe."
+        ],
+        "ru": {
+            "cyr": [
+                "Сообщи мне, пожалуйста.",
+                "Я сообщу тебе завтра.",
+                "Она сообщила команде."
+            ],
+            "lat": [
+                "Soobshchi mne, pozhaluysta.",
+                "Ya soobshchu tebe zavtra.",
+                "Ona soobshchila komande."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בבקשה תודיע לי.",
+                "אני אודיע לך מחר.",
+                "היא הודיעה לצוות."
+            ],
+            "lat": [
+                "bevakasha todi'a li.",
+                "ani o'dia lecha machar.",
+                "hi hodi'a la-tzevet."
+            ]
+        }
+    },
+    "validated": false
+}

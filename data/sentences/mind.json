@@ -1,0 +1,49 @@
+{
+    "mind": {
+        "en": [
+            "My mind is calm.",
+            "His mind is open.",
+            "Open your mind."
+        ],
+        "fr": [
+            "Mon esprit est calme.",
+            "Son esprit est ouvert.",
+            "Ouvre ton esprit."
+        ],
+        "es": [
+            "Mi mente está tranquila.",
+            "Su mente está abierta.",
+            "Abre tu mente."
+        ],
+        "pt": [
+            "Minha mente está calma.",
+            "A mente dele está aberta.",
+            "Abra sua mente."
+        ],
+        "ru": {
+            "cyr": [
+                "Мой ум спокоен.",
+                "Его ум открыт.",
+                "Открой свой ум."
+            ],
+            "lat": [
+                "Moy um spokoen.",
+                "Yego um otkryt.",
+                "Otkroy svoy um."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הראש שלי רגוע.",
+                "הראש שלו פתוח.",
+                "פתח את הראש שלך."
+            ],
+            "lat": [
+                "harosh sheli ragu'a.",
+                "harosh shelo patuakh.",
+                "petach et harosh shelkha."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "start": {
+        "en": [
+            "The start was slow.",
+            "We saw the start.",
+            "Wait for the start."
+        ],
+        "fr": [
+            "Le début était lent.",
+            "Nous avons vu le début.",
+            "Attends le début."
+        ],
+        "es": [
+            "El inicio fue lento.",
+            "Vimos el inicio.",
+            "Espera el inicio."
+        ],
+        "pt": [
+            "O início foi lento.",
+            "Vimos o início.",
+            "Espere o início."
+        ],
+        "ru": {
+            "cyr": [
+                "Начало было медленным.",
+                "Мы увидели начало.",
+                "Подожди начала."
+            ],
+            "lat": [
+                "Nachalo bylo medlennym.",
+                "My uvideli nachalo.",
+                "Podozhdi nachala."
+            ]
+        },
+        "il": {
+            "heb": [
+                "ההתחלה הייתה איטית.",
+                "ראינו את ההתחלה.",
+                "חכה להתחלה."
+            ],
+            "lat": [
+                "ha-hatchala hayta itit.",
+                "ra'inu et ha-hatchala.",
+                "chake le-hatchala."
+            ]
+        }
+    },
+    "validated": false
+}

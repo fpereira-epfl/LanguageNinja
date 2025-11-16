@@ -1,0 +1,49 @@
+{
+    "strong": {
+        "en": [
+            "He is strong.",
+            "This coffee is strong.",
+            "Stay strong."
+        ],
+        "fr": [
+            "Il est fort.",
+            "Ce café est fort.",
+            "Reste fort."
+        ],
+        "es": [
+            "Él es fuerte.",
+            "Este café es fuerte.",
+            "Mantente fuerte."
+        ],
+        "pt": [
+            "Ele é forte.",
+            "Este café é forte.",
+            "Fique forte."
+        ],
+        "ru": {
+            "cyr": [
+                "Он сильный.",
+                "Этот кофе крепкий.",
+                "Оставайся сильным."
+            ],
+            "lat": [
+                "On sil'nyy.",
+                "Etot kofe krepkiy.",
+                "Ostavaysya sil'nym."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא חזק.",
+                "הקפה הזה חזק.",
+                "תישאר חזק."
+            ],
+            "lat": [
+                "hu chazak.",
+                "hakafe hazeh chazak.",
+                "tisha'er chazak."
+            ]
+        }
+    },
+    "validated": false
+}

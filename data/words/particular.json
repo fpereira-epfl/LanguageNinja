@@ -1,0 +1,17 @@
+{
+    "particular": {
+        "en": "particular",
+        "fr": "particulier",
+        "es": "particular",
+        "pt": "particular",
+        "ru": {
+            "cyr": "конкретный",
+            "lat": "konkretnyy"
+        },
+        "il": {
+            "heb": "מסוים",
+            "lat": "mesuyam"
+        }
+    },
+    "validated": false
+}

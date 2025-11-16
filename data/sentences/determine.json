@@ -1,0 +1,49 @@
+{
+    "determine": {
+        "en": [
+            "We determine the date.",
+            "I determine the size.",
+            "They determine the rules."
+        ],
+        "fr": [
+            "Nous déterminons la date.",
+            "Je détermine la taille.",
+            "Ils déterminent les règles."
+        ],
+        "es": [
+            "Determinamos la fecha.",
+            "Yo determino el tamaño.",
+            "Ellos determinan las reglas."
+        ],
+        "pt": [
+            "Determinamos a data.",
+            "Eu determino o tamanho.",
+            "Eles determinam as regras."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы определяем дату.",
+                "Я определяю размер.",
+                "Они определяют правила."
+            ],
+            "lat": [
+                "My opredelyayem datu.",
+                "Ya opredelyayu razmer.",
+                "Oni opredelyayut pravila."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו קובעים את התאריך.",
+                "אני קובע את הגודל.",
+                "הם קובעים את הכללים."
+            ],
+            "lat": [
+                "anachnu kova'im et ha-ta'arikh.",
+                "ani kove'a et ha-godel.",
+                "hem kova'im et ha-klalim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "develop": {
+        "en": "develop",
+        "fr": "développer",
+        "es": "desarrollar",
+        "pt": "desenvolver",
+        "ru": {
+            "cyr": "развивать",
+            "lat": "razvivat"
+        },
+        "il": {
+            "heb": "לפתח",
+            "lat": "lefateach"
+        }
+    },
+    "validated": false
+}

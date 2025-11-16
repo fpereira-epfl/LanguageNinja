@@ -1,0 +1,17 @@
+{
+    "grow": {
+        "en": "grow",
+        "fr": "grandir",
+        "es": "crecer",
+        "pt": "crescer",
+        "ru": {
+            "cyr": "расти",
+            "lat": "rasti"
+        },
+        "il": {
+            "heb": "לגדול",
+            "lat": "ligdol"
+        }
+    },
+    "validated": false
+}

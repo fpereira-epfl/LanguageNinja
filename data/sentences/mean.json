@@ -1,0 +1,49 @@
+{
+    "mean": {
+        "en": [
+            "What do you mean?",
+            "I mean this.",
+            "He means that we are late."
+        ],
+        "fr": [
+            "Que veux-tu dire ?",
+            "Je veux dire ceci.",
+            "Il veut dire que nous sommes en retard."
+        ],
+        "es": [
+            "¿Qué quieres decir?",
+            "Quiero decir esto.",
+            "Él quiere decir que llegamos tarde."
+        ],
+        "pt": [
+            "O que você quer dizer?",
+            "Quero dizer isto.",
+            "Ele quer dizer que estamos atrasados."
+        ],
+        "ru": {
+            "cyr": [
+                "Что ты имеешь в виду?",
+                "Я имею в виду это.",
+                "Он имеет в виду, что мы опоздали."
+            ],
+            "lat": [
+                "Chto ty imeesh’ v vidu?",
+                "Ya imeyu v vidu eto.",
+                "On imeyet v vidu, chto my opozdali."
+            ]
+        },
+        "il": {
+            "heb": [
+                "למה אתה מתכוון?",
+                "אני מתכוון לזה.",
+                "הוא מתכוון שאנחנו מאחרים."
+            ],
+            "lat": [
+                "lama ata mitkaven?",
+                "ani mitkaven leze.",
+                "hu mitkaven sheanachnu meacharim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "should": {
+        "en": [
+            "You should rest.",
+            "We should go now.",
+            "He should call his mother."
+        ],
+        "fr": [
+            "Tu devrais te reposer.",
+            "Nous devrions partir maintenant.",
+            "Il devrait appeler sa mère."
+        ],
+        "es": [
+            "Deberías descansar.",
+            "Deberíamos ir ahora.",
+            "Él debería llamar a su madre."
+        ],
+        "pt": [
+            "Você deveria descansar.",
+            "Deveríamos ir agora.",
+            "Ele deveria ligar para a mãe dele."
+        ],
+        "ru": {
+            "cyr": [
+                "Тебе следует отдохнуть.",
+                "Нам следует идти сейчас.",
+                "Ему следует позвонить своей маме."
+            ],
+            "lat": [
+                "Tebe sleduet otdokhnut'.",
+                "Nam sleduet idti seychas.",
+                "Emu sleduet pozvonit' svoey mame."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אתה צריך לנוח.",
+                "אנחנו צריכים ללכת עכשיו.",
+                "הוא צריך להתקשר לאמא שלו."
+            ],
+            "lat": [
+                "ata tsarikh lanuakh.",
+                "anachnu tsrikhim lalechet akhshav.",
+                "hu tsarikh lehitkasher le-ima shelo."
+            ]
+        }
+    },
+    "validated": false
+}

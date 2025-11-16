@@ -1,0 +1,17 @@
+{
+    "party": {
+        "en": "party",
+        "fr": "parti",
+        "es": "partido",
+        "pt": "partido",
+        "ru": {
+            "cyr": "партия",
+            "lat": "partiya"
+        },
+        "il": {
+            "heb": "מפלגה",
+            "lat": "miflaga"
+        }
+    },
+    "validated": false
+}

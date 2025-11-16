@@ -1,0 +1,17 @@
+{
+    "earth": {
+        "en": "earth",
+        "fr": "terre",
+        "es": "tierra",
+        "pt": "terra",
+        "ru": {
+            "cyr": "земля",
+            "lat": "zemlya"
+        },
+        "il": {
+            "heb": "אדמה",
+            "lat": "adama"
+        }
+    },
+    "validated": false
+}

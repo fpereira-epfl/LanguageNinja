@@ -1,0 +1,17 @@
+{
+    "report": {
+        "en": "report",
+        "fr": "rapport",
+        "es": "informe",
+        "pt": "relatório",
+        "ru": {
+            "cyr": "отчёт",
+            "lat": "otchet"
+        },
+        "il": {
+            "heb": "דוח",
+            "lat": "duach"
+        }
+    },
+    "validated": false
+}

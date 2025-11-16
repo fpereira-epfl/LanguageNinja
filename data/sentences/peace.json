@@ -1,0 +1,49 @@
+{
+    "peace": {
+        "en": [
+            "We want peace.",
+            "Peace is important.",
+            "They talk about peace."
+        ],
+        "fr": [
+            "Nous voulons la paix.",
+            "La paix est importante.",
+            "Ils parlent de la paix."
+        ],
+        "es": [
+            "Queremos la paz.",
+            "La paz es importante.",
+            "Ellos hablan de la paz."
+        ],
+        "pt": [
+            "Nós queremos a paz.",
+            "A paz é importante.",
+            "Eles falam sobre a paz."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы хотим мира.",
+                "Мир важен.",
+                "Они говорят о мире."
+            ],
+            "lat": [
+                "My khotim mira.",
+                "Mir vazhen.",
+                "Oni govoryat o mire."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו רוצים שלום.",
+                "שלום חשוב.",
+                "הם מדברים על שלום."
+            ],
+            "lat": [
+                "anachnu rotzim shalom.",
+                "shalom chashuv.",
+                "hem medabrim al shalom."
+            ]
+        }
+    },
+    "validated": false
+}

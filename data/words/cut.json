@@ -1,0 +1,17 @@
+{
+    "cut": {
+        "en": "cut",
+        "fr": "couper",
+        "es": "cortar",
+        "pt": "cortar",
+        "ru": {
+            "cyr": "резать",
+            "lat": "rezat"
+        },
+        "il": {
+            "heb": "לחתוך",
+            "lat": "lachtoch"
+        }
+    },
+    "validated": false
+}

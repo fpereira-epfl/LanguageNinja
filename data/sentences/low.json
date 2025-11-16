@@ -1,0 +1,49 @@
+{
+    "low": {
+        "en": [
+            "The table is low.",
+            "The price is low.",
+            "The wall is low."
+        ],
+        "fr": [
+            "La table est basse.",
+            "Le prix est bas.",
+            "Le mur est bas."
+        ],
+        "es": [
+            "La mesa es baja.",
+            "El precio es bajo.",
+            "La pared es baja."
+        ],
+        "pt": [
+            "A mesa é baixa.",
+            "O preço é baixo.",
+            "A parede é baixa."
+        ],
+        "ru": {
+            "cyr": [
+                "Стол низкий.",
+                "Цена низкая.",
+                "Стена низкая."
+            ],
+            "lat": [
+                "Stol nizkiy.",
+                "Tsena nizkaya.",
+                "Stena nizkaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השולחן נמוך.",
+                "המחיר נמוך.",
+                "הקיר נמוך."
+            ],
+            "lat": [
+                "Ha-shulchan namukh.",
+                "Ha-mechir namukh.",
+                "Ha-kir namukh."
+            ]
+        }
+    },
+    "validated": false
+}

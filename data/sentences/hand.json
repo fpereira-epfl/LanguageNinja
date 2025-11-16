@@ -1,0 +1,49 @@
+{
+    "hand": {
+        "en": [
+            "This is my hand.",
+            "His hand is big.",
+            "Her hand is small."
+        ],
+        "fr": [
+            "C'est ma main.",
+            "Sa main à lui est grande.",
+            "Sa main à elle est petite."
+        ],
+        "es": [
+            "Esta es mi mano.",
+            "La mano de él es grande.",
+            "La mano de ella es pequeña."
+        ],
+        "pt": [
+            "Esta é a minha mão.",
+            "A mão dele é grande.",
+            "A mão dela é pequena."
+        ],
+        "ru": {
+            "cyr": [
+                "Это моя рука.",
+                "Его рука большая.",
+                "Её рука маленькая."
+            ],
+            "lat": [
+                "Eto moya ruka.",
+                "Ego ruka bol'shaya.",
+                "Yeyo ruka malen'kaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו היד שלי.",
+                "היד שלו גדולה.",
+                "היד שלה קטנה."
+            ],
+            "lat": [
+                "zo ha-yad sheli.",
+                "ha-yad shelo gdola.",
+                "ha-yad shela ktana."
+            ]
+        }
+    },
+    "validated": false
+}

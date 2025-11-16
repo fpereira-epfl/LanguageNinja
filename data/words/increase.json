@@ -1,0 +1,17 @@
+{
+    "increase": {
+        "en": "increase",
+        "fr": "augmenter",
+        "es": "aumentar",
+        "pt": "aumentar",
+        "ru": {
+            "cyr": "увеличивать",
+            "lat": "uvelichivat"
+        },
+        "il": {
+            "heb": "להגדיל",
+            "lat": "lehagdil"
+        }
+    },
+    "validated": false
+}

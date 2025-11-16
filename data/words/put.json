@@ -1,0 +1,17 @@
+{
+    "put": {
+        "en": "put",
+        "fr": "mettre",
+        "es": "poner",
+        "pt": "pôr",
+        "ru": {
+            "cyr": "положить",
+            "lat": "polozhit'"
+        },
+        "il": {
+            "heb": "לשים",
+            "lat": "lasim"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "field": {
+        "en": [
+            "The field is green.",
+            "We play in the field.",
+            "The cows are in the field."
+        ],
+        "fr": [
+            "Le champ est vert.",
+            "Nous jouons dans le champ.",
+            "Les vaches sont dans le champ."
+        ],
+        "es": [
+            "El campo es verde.",
+            "Jugamos en el campo.",
+            "Las vacas están en el campo."
+        ],
+        "pt": [
+            "O campo é verde.",
+            "Nós jogamos no campo.",
+            "As vacas estão no campo."
+        ],
+        "ru": {
+            "cyr": [
+                "Поле зелёное.",
+                "Мы играем на поле.",
+                "Коровы на поле."
+            ],
+            "lat": [
+                "Pole zelyonoye.",
+                "My igrayem na pole.",
+                "Korovy na pole."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השדה ירוק.",
+                "אנחנו משחקים בשדה.",
+                "הפרות בשדה."
+            ],
+            "lat": [
+                "hasade yarok.",
+                "anachnu mesakhakim basade.",
+                "haparot basade."
+            ]
+        }
+    },
+    "validated": false
+}

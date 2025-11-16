@@ -1,0 +1,49 @@
+{
+    "move": {
+        "en": [
+            "Don't move.",
+            "I can't move.",
+            "The car is moving."
+        ],
+        "fr": [
+            "Ne bouge pas.",
+            "Je ne peux pas bouger.",
+            "La voiture bouge."
+        ],
+        "es": [
+            "No te muevas.",
+            "No puedo moverme.",
+            "El coche se mueve."
+        ],
+        "pt": [
+            "Não se mova.",
+            "Não posso me mover.",
+            "O carro se move."
+        ],
+        "ru": {
+            "cyr": [
+                "Не двигайся.",
+                "Я не могу двигаться.",
+                "Машина двигается."
+            ],
+            "lat": [
+                "Ne dvigaysya.",
+                "Ya ne mogu dvigat'sya.",
+                "Mashina dvigayetsya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אל תזוז.",
+                "אני לא יכול לזוז.",
+                "המכונית זזה."
+            ],
+            "lat": [
+                "al tazuz.",
+                "ani lo yachol lazuz.",
+                "ha-mekhonit zaza."
+            ]
+        }
+    },
+    "validated": false
+}

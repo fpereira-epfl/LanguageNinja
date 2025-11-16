@@ -1,0 +1,49 @@
+{
+    "religion": {
+        "en": [
+            "Religion is important to him.",
+            "They study religion at school.",
+            "What is your religion?"
+        ],
+        "fr": [
+            "La religion est importante pour lui.",
+            "Ils étudient la religion à l'école.",
+            "Quelle est ta religion ?"
+        ],
+        "es": [
+            "La religión es importante para él.",
+            "Ellos estudian religión en la escuela.",
+            "¿Cuál es tu religión?"
+        ],
+        "pt": [
+            "A religião é importante para ele.",
+            "Eles estudam religião na escola.",
+            "Qual é a sua religião?"
+        ],
+        "ru": {
+            "cyr": [
+                "Религия важна для него.",
+                "Они изучают религию в школе.",
+                "Какая у тебя религия?"
+            ],
+            "lat": [
+                "Religiya vazhna dlya nego.",
+                "Oni izuchayut religiyu v shkole.",
+                "Kakaya u tebya religiya?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "הדת חשובה לו.",
+                "הם לומדים דת בבית הספר.",
+                "מה הדת שלך?"
+            ],
+            "lat": [
+                "ha-dat chashuva lo.",
+                "hem lomdim dat be-beit ha-sefer.",
+                "ma ha-dat shelkha?"
+            ]
+        }
+    },
+    "validated": false
+}

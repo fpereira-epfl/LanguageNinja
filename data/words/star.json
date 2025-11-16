@@ -1,0 +1,17 @@
+{
+    "star": {
+        "en": "star",
+        "fr": "étoile",
+        "es": "estrella",
+        "pt": "estrela",
+        "ru": {
+            "cyr": "звезда",
+            "lat": "zvezda"
+        },
+        "il": {
+            "heb": "כוכב",
+            "lat": "kokhav"
+        }
+    },
+    "validated": false
+}

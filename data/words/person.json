@@ -1,0 +1,17 @@
+{
+    "person": {
+        "en": "person",
+        "fr": "personne",
+        "es": "persona",
+        "pt": "pessoa",
+        "ru": {
+            "cyr": "человек",
+            "lat": "chelovek"
+        },
+        "il": {
+            "heb": "אדם",
+            "lat": "adam"
+        }
+    },
+    "validated": false
+}

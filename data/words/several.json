@@ -1,0 +1,17 @@
+{
+    "several": {
+        "en": "several",
+        "fr": "plusieurs",
+        "es": "varios",
+        "pt": "vários",
+        "ru": {
+            "cyr": "несколько",
+            "lat": "neskol'ko"
+        },
+        "il": {
+            "heb": "כמה",
+            "lat": "kama"
+        }
+    },
+    "validated": false
+}

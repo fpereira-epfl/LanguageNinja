@@ -1,0 +1,17 @@
+{
+    "whether": {
+        "en": "whether",
+        "fr": "si",
+        "es": "si",
+        "pt": "se",
+        "ru": {
+            "cyr": "ли",
+            "lat": "li"
+        },
+        "il": {
+            "heb": "האם",
+            "lat": "ha'im"
+        }
+    },
+    "validated": false
+}

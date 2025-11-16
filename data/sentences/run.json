@@ -1,0 +1,49 @@
+{
+    "run": {
+        "en": [
+            "I run every day.",
+            "She runs fast.",
+            "We run to the park."
+        ],
+        "fr": [
+            "Je cours tous les jours.",
+            "Elle court vite.",
+            "Nous courons au parc."
+        ],
+        "es": [
+            "Corro todos los días.",
+            "Ella corre rápido.",
+            "Corremos al parque."
+        ],
+        "pt": [
+            "Eu corro todos os dias.",
+            "Ela corre rápido.",
+            "Corremos para o parque."
+        ],
+        "ru": {
+            "cyr": [
+                "Я бегаю каждый день.",
+                "Она бегает быстро.",
+                "Мы бежим в парк."
+            ],
+            "lat": [
+                "Ya begayu kazhdy den'.",
+                "Ona begayet bystro.",
+                "My bezhim v park."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני רץ כל יום.",
+                "היא רצה מהר.",
+                "אנחנו רצים לפארק."
+            ],
+            "lat": [
+                "ani ratz kol yom.",
+                "hi ratza maher.",
+                "anachnu ratzim la-park."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "talk": {
+        "en": "talk",
+        "fr": "parler",
+        "es": "hablar",
+        "pt": "falar",
+        "ru": {
+            "cyr": "говорить",
+            "lat": "govorit'"
+        },
+        "il": {
+            "heb": "לדבר",
+            "lat": "ledaber"
+        }
+    },
+    "validated": false
+}

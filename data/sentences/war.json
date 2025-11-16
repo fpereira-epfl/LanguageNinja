@@ -1,0 +1,49 @@
+{
+    "war": {
+        "en": [
+            "War is terrible.",
+            "The war ended.",
+            "They talk about war."
+        ],
+        "fr": [
+            "La guerre est terrible.",
+            "La guerre a pris fin.",
+            "Ils parlent de la guerre."
+        ],
+        "es": [
+            "La guerra es terrible.",
+            "La guerra terminó.",
+            "Ellos hablan de la guerra."
+        ],
+        "pt": [
+            "A guerra é terrível.",
+            "A guerra terminou.",
+            "Eles falam sobre a guerra."
+        ],
+        "ru": {
+            "cyr": [
+                "Война ужасна.",
+                "Война закончилась.",
+                "Они говорят о войне."
+            ],
+            "lat": [
+                "Voyna uzhasna.",
+                "Voyna zakonchilas.",
+                "Oni govoryat o voyne."
+            ]
+        },
+        "il": {
+            "heb": [
+                "מלחמה היא נוראה.",
+                "המלחמה הסתיימה.",
+                "הם מדברים על מלחמה."
+            ],
+            "lat": [
+                "milchama hi nora.",
+                "ha-milchama histayma.",
+                "hem medabrim al milchama."
+            ]
+        }
+    },
+    "validated": false
+}

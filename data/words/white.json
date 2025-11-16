@@ -1,0 +1,17 @@
+{
+    "white": {
+        "en": "white",
+        "fr": "blanc",
+        "es": "blanco",
+        "pt": "branco",
+        "ru": {
+            "cyr": "белый",
+            "lat": "belyy"
+        },
+        "il": {
+            "heb": "לבן",
+            "lat": "lavan"
+        }
+    },
+    "validated": false
+}

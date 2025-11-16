@@ -1,0 +1,49 @@
+{
+    "than": {
+        "en": [
+            "She is taller than me.",
+            "This car is faster than that car.",
+            "I like tea more than coffee."
+        ],
+        "fr": [
+            "Elle est plus grande que moi.",
+            "Cette voiture est plus rapide que cette voiture-là.",
+            "J'aime le thé plus que le café."
+        ],
+        "es": [
+            "Ella es más alta que yo.",
+            "Este coche es más rápido que ese coche.",
+            "Me gusta el té más que el café."
+        ],
+        "pt": [
+            "Ela é mais alta que eu.",
+            "Este carro é mais rápido que esse carro.",
+            "Gosto de chá mais que café."
+        ],
+        "ru": {
+            "cyr": [
+                "Она выше, чем я.",
+                "Эта машина быстрее, чем та машина.",
+                "Я люблю чай больше, чем кофе."
+            ],
+            "lat": [
+                "Ona vyshe, chem ya.",
+                "Eta mashina bystree, chem ta mashina.",
+                "Ya lyublyu chay bol’she, chem kofe."
+            ]
+        },
+        "il": {
+            "heb": [
+                "היא יותר גבוהה מאשר אני.",
+                "המכונית הזאת מהירה יותר מאשר המכונית ההיא.",
+                "אני אוהב תה יותר מאשר קפה."
+            ],
+            "lat": [
+                "hi yoter gvoha me'asher ani.",
+                "ha-mekhonit hazot mehira yoter me'asher ha-mekhonit ha-hi.",
+                "ani ohev te yoter me'asher kafe."
+            ]
+        }
+    },
+    "validated": false
+}

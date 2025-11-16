@@ -1,0 +1,49 @@
+{
+    "put": {
+        "en": [
+            "Put the book on the table, please.",
+            "I put the keys in the bag.",
+            "He puts the cup in the sink."
+        ],
+        "fr": [
+            "Mets le livre sur la table, s'il te plaît.",
+            "Je mets les clés dans le sac.",
+            "Il met la tasse dans l'évier."
+        ],
+        "es": [
+            "Pon el libro sobre la mesa, por favor.",
+            "Pongo las llaves en la bolsa.",
+            "Él pone la taza en el fregadero."
+        ],
+        "pt": [
+            "Põe o livro na mesa, por favor.",
+            "Eu ponho as chaves na bolsa.",
+            "Ele põe a xícara na pia."
+        ],
+        "ru": {
+            "cyr": [
+                "Положи книгу на стол, пожалуйста.",
+                "Я кладу ключи в сумку.",
+                "Он кладёт чашку в раковину."
+            ],
+            "lat": [
+                "Polozhi knigu na stol, pozhaluysta.",
+                "Ya kladu klyuchi v sumku.",
+                "On kladyot chashku v rakovinu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בבקשה שים את הספר על השולחן.",
+                "אני שם את המפתחות בתיק.",
+                "הוא שם את הכוס בכיור."
+            ],
+            "lat": [
+                "bevakasha sim et hasefer al hashulchan.",
+                "ani sam et hamaftehot batik.",
+                "hu sam et hakos bakiyor."
+            ]
+        }
+    },
+    "validated": false
+}

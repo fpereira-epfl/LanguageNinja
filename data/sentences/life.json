@@ -1,0 +1,49 @@
+{
+    "life": {
+        "en": [
+            "Life is good.",
+            "I love life.",
+            "Life is short."
+        ],
+        "fr": [
+            "La vie est bonne.",
+            "J'aime la vie.",
+            "La vie est courte."
+        ],
+        "es": [
+            "La vida es buena.",
+            "Amo la vida.",
+            "La vida es corta."
+        ],
+        "pt": [
+            "A vida é boa.",
+            "Eu amo a vida.",
+            "A vida é curta."
+        ],
+        "ru": {
+            "cyr": [
+                "Жизнь хорошая.",
+                "Я люблю жизнь.",
+                "Жизнь короткая."
+            ],
+            "lat": [
+                "Zhizn' khoroshaya.",
+                "Ya lyublyu zhizn'.",
+                "Zhizn' korotkaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "החיים טובים.",
+                "אני אוהב את החיים.",
+                "החיים קצרים."
+            ],
+            "lat": [
+                "ha-chayim tovim.",
+                "ani ohev et ha-chayim.",
+                "ha-chayim ktsarim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "out": {
+        "en": "out",
+        "fr": "dehors",
+        "es": "fuera",
+        "pt": "fora",
+        "ru": {
+            "cyr": "снаружи",
+            "lat": "snaruzhi"
+        },
+        "il": {
+            "heb": "בחוץ",
+            "lat": "bachutz"
+        }
+    },
+    "validated": false
+}

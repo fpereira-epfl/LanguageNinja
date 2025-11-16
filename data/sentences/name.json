@@ -1,0 +1,49 @@
+{
+    "name": {
+        "en": [
+            "My name is Ana.",
+            "What is your name?",
+            "This is my name."
+        ],
+        "fr": [
+            "Mon nom est Ana.",
+            "Quel est ton nom ?",
+            "C'est mon nom."
+        ],
+        "es": [
+            "Mi nombre es Ana.",
+            "¿Cuál es tu nombre?",
+            "Este es mi nombre."
+        ],
+        "pt": [
+            "Meu nome é Ana.",
+            "Qual é o seu nome?",
+            "Este é o meu nome."
+        ],
+        "ru": {
+            "cyr": [
+                "Моё имя Анна.",
+                "Как тебя зовут?",
+                "Это моё имя."
+            ],
+            "lat": [
+                "Moyo imya Anna.",
+                "Kak tebya zovut?",
+                "Eto moyo imya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "שמי אנה.",
+                "איך קוראים לך?",
+                "זה השם שלי."
+            ],
+            "lat": [
+                "shmi Ana.",
+                "eich kor'im lecha?",
+                "ze hashem sheli."
+            ]
+        }
+    },
+    "validated": false
+}

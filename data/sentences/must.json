@@ -1,0 +1,49 @@
+{
+    "must": {
+        "en": [
+            "I must go.",
+            "You must study.",
+            "We must be careful."
+        ],
+        "fr": [
+            "Je dois partir.",
+            "Tu dois étudier.",
+            "Nous devons faire attention."
+        ],
+        "es": [
+            "Debo ir.",
+            "Debes estudiar.",
+            "Debemos tener cuidado."
+        ],
+        "pt": [
+            "Devo ir.",
+            "Você deve estudar.",
+            "Devemos ter cuidado."
+        ],
+        "ru": {
+            "cyr": [
+                "Мне надо идти.",
+                "Тебе надо учиться.",
+                "Нам надо быть осторожными."
+            ],
+            "lat": [
+                "Mne nado idti.",
+                "Tebe nado uchitsya.",
+                "Nam nado byt' ostorozhnymi."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני חייב ללכת.",
+                "אתה חייב ללמוד.",
+                "אנחנו חייבים להיזהר."
+            ],
+            "lat": [
+                "ani chayav lalechet.",
+                "ata chayav lilmod.",
+                "anachnu chayavim lehizaher."
+            ]
+        }
+    },
+    "validated": false
+}

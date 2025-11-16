@@ -1,0 +1,49 @@
+{
+    "result": {
+        "en": [
+            "The result is good.",
+            "We saw the result.",
+            "I wait for the result."
+        ],
+        "fr": [
+            "Le résultat est bon.",
+            "Nous avons vu le résultat.",
+            "J'attends le résultat."
+        ],
+        "es": [
+            "El resultado es bueno.",
+            "Vimos el resultado.",
+            "Espero el resultado."
+        ],
+        "pt": [
+            "O resultado é bom.",
+            "Nós vimos o resultado.",
+            "Eu espero o resultado."
+        ],
+        "ru": {
+            "cyr": [
+                "Результат хороший.",
+                "Мы увидели результат.",
+                "Я жду результат."
+            ],
+            "lat": [
+                "Rezultat khoroshiy.",
+                "My uvideli rezultat.",
+                "Ya zhdu rezultat."
+            ]
+        },
+        "il": {
+            "heb": [
+                "התוצאה טובה.",
+                "ראינו את התוצאה.",
+                "אני מחכה לתוצאה."
+            ],
+            "lat": [
+                "hatotsaa tova.",
+                "rainu et hatotsaa.",
+                "ani mechake letotsaa."
+            ]
+        }
+    },
+    "validated": false
+}

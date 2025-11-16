@@ -1,0 +1,17 @@
+{
+    "something": {
+        "en": "something",
+        "fr": "quelque chose",
+        "es": "algo",
+        "pt": "algo",
+        "ru": {
+            "cyr": "что-то",
+            "lat": "chto-to"
+        },
+        "il": {
+            "heb": "משהו",
+            "lat": "mashehu"
+        }
+    },
+    "validated": false
+}

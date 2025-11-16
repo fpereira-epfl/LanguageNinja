@@ -1,0 +1,17 @@
+{
+    "month": {
+        "en": "month",
+        "fr": "mois",
+        "es": "mes",
+        "pt": "mês",
+        "ru": {
+            "cyr": "месяц",
+            "lat": "mesyats"
+        },
+        "il": {
+            "heb": "חודש",
+            "lat": "chodesh"
+        }
+    },
+    "validated": false
+}

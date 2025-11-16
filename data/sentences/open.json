@@ -1,0 +1,49 @@
+{
+    "open": {
+        "en": [
+            "I open the door.",
+            "Please open the window.",
+            "They open the shop at nine."
+        ],
+        "fr": [
+            "J'ouvre la porte.",
+            "S'il te plaît, ouvre la fenêtre.",
+            "Ils ouvrent le magasin à neuf heures."
+        ],
+        "es": [
+            "Yo abro la puerta.",
+            "Por favor, abre la ventana.",
+            "Ellos abren la tienda a las nueve."
+        ],
+        "pt": [
+            "Eu abro a porta.",
+            "Por favor, abra a janela.",
+            "Eles abrem a loja às nove."
+        ],
+        "ru": {
+            "cyr": [
+                "Я открываю дверь.",
+                "Пожалуйста, открой окно.",
+                "Они открывают магазин в девять."
+            ],
+            "lat": [
+                "Ya otkryvayu dver’.",
+                "Pozhaluysta, otkroy okno.",
+                "Oni otkryvayut magazin v devyat’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני פותח את הדלת.",
+                "בבקשה, פתח את החלון.",
+                "הם פותחים את החנות בתשע."
+            ],
+            "lat": [
+                "ani poteach et ha-delet.",
+                "bevakasha, ptach et ha-chalon.",
+                "hem potchim et ha-chanut be-tesha."
+            ]
+        }
+    },
+    "validated": false
+}

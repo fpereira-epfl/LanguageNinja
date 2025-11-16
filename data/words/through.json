@@ -1,0 +1,17 @@
+{
+    "through": {
+        "en": "through",
+        "fr": "à travers",
+        "es": "a través de",
+        "pt": "através de",
+        "ru": {
+            "cyr": "через",
+            "lat": "cherez"
+        },
+        "il": {
+            "heb": "דרך",
+            "lat": "derekh"
+        }
+    },
+    "validated": false
+}

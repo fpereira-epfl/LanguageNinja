@@ -1,0 +1,17 @@
+{
+    "direct": {
+        "en": "direct",
+        "fr": "direct",
+        "es": "directo",
+        "pt": "direto",
+        "ru": {
+            "cyr": "прямой",
+            "lat": "pryamoy"
+        },
+        "il": {
+            "heb": "ישיר",
+            "lat": "yashir"
+        }
+    },
+    "validated": false
+}

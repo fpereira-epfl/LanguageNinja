@@ -1,0 +1,17 @@
+{
+    "mind": {
+        "en": "mind",
+        "fr": "esprit",
+        "es": "mente",
+        "pt": "mente",
+        "ru": {
+            "cyr": "ум",
+            "lat": "um"
+        },
+        "il": {
+            "heb": "שכל",
+            "lat": "sechel"
+        }
+    },
+    "validated": false
+}

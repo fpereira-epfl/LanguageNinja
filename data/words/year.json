@@ -1,0 +1,17 @@
+{
+    "year": {
+        "en": "year",
+        "fr": "année",
+        "es": "año",
+        "pt": "ano",
+        "ru": {
+            "cyr": "год",
+            "lat": "god"
+        },
+        "il": {
+            "heb": "שנה",
+            "lat": "shana"
+        }
+    },
+    "validated": false
+}

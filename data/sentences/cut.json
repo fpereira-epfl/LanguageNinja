@@ -1,0 +1,49 @@
+{
+    "cut": {
+        "en": [
+            "I cut the bread.",
+            "She cuts the paper.",
+            "We cut the cake."
+        ],
+        "fr": [
+            "Je coupe le pain.",
+            "Elle coupe le papier.",
+            "Nous coupons le gâteau."
+        ],
+        "es": [
+            "Corto el pan.",
+            "Ella corta el papel.",
+            "Cortamos el pastel."
+        ],
+        "pt": [
+            "Eu corto o pão.",
+            "Ela corta o papel.",
+            "Nós cortamos o bolo."
+        ],
+        "ru": {
+            "cyr": [
+                "Я режу хлеб.",
+                "Она режет бумагу.",
+                "Мы режем торт."
+            ],
+            "lat": [
+                "Ya rezhu khleb.",
+                "Ona rezhet bumagu.",
+                "My rezhem tort."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני חותך את הלחם.",
+                "היא חותכת את הנייר.",
+                "אנחנו חותכים את העוגה."
+            ],
+            "lat": [
+                "ani chotech et halechem.",
+                "hi chotechet et haniyar.",
+                "anachnu chotchim et hauga."
+            ]
+        }
+    },
+    "validated": false
+}

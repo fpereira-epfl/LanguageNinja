@@ -1,0 +1,49 @@
+{
+    "go": {
+        "en": [
+            "I go home.",
+            "We go now.",
+            "They go to school."
+        ],
+        "fr": [
+            "Je vais à la maison.",
+            "Nous allons maintenant.",
+            "Ils vont à l'école."
+        ],
+        "es": [
+            "Voy a casa.",
+            "Vamos ahora.",
+            "Ellos van a la escuela."
+        ],
+        "pt": [
+            "Eu vou para casa.",
+            "Nós vamos agora.",
+            "Eles vão para a escola."
+        ],
+        "ru": {
+            "cyr": [
+                "Я иду домой.",
+                "Мы идём сейчас.",
+                "Они идут в школу."
+            ],
+            "lat": [
+                "Ya idu domoy.",
+                "My idyom seychas.",
+                "Oni idut v shkolu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני הולך הביתה.",
+                "אנחנו הולכים עכשיו.",
+                "הם הולכים לבית הספר."
+            ],
+            "lat": [
+                "ani holekh ha-bayta.",
+                "anachnu holkhim akhshav.",
+                "hem holkhim le-beit ha-sefer."
+            ]
+        }
+    },
+    "validated": false
+}

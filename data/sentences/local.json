@@ -1,0 +1,49 @@
+{
+    "local": {
+        "en": [
+            "This is a local shop.",
+            "I like local food.",
+            "Ask a local guide."
+        ],
+        "fr": [
+            "C'est un magasin local.",
+            "J'aime la nourriture locale.",
+            "Demande à un guide local."
+        ],
+        "es": [
+            "Esta es una tienda local.",
+            "Me gusta la comida local.",
+            "Pregunta a un guía local."
+        ],
+        "pt": [
+            "Esta é uma loja local.",
+            "Gosto de comida local.",
+            "Pergunte a um guia local."
+        ],
+        "ru": {
+            "cyr": [
+                "Это местный магазин.",
+                "Мне нравится местная еда.",
+                "Спроси местного гида."
+            ],
+            "lat": [
+                "Eto mestnyy magazin.",
+                "Mne nravitsya mestnaya yeda.",
+                "Sprosi mestnogo gida."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו חנות מקומית.",
+                "אני אוהב אוכל מקומי.",
+                "שאל מדריך מקומי."
+            ],
+            "lat": [
+                "zo chanut mekomit.",
+                "ani ohev okhel mekomi.",
+                "she’al madrikh mekomi."
+            ]
+        }
+    },
+    "validated": false
+}

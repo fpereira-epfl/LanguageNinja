@@ -1,0 +1,17 @@
+{
+    "where": {
+        "en": "where",
+        "fr": "où",
+        "es": "dónde",
+        "pt": "onde",
+        "ru": {
+            "cyr": "где",
+            "lat": "gde"
+        },
+        "il": {
+            "heb": "איפה",
+            "lat": "eifo"
+        }
+    },
+    "validated": false
+}

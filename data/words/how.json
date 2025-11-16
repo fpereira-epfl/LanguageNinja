@@ -1,0 +1,17 @@
+{
+    "how": {
+        "en": "how",
+        "fr": "comment",
+        "es": "cómo",
+        "pt": "como",
+        "ru": {
+            "cyr": "как",
+            "lat": "kak"
+        },
+        "il": {
+            "heb": "איך",
+            "lat": "eich"
+        }
+    },
+    "validated": false
+}

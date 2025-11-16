@@ -1,0 +1,17 @@
+{
+    "court": {
+        "en": "court",
+        "fr": "tribunal",
+        "es": "tribunal",
+        "pt": "tribunal",
+        "ru": {
+            "cyr": "суд",
+            "lat": "sud"
+        },
+        "il": {
+            "heb": "בית משפט",
+            "lat": "beit mishpat"
+        }
+    },
+    "validated": false
+}

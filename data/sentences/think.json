@@ -1,0 +1,49 @@
+{
+    "think": {
+        "en": [
+            "I think about you.",
+            "She thinks it is easy.",
+            "We think the same."
+        ],
+        "fr": [
+            "Je pense à toi.",
+            "Elle pense que c'est facile.",
+            "Nous pensons la même chose."
+        ],
+        "es": [
+            "Pienso en ti.",
+            "Ella piensa que es fácil.",
+            "Pensamos lo mismo."
+        ],
+        "pt": [
+            "Penso em você.",
+            "Ela pensa que é fácil.",
+            "Pensamos o mesmo."
+        ],
+        "ru": {
+            "cyr": [
+                "Я думаю о тебе.",
+                "Она думает, что это легко.",
+                "Мы думаем одно и то же."
+            ],
+            "lat": [
+                "Ya dumayu o tebe.",
+                "Ona dumaet, chto eto legko.",
+                "My dumaem odno i to zhe."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני חושב עליך.",
+                "היא חושבת שזה קל.",
+                "אנחנו חושבים אותו דבר."
+            ],
+            "lat": [
+                "ani khoshev aleikha.",
+                "hi khoshevet sheze kal.",
+                "anachnu khoshvim oto davar."
+            ]
+        }
+    },
+    "validated": false
+}

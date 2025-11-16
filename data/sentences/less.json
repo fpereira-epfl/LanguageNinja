@@ -1,0 +1,49 @@
+{
+    "less": {
+        "en": [
+            "I have less sugar.",
+            "He eats less rice.",
+            "We have less time."
+        ],
+        "fr": [
+            "J'ai moins de sucre.",
+            "Il mange moins de riz.",
+            "Nous avons moins de temps."
+        ],
+        "es": [
+            "Tengo menos azúcar.",
+            "Él come menos arroz.",
+            "Tenemos menos tiempo."
+        ],
+        "pt": [
+            "Tenho menos açúcar.",
+            "Ele come menos arroz.",
+            "Temos menos tempo."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня меньше сахара.",
+                "Он ест меньше риса.",
+                "У нас меньше времени."
+            ],
+            "lat": [
+                "U menya menshe sakhara.",
+                "On yest’ menshe risa.",
+                "U nas menshe vremeni."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי פחות סוכר.",
+                "הוא אוכל פחות אורז.",
+                "יש לנו פחות זמן."
+            ],
+            "lat": [
+                "yesh li pachot sukar.",
+                "hu ochel pachot orez.",
+                "yesh lanu pachot zman."
+            ]
+        }
+    },
+    "validated": false
+}

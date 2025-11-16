@@ -1,0 +1,17 @@
+{
+    "people": {
+        "en": "people",
+        "fr": "gens",
+        "es": "gente",
+        "pt": "pessoas",
+        "ru": {
+            "cyr": "люди",
+            "lat": "lyudi"
+        },
+        "il": {
+            "heb": "אנשים",
+            "lat": "anashim"
+        }
+    },
+    "validated": false
+}

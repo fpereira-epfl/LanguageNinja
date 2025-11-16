@@ -1,0 +1,17 @@
+{
+    "door": {
+        "en": "door",
+        "fr": "porte",
+        "es": "puerta",
+        "pt": "porta",
+        "ru": {
+            "cyr": "дверь",
+            "lat": "dver"
+        },
+        "il": {
+            "heb": "דלת",
+            "lat": "delet"
+        }
+    },
+    "validated": false
+}

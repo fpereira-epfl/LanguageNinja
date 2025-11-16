@@ -1,0 +1,17 @@
+{
+    "history": {
+        "en": "history",
+        "fr": "histoire",
+        "es": "historia",
+        "pt": "história",
+        "ru": {
+            "cyr": "история",
+            "lat": "istoriya"
+        },
+        "il": {
+            "heb": "היסטוריה",
+            "lat": "historia"
+        }
+    },
+    "validated": false
+}

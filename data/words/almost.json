@@ -1,0 +1,17 @@
+{
+    "almost": {
+        "en": "almost",
+        "fr": "presque",
+        "es": "casi",
+        "pt": "quase",
+        "ru": {
+            "cyr": "почти",
+            "lat": "pochti"
+        },
+        "il": {
+            "heb": "כמעט",
+            "lat": "kimat"
+        }
+    },
+    "validated": false
+}

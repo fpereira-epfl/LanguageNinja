@@ -1,0 +1,49 @@
+{
+    "during": {
+        "en": [
+            "During the class, we read.",
+            "During the meeting, we are quiet.",
+            "During lunch, I drink water."
+        ],
+        "fr": [
+            "Pendant le cours, nous lisons.",
+            "Pendant la réunion, nous sommes silencieux.",
+            "Pendant le déjeuner, je bois de l'eau."
+        ],
+        "es": [
+            "Durante la clase, leemos.",
+            "Durante la reunión, estamos en silencio.",
+            "Durante el almuerzo, bebo agua."
+        ],
+        "pt": [
+            "Durante a aula, nós lemos.",
+            "Durante a reunião, nós estamos em silêncio.",
+            "Durante o almoço, eu bebo água."
+        ],
+        "ru": {
+            "cyr": [
+                "Во время урока мы читаем.",
+                "Во время встречи мы молчим.",
+                "Во время обеда я пью воду."
+            ],
+            "lat": [
+                "Vo vremya uroka my chitaem.",
+                "Vo vremya vstrechi my molchim.",
+                "Vo vremya obeda ya pyu vodu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בזמן השיעור אנחנו קוראים.",
+                "בזמן הפגישה אנחנו שקטים.",
+                "בזמן ארוחת הצהריים אני שותה מים."
+            ],
+            "lat": [
+                "bizman hashiur anachnu korim.",
+                "bizman hapgisha anachnu shketim.",
+                "bizman aruchat hatzohorayim ani shoteh mayim."
+            ]
+        }
+    },
+    "validated": false
+}

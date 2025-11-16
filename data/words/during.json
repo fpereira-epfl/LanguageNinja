@@ -1,0 +1,17 @@
+{
+    "during": {
+        "en": "during",
+        "fr": "pendant",
+        "es": "durante",
+        "pt": "durante",
+        "ru": {
+            "cyr": "во время",
+            "lat": "vo vremya"
+        },
+        "il": {
+            "heb": "בזמן",
+            "lat": "bizman"
+        }
+    },
+    "validated": false
+}

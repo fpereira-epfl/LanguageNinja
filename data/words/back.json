@@ -1,0 +1,17 @@
+{
+    "back": {
+        "en": "back",
+        "fr": "dos",
+        "es": "espalda",
+        "pt": "costas",
+        "ru": {
+            "cyr": "спина",
+            "lat": "spina"
+        },
+        "il": {
+            "heb": "גב",
+            "lat": "gav"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "water": {
+        "en": [
+            "I drink water.",
+            "The water is cold.",
+            "Please give me water."
+        ],
+        "fr": [
+            "Je bois de l'eau.",
+            "L'eau est froide.",
+            "S'il te plaît, donne-moi de l'eau."
+        ],
+        "es": [
+            "Bebo agua.",
+            "El agua está fría.",
+            "Por favor, dame agua."
+        ],
+        "pt": [
+            "Eu bebo água.",
+            "A água está fria.",
+            "Por favor, me dê água."
+        ],
+        "ru": {
+            "cyr": [
+                "Я пью воду.",
+                "Вода холодная.",
+                "Пожалуйста, дай мне воды."
+            ],
+            "lat": [
+                "Ya pyu vodu.",
+                "Voda kholodnaya.",
+                "Pozhaluysta, dai mne vody."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני שותה מים.",
+                "המים קרים.",
+                "בבקשה תן לי מים."
+            ],
+            "lat": [
+                "ani shote mayim.",
+                "ha-mayim karim.",
+                "bevakasha ten li mayim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "always": {
+        "en": "always",
+        "fr": "toujours",
+        "es": "siempre",
+        "pt": "sempre",
+        "ru": {
+            "cyr": "всегда",
+            "lat": "vsegda"
+        },
+        "il": {
+            "heb": "תמיד",
+            "lat": "tamid"
+        }
+    },
+    "validated": false
+}

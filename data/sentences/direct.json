@@ -1,0 +1,49 @@
+{
+    "direct": {
+        "en": [
+            "This is a direct route.",
+            "We need a direct answer.",
+            "Please be direct."
+        ],
+        "fr": [
+            "C'est un trajet direct.",
+            "Nous avons besoin d'une réponse directe.",
+            "S'il te plaît, sois direct."
+        ],
+        "es": [
+            "Esta es una ruta directa.",
+            "Necesitamos una respuesta directa.",
+            "Por favor, sé directo."
+        ],
+        "pt": [
+            "Esta é uma rota direta.",
+            "Precisamos de uma resposta direta.",
+            "Por favor, seja direto."
+        ],
+        "ru": {
+            "cyr": [
+                "Это прямой маршрут.",
+                "Нам нужен прямой ответ.",
+                "Пожалуйста, будь прямым."
+            ],
+            "lat": [
+                "Eto pryamoy marshrut.",
+                "Nam nuzhen pryamoy otvet.",
+                "Pozhaluysta, bud’ pryamym."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה מסלול ישיר.",
+                "אנחנו צריכים תשובה ישירה.",
+                "בבקשה תהיה ישיר."
+            ],
+            "lat": [
+                "ze maslul yashir.",
+                "anachnu tsrichim tshuva yeshira.",
+                "bevakasha tiheye yashir."
+            ]
+        }
+    },
+    "validated": false
+}

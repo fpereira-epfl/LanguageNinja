@@ -1,0 +1,17 @@
+{
+    "close": {
+        "en": "close",
+        "fr": "fermer",
+        "es": "cerrar",
+        "pt": "fechar",
+        "ru": {
+            "cyr": "закрыть",
+            "lat": "zakryt'"
+        },
+        "il": {
+            "heb": "לסגור",
+            "lat": "lisgor"
+        }
+    },
+    "validated": false
+}

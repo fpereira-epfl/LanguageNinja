@@ -1,0 +1,17 @@
+{
+    "note": {
+        "en": "note",
+        "fr": "note",
+        "es": "nota",
+        "pt": "nota",
+        "ru": {
+            "cyr": "заметка",
+            "lat": "zametka"
+        },
+        "il": {
+            "heb": "פתק",
+            "lat": "petek"
+        }
+    },
+    "validated": false
+}

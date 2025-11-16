@@ -1,0 +1,17 @@
+{
+    "different": {
+        "en": "different",
+        "fr": "différent",
+        "es": "diferente",
+        "pt": "diferente",
+        "ru": {
+            "cyr": "другой",
+            "lat": "drugoy"
+        },
+        "il": {
+            "heb": "שונה",
+            "lat": "shoneh"
+        }
+    },
+    "validated": false
+}

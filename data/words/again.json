@@ -1,0 +1,17 @@
+{
+    "again": {
+        "en": "again",
+        "fr": "encore",
+        "es": "otra vez",
+        "pt": "de novo",
+        "ru": {
+            "cyr": "снова",
+            "lat": "snova"
+        },
+        "il": {
+            "heb": "שוב",
+            "lat": "shuv"
+        }
+    },
+    "validated": false
+}

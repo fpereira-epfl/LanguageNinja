@@ -1,0 +1,17 @@
+{
+    "country": {
+        "en": "country",
+        "fr": "pays",
+        "es": "país",
+        "pt": "país",
+        "ru": {
+            "cyr": "страна",
+            "lat": "strana"
+        },
+        "il": {
+            "heb": "מדינה",
+            "lat": "medina"
+        }
+    },
+    "validated": false
+}

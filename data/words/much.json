@@ -1,0 +1,17 @@
+{
+    "much": {
+        "en": "much",
+        "fr": "beaucoup",
+        "es": "mucho",
+        "pt": "muito",
+        "ru": {
+            "cyr": "много",
+            "lat": "mnogo"
+        },
+        "il": {
+            "heb": "הרבה",
+            "lat": "harbe"
+        }
+    },
+    "validated": false
+}

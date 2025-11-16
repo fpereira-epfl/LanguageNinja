@@ -1,0 +1,17 @@
+{
+    "tax": {
+        "en": "tax",
+        "fr": "impôt",
+        "es": "impuesto",
+        "pt": "imposto",
+        "ru": {
+            "cyr": "налог",
+            "lat": "nalog"
+        },
+        "il": {
+            "heb": "מס",
+            "lat": "mas"
+        }
+    },
+    "validated": false
+}

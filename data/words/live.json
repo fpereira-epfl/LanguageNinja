@@ -1,0 +1,17 @@
+{
+    "live": {
+        "en": "live",
+        "fr": "vivre",
+        "es": "vivir",
+        "pt": "viver",
+        "ru": {
+            "cyr": "жить",
+            "lat": "zhit"
+        },
+        "il": {
+            "heb": "לחיות",
+            "lat": "lichyot"
+        }
+    },
+    "validated": false
+}

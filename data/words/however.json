@@ -1,0 +1,17 @@
+{
+    "however": {
+        "en": "however",
+        "fr": "cependant",
+        "es": "sin embargo",
+        "pt": "porém",
+        "ru": {
+            "cyr": "однако",
+            "lat": "odnako"
+        },
+        "il": {
+            "heb": "עם זאת",
+            "lat": "im zot"
+        }
+    },
+    "validated": false
+}

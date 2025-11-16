@@ -1,0 +1,49 @@
+{
+    "perhaps": {
+        "en": [
+            "Perhaps later.",
+            "Perhaps she is busy.",
+            "Perhaps we can go."
+        ],
+        "fr": [
+            "Peut-être plus tard.",
+            "Peut-être qu'elle est occupée.",
+            "Peut-être que nous pouvons y aller."
+        ],
+        "es": [
+            "Quizás más tarde.",
+            "Quizás ella está ocupada.",
+            "Quizás podemos ir."
+        ],
+        "pt": [
+            "Talvez mais tarde.",
+            "Talvez ela esteja ocupada.",
+            "Talvez possamos ir."
+        ],
+        "ru": {
+            "cyr": [
+                "Возможно, позже.",
+                "Возможно, она занята.",
+                "Возможно, мы можем пойти."
+            ],
+            "lat": [
+                "Vozmozhno, pozhe.",
+                "Vozmozhno, ona zanyata.",
+                "Vozmozhno, my mozhem poyti."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אולי אחר כך.",
+                "אולי היא עסוקה.",
+                "אולי אנחנו יכולים ללכת."
+            ],
+            "lat": [
+                "ulai achar kach.",
+                "ulai hi asuka.",
+                "ulai anachnu yecholim lalechet."
+            ]
+        }
+    },
+    "validated": false
+}

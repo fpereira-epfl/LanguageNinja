@@ -1,0 +1,49 @@
+{
+    "particular": {
+        "en": [
+            "This is a particular case.",
+            "I want a particular book.",
+            "He has no particular reason."
+        ],
+        "fr": [
+            "C'est un cas particulier.",
+            "Je veux un livre particulier.",
+            "Il n'a aucune raison particulière."
+        ],
+        "es": [
+            "Este es un caso particular.",
+            "Quiero un libro en particular.",
+            "Él no tiene ninguna razón en particular."
+        ],
+        "pt": [
+            "Este é um caso particular.",
+            "Quero um livro em particular.",
+            "Ele não tem nenhuma razão em particular."
+        ],
+        "ru": {
+            "cyr": [
+                "Это особый случай.",
+                "Я хочу конкретную книгу.",
+                "У него нет особой причины."
+            ],
+            "lat": [
+                "Eto osobyy sluchay.",
+                "Ya khochu konkretnuyu knigu.",
+                "U nego net osoboy prichiny."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה מקרה מסוים.",
+                "אני רוצה ספר מסוים.",
+                "אין לו סיבה מסוימת."
+            ],
+            "lat": [
+                "ze mikre mesuyam.",
+                "ani rotze sefer mesuyam.",
+                "ein lo siba mesuyemet."
+            ]
+        }
+    },
+    "validated": false
+}

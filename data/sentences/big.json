@@ -1,0 +1,49 @@
+{
+    "big": {
+        "en": [
+            "The house is big.",
+            "The dog is big.",
+            "My car is big."
+        ],
+        "fr": [
+            "La maison est grande.",
+            "Le chien est grand.",
+            "Ma voiture est grande."
+        ],
+        "es": [
+            "La casa es grande.",
+            "El perro es grande.",
+            "Mi coche es grande."
+        ],
+        "pt": [
+            "A casa é grande.",
+            "O cachorro é grande.",
+            "Meu carro é grande."
+        ],
+        "ru": {
+            "cyr": [
+                "Дом большой.",
+                "Собака большая.",
+                "Моя машина большая."
+            ],
+            "lat": [
+                "Dom bolshoy.",
+                "Sobaka bolshaya.",
+                "Moya mashina bolshaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הבית גדול.",
+                "הכלב גדול.",
+                "המכונית שלי גדולה."
+            ],
+            "lat": [
+                "habayit gadol.",
+                "hakelev gadol.",
+                "hamechonit sheli gdola."
+            ]
+        }
+    },
+    "validated": false
+}

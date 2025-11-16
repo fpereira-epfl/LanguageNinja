@@ -1,0 +1,49 @@
+{
+    "interest": {
+        "en": [
+            "My interest is music.",
+            "He shows interest.",
+            "I have an interest in art."
+        ],
+        "fr": [
+            "Mon intérêt est la musique.",
+            "Il montre de l'intérêt.",
+            "J'ai un intérêt pour l'art."
+        ],
+        "es": [
+            "Mi interés es la música.",
+            "Él muestra interés.",
+            "Tengo interés en el arte."
+        ],
+        "pt": [
+            "Meu interesse é a música.",
+            "Ele mostra interesse.",
+            "Tenho interesse em arte."
+        ],
+        "ru": {
+            "cyr": [
+                "Мой интерес — музыка.",
+                "Он проявляет интерес.",
+                "У меня есть интерес к искусству."
+            ],
+            "lat": [
+                "Moy interes — muzyka.",
+                "On proyavlyaet interes.",
+                "U menya yest’ interes k iskusstvu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "העניין שלי הוא מוזיקה.",
+                "הוא מראה עניין.",
+                "יש לי עניין באמנות."
+            ],
+            "lat": [
+                "ha'inyan sheli hu muzika.",
+                "hu mar'eh inyan.",
+                "yesh li inyan ba'omanut."
+            ]
+        }
+    },
+    "validated": false
+}

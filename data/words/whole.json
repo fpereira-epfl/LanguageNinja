@@ -1,0 +1,17 @@
+{
+    "whole": {
+        "en": "whole",
+        "fr": "entier",
+        "es": "entero",
+        "pt": "inteiro",
+        "ru": {
+            "cyr": "целый",
+            "lat": "tselyy"
+        },
+        "il": {
+            "heb": "שלם",
+            "lat": "shalem"
+        }
+    },
+    "validated": false
+}

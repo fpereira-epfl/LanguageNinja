@@ -1,0 +1,17 @@
+{
+    "board": {
+        "en": "board",
+        "fr": "planche",
+        "es": "tabla",
+        "pt": "tábua",
+        "ru": {
+            "cyr": "доска",
+            "lat": "doska"
+        },
+        "il": {
+            "heb": "קרש",
+            "lat": "keresh"
+        }
+    },
+    "validated": false
+}

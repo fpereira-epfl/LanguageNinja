@@ -1,0 +1,17 @@
+{
+    "want": {
+        "en": "want",
+        "fr": "vouloir",
+        "es": "querer",
+        "pt": "querer",
+        "ru": {
+            "cyr": "хотеть",
+            "lat": "khotet"
+        },
+        "il": {
+            "heb": "לרצות",
+            "lat": "lirtzot"
+        }
+    },
+    "validated": false
+}

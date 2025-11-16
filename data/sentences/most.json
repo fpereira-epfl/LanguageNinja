@@ -1,0 +1,49 @@
+{
+    "most": {
+        "en": [
+            "Most people are kind.",
+            "Most days are sunny.",
+            "Most children like milk."
+        ],
+        "fr": [
+            "La plupart des gens sont gentils.",
+            "La plupart des jours sont ensoleillés.",
+            "La plupart des enfants aiment le lait."
+        ],
+        "es": [
+            "La mayoría de la gente es amable.",
+            "La mayoría de los días son soleados.",
+            "A la mayoría de los niños les gusta la leche."
+        ],
+        "pt": [
+            "A maioria das pessoas é gentil.",
+            "A maioria dos dias é ensolarada.",
+            "A maioria das crianças gosta de leite."
+        ],
+        "ru": {
+            "cyr": [
+                "Большинство людей добрые.",
+                "Большинство дней солнечные.",
+                "Большинство детей любят молоко."
+            ],
+            "lat": [
+                "Bolshinstvo lyudey dobrye.",
+                "Bolshinstvo dney solnechnye.",
+                "Bolshinstvo detey lyubyat moloko."
+            ]
+        },
+        "il": {
+            "heb": [
+                "רוב האנשים נחמדים.",
+                "רוב הימים שמשיים.",
+                "רוב הילדים אוהבים חלב."
+            ],
+            "lat": [
+                "rov ha-anashim nekhmadim.",
+                "rov ha-yamim shemshi'im.",
+                "rov ha-yeladim ohavim khalav."
+            ]
+        }
+    },
+    "validated": false
+}

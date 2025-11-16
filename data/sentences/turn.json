@@ -1,0 +1,49 @@
+{
+    "turn": {
+        "en": [
+            "Turn left.",
+            "Turn right at the corner.",
+            "Turn here."
+        ],
+        "fr": [
+            "Tourne à gauche.",
+            "Tourne à droite au coin.",
+            "Tourne ici."
+        ],
+        "es": [
+            "Gira a la izquierda.",
+            "Gira a la derecha en la esquina.",
+            "Gira aquí."
+        ],
+        "pt": [
+            "Vire à esquerda.",
+            "Vire à direita na esquina.",
+            "Vire aqui."
+        ],
+        "ru": {
+            "cyr": [
+                "Поверни налево.",
+                "Поверни направо на углу.",
+                "Поверни здесь."
+            ],
+            "lat": [
+                "Poverni nalevo.",
+                "Poverni napravo na uglu.",
+                "Poverni zdes'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "פנה שמאלה.",
+                "פנה ימינה בפינה.",
+                "פנה כאן."
+            ],
+            "lat": [
+                "pneh smola.",
+                "pneh yamina ba-pina.",
+                "pneh kan."
+            ]
+        }
+    },
+    "validated": false
+}

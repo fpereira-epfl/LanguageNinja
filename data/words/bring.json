@@ -1,0 +1,17 @@
+{
+    "bring": {
+        "en": "bring",
+        "fr": "apporter",
+        "es": "traer",
+        "pt": "trazer",
+        "ru": {
+            "cyr": "принести",
+            "lat": "prinesti"
+        },
+        "il": {
+            "heb": "להביא",
+            "lat": "lehavi"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "friend": {
+        "en": [
+            "I have a friend.",
+            "My friend is here.",
+            "He is my friend."
+        ],
+        "fr": [
+            "J'ai un ami.",
+            "Mon ami est ici.",
+            "Il est mon ami."
+        ],
+        "es": [
+            "Tengo un amigo.",
+            "Mi amigo está aquí.",
+            "Él es mi amigo."
+        ],
+        "pt": [
+            "Tenho um amigo.",
+            "Meu amigo está aqui.",
+            "Ele é meu amigo."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня есть друг.",
+                "Мой друг здесь.",
+                "Он мой друг."
+            ],
+            "lat": [
+                "U menya yest’ drug.",
+                "Moy drug zdes’.",
+                "On moy drug."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי חבר.",
+                "החבר שלי כאן.",
+                "הוא חבר שלי."
+            ],
+            "lat": [
+                "yesh li chaver.",
+                "hachaver sheli kan.",
+                "hu chaver sheli."
+            ]
+        }
+    },
+    "validated": false
+}

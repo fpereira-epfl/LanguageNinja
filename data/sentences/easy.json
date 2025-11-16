@@ -1,0 +1,49 @@
+{
+    "easy": {
+        "en": [
+            "This test is easy.",
+            "The game is easy.",
+            "This question is easy."
+        ],
+        "fr": [
+            "Ce test est facile.",
+            "Le jeu est facile.",
+            "Cette question est facile."
+        ],
+        "es": [
+            "Este examen es fácil.",
+            "El juego es fácil.",
+            "Esta pregunta es fácil."
+        ],
+        "pt": [
+            "Este teste é fácil.",
+            "O jogo é fácil.",
+            "Esta pergunta é fácil."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот тест простой.",
+                "Эта игра простая.",
+                "Этот вопрос простой."
+            ],
+            "lat": [
+                "Etot test prostoy.",
+                "Eta igra prostaya.",
+                "Etot vopros prostoy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המבחן הזה קל.",
+                "המשחק קל.",
+                "השאלה הזאת קלה."
+            ],
+            "lat": [
+                "hamivchan hazeh kal.",
+                "hamis'hak kal.",
+                "ha-she'ela hazot kala."
+            ]
+        }
+    },
+    "validated": false
+}

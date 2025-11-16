@@ -1,0 +1,49 @@
+{
+    "train": {
+        "en": [
+            "The train is late.",
+            "We take the train to work.",
+            "The train leaves at six."
+        ],
+        "fr": [
+            "Le train est en retard.",
+            "Nous prenons le train pour aller au travail.",
+            "Le train part à six heures."
+        ],
+        "es": [
+            "El tren está retrasado.",
+            "Tomamos el tren para ir al trabajo.",
+            "El tren sale a las seis."
+        ],
+        "pt": [
+            "O trem está atrasado.",
+            "Pegamos o trem para ir ao trabalho.",
+            "O trem sai às seis."
+        ],
+        "ru": {
+            "cyr": [
+                "Поезд опаздывает.",
+                "Мы едем на поезде на работу.",
+                "Поезд отправляется в шесть."
+            ],
+            "lat": [
+                "Poezd opazdyvaet.",
+                "My yedem na poezde na rabotu.",
+                "Poezd otpravlyaetsya v shest’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הרכבת מאחרת.",
+                "אנחנו נוסעים ברכבת לעבודה.",
+                "הרכבת יוצאת בשש."
+            ],
+            "lat": [
+                "ha-rakevet me'acheret.",
+                "anachnu nos'im ba-rakevet la'avoda.",
+                "ha-rakevet yotzet be-shesh."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "might": {
+        "en": [
+            "It might rain.",
+            "She might come.",
+            "He might be sick."
+        ],
+        "fr": [
+            "Peut-être qu'il va pleuvoir.",
+            "Peut-être qu'elle va venir.",
+            "Peut-être qu'il est malade."
+        ],
+        "es": [
+            "Quizás llueva.",
+            "Quizás ella venga.",
+            "Quizás él esté enfermo."
+        ],
+        "pt": [
+            "Talvez chova.",
+            "Talvez ela venha.",
+            "Talvez ele esteja doente."
+        ],
+        "ru": {
+            "cyr": [
+                "Возможно, будет дождь.",
+                "Возможно, она придёт.",
+                "Возможно, он болен."
+            ],
+            "lat": [
+                "Vozmozhno, budet dozhd'.",
+                "Vozmozhno, ona pridyot.",
+                "Vozmozhno, on bolen."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אולי ירד גשם.",
+                "אולי היא תבוא.",
+                "אולי הוא חולה."
+            ],
+            "lat": [
+                "ulai yered geshem.",
+                "ulai hi tavo.",
+                "ulai hu chole."
+            ]
+        }
+    },
+    "validated": false
+}

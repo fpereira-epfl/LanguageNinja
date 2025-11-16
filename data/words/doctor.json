@@ -1,0 +1,17 @@
+{
+    "doctor": {
+        "en": "doctor",
+        "fr": "médecin",
+        "es": "médico",
+        "pt": "médico",
+        "ru": {
+            "cyr": "врач",
+            "lat": "vrach"
+        },
+        "il": {
+            "heb": "רופא",
+            "lat": "rofe"
+        }
+    },
+    "validated": false
+}

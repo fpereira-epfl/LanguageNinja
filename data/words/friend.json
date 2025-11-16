@@ -1,0 +1,17 @@
+{
+    "friend": {
+        "en": "friend",
+        "fr": "ami",
+        "es": "amigo",
+        "pt": "amigo",
+        "ru": {
+            "cyr": "друг",
+            "lat": "drug"
+        },
+        "il": {
+            "heb": "חבר",
+            "lat": "chaver"
+        }
+    },
+    "validated": false
+}

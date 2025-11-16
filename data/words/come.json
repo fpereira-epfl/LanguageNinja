@@ -1,0 +1,17 @@
+{
+    "come": {
+        "en": "come",
+        "fr": "venir",
+        "es": "venir",
+        "pt": "vir",
+        "ru": {
+            "cyr": "приходить",
+            "lat": "prikhodit'"
+        },
+        "il": {
+            "heb": "לבוא",
+            "lat": "lavo"
+        }
+    },
+    "validated": false
+}

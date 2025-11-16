@@ -1,0 +1,17 @@
+{
+    "could": {
+        "en": "could",
+        "fr": "pourrait",
+        "es": "podría",
+        "pt": "poderia",
+        "ru": {
+            "cyr": "мог бы",
+            "lat": "mog by"
+        },
+        "il": {
+            "heb": "יכול היה",
+            "lat": "yakhol haya"
+        }
+    },
+    "validated": false
+}

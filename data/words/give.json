@@ -1,0 +1,17 @@
+{
+    "give": {
+        "en": "give",
+        "fr": "donner",
+        "es": "dar",
+        "pt": "dar",
+        "ru": {
+            "cyr": "давать",
+            "lat": "davat"
+        },
+        "il": {
+            "heb": "לתת",
+            "lat": "latet"
+        }
+    },
+    "validated": false
+}

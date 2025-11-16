@@ -1,0 +1,17 @@
+{
+    "recent": {
+        "en": "recent",
+        "fr": "récent",
+        "es": "reciente",
+        "pt": "recente",
+        "ru": {
+            "cyr": "недавний",
+            "lat": "nedavniy"
+        },
+        "il": {
+            "heb": "עדכני",
+            "lat": "adkani"
+        }
+    },
+    "validated": false
+}

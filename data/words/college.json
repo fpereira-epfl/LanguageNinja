@@ -1,0 +1,17 @@
+{
+    "college": {
+        "en": "college",
+        "fr": "collège",
+        "es": "colegio",
+        "pt": "colégio",
+        "ru": {
+            "cyr": "колледж",
+            "lat": "kolledzh"
+        },
+        "il": {
+            "heb": "מכללה",
+            "lat": "mikhlala"
+        }
+    },
+    "validated": false
+}

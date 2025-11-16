@@ -1,0 +1,17 @@
+{
+    "fire": {
+        "en": "fire",
+        "fr": "feu",
+        "es": "fuego",
+        "pt": "fogo",
+        "ru": {
+            "cyr": "огонь",
+            "lat": "ogon"
+        },
+        "il": {
+            "heb": "אש",
+            "lat": "esh"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "number": {
+        "en": "number",
+        "fr": "nombre",
+        "es": "número",
+        "pt": "נúmero",
+        "ru": {
+            "cyr": "число",
+            "lat": "chislo"
+        },
+        "il": {
+            "heb": "מספר",
+            "lat": "mispar"
+        }
+    },
+    "validated": false
+}

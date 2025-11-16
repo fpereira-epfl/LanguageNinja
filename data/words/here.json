@@ -1,0 +1,17 @@
+{
+    "here": {
+        "en": "here",
+        "fr": "ici",
+        "es": "aquí",
+        "pt": "aqui",
+        "ru": {
+            "cyr": "здесь",
+            "lat": "zdes"
+        },
+        "il": {
+            "heb": "כאן",
+            "lat": "kan"
+        }
+    },
+    "validated": false
+}

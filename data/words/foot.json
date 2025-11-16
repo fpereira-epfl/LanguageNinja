@@ -1,0 +1,17 @@
+{
+    "foot": {
+        "en": "foot",
+        "fr": "pied",
+        "es": "pie",
+        "pt": "pé",
+        "ru": {
+            "cyr": "стопа",
+            "lat": "stopa"
+        },
+        "il": {
+            "heb": "כף רגל",
+            "lat": "kaf regel"
+        }
+    },
+    "validated": false
+}

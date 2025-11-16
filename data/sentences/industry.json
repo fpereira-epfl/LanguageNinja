@@ -1,0 +1,49 @@
+{
+    "industry": {
+        "en": [
+            "Industry creates jobs.",
+            "She works in the industry.",
+            "The industry is big."
+        ],
+        "fr": [
+            "L'industrie crée des emplois.",
+            "Elle travaille dans l'industrie.",
+            "L'industrie est grande."
+        ],
+        "es": [
+            "La industria crea empleos.",
+            "Ella trabaja en la industria.",
+            "La industria es grande."
+        ],
+        "pt": [
+            "A indústria cria empregos.",
+            "Ela trabalha na indústria.",
+            "A indústria é grande."
+        ],
+        "ru": {
+            "cyr": [
+                "Индустрия создаёт рабочие места.",
+                "Она работает в индустрии.",
+                "Индустрия большая."
+            ],
+            "lat": [
+                "Industriya sozdayot rabochie mesta.",
+                "Ona rabotaet v industrii.",
+                "Industriya bol'shaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "התעשייה יוצרת מקומות עבודה.",
+                "היא עובדת בתעשייה.",
+                "התעשייה גדולה."
+            ],
+            "lat": [
+                "ha-ta'asiya yotzeret mekomot avoda.",
+                "hi ovedet ba-ta'asiya.",
+                "ha-ta'asiya gdola."
+            ]
+        }
+    },
+    "validated": false
+}

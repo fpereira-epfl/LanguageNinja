@@ -1,0 +1,17 @@
+{
+    "word": {
+        "en": "word",
+        "fr": "mot",
+        "es": "palabra",
+        "pt": "palavra",
+        "ru": {
+            "cyr": "слово",
+            "lat": "slovo"
+        },
+        "il": {
+            "heb": "מילה",
+            "lat": "mila"
+        }
+    },
+    "validated": false
+}

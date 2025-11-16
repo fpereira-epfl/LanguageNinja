@@ -1,0 +1,17 @@
+{
+    "than": {
+        "en": "than",
+        "fr": "que",
+        "es": "que",
+        "pt": "que",
+        "ru": {
+            "cyr": "чем",
+            "lat": "chem"
+        },
+        "il": {
+            "heb": "מאשר",
+            "lat": "me'asher"
+        }
+    },
+    "validated": false
+}

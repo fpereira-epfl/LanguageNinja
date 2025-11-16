@@ -1,0 +1,49 @@
+{
+    "since": {
+        "en": [
+            "I have worked here since then.",
+            "She has been happy since then.",
+            "We have not met since then."
+        ],
+        "fr": [
+            "Je travaille ici depuis lors.",
+            "Elle est heureuse depuis lors.",
+            "Nous ne nous sommes pas rencontrés depuis lors."
+        ],
+        "es": [
+            "Trabajo aquí desde entonces.",
+            "Ella es feliz desde entonces.",
+            "No nos hemos visto desde entonces."
+        ],
+        "pt": [
+            "Trabalho aqui desde então.",
+            "Ela é feliz desde então.",
+            "Não nos vemos desde então."
+        ],
+        "ru": {
+            "cyr": [
+                "С тех пор я работаю здесь.",
+                "С тех пор она счастлива.",
+                "С тех пор мы не встречались."
+            ],
+            "lat": [
+                "S tekh por ya rabotayu zdes’.",
+                "S tekh por ona schastliva.",
+                "S tekh por my ne vstrechalis’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "מאז אני עובד כאן.",
+                "מאז היא שמחה.",
+                "מאז לא נפגשנו."
+            ],
+            "lat": [
+                "meaz ani oved kan.",
+                "meaz hi smecha.",
+                "meaz lo nifgashnu."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "mountain": {
+        "en": [
+            "The mountain is high.",
+            "We climb the mountain.",
+            "The mountain is big."
+        ],
+        "fr": [
+            "La montagne est haute.",
+            "Nous grimpons la montagne.",
+            "La montagne est grande."
+        ],
+        "es": [
+            "La montaña es alta.",
+            "Subimos la montaña.",
+            "La montaña es grande."
+        ],
+        "pt": [
+            "A montanha é alta.",
+            "Nós subimos a montanha.",
+            "A montanha é grande."
+        ],
+        "ru": {
+            "cyr": [
+                "Гора высокая.",
+                "Мы поднимаемся на гору.",
+                "Гора большая."
+            ],
+            "lat": [
+                "Gora vysokaya.",
+                "My podnimaemsya na goru.",
+                "Gora bolshaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "ההר גבוה.",
+                "אנחנו מטפסים על ההר.",
+                "ההר גדול."
+            ],
+            "lat": [
+                "ha-har gavoah.",
+                "anachnu metapsim al ha-har.",
+                "ha-har gadol."
+            ]
+        }
+    },
+    "validated": false
+}

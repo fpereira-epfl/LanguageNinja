@@ -1,0 +1,49 @@
+{
+    "young": {
+        "en": [
+            "The boy is young.",
+            "My sister is young.",
+            "This tree is young."
+        ],
+        "fr": [
+            "Le garçon est jeune.",
+            "Ma sœur est jeune.",
+            "Cet arbre est jeune."
+        ],
+        "es": [
+            "El niño es joven.",
+            "Mi hermana es joven.",
+            "Este árbol es joven."
+        ],
+        "pt": [
+            "O menino é jovem.",
+            "Minha irmã é jovem.",
+            "Esta árvore é jovem."
+        ],
+        "ru": {
+            "cyr": [
+                "Мальчик молодой.",
+                "Моя сестра молодая.",
+                "Это дерево молодое."
+            ],
+            "lat": [
+                "Mal’chik molodoy.",
+                "Moya sestra molodaya.",
+                "Eto derevo molodoye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הילד צעיר.",
+                "אחותי צעירה.",
+                "העץ צעיר."
+            ],
+            "lat": [
+                "hayeled tsair.",
+                "achoti tseira.",
+                "ha’etz tsair."
+            ]
+        }
+    },
+    "validated": false
+}

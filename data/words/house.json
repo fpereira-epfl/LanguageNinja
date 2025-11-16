@@ -1,0 +1,17 @@
+{
+    "house": {
+        "en": "house",
+        "fr": "maison",
+        "es": "casa",
+        "pt": "casa",
+        "ru": {
+            "cyr": "дом",
+            "lat": "dom"
+        },
+        "il": {
+            "heb": "בית",
+            "lat": "bayit"
+        }
+    },
+    "validated": false
+}

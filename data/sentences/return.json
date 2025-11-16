@@ -1,0 +1,49 @@
+{
+    "return": {
+        "en": [
+            "I return home.",
+            "She returns tomorrow.",
+            "We return the book."
+        ],
+        "fr": [
+            "Je rentre à la maison.",
+            "Elle revient demain.",
+            "Nous rendons le livre."
+        ],
+        "es": [
+            "Regreso a casa.",
+            "Ella regresa mañana.",
+            "Devolvemos el libro."
+        ],
+        "pt": [
+            "Eu volto para casa.",
+            "Ela volta amanhã.",
+            "Devolvemos o livro."
+        ],
+        "ru": {
+            "cyr": [
+                "Я возвращаюсь домой.",
+                "Она вернётся завтра.",
+                "Мы возвращаем книгу."
+            ],
+            "lat": [
+                "Ya vozvrashchayus’ domoy.",
+                "Ona vernetsya zavtra.",
+                "My vozvrashchayem knigu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני חוזר הביתה.",
+                "היא חוזרת מחר.",
+                "אנחנו מחזירים את הספר."
+            ],
+            "lat": [
+                "ani chozer ha-bayta.",
+                "hi chozeret machar.",
+                "anachnu machzirim et ha-sefer."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "while": {
+        "en": "while",
+        "fr": "pendant que",
+        "es": "mientras",
+        "pt": "enquanto",
+        "ru": {
+            "cyr": "пока",
+            "lat": "poka"
+        },
+        "il": {
+            "heb": "בזמן ש",
+            "lat": "bizman she"
+        }
+    },
+    "validated": false
+}

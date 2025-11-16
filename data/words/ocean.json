@@ -1,0 +1,17 @@
+{
+    "ocean": {
+        "en": "ocean",
+        "fr": "océan",
+        "es": "océano",
+        "pt": "oceano",
+        "ru": {
+            "cyr": "океан",
+            "lat": "okean"
+        },
+        "il": {
+            "heb": "אוקיינוס",
+            "lat": "okyanus"
+        }
+    },
+    "validated": false
+}

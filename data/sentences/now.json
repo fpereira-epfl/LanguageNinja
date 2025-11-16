@@ -1,0 +1,49 @@
+{
+    "now": {
+        "en": [
+            "I am eating now.",
+            "We are busy now.",
+            "Call me now."
+        ],
+        "fr": [
+            "Je mange maintenant.",
+            "Nous sommes occupés maintenant.",
+            "Appelle-moi maintenant."
+        ],
+        "es": [
+            "Estoy comiendo ahora.",
+            "Ahora estamos ocupados.",
+            "Llámame ahora."
+        ],
+        "pt": [
+            "Estou comendo agora.",
+            "Agora estamos ocupados.",
+            "Ligue para mim agora."
+        ],
+        "ru": {
+            "cyr": [
+                "Я ем сейчас.",
+                "Сейчас мы заняты.",
+                "Позвони мне сейчас."
+            ],
+            "lat": [
+                "Ya em seichas.",
+                "Seichas my zanyaty.",
+                "Pozvoni mne seichas."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אוכל עכשיו.",
+                "אנחנו עסוקים עכשיו.",
+                "תתקשר אליי עכשיו."
+            ],
+            "lat": [
+                "ani ochel achshav.",
+                "anachnu asukim achshav.",
+                "titkasher elay achshav."
+            ]
+        }
+    },
+    "validated": false
+}

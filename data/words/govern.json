@@ -1,0 +1,17 @@
+{
+    "govern": {
+        "en": "govern",
+        "fr": "gouverner",
+        "es": "gobernar",
+        "pt": "governar",
+        "ru": {
+            "cyr": "управлять",
+            "lat": "upravlyat"
+        },
+        "il": {
+            "heb": "למשול",
+            "lat": "limshol"
+        }
+    },
+    "validated": false
+}

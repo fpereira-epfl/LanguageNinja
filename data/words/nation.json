@@ -1,0 +1,17 @@
+{
+    "nation": {
+        "en": "nation",
+        "fr": "nation",
+        "es": "nación",
+        "pt": "nação",
+        "ru": {
+            "cyr": "нация",
+            "lat": "natsiya"
+        },
+        "il": {
+            "heb": "אומה",
+            "lat": "uma"
+        }
+    },
+    "validated": false
+}

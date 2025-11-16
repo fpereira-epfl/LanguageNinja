@@ -1,0 +1,49 @@
+{
+    "either": {
+        "en": [
+            "You can take either book.",
+            "Either we leave now, or we miss the bus.",
+            "I don't like it either."
+        ],
+        "fr": [
+            "Tu peux prendre l'un ou l'autre livre.",
+            "Ou nous partons maintenant, ou nous ratons le bus.",
+            "Je ne l'aime pas non plus."
+        ],
+        "es": [
+            "Puedes tomar cualquiera de los dos libros.",
+            "O salimos ahora, o perdemos el autobús.",
+            "A mí tampoco me gusta."
+        ],
+        "pt": [
+            "Você pode pegar qualquer um dos dois livros.",
+            "Ou saímos agora, ou perdemos o ônibus.",
+            "Eu também não gosto disso."
+        ],
+        "ru": {
+            "cyr": [
+                "Ты можешь взять любую из двух книг.",
+                "Либо мы уходим сейчас, либо опоздаем на автобус.",
+                "Мне это тоже не нравится."
+            ],
+            "lat": [
+                "Ty mozhesh’ vzyat’ lyubuyu iz dvukh knig.",
+                "Libo my uhodim seichas, libo opozdaem na avtobus.",
+                "Mne eto tozhe ne nravitsya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אתה יכול לקחת כל אחד משני הספרים.",
+                "או שאנחנו יוצאים עכשיו, או שאנחנו מפספסים את האוטובוס.",
+                "גם אני לא אוהב את זה."
+            ],
+            "lat": [
+                "ata yakhol lakakhat kol echad mishnei ha-sfarim.",
+                "o sheanachnu yotzim akhshav, o sheanachnu mefaspesim et ha-otobus.",
+                "gam ani lo ohev et ze."
+            ]
+        }
+    },
+    "validated": false
+}

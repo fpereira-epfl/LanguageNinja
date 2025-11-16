@@ -1,0 +1,17 @@
+{
+    "start": {
+        "en": "start",
+        "fr": "début",
+        "es": "inicio",
+        "pt": "início",
+        "ru": {
+            "cyr": "начало",
+            "lat": "nachalo"
+        },
+        "il": {
+            "heb": "התחלה",
+            "lat": "hatchala"
+        }
+    },
+    "validated": false
+}

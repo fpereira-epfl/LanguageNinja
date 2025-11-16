@@ -1,0 +1,49 @@
+{
+    "step": {
+        "en": [
+            "I take a step.",
+            "The step is small.",
+            "He takes two steps."
+        ],
+        "fr": [
+            "Je fais un pas.",
+            "Le pas est petit.",
+            "Il fait deux pas."
+        ],
+        "es": [
+            "Doy un paso.",
+            "El paso es pequeño.",
+            "Él da dos pasos."
+        ],
+        "pt": [
+            "Eu dou um passo.",
+            "O passo é pequeno.",
+            "Ele dá dois passos."
+        ],
+        "ru": {
+            "cyr": [
+                "Я делаю шаг.",
+                "Шаг маленький.",
+                "Он делает два шага."
+            ],
+            "lat": [
+                "Ya delayu shag.",
+                "Shag malen'kiy.",
+                "On delaet dva shaga."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני עושה צעד.",
+                "הצעד קטן.",
+                "הוא עושה שני צעדים."
+            ],
+            "lat": [
+                "ani ose tsaad.",
+                "hatsaad katan.",
+                "hu ose shnei tzeadim."
+            ]
+        }
+    },
+    "validated": false
+}

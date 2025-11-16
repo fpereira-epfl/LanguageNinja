@@ -1,0 +1,49 @@
+{
+    "last": {
+        "en": [
+            "This is the last page.",
+            "He is the last in line.",
+            "He took the last cookie."
+        ],
+        "fr": [
+            "C'est la dernière page.",
+            "Il est le dernier dans la file.",
+            "Il a pris le dernier biscuit."
+        ],
+        "es": [
+            "Esta es la última página.",
+            "Él es el último en la fila.",
+            "Él tomó la última galleta."
+        ],
+        "pt": [
+            "Esta é a última página.",
+            "Ele é o último na fila.",
+            "Ele pegou o último biscoito."
+        ],
+        "ru": {
+            "cyr": [
+                "Это последняя страница.",
+                "Он последний в очереди.",
+                "Он взял последнее печенье."
+            ],
+            "lat": [
+                "Eto poslednyaya stranitsa.",
+                "On posledniy v ocheredi.",
+                "On vzyal poslednee pechenye."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה העמוד האחרון.",
+                "הוא האחרון בתור.",
+                "הוא לקח את העוגייה האחרונה."
+            ],
+            "lat": [
+                "ze ha'amud ha'acharon.",
+                "hu ha'acharon bator.",
+                "hu lakach et ha'ugiyah ha'acharonah."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "eye": {
+        "en": [
+            "My eye hurts.",
+            "The eye is open.",
+            "He has one eye."
+        ],
+        "fr": [
+            "Mon œil me fait mal.",
+            "L'œil est ouvert.",
+            "Il a un œil."
+        ],
+        "es": [
+            "Me duele el ojo.",
+            "El ojo está abierto.",
+            "Él tiene un ojo."
+        ],
+        "pt": [
+            "Meu olho dói.",
+            "O olho está aberto.",
+            "Ele tem um olho."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня болит глаз.",
+                "Глаз открыт.",
+                "У него один глаз."
+            ],
+            "lat": [
+                "U menya bolit glaz.",
+                "Glaz otkryt.",
+                "U nego odin glaz."
+            ]
+        },
+        "il": {
+            "heb": [
+                "כואבת לי העין.",
+                "העין פתוחה.",
+                "יש לו עין אחת."
+            ],
+            "lat": [
+                "koevet li ha'ayin.",
+                "ha'ayin ptucha.",
+                "yesh lo ayin achat."
+            ]
+        }
+    },
+    "validated": false
+}

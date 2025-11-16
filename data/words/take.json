@@ -1,0 +1,17 @@
+{
+    "take": {
+        "en": "take",
+        "fr": "prendre",
+        "es": "tomar",
+        "pt": "tomar",
+        "ru": {
+            "cyr": "брать",
+            "lat": "brat"
+        },
+        "il": {
+            "heb": "לקחת",
+            "lat": "lakachat"
+        }
+    },
+    "validated": false
+}

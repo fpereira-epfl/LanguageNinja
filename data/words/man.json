@@ -1,0 +1,17 @@
+{
+    "man": {
+        "en": "man",
+        "fr": "homme",
+        "es": "hombre",
+        "pt": "homem",
+        "ru": {
+            "cyr": "мужчина",
+            "lat": "muzhchina"
+        },
+        "il": {
+            "heb": "גבר",
+            "lat": "gever"
+        }
+    },
+    "validated": false
+}

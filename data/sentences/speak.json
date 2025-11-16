@@ -1,0 +1,49 @@
+{
+    "speak": {
+        "en": [
+            "I speak English.",
+            "They speak slowly.",
+            "Can you speak now?"
+        ],
+        "fr": [
+            "Je parle anglais.",
+            "Ils parlent lentement.",
+            "Tu peux parler maintenant ?"
+        ],
+        "es": [
+            "Hablo inglés.",
+            "Ellos hablan despacio.",
+            "¿Puedes hablar ahora?"
+        ],
+        "pt": [
+            "Eu falo inglês.",
+            "Eles falam devagar.",
+            "Você pode falar agora?"
+        ],
+        "ru": {
+            "cyr": [
+                "Я говорю по-английски.",
+                "Они говорят медленно.",
+                "Ты можешь говорить сейчас?"
+            ],
+            "lat": [
+                "Ya govoryu po-angliyski.",
+                "Oni govoryat medlenno.",
+                "Ty mozhesh' govorit' seychas?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מדבר אנגלית.",
+                "הם מדברים לאט.",
+                "אתה יכול לדבר עכשיו?"
+            ],
+            "lat": [
+                "ani medaber anglit.",
+                "hem medabrim leat.",
+                "ata yachol ledaber achshav?"
+            ]
+        }
+    },
+    "validated": false
+}

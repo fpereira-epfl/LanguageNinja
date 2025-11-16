@@ -1,0 +1,17 @@
+{
+    "walk": {
+        "en": "walk",
+        "fr": "marcher",
+        "es": "caminar",
+        "pt": "caminhar",
+        "ru": {
+            "cyr": "идти",
+            "lat": "idti"
+        },
+        "il": {
+            "heb": "ללכת",
+            "lat": "lalechet"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "may": {
+        "en": "may",
+        "fr": "pouvoir",
+        "es": "poder",
+        "pt": "poder",
+        "ru": {
+            "cyr": "мочь",
+            "lat": "moch"
+        },
+        "il": {
+            "heb": "אפשר",
+            "lat": "efshar"
+        }
+    },
+    "validated": false
+}

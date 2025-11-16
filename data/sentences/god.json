@@ -1,0 +1,49 @@
+{
+    "god": {
+        "en": [
+            "We believe in God.",
+            "This god is kind.",
+            "People talk about God."
+        ],
+        "fr": [
+            "Nous croyons en Dieu.",
+            "Ce dieu est bon.",
+            "Les gens parlent de Dieu."
+        ],
+        "es": [
+            "Creemos en Dios.",
+            "Este dios es bueno.",
+            "La gente habla de Dios."
+        ],
+        "pt": [
+            "Nós acreditamos em Deus.",
+            "Este deus é bondoso.",
+            "As pessoas falam sobre Deus."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы верим в Бога.",
+                "Этот бог добрый.",
+                "Люди говорят о Боге."
+            ],
+            "lat": [
+                "My verim v Boga.",
+                "Etot bog dobryy.",
+                "Lyudi govoryat o Boge."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו מאמינים באלוהים.",
+                "האל הזה טוב.",
+                "אנשים מדברים על אלוהים."
+            ],
+            "lat": [
+                "anachnu ma'aminim be'elohim.",
+                "ha-el ha-ze tov.",
+                "anashim medabrim al elohim."
+            ]
+        }
+    },
+    "validated": false
+}

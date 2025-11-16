@@ -1,0 +1,49 @@
+{
+    "still": {
+        "en": [
+            "I am still here.",
+            "He still loves her.",
+            "She is still at home."
+        ],
+        "fr": [
+            "Je suis encore ici.",
+            "Il l'aime encore.",
+            "Elle est encore à la maison."
+        ],
+        "es": [
+            "Todavía estoy aquí.",
+            "Él todavía la ama.",
+            "Ella todavía está en casa."
+        ],
+        "pt": [
+            "Ainda estou aqui.",
+            "Ele ainda a ama.",
+            "Ela ainda está em casa."
+        ],
+        "ru": {
+            "cyr": [
+                "Я всё ещё здесь.",
+                "Он всё ещё её любит.",
+                "Она всё ещё дома."
+            ],
+            "lat": [
+                "Ya vsyo eshche zdes'.",
+                "On vsyo eshche eyo lyubit.",
+                "Ona vsyo eshche doma."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני עדיין כאן.",
+                "הוא עדיין אוהב אותה.",
+                "היא עדיין בבית."
+            ],
+            "lat": [
+                "ani adayin kan.",
+                "hu adayin ohev ota.",
+                "hi adayin babayit."
+            ]
+        }
+    },
+    "validated": false
+}

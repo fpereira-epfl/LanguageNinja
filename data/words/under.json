@@ -1,0 +1,17 @@
+{
+    "under": {
+        "en": "under",
+        "fr": "sous",
+        "es": "bajo",
+        "pt": "sob",
+        "ru": {
+            "cyr": "под",
+            "lat": "pod"
+        },
+        "il": {
+            "heb": "מתחת ל",
+            "lat": "mitachat le"
+        }
+    },
+    "validated": false
+}

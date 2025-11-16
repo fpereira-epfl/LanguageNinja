@@ -1,0 +1,49 @@
+{
+    "rate": {
+        "en": [
+            "The rate is high.",
+            "What is the rate?",
+            "The rate includes breakfast."
+        ],
+        "fr": [
+            "Le tarif est élevé.",
+            "Quel est le tarif ?",
+            "Le tarif comprend le petit-déjeuner."
+        ],
+        "es": [
+            "La tarifa es alta.",
+            "¿Cuál es la tarifa?",
+            "La tarifa incluye el desayuno."
+        ],
+        "pt": [
+            "A tarifa é alta.",
+            "Qual é a tarifa?",
+            "A tarifa inclui o café da manhã."
+        ],
+        "ru": {
+            "cyr": [
+                "Тариф высокий.",
+                "Какой тариф?",
+                "Тариф включает завтрак."
+            ],
+            "lat": [
+                "Tarif vysokiy.",
+                "Kakoy tarif?",
+                "Tarif vklyuchayet zavtrak."
+            ]
+        },
+        "il": {
+            "heb": [
+                "התעריף גבוה.",
+                "מה התעריף?",
+                "התעריף כולל ארוחת בוקר."
+            ],
+            "lat": [
+                "hata'arif gavoa.",
+                "ma hata'arif?",
+                "hata'arif kolel aruchat boker."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "tell": {
+        "en": [
+            "Tell me the truth.",
+            "I will tell you later.",
+            "She told me everything."
+        ],
+        "fr": [
+            "Dis-moi la vérité.",
+            "Je te dirai plus tard.",
+            "Elle m'a tout dit."
+        ],
+        "es": [
+            "Dime la verdad.",
+            "Te diré más tarde.",
+            "Ella me dijo todo."
+        ],
+        "pt": [
+            "Diga-me a verdade.",
+            "Eu te direi mais tarde.",
+            "Ela me disse tudo."
+        ],
+        "ru": {
+            "cyr": [
+                "Скажи мне правду.",
+                "Я скажу тебе позже.",
+                "Она сказала мне всё."
+            ],
+            "lat": [
+                "Skazhi mne pravdu.",
+                "Ya skazhu tebe pozhe.",
+                "Ona skazala mne vsyo."
+            ]
+        },
+        "il": {
+            "heb": [
+                "תגיד לי את האמת.",
+                "אני אגיד לך אחר כך.",
+                "היא אמרה לי הכל."
+            ],
+            "lat": [
+                "tagid li et ha-emet.",
+                "ani agid lecha akhar kakh.",
+                "hi amra li hakol."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "hold": {
+        "en": [
+            "Hold my hand.",
+            "Can you hold this?",
+            "She holds the baby."
+        ],
+        "fr": [
+            "Tiens ma main.",
+            "Peux-tu tenir ça ?",
+            "Elle tient le bébé."
+        ],
+        "es": [
+            "Sostén mi mano.",
+            "¿Puedes sostener esto?",
+            "Ella sostiene al bebé."
+        ],
+        "pt": [
+            "Segure minha mão.",
+            "Você pode segurar isso?",
+            "Ela segura o bebê."
+        ],
+        "ru": {
+            "cyr": [
+                "Держи мою руку.",
+                "Ты можешь подержать это?",
+                "Она держит ребёнка."
+            ],
+            "lat": [
+                "Derzhi moyu ruku.",
+                "Ty mozhesh poderzhat’ eto?",
+                "Ona derzhit rebyonka."
+            ]
+        },
+        "il": {
+            "heb": [
+                "תחזיק לי את היד.",
+                "אתה יכול להחזיק את זה?",
+                "היא מחזיקה את התינוק."
+            ],
+            "lat": [
+                "takhzik li et hayad.",
+                "ata yakhol lehachzik et ze?",
+                "hi machzika et hatinok."
+            ]
+        }
+    },
+    "validated": false
+}

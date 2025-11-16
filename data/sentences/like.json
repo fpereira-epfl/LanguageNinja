@@ -1,0 +1,49 @@
+{
+    "like": {
+        "en": [
+            "I like tea.",
+            "She likes cats.",
+            "We like this song."
+        ],
+        "fr": [
+            "J'aime le thé.",
+            "Elle aime les chats.",
+            "Nous aimons cette chanson."
+        ],
+        "es": [
+            "Me gusta el té.",
+            "A ella le gustan los gatos.",
+            "Nos gusta esta canción."
+        ],
+        "pt": [
+            "Eu gosto de chá.",
+            "Ela gosta de gatos.",
+            "Nós gostamos desta música."
+        ],
+        "ru": {
+            "cyr": [
+                "Мне нравится чай.",
+                "Ей нравятся кошки.",
+                "Нам нравится эта песня."
+            ],
+            "lat": [
+                "Mne nravitsya chay.",
+                "Ey nravyatsya koshki.",
+                "Nam nravitsya eta pesnya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אוהב תה.",
+                "היא אוהבת חתולים.",
+                "אנחנו אוהבים את השיר הזה."
+            ],
+            "lat": [
+                "ani ohev te.",
+                "hi ohevet chatulim.",
+                "anachnu ohavim et hashir haze."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "level": {
+        "en": [
+            "This is a basic level.",
+            "The water level is high.",
+            "He is at level two."
+        ],
+        "fr": [
+            "C'est un niveau de base.",
+            "Le niveau de l'eau est élevé.",
+            "Il est au niveau deux."
+        ],
+        "es": [
+            "Este es un nivel básico.",
+            "El nivel del agua es alto.",
+            "Él está en el nivel dos."
+        ],
+        "pt": [
+            "Este é um nível básico.",
+            "O nível da água está alto.",
+            "Ele está no nível dois."
+        ],
+        "ru": {
+            "cyr": [
+                "Это базовый уровень.",
+                "Уровень воды высокий.",
+                "Он на втором уровне."
+            ],
+            "lat": [
+                "Eto bazovyy uroven’.",
+                "Uroven’ vody vysokiy.",
+                "On na vtorom urovne."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו רמה בסיסית.",
+                "מפלס המים גבוה.",
+                "הוא ברמה שתיים."
+            ],
+            "lat": [
+                "zo rama bsisit.",
+                "miflas hamayim gavoah.",
+                "hu berama shtayim."
+            ]
+        }
+    },
+    "validated": false
+}

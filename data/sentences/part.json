@@ -1,0 +1,49 @@
+{
+    "part": {
+        "en": [
+            "This is the first part.",
+            "I like this part.",
+            "We need the last part."
+        ],
+        "fr": [
+            "C'est la première partie.",
+            "J'aime cette partie.",
+            "Nous avons besoin de la dernière partie."
+        ],
+        "es": [
+            "Esta es la primera parte.",
+            "Me gusta esta parte.",
+            "Necesitamos la última parte."
+        ],
+        "pt": [
+            "Esta é a primeira parte.",
+            "Eu gosto desta parte.",
+            "Precisamos da última parte."
+        ],
+        "ru": {
+            "cyr": [
+                "Это первая часть.",
+                "Мне нравится эта часть.",
+                "Нам нужна последняя часть."
+            ],
+            "lat": [
+                "Eto pervaya chast'.",
+                "Mne nravitsya eta chast'.",
+                "Nam nuzhna poslednyaya chast'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה החלק הראשון.",
+                "אני אוהב את החלק הזה.",
+                "אנחנו צריכים את החלק האחרון."
+            ],
+            "lat": [
+                "ze ha-chelek ha-rishon.",
+                "ani ohev et ha-chelek ha-ze.",
+                "anachnu tsrichim et ha-chelek ha-acharon."
+            ]
+        }
+    },
+    "validated": false
+}

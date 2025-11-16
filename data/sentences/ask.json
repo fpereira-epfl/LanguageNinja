@@ -1,0 +1,49 @@
+{
+    "ask": {
+        "en": [
+            "I ask her.",
+            "She asks the teacher.",
+            "We ask him."
+        ],
+        "fr": [
+            "Je lui demande.",
+            "Elle demande au professeur.",
+            "Nous lui demandons."
+        ],
+        "es": [
+            "Le pregunto.",
+            "Ella le pregunta al profesor.",
+            "Le preguntamos."
+        ],
+        "pt": [
+            "Eu pergunto a ela.",
+            "Ela pergunta ao professor.",
+            "Nós perguntamos a ele."
+        ],
+        "ru": {
+            "cyr": [
+                "Я спрашиваю её.",
+                "Она спрашивает учителя.",
+                "Мы спрашиваем его."
+            ],
+            "lat": [
+                "Ya sprashivayu yeyo.",
+                "Ona sprashivaet uchitelya.",
+                "My sprashivaem ego."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני שואל אותה.",
+                "היא שואלת את המורה.",
+                "אנחנו שואלים אותו."
+            ],
+            "lat": [
+                "ani shoel ota.",
+                "hi sho'elet et hamore.",
+                "anachnu shoalim oto."
+            ]
+        }
+    },
+    "validated": false
+}

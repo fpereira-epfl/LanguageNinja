@@ -1,0 +1,17 @@
+{
+    "sit": {
+        "en": "sit",
+        "fr": "s'asseoir",
+        "es": "sentarse",
+        "pt": "sentar-se",
+        "ru": {
+            "cyr": "сидеть",
+            "lat": "sidet"
+        },
+        "il": {
+            "heb": "לשבת",
+            "lat": "lashevet"
+        }
+    },
+    "validated": false
+}

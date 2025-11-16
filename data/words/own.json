@@ -1,0 +1,17 @@
+{
+    "own": {
+        "en": "own",
+        "fr": "propre",
+        "es": "propio",
+        "pt": "próprio",
+        "ru": {
+            "cyr": "собственный",
+            "lat": "sobstvenny"
+        },
+        "il": {
+            "heb": "עצמי",
+            "lat": "atsmi"
+        }
+    },
+    "validated": false
+}

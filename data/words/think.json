@@ -1,0 +1,17 @@
+{
+    "think": {
+        "en": "think",
+        "fr": "penser",
+        "es": "pensar",
+        "pt": "pensar",
+        "ru": {
+            "cyr": "думать",
+            "lat": "dumat"
+        },
+        "il": {
+            "heb": "לחשוב",
+            "lat": "lakhshov"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "along": {
+        "en": [
+            "We walk along the river.",
+            "The cat runs along the wall.",
+            "Drive along this road."
+        ],
+        "fr": [
+            "Nous marchons le long de la rivière.",
+            "Le chat court le long du mur.",
+            "Conduis le long de cette route."
+        ],
+        "es": [
+            "Caminamos a lo largo del río.",
+            "El gato corre a lo largo del muro.",
+            "Conduce a lo largo de esta carretera."
+        ],
+        "pt": [
+            "Caminhamos ao longo do rio.",
+            "O gato corre ao longo do muro.",
+            "Dirija ao longo desta estrada."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы идём вдоль реки.",
+                "Кот бежит вдоль стены.",
+                "Едь вдоль этой дороги."
+            ],
+            "lat": [
+                "My idyom vdol' reki.",
+                "Kot bezhit vdol' steny.",
+                "Ed' vdol' etoy dorogi."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו הולכים לאורך הנהר.",
+                "החתול רץ לאורך הקיר.",
+                "סע לאורך הכביש הזה."
+            ],
+            "lat": [
+                "anachnu holkhim le'orekh ha-nahar.",
+                "ha-chatul ratz le'orekh ha-kir.",
+                "sa le'orekh ha-kvish hazeh."
+            ]
+        }
+    },
+    "validated": false
+}

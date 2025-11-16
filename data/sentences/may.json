@@ -1,0 +1,49 @@
+{
+    "may": {
+        "en": [
+            "May I sit here?",
+            "You may leave now.",
+            "You may open the window."
+        ],
+        "fr": [
+            "Je peux m'asseoir ici ?",
+            "Tu peux partir maintenant.",
+            "Tu peux ouvrir la fenêtre."
+        ],
+        "es": [
+            "¿Puedo sentarme aquí?",
+            "Puedes irte ahora.",
+            "Puedes abrir la ventana."
+        ],
+        "pt": [
+            "Posso sentar aqui?",
+            "Você pode sair agora.",
+            "Você pode abrir a janela."
+        ],
+        "ru": {
+            "cyr": [
+                "Можно мне сесть здесь?",
+                "Ты можешь уйти сейчас.",
+                "Ты можешь открыть окно."
+            ],
+            "lat": [
+                "Mozhno mne sest' zdes'?",
+                "Ty mozhesh' uyti seichas.",
+                "Ty mozhesh' otkryt' okno."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אפשר לשבת כאן?",
+                "אתה יכול ללכת עכשיו.",
+                "אתה יכול לפתוח את החלון."
+            ],
+            "lat": [
+                "efshar lashevet kan?",
+                "ata yachol lalechet achshav.",
+                "ata yachol liftoach et ha-chalon."
+            ]
+        }
+    },
+    "validated": false
+}

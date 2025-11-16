@@ -1,0 +1,17 @@
+{
+    "music": {
+        "en": "music",
+        "fr": "musique",
+        "es": "música",
+        "pt": "мúsica",
+        "ru": {
+            "cyr": "музыка",
+            "lat": "muzyka"
+        },
+        "il": {
+            "heb": "מוזיקה",
+            "lat": "muzika"
+        }
+    },
+    "validated": false
+}

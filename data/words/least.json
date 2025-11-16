@@ -1,0 +1,17 @@
+{
+    "least": {
+        "en": "least",
+        "fr": "le moins",
+        "es": "lo menos",
+        "pt": "o menos",
+        "ru": {
+            "cyr": "наименее",
+            "lat": "naimenee"
+        },
+        "il": {
+            "heb": "הכי פחות",
+            "lat": "hachi pachot"
+        }
+    },
+    "validated": false
+}

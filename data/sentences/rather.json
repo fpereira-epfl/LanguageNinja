@@ -1,0 +1,49 @@
+{
+    "rather": {
+        "en": [
+            "The soup is rather hot.",
+            "It is rather late.",
+            "The movie was rather long."
+        ],
+        "fr": [
+            "La soupe est plutôt chaude.",
+            "Il est plutôt tard.",
+            "Le film était plutôt long."
+        ],
+        "es": [
+            "La sopa está bastante caliente.",
+            "Es bastante tarde.",
+            "La película fue bastante larga."
+        ],
+        "pt": [
+            "A sopa está bastante quente.",
+            "É bastante tarde.",
+            "O filme foi bastante longo."
+        ],
+        "ru": {
+            "cyr": [
+                "Суп довольно горячий.",
+                "Довольно поздно.",
+                "Фильм был довольно длинный."
+            ],
+            "lat": [
+                "Sup dovolno goryachiy.",
+                "Dovolno pozdno.",
+                "Film byl dovolno dlinnyy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המרק די חם.",
+                "זה די מאוחר.",
+                "הסרט היה די ארוך."
+            ],
+            "lat": [
+                "hamarak dai cham.",
+                "ze dai meuchar.",
+                "haseret haya dai arukh."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "part": {
+        "en": "part",
+        "fr": "partie",
+        "es": "parte",
+        "pt": "parte",
+        "ru": {
+            "cyr": "часть",
+            "lat": "chast"
+        },
+        "il": {
+            "heb": "חלק",
+            "lat": "chelek"
+        }
+    },
+    "validated": false
+}

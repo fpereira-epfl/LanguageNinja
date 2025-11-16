@@ -1,0 +1,49 @@
+{
+    "around": {
+        "en": [
+            "We walk around the park.",
+            "Look around you.",
+            "There are trees around the house."
+        ],
+        "fr": [
+            "Nous marchons autour du parc.",
+            "Regarde autour de toi.",
+            "Il y a des arbres autour de la maison."
+        ],
+        "es": [
+            "Caminamos alrededor del parque.",
+            "Mira a tu alrededor.",
+            "Hay árboles alrededor de la casa."
+        ],
+        "pt": [
+            "Nós caminhamos ao redor do parque.",
+            "Olhe ao seu redor.",
+            "Há árvores ao redor da casa."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы гуляем вокруг парка.",
+                "Посмотри вокруг себя.",
+                "Вокруг дома есть деревья."
+            ],
+            "lat": [
+                "My gulyayem vokrug parka.",
+                "Posmotri vokrug sebya.",
+                "Vokrug doma yest’ derevya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו הולכים מסביב לפארק.",
+                "תסתכל מסביב.",
+                "יש עצים מסביב לבית."
+            ],
+            "lat": [
+                "anachnu holkhim misaviv lapark.",
+                "tistakel misaviv.",
+                "yesh etzim misaviv labayit."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "reason": {
+        "en": "reason",
+        "fr": "raison",
+        "es": "razón",
+        "pt": "razão",
+        "ru": {
+            "cyr": "причина",
+            "lat": "prichina"
+        },
+        "il": {
+            "heb": "סיבה",
+            "lat": "siba"
+        }
+    },
+    "validated": false
+}

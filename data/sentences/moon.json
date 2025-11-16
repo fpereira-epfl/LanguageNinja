@@ -1,0 +1,49 @@
+{
+    "moon": {
+        "en": [
+            "The moon is bright.",
+            "I see the moon.",
+            "The moon is in the sky."
+        ],
+        "fr": [
+            "La lune est brillante.",
+            "Je vois la lune.",
+            "La lune est dans le ciel."
+        ],
+        "es": [
+            "La luna es brillante.",
+            "Veo la luna.",
+            "La luna está en el cielo."
+        ],
+        "pt": [
+            "A lua é brilhante.",
+            "Eu vejo a lua.",
+            "A lua está no céu."
+        ],
+        "ru": {
+            "cyr": [
+                "Луна яркая.",
+                "Я вижу луну.",
+                "Луна в небе."
+            ],
+            "lat": [
+                "Luna yarkaya.",
+                "Ya vizhu lunu.",
+                "Luna v nebe."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הירח בהיר.",
+                "אני רואה את הירח.",
+                "הירח בשמיים."
+            ],
+            "lat": [
+                "hayareach bahir.",
+                "ani roeh et hayareach.",
+                "hayareach bashamayim."
+            ]
+        }
+    },
+    "validated": false
+}

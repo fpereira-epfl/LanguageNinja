@@ -1,0 +1,17 @@
+{
+    "appear": {
+        "en": "appear",
+        "fr": "apparaître",
+        "es": "aparecer",
+        "pt": "aparecer",
+        "ru": {
+            "cyr": "появляться",
+            "lat": "poyavlyatsya"
+        },
+        "il": {
+            "heb": "להופיע",
+            "lat": "lehofia"
+        }
+    },
+    "validated": false
+}

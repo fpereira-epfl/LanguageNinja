@@ -1,0 +1,49 @@
+{
+    "down": {
+        "en": [
+            "Go down.",
+            "Look down.",
+            "Put it down."
+        ],
+        "fr": [
+            "Va en bas.",
+            "Regarde en bas.",
+            "Pose-le en bas."
+        ],
+        "es": [
+            "Ve abajo.",
+            "Mira abajo.",
+            "Ponlo abajo."
+        ],
+        "pt": [
+            "Vá para baixo.",
+            "Olhe para baixo.",
+            "Ponha isso para baixo."
+        ],
+        "ru": {
+            "cyr": [
+                "Иди вниз.",
+                "Посмотри вниз.",
+                "Положи вниз."
+            ],
+            "lat": [
+                "Idi vniz.",
+                "Posmotri vniz.",
+                "Polozhi vniz."
+            ]
+        },
+        "il": {
+            "heb": [
+                "רד למטה.",
+                "תסתכל למטה.",
+                "שים את זה למטה."
+            ],
+            "lat": [
+                "red lemata.",
+                "tistakel lemata.",
+                "sim et ze lemata."
+            ]
+        }
+    },
+    "validated": false
+}

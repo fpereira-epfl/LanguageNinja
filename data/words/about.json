@@ -1,0 +1,17 @@
+{
+    "about": {
+        "en": "about",
+        "fr": "sur",
+        "es": "sobre",
+        "pt": "sobre",
+        "ru": {
+            "cyr": "о",
+            "lat": "o"
+        },
+        "il": {
+            "heb": "על",
+            "lat": "al"
+        }
+    },
+    "validated": false
+}

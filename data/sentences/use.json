@@ -1,0 +1,49 @@
+{
+    "use": {
+        "en": [
+            "I use a computer.",
+            "We use this tool.",
+            "She uses a phone."
+        ],
+        "fr": [
+            "J'utilise un ordinateur.",
+            "Nous utilisons cet outil.",
+            "Elle utilise un téléphone."
+        ],
+        "es": [
+            "Uso una computadora.",
+            "Usamos esta herramienta.",
+            "Ella usa un teléfono."
+        ],
+        "pt": [
+            "Eu uso um computador.",
+            "Nós usamos esta ferramenta.",
+            "Ela usa um telefone."
+        ],
+        "ru": {
+            "cyr": [
+                "Я использую компьютер.",
+                "Мы используем этот инструмент.",
+                "Она использует телефон."
+            ],
+            "lat": [
+                "Ya ispol'zuyu komp'yuter.",
+                "My ispol'zuem etot instrument.",
+                "Ona ispol'zuet telefon."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני משתמש במחשב.",
+                "אנחנו משתמשים בכלי הזה.",
+                "היא משתמשת בטלפון."
+            ],
+            "lat": [
+                "ani mishtamesh bemachshev.",
+                "anachnu mishtamshim bekli haze.",
+                "hi mishtameshet batelefon."
+            ]
+        }
+    },
+    "validated": false
+}

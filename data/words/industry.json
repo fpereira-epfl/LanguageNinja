@@ -1,0 +1,17 @@
+{
+    "industry": {
+        "en": "industry",
+        "fr": "industrie",
+        "es": "industria",
+        "pt": "indústria",
+        "ru": {
+            "cyr": "промышленность",
+            "lat": "promyshlennost"
+        },
+        "il": {
+            "heb": "תעשייה",
+            "lat": "taasiya"
+        }
+    },
+    "validated": false
+}

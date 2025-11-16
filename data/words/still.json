@@ -1,0 +1,17 @@
+{
+    "still": {
+        "en": "still",
+        "fr": "encore",
+        "es": "todavía",
+        "pt": "ainda",
+        "ru": {
+            "cyr": "всё ещё",
+            "lat": "vsyo eshche"
+        },
+        "il": {
+            "heb": "עדיין",
+            "lat": "adayin"
+        }
+    },
+    "validated": false
+}

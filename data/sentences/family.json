@@ -1,0 +1,49 @@
+{
+    "family": {
+        "en": [
+            "My family is big.",
+            "Her family lives in Paris.",
+            "We love our family."
+        ],
+        "fr": [
+            "Ma famille est grande.",
+            "Sa famille habite à Paris.",
+            "Nous aimons notre famille."
+        ],
+        "es": [
+            "Mi familia es grande.",
+            "Su familia vive en París.",
+            "Amamos a nuestra familia."
+        ],
+        "pt": [
+            "Minha família é grande.",
+            "A família dela vive em Paris.",
+            "Nós amamos nossa família."
+        ],
+        "ru": {
+            "cyr": [
+                "Моя семья большая.",
+                "Её семья живёт в Париже.",
+                "Мы любим нашу семью."
+            ],
+            "lat": [
+                "Moya semya bol'shaya.",
+                "Eyo semya zhivyot v Parizhe.",
+                "My lyubim nashu sem'yu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המשפחה שלי גדולה.",
+                "המשפחה שלה גרה בפריז.",
+                "אנחנו אוהבים את המשפחה שלנו."
+            ],
+            "lat": [
+                "hamishpacha sheli gdola.",
+                "hamishpacha shela gara bepariz.",
+                "anachnu ohavim et hamishpacha shelanu."
+            ]
+        }
+    },
+    "validated": false
+}

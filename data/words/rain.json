@@ -1,0 +1,17 @@
+{
+    "rain": {
+        "en": "rain",
+        "fr": "pluie",
+        "es": "lluvia",
+        "pt": "chuva",
+        "ru": {
+            "cyr": "дождь",
+            "lat": "dozhd"
+        },
+        "il": {
+            "heb": "גשם",
+            "lat": "geshem"
+        }
+    },
+    "validated": false
+}

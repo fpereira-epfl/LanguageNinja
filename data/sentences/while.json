@@ -1,0 +1,49 @@
+{
+    "while": {
+        "en": [
+            "While I cook, he reads.",
+            "She listens to music while she works.",
+            "We talk while we walk."
+        ],
+        "fr": [
+            "Pendant que je cuisine, il lit.",
+            "Elle écoute de la musique pendant qu'elle travaille.",
+            "Nous parlons pendant que nous marchons."
+        ],
+        "es": [
+            "Mientras cocino, él lee.",
+            "Ella escucha música mientras trabaja.",
+            "Hablamos mientras caminamos."
+        ],
+        "pt": [
+            "Enquanto eu cozinho, ele lê.",
+            "Ela ouve música enquanto trabalha.",
+            "Falamos enquanto caminhamos."
+        ],
+        "ru": {
+            "cyr": [
+                "Пока я готовлю, он читает.",
+                "Она слушает музыку, пока она работает.",
+                "Мы говорим, пока мы идём."
+            ],
+            "lat": [
+                "Poka ya gotovlyu, on chitayet.",
+                "Ona slushaet muzyku, poka ona rabotayet.",
+                "My govorim, poka my idyom."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בזמן שאני מבשל, הוא קורא.",
+                "היא שומעת מוזיקה בזמן שהיא עובדת.",
+                "אנחנו מדברים בזמן שאנחנו הולכים."
+            ],
+            "lat": [
+                "bizman she-ani mevashel, hu kore.",
+                "hi shoma'at muzika bizman she-hi ovedet.",
+                "anachnu medabrim bizman she-anachnu holkhim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "provide": {
+        "en": "provide",
+        "fr": "fournir",
+        "es": "proveer",
+        "pt": "fornecer",
+        "ru": {
+            "cyr": "предоставлять",
+            "lat": "predostavlyat"
+        },
+        "il": {
+            "heb": "לספק",
+            "lat": "lesapek"
+        }
+    },
+    "validated": false
+}

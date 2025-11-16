@@ -1,0 +1,17 @@
+{
+    "nothing": {
+        "en": "nothing",
+        "fr": "rien",
+        "es": "nada",
+        "pt": "nada",
+        "ru": {
+            "cyr": "ничего",
+            "lat": "nichego"
+        },
+        "il": {
+            "heb": "כלום",
+            "lat": "klum"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "find": {
+        "en": "find",
+        "fr": "trouver",
+        "es": "encontrar",
+        "pt": "encontrar",
+        "ru": {
+            "cyr": "найти",
+            "lat": "nayti"
+        },
+        "il": {
+            "heb": "למצוא",
+            "lat": "limtzo"
+        }
+    },
+    "validated": false
+}

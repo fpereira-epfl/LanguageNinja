@@ -1,0 +1,49 @@
+{
+    "read": {
+        "en": [
+            "I read a book.",
+            "She reads every day.",
+            "We read the news."
+        ],
+        "fr": [
+            "Je lis un livre.",
+            "Elle lit chaque jour.",
+            "Nous lisons les nouvelles."
+        ],
+        "es": [
+            "Yo leo un libro.",
+            "Ella lee cada día.",
+            "Nosotros leemos las noticias."
+        ],
+        "pt": [
+            "Eu leio um livro.",
+            "Ela lê todos os dias.",
+            "Nós lemos as notícias."
+        ],
+        "ru": {
+            "cyr": [
+                "Я читаю книгу.",
+                "Она читает каждый день.",
+                "Мы читаем новости."
+            ],
+            "lat": [
+                "Ya chitayu knigu.",
+                "Ona chitaet kazhdyy den’.",
+                "My chitaem novosti."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני קורא ספר.",
+                "היא קוראת כל יום.",
+                "אנחנו קוראים את החדשות."
+            ],
+            "lat": [
+                "ani kore sefer.",
+                "hi koret kol yom.",
+                "anachnu kor'im et ha-chadashot."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "sound": {
+        "en": [
+            "I hear a sound.",
+            "The sound is loud.",
+            "The sound of the rain is nice."
+        ],
+        "fr": [
+            "J'entends un son.",
+            "Le son est fort.",
+            "Le son de la pluie est agréable."
+        ],
+        "es": [
+            "Oigo un sonido.",
+            "El sonido es fuerte.",
+            "El sonido de la lluvia es agradable."
+        ],
+        "pt": [
+            "Eu ouço um som.",
+            "O som é alto.",
+            "O som da chuva é agradável."
+        ],
+        "ru": {
+            "cyr": [
+                "Я слышу звук.",
+                "Звук громкий.",
+                "Звук дождя приятный."
+            ],
+            "lat": [
+                "Ya slyshu zvuk.",
+                "Zvuk gromkiy.",
+                "Zvuk dozhdya priyatnyy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני שומע צליל.",
+                "הצליל חזק.",
+                "הצליל של הגשם נעים."
+            ],
+            "lat": [
+                "ani shomea tslil.",
+                "hatslil chazak.",
+                "hatslil shel hageshem naim."
+            ]
+        }
+    },
+    "validated": false
+}

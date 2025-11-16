@@ -1,0 +1,49 @@
+{
+    "drive": {
+        "en": [
+            "I drive a car.",
+            "She drives to work.",
+            "Can you drive tonight?"
+        ],
+        "fr": [
+            "Je conduis une voiture.",
+            "Elle conduit au travail.",
+            "Peux-tu conduire ce soir ?"
+        ],
+        "es": [
+            "Conduzco un coche.",
+            "Ella conduce al trabajo.",
+            "¿Puedes conducir esta noche?"
+        ],
+        "pt": [
+            "Eu dirijo um carro.",
+            "Ela dirige para o trabalho.",
+            "Você pode dirigir esta noite?"
+        ],
+        "ru": {
+            "cyr": [
+                "Я вожу машину.",
+                "Она ездит на работу на машине.",
+                "Ты можешь вести машину сегодня вечером?"
+            ],
+            "lat": [
+                "Ya vozhu mashinu.",
+                "Ona ezdit na rabotu na mashine.",
+                "Ty mozhesh' vesti mashinu segodnya vecherom?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני נוהג במכונית.",
+                "היא נוהגת לעבודה.",
+                "אתה יכול לנהוג הלילה?"
+            ],
+            "lat": [
+                "ani noheg be-mechonit.",
+                "hi noheget la-avoda.",
+                "ata yachol linhog halayla?"
+            ]
+        }
+    },
+    "validated": false
+}

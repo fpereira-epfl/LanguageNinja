@@ -1,0 +1,17 @@
+{
+    "problem": {
+        "en": "problem",
+        "fr": "problème",
+        "es": "problema",
+        "pt": "problema",
+        "ru": {
+            "cyr": "проблема",
+            "lat": "problema"
+        },
+        "il": {
+            "heb": "בעיה",
+            "lat": "beaya"
+        }
+    },
+    "validated": false
+}

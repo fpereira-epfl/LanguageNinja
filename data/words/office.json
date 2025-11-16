@@ -1,0 +1,17 @@
+{
+    "office": {
+        "en": "office",
+        "fr": "bureau",
+        "es": "oficina",
+        "pt": "escritório",
+        "ru": {
+            "cyr": "офис",
+            "lat": "ofis"
+        },
+        "il": {
+            "heb": "משרד",
+            "lat": "misrad"
+        }
+    },
+    "validated": false
+}

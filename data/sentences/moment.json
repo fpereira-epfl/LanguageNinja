@@ -1,0 +1,49 @@
+{
+    "moment": {
+        "en": [
+            "This moment is special.",
+            "One moment, please.",
+            "I remember that moment."
+        ],
+        "fr": [
+            "Ce moment est spécial.",
+            "Un moment, s'il vous plaît.",
+            "Je me souviens de ce moment-là."
+        ],
+        "es": [
+            "Este momento es especial.",
+            "Un momento, por favor.",
+            "Recuerdo ese momento."
+        ],
+        "pt": [
+            "Este momento é especial.",
+            "Um momento, por favor.",
+            "Eu me lembro desse momento."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот момент особенный.",
+                "Один момент, пожалуйста.",
+                "Я помню тот момент."
+            ],
+            "lat": [
+                "Etot moment osobennyy.",
+                "Odin moment, pozhaluysta.",
+                "Ya pomnyu tot moment."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הרגע הזה מיוחד.",
+                "רגע אחד, בבקשה.",
+                "אני זוכר את הרגע ההוא."
+            ],
+            "lat": [
+                "ha-rega ha-ze meyuchad.",
+                "rega echad, bevakasha.",
+                "ani zocher et ha-rega ha-hu."
+            ]
+        }
+    },
+    "validated": false
+}

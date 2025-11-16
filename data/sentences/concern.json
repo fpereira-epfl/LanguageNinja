@@ -1,0 +1,49 @@
+{
+    "concern": {
+        "en": [
+            "I have a concern.",
+            "Her health is a concern.",
+            "This is not your concern."
+        ],
+        "fr": [
+            "J'ai une inquiétude.",
+            "Sa santé est une préoccupation.",
+            "Cela ne te concerne pas."
+        ],
+        "es": [
+            "Tengo una preocupación.",
+            "Su salud es una preocupación.",
+            "Esto no te concierne."
+        ],
+        "pt": [
+            "Tenho uma preocupação.",
+            "A saúde dela é uma preocupação.",
+            "Isto não lhe diz respeito."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня есть беспокойство.",
+                "Её здоровье вызывает беспокойство.",
+                "Это тебя не касается."
+            ],
+            "lat": [
+                "U menya yest' bespokoystvo.",
+                "Yeyo zdorovye vyzyvayet bespokoystvo.",
+                "Eto tebya ne kasaetsya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי דאגה.",
+                "הבריאות שלה היא סיבה לדאגה.",
+                "זה לא עניינך."
+            ],
+            "lat": [
+                "yesh li da'aga.",
+                "ha-bri'ut shela hi siba le-da'aga.",
+                "ze lo inyancha."
+            ]
+        }
+    },
+    "validated": false
+}

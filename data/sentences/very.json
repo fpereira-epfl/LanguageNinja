@@ -1,0 +1,49 @@
+{
+    "very": {
+        "en": [
+            "The house is very big.",
+            "She is very tired.",
+            "The water is very cold."
+        ],
+        "fr": [
+            "La maison est très grande.",
+            "Elle est très fatiguée.",
+            "L'eau est très froide."
+        ],
+        "es": [
+            "La casa es muy grande.",
+            "Ella está muy cansada.",
+            "El agua está muy fría."
+        ],
+        "pt": [
+            "A casa é muito grande.",
+            "Ela está muito cansada.",
+            "A água está muito fria."
+        ],
+        "ru": {
+            "cyr": [
+                "Дом очень большой.",
+                "Она очень устала.",
+                "Вода очень холодная."
+            ],
+            "lat": [
+                "Dom ochen bolshoy.",
+                "Ona ochen ustala.",
+                "Voda ochen kholodnaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הבית מאוד גדול.",
+                "היא מאוד עייפה.",
+                "המים מאוד קרים."
+            ],
+            "lat": [
+                "habayit meod gadol.",
+                "hi meod ayefa.",
+                "hamayim meod karim."
+            ]
+        }
+    },
+    "validated": false
+}

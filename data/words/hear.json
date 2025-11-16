@@ -1,0 +1,17 @@
+{
+    "hear": {
+        "en": "hear",
+        "fr": "entendre",
+        "es": "oír",
+        "pt": "ouvir",
+        "ru": {
+            "cyr": "слышать",
+            "lat": "slyshat"
+        },
+        "il": {
+            "heb": "לשמוע",
+            "lat": "lishmoa"
+        }
+    },
+    "validated": false
+}

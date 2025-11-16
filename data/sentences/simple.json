@@ -1,0 +1,49 @@
+{
+    "simple": {
+        "en": [
+            "The task is simple.",
+            "This game is simple.",
+            "Her answer is simple."
+        ],
+        "fr": [
+            "La tâche est simple.",
+            "Ce jeu est simple.",
+            "Sa réponse est simple."
+        ],
+        "es": [
+            "La tarea es simple.",
+            "Este juego es simple.",
+            "Su respuesta es simple."
+        ],
+        "pt": [
+            "A tarefa é simples.",
+            "Este jogo é simples.",
+            "A resposta dela é simples."
+        ],
+        "ru": {
+            "cyr": [
+                "Задание простое.",
+                "Эта игра простая.",
+                "Её ответ простой."
+            ],
+            "lat": [
+                "Zadanie prostoe.",
+                "Eta igra prostaya.",
+                "Yeyo otvet prostoy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המשימה פשוטה.",
+                "המשחק הזה פשוט.",
+                "התשובה שלה פשוטה."
+            ],
+            "lat": [
+                "ha-mesima pshuta.",
+                "ha-mis'chak hazeh pashut.",
+                "ha-tshuva shela pshuta."
+            ]
+        }
+    },
+    "validated": false
+}

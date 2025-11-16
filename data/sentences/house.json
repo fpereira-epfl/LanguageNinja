@@ -1,0 +1,49 @@
+{
+    "house": {
+        "en": [
+            "The house is big.",
+            "My house is white.",
+            "We clean the house."
+        ],
+        "fr": [
+            "La maison est grande.",
+            "Ma maison est blanche.",
+            "Nous nettoyons la maison."
+        ],
+        "es": [
+            "La casa es grande.",
+            "Mi casa es blanca.",
+            "Limpiamos la casa."
+        ],
+        "pt": [
+            "A casa é grande.",
+            "Minha casa é branca.",
+            "Nós limpamos a casa."
+        ],
+        "ru": {
+            "cyr": [
+                "Дом большой.",
+                "Мой дом белый.",
+                "Мы убираем дом."
+            ],
+            "lat": [
+                "Dom bol’shoy.",
+                "Moy dom belyy.",
+                "My ubiraem dom."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הבית גדול.",
+                "הבית שלי לבן.",
+                "אנחנו מנקים את הבית."
+            ],
+            "lat": [
+                "habayit gadol.",
+                "habayit sheli lavan.",
+                "anachnu menakim et habayit."
+            ]
+        }
+    },
+    "validated": false
+}

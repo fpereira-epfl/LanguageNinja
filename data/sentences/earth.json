@@ -1,0 +1,49 @@
+{
+    "earth": {
+        "en": [
+            "The earth is wet.",
+            "Plants grow in the earth.",
+            "I touch the earth."
+        ],
+        "fr": [
+            "La terre est humide.",
+            "Les plantes poussent dans la terre.",
+            "Je touche la terre."
+        ],
+        "es": [
+            "La tierra está húmeda.",
+            "Las plantas crecen en la tierra.",
+            "Toco la tierra."
+        ],
+        "pt": [
+            "A terra está úmida.",
+            "As plantas crescem na terra.",
+            "Eu toco a terra."
+        ],
+        "ru": {
+            "cyr": [
+                "Земля влажная.",
+                "Растения растут в земле.",
+                "Я трогаю землю."
+            ],
+            "lat": [
+                "Zemlya vlazhnaya.",
+                "Rasteniya rastut v zemle.",
+                "Ya trogayu zemlyu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "האדמה רטובה.",
+                "צמחים גדלים באדמה.",
+                "אני נוגע באדמה."
+            ],
+            "lat": [
+                "ha-adama retuva.",
+                "tsmachim gdelim ba-adama.",
+                "ani nogea ba-adama."
+            ]
+        }
+    },
+    "validated": false
+}

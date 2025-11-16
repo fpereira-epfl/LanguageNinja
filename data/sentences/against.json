@@ -1,0 +1,49 @@
+{
+    "against": {
+        "en": [
+            "I am against the idea.",
+            "We played against them.",
+            "He is against war."
+        ],
+        "fr": [
+            "Je suis contre l'idée.",
+            "Nous avons joué contre eux.",
+            "Il est contre la guerre."
+        ],
+        "es": [
+            "Estoy en contra de la idea.",
+            "Jugamos contra ellos.",
+            "Él está en contra de la guerra."
+        ],
+        "pt": [
+            "Eu sou contra a ideia.",
+            "Jogamos contra eles.",
+            "Ele é contra a guerra."
+        ],
+        "ru": {
+            "cyr": [
+                "Я против этой идеи.",
+                "Мы играли против них.",
+                "Он против войны."
+            ],
+            "lat": [
+                "Ya protiv etoy idei.",
+                "My igrali protiv nikh.",
+                "On protiv voyny."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני נגד הרעיון.",
+                "שיחקנו נגדם.",
+                "הוא נגד מלחמה."
+            ],
+            "lat": [
+                "ani neged ha-ra'ayon.",
+                "sikhaknu negdam.",
+                "hu neged milchama."
+            ]
+        }
+    },
+    "validated": false
+}

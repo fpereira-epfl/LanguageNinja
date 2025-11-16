@@ -1,0 +1,17 @@
+{
+    "center": {
+        "en": "center",
+        "fr": "centre",
+        "es": "centro",
+        "pt": "centro",
+        "ru": {
+            "cyr": "центр",
+            "lat": "tsentr"
+        },
+        "il": {
+            "heb": "מרכז",
+            "lat": "merkaz"
+        }
+    },
+    "validated": false
+}

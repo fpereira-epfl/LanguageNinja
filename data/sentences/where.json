@@ -1,0 +1,49 @@
+{
+    "where": {
+        "en": [
+            "Where is the bathroom?",
+            "Where do you live?",
+            "Where are my keys?"
+        ],
+        "fr": [
+            "Où sont les toilettes ?",
+            "Où habites-tu ?",
+            "Où sont mes clés ?"
+        ],
+        "es": [
+            "¿Dónde está el baño?",
+            "¿Dónde vives?",
+            "¿Dónde están mis llaves?"
+        ],
+        "pt": [
+            "Onde fica o banheiro?",
+            "Onde você mora?",
+            "Onde estão minhas chaves?"
+        ],
+        "ru": {
+            "cyr": [
+                "Где туалет?",
+                "Где ты живёшь?",
+                "Где мои ключи?"
+            ],
+            "lat": [
+                "Gde tualet?",
+                "Gde ty zhivesh'?",
+                "Gde moi klyuchi?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "איפה השירותים?",
+                "איפה אתה גר?",
+                "איפה המפתחות שלי?"
+            ],
+            "lat": [
+                "eifo ha-sherutim?",
+                "eifo ata gar?",
+                "eifo ha-maftehot sheli?"
+            ]
+        }
+    },
+    "validated": false
+}

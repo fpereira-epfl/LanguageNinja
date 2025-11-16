@@ -1,0 +1,49 @@
+{
+    "only": {
+        "en": [
+            "I only have one sister.",
+            "It is only a game.",
+            "He works only at night."
+        ],
+        "fr": [
+            "J'ai seulement une sœur.",
+            "C'est seulement un jeu.",
+            "Il travaille seulement la nuit."
+        ],
+        "es": [
+            "Solo tengo una hermana.",
+            "Es solo un juego.",
+            "Él trabaja solo por la noche."
+        ],
+        "pt": [
+            "Eu tenho apenas uma irmã.",
+            "É apenas um jogo.",
+            "Ele trabalha apenas à noite."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня только одна сестра.",
+                "Это только игра.",
+                "Он работает только ночью."
+            ],
+            "lat": [
+                "U menya tolko odna sestra.",
+                "Eto tolko igra.",
+                "On rabotaet tolko nochyu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי רק אחות אחת.",
+                "זה רק משחק.",
+                "הוא עובד רק בלילה."
+            ],
+            "lat": [
+                "yesh li rak achot achat.",
+                "ze rak mischak.",
+                "hu oved rak balaila."
+            ]
+        }
+    },
+    "validated": false
+}

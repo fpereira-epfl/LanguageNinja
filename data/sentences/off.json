@@ -1,0 +1,49 @@
+{
+    "off": {
+        "en": [
+            "The light is off.",
+            "Turn off the TV.",
+            "My phone is off."
+        ],
+        "fr": [
+            "La lumière est éteinte.",
+            "Éteins la télé.",
+            "Mon téléphone est éteint."
+        ],
+        "es": [
+            "La luz está apagada.",
+            "Apaga la tele.",
+            "Mi teléfono está apagado."
+        ],
+        "pt": [
+            "A luz está desligada.",
+            "Desliga a TV.",
+            "Meu telefone está desligado."
+        ],
+        "ru": {
+            "cyr": [
+                "Свет выключен.",
+                "Выключи телевизор.",
+                "Мой телефон выключен."
+            ],
+            "lat": [
+                "Svet vyklyuchen.",
+                "Vyklyuchi televizor.",
+                "Moy telefon vyklyuchen."
+            ]
+        },
+        "il": {
+            "heb": [
+                "האור כבוי.",
+                "כבה את הטלוויזיה.",
+                "הטלפון שלי כבוי."
+            ],
+            "lat": [
+                "ha'or kabuy.",
+                "kabeh et ha-televizya.",
+                "ha-telefon sheli kabuy."
+            ]
+        }
+    },
+    "validated": false
+}

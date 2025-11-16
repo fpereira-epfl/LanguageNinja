@@ -1,0 +1,17 @@
+{
+    "general": {
+        "en": "general",
+        "fr": "général",
+        "es": "general",
+        "pt": "geral",
+        "ru": {
+            "cyr": "общий",
+            "lat": "obshchiy"
+        },
+        "il": {
+            "heb": "כללי",
+            "lat": "klali"
+        }
+    },
+    "validated": false
+}

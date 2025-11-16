@@ -1,0 +1,17 @@
+{
+    "public": {
+        "en": "public",
+        "fr": "public",
+        "es": "público",
+        "pt": "público",
+        "ru": {
+            "cyr": "публичный",
+            "lat": "publichnyy"
+        },
+        "il": {
+            "heb": "ציבורי",
+            "lat": "tziburi"
+        }
+    },
+    "validated": false
+}

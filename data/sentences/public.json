@@ -1,0 +1,49 @@
+{
+    "public": {
+        "en": [
+            "This is a public event.",
+            "He made a public statement.",
+            "This is a public library."
+        ],
+        "fr": [
+            "C'est un événement public.",
+            "Il a fait une déclaration publique.",
+            "C'est une bibliothèque publique."
+        ],
+        "es": [
+            "Este es un evento público.",
+            "Él hizo una declaración pública.",
+            "Esta es una biblioteca pública."
+        ],
+        "pt": [
+            "Este é um evento público.",
+            "Ele fez uma declaração pública.",
+            "Esta é uma biblioteca pública."
+        ],
+        "ru": {
+            "cyr": [
+                "Это публичное мероприятие.",
+                "Он сделал публичное заявление.",
+                "Это публичная библиотека."
+            ],
+            "lat": [
+                "Eto publichnoe meropriyatie.",
+                "On sdelal publichnoe zayavlenie.",
+                "Eto publichnaya biblioteka."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה אירוע ציבורי.",
+                "הוא עשה הצהרה ציבורית.",
+                "זו ספרייה ציבורית."
+            ],
+            "lat": [
+                "ze irua tziburi.",
+                "hu asa hatzhara tziburit.",
+                "zo sifriya tziburit."
+            ]
+        }
+    },
+    "validated": false
+}

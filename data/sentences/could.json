@@ -1,0 +1,49 @@
+{
+    "could": {
+        "en": [
+            "He could help.",
+            "She could come tomorrow.",
+            "They could call us."
+        ],
+        "fr": [
+            "Il pourrait aider.",
+            "Elle pourrait venir demain.",
+            "Ils pourraient nous appeler."
+        ],
+        "es": [
+            "Él podría ayudar.",
+            "Ella podría venir mañana.",
+            "Ellos podrían llamarnos."
+        ],
+        "pt": [
+            "Ele poderia ajudar.",
+            "Ela poderia vir amanhã.",
+            "Eles poderiam nos ligar."
+        ],
+        "ru": {
+            "cyr": [
+                "Он мог бы помочь.",
+                "Она могла бы прийти завтра.",
+                "Они могли бы нам позвонить."
+            ],
+            "lat": [
+                "On mog by pomoch’.",
+                "Ona mogla by priyti zavtra.",
+                "Oni mogli by nam pozvonit’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא יכול היה לעזור.",
+                "היא יכולה הייתה לבוא מחר.",
+                "הם יכולים היו להתקשר אלינו."
+            ],
+            "lat": [
+                "hu yakhol haya la'azor.",
+                "hi yekhola hayta lavo makhar.",
+                "hem yekholim hayu lehitk'asher eleinu."
+            ]
+        }
+    },
+    "validated": false
+}

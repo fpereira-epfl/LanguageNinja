@@ -1,0 +1,17 @@
+{
+    "these": {
+        "en": "these",
+        "fr": "ces",
+        "es": "estos",
+        "pt": "estes",
+        "ru": {
+            "cyr": "эти",
+            "lat": "eti"
+        },
+        "il": {
+            "heb": "אלה",
+            "lat": "ele"
+        }
+    },
+    "validated": false
+}

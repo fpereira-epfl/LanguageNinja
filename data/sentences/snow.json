@@ -1,0 +1,49 @@
+{
+    "snow": {
+        "en": [
+            "The snow is white.",
+            "I like snow.",
+            "There is snow today."
+        ],
+        "fr": [
+            "La neige est blanche.",
+            "J'aime la neige.",
+            "Il y a de la neige aujourd'hui."
+        ],
+        "es": [
+            "La nieve es blanca.",
+            "Me gusta la nieve.",
+            "Hay nieve hoy."
+        ],
+        "pt": [
+            "A neve é branca.",
+            "Eu gosto de neve.",
+            "Há neve hoje."
+        ],
+        "ru": {
+            "cyr": [
+                "Снег белый.",
+                "Мне нравится снег.",
+                "Сегодня снег."
+            ],
+            "lat": [
+                "Sneg belyy.",
+                "Mne nravitsya sneg.",
+                "Segodnya sneg."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השלג לבן.",
+                "אני אוהב שלג.",
+                "היום יש שלג."
+            ],
+            "lat": [
+                "hasheleg lavan.",
+                "ani ohev sheleg.",
+                "hayom yesh sheleg."
+            ]
+        }
+    },
+    "validated": false
+}

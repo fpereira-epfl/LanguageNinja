@@ -1,0 +1,17 @@
+{
+    "life": {
+        "en": "life",
+        "fr": "vie",
+        "es": "vida",
+        "pt": "vida",
+        "ru": {
+            "cyr": "жизнь",
+            "lat": "zhizn"
+        },
+        "il": {
+            "heb": "חיים",
+            "lat": "chayim"
+        }
+    },
+    "validated": false
+}

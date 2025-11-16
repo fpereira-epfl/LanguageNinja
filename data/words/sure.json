@@ -1,0 +1,17 @@
+{
+    "sure": {
+        "en": "sure",
+        "fr": "sûr",
+        "es": "seguro",
+        "pt": "seguro",
+        "ru": {
+            "cyr": "уверенный",
+            "lat": "uverennyi"
+        },
+        "il": {
+            "heb": "בטוח",
+            "lat": "batuach"
+        }
+    },
+    "validated": false
+}

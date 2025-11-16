@@ -1,0 +1,17 @@
+{
+    "small": {
+        "en": "small",
+        "fr": "petit",
+        "es": "pequeño",
+        "pt": "pequeno",
+        "ru": {
+            "cyr": "маленький",
+            "lat": "malenkiy"
+        },
+        "il": {
+            "heb": "קטן",
+            "lat": "katan"
+        }
+    },
+    "validated": false
+}

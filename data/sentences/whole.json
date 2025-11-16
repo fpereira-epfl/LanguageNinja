@@ -1,0 +1,49 @@
+{
+    "whole": {
+        "en": [
+            "I ate the whole apple.",
+            "The whole city is quiet.",
+            "She read the whole book."
+        ],
+        "fr": [
+            "J'ai mangé toute la pomme.",
+            "Toute la ville est calme.",
+            "Elle a lu tout le livre."
+        ],
+        "es": [
+            "Comí toda la manzana.",
+            "Toda la ciudad está tranquila.",
+            "Ella leyó todo el libro."
+        ],
+        "pt": [
+            "Eu comi toda a maçã.",
+            "Toda a cidade está calma.",
+            "Ela leu todo o livro."
+        ],
+        "ru": {
+            "cyr": [
+                "Я съел всё яблоко.",
+                "Весь город тихий.",
+                "Она прочитала всю книгу."
+            ],
+            "lat": [
+                "Ya syel vsyo yabloko.",
+                "Ves' gorod tikhiy.",
+                "Ona prochitala vsyu knigu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אכלתי את כל התפוח.",
+                "כל העיר שקטה.",
+                "היא קראה את כל הספר."
+            ],
+            "lat": [
+                "achalti et kol hatapuach.",
+                "kol ha'ir shketa.",
+                "hi kara et kol hasefer."
+            ]
+        }
+    },
+    "validated": false
+}

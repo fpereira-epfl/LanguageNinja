@@ -1,0 +1,49 @@
+{
+    "figure": {
+        "en": [
+            "I draw a figure.",
+            "The figure is simple.",
+            "That figure is famous."
+        ],
+        "fr": [
+            "Je dessine une figure.",
+            "La figure est simple.",
+            "Cette figure est célèbre."
+        ],
+        "es": [
+            "Dibujo una figura.",
+            "La figura es simple.",
+            "Esa figura es famosa."
+        ],
+        "pt": [
+            "Eu desenho uma figura.",
+            "A figura é simples.",
+            "Essa figura é famosa."
+        ],
+        "ru": {
+            "cyr": [
+                "Я рисую фигуру.",
+                "Фигура простая.",
+                "Та фигура известна."
+            ],
+            "lat": [
+                "Ya risuyu figuru.",
+                "Figura prostaya.",
+                "Ta figura izvestna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מצייר דמות.",
+                "הדמות פשוטה.",
+                "הדמות ההיא מפורסמת."
+            ],
+            "lat": [
+                "ani metzayer demut.",
+                "ha-demut pshuta.",
+                "ha-demut ha-hi mefursemet."
+            ]
+        }
+    },
+    "validated": false
+}

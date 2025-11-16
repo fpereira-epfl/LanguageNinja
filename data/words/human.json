@@ -1,0 +1,17 @@
+{
+    "human": {
+        "en": "human",
+        "fr": "humain",
+        "es": "humano",
+        "pt": "humano",
+        "ru": {
+            "cyr": "человек",
+            "lat": "chelovek"
+        },
+        "il": {
+            "heb": "אדם",
+            "lat": "adam"
+        }
+    },
+    "validated": false
+}

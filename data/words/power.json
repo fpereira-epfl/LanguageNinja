@@ -1,0 +1,17 @@
+{
+    "power": {
+        "en": "power",
+        "fr": "pouvoir",
+        "es": "poder",
+        "pt": "poder",
+        "ru": {
+            "cyr": "власть",
+            "lat": "vlast"
+        },
+        "il": {
+            "heb": "כוח",
+            "lat": "koach"
+        }
+    },
+    "validated": false
+}

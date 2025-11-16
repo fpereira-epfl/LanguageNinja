@@ -1,0 +1,49 @@
+{
+    "serve": {
+        "en": [
+            "They serve tea.",
+            "She serves the soup.",
+            "We serve dinner at six."
+        ],
+        "fr": [
+            "Ils servent du thé.",
+            "Elle sert la soupe.",
+            "Nous servons le dîner à six heures."
+        ],
+        "es": [
+            "Ellos sirven té.",
+            "Ella sirve la sopa.",
+            "Servimos la cena a las seis."
+        ],
+        "pt": [
+            "Eles servem chá.",
+            "Ela serve a sopa.",
+            "Servimos o jantar às seis."
+        ],
+        "ru": {
+            "cyr": [
+                "Они подают чай.",
+                "Она подаёт суп.",
+                "Мы подаём ужин в шесть."
+            ],
+            "lat": [
+                "Oni podayut chay.",
+                "Ona podayot sup.",
+                "My podayom uzhin v shest."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הם מגישים תה.",
+                "היא מגישה את המרק.",
+                "אנחנו מגישים ארוחת ערב בשש."
+            ],
+            "lat": [
+                "hem magishim te.",
+                "hi magisha et hamarak.",
+                "anachnu magishim aruchat erev beshesh."
+            ]
+        }
+    },
+    "validated": false
+}

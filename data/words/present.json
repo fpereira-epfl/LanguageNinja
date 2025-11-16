@@ -1,0 +1,17 @@
+{
+    "present": {
+        "en": "present",
+        "fr": "cadeau",
+        "es": "regalo",
+        "pt": "presente",
+        "ru": {
+            "cyr": "подарок",
+            "lat": "podarok"
+        },
+        "il": {
+            "heb": "מתנה",
+            "lat": "matana"
+        }
+    },
+    "validated": false
+}

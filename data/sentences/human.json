@@ -1,0 +1,49 @@
+{
+    "human": {
+        "en": [
+            "I am human.",
+            "Humans need water.",
+            "Human life is precious."
+        ],
+        "fr": [
+            "Je suis humain.",
+            "Les humains ont besoin d'eau.",
+            "La vie humaine est précieuse."
+        ],
+        "es": [
+            "Soy humano.",
+            "Los humanos necesitan agua.",
+            "La vida humana es preciosa."
+        ],
+        "pt": [
+            "Eu sou humano.",
+            "Os humanos precisam de água.",
+            "A vida humana é preciosa."
+        ],
+        "ru": {
+            "cyr": [
+                "Я человек.",
+                "Людям нужна вода.",
+                "Человеческая жизнь ценна."
+            ],
+            "lat": [
+                "Ya chelovek.",
+                "Lyudyam nuzhna voda.",
+                "Chelovecheskaya zhizn tsenna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני בן אדם.",
+                "בני אדם צריכים מים.",
+                "חיי אדם יקרים."
+            ],
+            "lat": [
+                "ani ben adam.",
+                "bnei adam tzrikhim mayim.",
+                "chayei adam yekarim."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "cost": {
+        "en": [
+            "The cost is high.",
+            "What is the cost?",
+            "The cost went down."
+        ],
+        "fr": [
+            "Le coût est élevé.",
+            "Quel est le coût ?",
+            "Le coût a baissé."
+        ],
+        "es": [
+            "El costo es alto.",
+            "¿Cuál es el costo?",
+            "El costo bajó."
+        ],
+        "pt": [
+            "O custo é alto.",
+            "Qual é o custo?",
+            "O custo baixou."
+        ],
+        "ru": {
+            "cyr": [
+                "Стоимость высокая.",
+                "Какова стоимость?",
+                "Стоимость снизилась."
+            ],
+            "lat": [
+                "Stoimost’ vysokaya.",
+                "Kakova stoimost’?",
+                "Stoimost’ snizilas’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "העלות גבוהה.",
+                "מה העלות?",
+                "העלות ירדה."
+            ],
+            "lat": [
+                "ha'alut gvoha.",
+                "ma ha'alut?",
+                "ha'alut yarda."
+            ]
+        }
+    },
+    "validated": false
+}

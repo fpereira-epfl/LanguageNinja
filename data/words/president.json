@@ -1,0 +1,17 @@
+{
+    "president": {
+        "en": "president",
+        "fr": "président",
+        "es": "presidente",
+        "pt": "presidente",
+        "ru": {
+            "cyr": "президент",
+            "lat": "prezident"
+        },
+        "il": {
+            "heb": "נשיא",
+            "lat": "nasi"
+        }
+    },
+    "validated": false
+}

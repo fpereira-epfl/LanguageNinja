@@ -1,0 +1,17 @@
+{
+    "god": {
+        "en": "god",
+        "fr": "dieu",
+        "es": "dios",
+        "pt": "deus",
+        "ru": {
+            "cyr": "бог",
+            "lat": "bog"
+        },
+        "il": {
+            "heb": "אל",
+            "lat": "el"
+        }
+    },
+    "validated": false
+}

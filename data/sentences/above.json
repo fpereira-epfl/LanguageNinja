@@ -1,0 +1,49 @@
+{
+    "above": {
+        "en": [
+            "The picture is above the bed.",
+            "Look above the door.",
+            "Birds fly above us."
+        ],
+        "fr": [
+            "Le tableau est au-dessus du lit.",
+            "Regarde au-dessus de la porte.",
+            "Les oiseaux volent au-dessus de nous."
+        ],
+        "es": [
+            "El cuadro está por encima de la cama.",
+            "Mira por encima de la puerta.",
+            "Los pájaros vuelan por encima de nosotros."
+        ],
+        "pt": [
+            "O quadro está acima da cama.",
+            "Olhe acima da porta.",
+            "Os pássaros voam acima de nós."
+        ],
+        "ru": {
+            "cyr": [
+                "Картина висит над кроватью.",
+                "Посмотри над дверью.",
+                "Птицы летают над нами."
+            ],
+            "lat": [
+                "Kartina visit nad krovat'yu.",
+                "Posmotri nad dver'yu.",
+                "Ptitsy letayut nad nami."
+            ]
+        },
+        "il": {
+            "heb": [
+                "התמונה מעל המיטה.",
+                "תסתכל מעל הדלת.",
+                "הציפורים עפות מעלינו."
+            ],
+            "lat": [
+                "hatmuna me'al hamita.",
+                "tistakel me'al hadelet.",
+                "hatziporim afot me'aleinu."
+            ]
+        }
+    },
+    "validated": false
+}

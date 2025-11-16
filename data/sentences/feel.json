@@ -1,0 +1,49 @@
+{
+    "feel": {
+        "en": [
+            "We feel happy.",
+            "I feel well.",
+            "She feels tired."
+        ],
+        "fr": [
+            "Nous nous sentons heureux.",
+            "Je me sens bien.",
+            "Elle se sent fatiguée."
+        ],
+        "es": [
+            "Nos sentimos felices.",
+            "Me siento bien.",
+            "Ella se siente cansada."
+        ],
+        "pt": [
+            "Nós nos sentimos felizes.",
+            "Eu me sinto bem.",
+            "Ela se sente cansada."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы чувствуем себя счастливыми.",
+                "Я чувствую себя хорошо.",
+                "Она чувствует себя уставшей."
+            ],
+            "lat": [
+                "My chuvstvuem sebya schastlivymi.",
+                "Ya chuvstvuyu sebya khorosho.",
+                "Ona chuvstvuet sebya ustavshey."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו מרגישים שמחים.",
+                "אני מרגיש טוב.",
+                "היא מרגישה עייפה."
+            ],
+            "lat": [
+                "anachnu margishim smechim.",
+                "ani margish tov.",
+                "hi margisha ayefa."
+            ]
+        }
+    },
+    "validated": false
+}

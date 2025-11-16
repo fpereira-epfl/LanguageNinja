@@ -1,0 +1,49 @@
+{
+    "why": {
+        "en": [
+            "Why are you sad?",
+            "Why is the sky blue?",
+            "Why do we study?"
+        ],
+        "fr": [
+            "Pourquoi es-tu triste ?",
+            "Pourquoi le ciel est-il bleu ?",
+            "Pourquoi étudions-nous ?"
+        ],
+        "es": [
+            "¿Por qué estás triste?",
+            "¿Por qué el cielo es azul?",
+            "¿Por qué estudiamos?"
+        ],
+        "pt": [
+            "Por que você está triste?",
+            "Por que o céu é azul?",
+            "Por que estudamos?"
+        ],
+        "ru": {
+            "cyr": [
+                "Почему тебе грустно?",
+                "Почему небо синее?",
+                "Почему мы учимся?"
+            ],
+            "lat": [
+                "Pochemu tebe grustno?",
+                "Pochemu nebo sinee?",
+                "Pochemu my uchimsya?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "למה אתה עצוב?",
+                "למה השמיים כחולים?",
+                "למה אנחנו לומדים?"
+            ],
+            "lat": [
+                "lama ata atzuv?",
+                "lama ha-shamayim kchulim?",
+                "lama anachnu lomedim?"
+            ]
+        }
+    },
+    "validated": false
+}

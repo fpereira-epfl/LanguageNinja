@@ -1,0 +1,49 @@
+{
+    "home": {
+        "en": [
+            "This is my home.",
+            "We go home.",
+            "He is at home."
+        ],
+        "fr": [
+            "C'est ma maison.",
+            "Nous allons à la maison.",
+            "Il est à la maison."
+        ],
+        "es": [
+            "Esta es mi casa.",
+            "Vamos a casa.",
+            "Él está en casa."
+        ],
+        "pt": [
+            "Esta é a minha casa.",
+            "Vamos para casa.",
+            "Ele está em casa."
+        ],
+        "ru": {
+            "cyr": [
+                "Это мой дом.",
+                "Мы идём домой.",
+                "Он дома."
+            ],
+            "lat": [
+                "Eto moy dom.",
+                "My idyom domoy.",
+                "On doma."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה הבית שלי.",
+                "אנחנו הולכים הביתה.",
+                "הוא בבית."
+            ],
+            "lat": [
+                "ze ha-bayit sheli.",
+                "anachnu holkhim habayta.",
+                "hu babayit."
+            ]
+        }
+    },
+    "validated": false
+}

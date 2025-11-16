@@ -1,0 +1,17 @@
+{
+    "sense": {
+        "en": "sense",
+        "fr": "sens",
+        "es": "sentido",
+        "pt": "sentido",
+        "ru": {
+            "cyr": "чувство",
+            "lat": "chuvstvo"
+        },
+        "il": {
+            "heb": "חוש",
+            "lat": "chush"
+        }
+    },
+    "validated": false
+}

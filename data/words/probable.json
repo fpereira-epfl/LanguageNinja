@@ -1,0 +1,17 @@
+{
+    "probable": {
+        "en": "probable",
+        "fr": "probable",
+        "es": "probable",
+        "pt": "provável",
+        "ru": {
+            "cyr": "вероятный",
+            "lat": "veroyatnyy"
+        },
+        "il": {
+            "heb": "סביר",
+            "lat": "savir"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "control": {
+        "en": "control",
+        "fr": "contrôle",
+        "es": "control",
+        "pt": "controlo",
+        "ru": {
+            "cyr": "контроль",
+            "lat": "kontrol"
+        },
+        "il": {
+            "heb": "שליטה",
+            "lat": "shlita"
+        }
+    },
+    "validated": false
+}

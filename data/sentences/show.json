@@ -1,0 +1,49 @@
+{
+    "show": {
+        "en": [
+            "I am showing you the photo.",
+            "Can you show me the way?",
+            "She showed us her house."
+        ],
+        "fr": [
+            "Je te montre la photo.",
+            "Peux-tu me montrer le chemin ?",
+            "Elle nous a montré sa maison."
+        ],
+        "es": [
+            "Te muestro la foto.",
+            "¿Puedes mostrarme el camino?",
+            "Ella nos mostró su casa."
+        ],
+        "pt": [
+            "Eu te mostro a foto.",
+            "Você pode me mostrar o caminho?",
+            "Ela nos mostrou sua casa."
+        ],
+        "ru": {
+            "cyr": [
+                "Я показываю тебе фотографию.",
+                "Ты можешь показать мне дорогу?",
+                "Она показала нам свой дом."
+            ],
+            "lat": [
+                "Ya pokazyvayu tebe fotografiyu.",
+                "Ty mozhesh’ pokazat’ mne dorogu?",
+                "Ona pokazala nam svoy dom."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מראה לך את התמונה.",
+                "אתה יכול להראות לי את הדרך?",
+                "היא הראתה לנו את הבית שלה."
+            ],
+            "lat": [
+                "ani mare lekha et hatmuna.",
+                "ata yakhol leharot li et haderekh?",
+                "hi hireta lanu et habayit shela."
+            ]
+        }
+    },
+    "validated": false
+}

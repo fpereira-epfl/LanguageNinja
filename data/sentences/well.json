@@ -1,0 +1,49 @@
+{
+    "well": {
+        "en": [
+            "She sings well.",
+            "He cooks well.",
+            "The baby sleeps well."
+        ],
+        "fr": [
+            "Elle chante bien.",
+            "Il cuisine bien.",
+            "Le bébé dort bien."
+        ],
+        "es": [
+            "Ella canta bien.",
+            "Él cocina bien.",
+            "El bebé duerme bien."
+        ],
+        "pt": [
+            "Ela canta bem.",
+            "Ele cozinha bem.",
+            "O bebê dorme bem."
+        ],
+        "ru": {
+            "cyr": [
+                "Она поёт хорошо.",
+                "Он хорошо готовит.",
+                "Ребёнок хорошо спит."
+            ],
+            "lat": [
+                "Ona poyot khorosho.",
+                "On khorosho gotovit.",
+                "Rebyonok khorosho spit."
+            ]
+        },
+        "il": {
+            "heb": [
+                "היא שרה טוב.",
+                "הוא מבשל טוב.",
+                "התינוק ישן טוב."
+            ],
+            "lat": [
+                "hi shara tov.",
+                "hu mevashel tov.",
+                "hatinok yashen tov."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "result": {
+        "en": "result",
+        "fr": "résultat",
+        "es": "resultado",
+        "pt": "resultado",
+        "ru": {
+            "cyr": "результат",
+            "lat": "rezultat"
+        },
+        "il": {
+            "heb": "תוצאה",
+            "lat": "totsaa"
+        }
+    },
+    "validated": false
+}

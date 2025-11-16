@@ -1,0 +1,49 @@
+{
+    "doctor": {
+        "en": [
+            "The doctor is here.",
+            "She is a doctor.",
+            "I need a doctor."
+        ],
+        "fr": [
+            "Le médecin est ici.",
+            "Elle est médecin.",
+            "J'ai besoin d'un médecin."
+        ],
+        "es": [
+            "El médico está aquí.",
+            "Ella es médica.",
+            "Necesito un médico."
+        ],
+        "pt": [
+            "O médico está aqui.",
+            "Ela é médica.",
+            "Preciso de um médico."
+        ],
+        "ru": {
+            "cyr": [
+                "Врач здесь.",
+                "Она врач.",
+                "Мне нужен врач."
+            ],
+            "lat": [
+                "Vrach zdes'.",
+                "Ona vrach.",
+                "Mne nuzhen vrach."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הרופא כאן.",
+                "היא רופאה.",
+                "אני צריך רופא."
+            ],
+            "lat": [
+                "harofe kan.",
+                "hi rof'a.",
+                "ani tsarikh rofe."
+            ]
+        }
+    },
+    "validated": false
+}

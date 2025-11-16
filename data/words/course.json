@@ -1,0 +1,17 @@
+{
+    "course": {
+        "en": "course",
+        "fr": "cours",
+        "es": "curso",
+        "pt": "curso",
+        "ru": {
+            "cyr": "курс",
+            "lat": "kurs"
+        },
+        "il": {
+            "heb": "קורס",
+            "lat": "kurs"
+        }
+    },
+    "validated": false
+}

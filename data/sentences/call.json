@@ -1,0 +1,49 @@
+{
+    "call": {
+        "en": [
+            "Call me tonight.",
+            "She calls her mom every day.",
+            "Can you call the doctor?"
+        ],
+        "fr": [
+            "Appelle-moi ce soir.",
+            "Elle appelle sa mère tous les jours.",
+            "Peux-tu appeler le médecin ?"
+        ],
+        "es": [
+            "Llámame esta noche.",
+            "Ella llama a su mamá todos los días.",
+            "¿Puedes llamar al médico?"
+        ],
+        "pt": [
+            "Liga para mim hoje à noite.",
+            "Ela liga para a mãe dela todos os dias.",
+            "Você pode ligar para o médico?"
+        ],
+        "ru": {
+            "cyr": [
+                "Позвони мне сегодня вечером.",
+                "Она звонит своей маме каждый день.",
+                "Ты можешь позвонить врачу?"
+            ],
+            "lat": [
+                "Pozvoni mne segodnya vecherom.",
+                "Ona zvonit svoey mame kazhdyy den’.",
+                "Ty mozhesh’ pozvonit’ vrachu?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "תתקשר אליי הערב.",
+                "היא מתקשרת לאמא שלה כל יום.",
+                "אתה יכול להתקשר לרופא?"
+            ],
+            "lat": [
+                "titkasher elay haerev.",
+                "hi mitkasheret leima shela kol yom.",
+                "ata yakhol lehitkasher lerofe?"
+            ]
+        }
+    },
+    "validated": false
+}

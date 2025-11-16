@@ -1,0 +1,17 @@
+{
+    "carry": {
+        "en": "carry",
+        "fr": "porter",
+        "es": "llevar",
+        "pt": "carregar",
+        "ru": {
+            "cyr": "нести",
+            "lat": "nesti"
+        },
+        "il": {
+            "heb": "לשאת",
+            "lat": "laset"
+        }
+    },
+    "validated": false
+}

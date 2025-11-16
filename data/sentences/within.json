@@ -1,0 +1,49 @@
+{
+    "within": {
+        "en": [
+            "The key is within the box.",
+            "Stay within the lines.",
+            "Finish within an hour."
+        ],
+        "fr": [
+            "La clé est dans la boîte.",
+            "Reste dans les lignes.",
+            "Termine en moins d'une heure."
+        ],
+        "es": [
+            "La llave está dentro de la caja.",
+            "Quédate dentro de las líneas.",
+            "Termina en menos de una hora."
+        ],
+        "pt": [
+            "A chave está dentro da caixa.",
+            "Fique dentro das linhas.",
+            "Termine em menos de uma hora."
+        ],
+        "ru": {
+            "cyr": [
+                "Ключ находится внутри коробки.",
+                "Оставайся внутри линий.",
+                "Закончи в течение часа."
+            ],
+            "lat": [
+                "Klyuch nakhoditsya vnutri korobki.",
+                "Ostavaysya vnutri liniy.",
+                "Zakonchi v techeniye chasa."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המפתח בתוך הקופסה.",
+                "תישאר בתוך הקווים.",
+                "סיים תוך שעה."
+            ],
+            "lat": [
+                "ha-mafteach betoch ha-kufsa.",
+                "tisha'er betoch ha-kavim.",
+                "sayem toch sha'a."
+            ]
+        }
+    },
+    "validated": false
+}

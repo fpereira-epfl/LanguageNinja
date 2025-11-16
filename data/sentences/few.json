@@ -1,0 +1,49 @@
+{
+    "few": {
+        "en": [
+            "I have few books.",
+            "There are few people here.",
+            "We have few options."
+        ],
+        "fr": [
+            "J'ai peu de livres.",
+            "Il y a peu de gens ici.",
+            "Nous avons peu d'options."
+        ],
+        "es": [
+            "Tengo pocos libros.",
+            "Hay pocas personas aquí.",
+            "Tenemos pocas opciones."
+        ],
+        "pt": [
+            "Tenho poucos livros.",
+            "Há poucas pessoas aqui.",
+            "Temos poucas opções."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня мало книг.",
+                "Здесь мало людей.",
+                "У нас мало вариантов."
+            ],
+            "lat": [
+                "U menya malo knig.",
+                "Zdes' malo lyudey.",
+                "U nas malo variantov."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי מעט ספרים.",
+                "יש כאן מעט אנשים.",
+                "יש לנו מעט אפשרויות."
+            ],
+            "lat": [
+                "yesh li me'at sfarim.",
+                "yesh kan me'at anashim.",
+                "yesh lanu me'at efsharuyot."
+            ]
+        }
+    },
+    "validated": false
+}

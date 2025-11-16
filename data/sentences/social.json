@@ -1,0 +1,49 @@
+{
+    "social": {
+        "en": [
+            "This is a social event.",
+            "Social media is popular.",
+            "We study social changes."
+        ],
+        "fr": [
+            "C'est un événement social.",
+            "Les réseaux sociaux sont populaires.",
+            "Nous étudions les changements sociaux."
+        ],
+        "es": [
+            "Este es un evento social.",
+            "Las redes sociales son populares.",
+            "Estudiamos los cambios sociales."
+        ],
+        "pt": [
+            "Este é um evento social.",
+            "As redes sociais são populares.",
+            "Estudamos as mudanças sociais."
+        ],
+        "ru": {
+            "cyr": [
+                "Это социальное событие.",
+                "Социальные сети популярны.",
+                "Мы изучаем социальные изменения."
+            ],
+            "lat": [
+                "Eto sotsialnoye sobytiye.",
+                "Sotsialnye seti populyarny.",
+                "My izuchayem sotsialnye izmeneniya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זה אירוע חברתי.",
+                "הרשתות החברתיות פופולריות.",
+                "אנחנו לומדים שינויים חברתיים."
+            ],
+            "lat": [
+                "ze erua chevrati.",
+                "ha-reshetot ha-chevratiyot populariyot.",
+                "anachnu lomedim shinuyim chevratiyim."
+            ]
+        }
+    },
+    "validated": false
+}

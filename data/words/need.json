@@ -1,0 +1,17 @@
+{
+    "need": {
+        "en": "need",
+        "fr": "avoir besoin de",
+        "es": "necesitar",
+        "pt": "precisar",
+        "ru": {
+            "cyr": "нуждаться",
+            "lat": "nuzhdatsya"
+        },
+        "il": {
+            "heb": "צריך",
+            "lat": "tsarich"
+        }
+    },
+    "validated": false
+}

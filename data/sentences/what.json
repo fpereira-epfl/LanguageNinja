@@ -1,0 +1,49 @@
+{
+    "what": {
+        "en": [
+            "What is this?",
+            "What do you want?",
+            "What time is it?"
+        ],
+        "fr": [
+            "Qu'est-ce que c'est ?",
+            "Qu'est-ce que tu veux ?",
+            "Quelle heure est-il ?"
+        ],
+        "es": [
+            "¿Qué es esto?",
+            "¿Qué quieres?",
+            "¿Qué hora es?"
+        ],
+        "pt": [
+            "O que é isso?",
+            "O que você quer?",
+            "Que horas são?"
+        ],
+        "ru": {
+            "cyr": [
+                "Что это?",
+                "Что ты хочешь?",
+                "Сколько времени?"
+            ],
+            "lat": [
+                "Chto eto?",
+                "Chto ty khochesh'?",
+                "Skol'ko vremeni?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "מה זה?",
+                "מה אתה רוצה?",
+                "מה השעה?"
+            ],
+            "lat": [
+                "ma ze?",
+                "ma ata rotze?",
+                "ma ha-sha'a?"
+            ]
+        }
+    },
+    "validated": false
+}

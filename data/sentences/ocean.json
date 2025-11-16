@@ -1,0 +1,49 @@
+{
+    "ocean": {
+        "en": [
+            "The ocean is big.",
+            "I swim in the ocean.",
+            "There are waves in the ocean."
+        ],
+        "fr": [
+            "L'océan est grand.",
+            "Je nage dans l'océan.",
+            "Il y a des vagues dans l'océan."
+        ],
+        "es": [
+            "El océano es grande.",
+            "Nado en el océano.",
+            "Hay olas en el océano."
+        ],
+        "pt": [
+            "O oceano é grande.",
+            "Eu nado no oceano.",
+            "Há ondas no oceano."
+        ],
+        "ru": {
+            "cyr": [
+                "Океан большой.",
+                "Я плаваю в океане.",
+                "В океане есть волны."
+            ],
+            "lat": [
+                "Okean bol'shoy.",
+                "Ya plavayu v okeane.",
+                "V okeane yest' volny."
+            ]
+        },
+        "il": {
+            "heb": [
+                "האוקיינוס גדול.",
+                "אני שוחה באוקיינוס.",
+                "יש גלים באוקיינוס."
+            ],
+            "lat": [
+                "haokyanus gadol.",
+                "ani soche baokyanus.",
+                "yesh galim baokyanus."
+            ]
+        }
+    },
+    "validated": false
+}

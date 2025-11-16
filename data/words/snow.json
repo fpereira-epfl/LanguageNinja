@@ -1,0 +1,17 @@
+{
+    "snow": {
+        "en": "snow",
+        "fr": "neige",
+        "es": "nieve",
+        "pt": "neve",
+        "ru": {
+            "cyr": "снег",
+            "lat": "sneg"
+        },
+        "il": {
+            "heb": "שלג",
+            "lat": "sheleg"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "free": {
+        "en": "free",
+        "fr": "libre",
+        "es": "libre",
+        "pt": "livre",
+        "ru": {
+            "cyr": "свободный",
+            "lat": "svobodnyy"
+        },
+        "il": {
+            "heb": "חופשי",
+            "lat": "chofshi"
+        }
+    },
+    "validated": false
+}

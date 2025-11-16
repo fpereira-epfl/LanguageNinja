@@ -1,0 +1,17 @@
+{
+    "set": {
+        "en": "set",
+        "fr": "ensemble",
+        "es": "conjunto",
+        "pt": "conjunto",
+        "ru": {
+            "cyr": "набор",
+            "lat": "nabor"
+        },
+        "il": {
+            "heb": "קבוצה",
+            "lat": "kvutza"
+        }
+    },
+    "validated": false
+}

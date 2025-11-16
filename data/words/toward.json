@@ -1,0 +1,17 @@
+{
+    "toward": {
+        "en": "toward",
+        "fr": "vers",
+        "es": "hacia",
+        "pt": "em direção a",
+        "ru": {
+            "cyr": "к",
+            "lat": "k"
+        },
+        "il": {
+            "heb": "לכיוון",
+            "lat": "lekivun"
+        }
+    },
+    "validated": false
+}

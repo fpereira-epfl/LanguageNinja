@@ -1,0 +1,49 @@
+{
+    "thing": {
+        "en": [
+            "This thing is new.",
+            "I like this thing.",
+            "What is this thing?"
+        ],
+        "fr": [
+            "Cette chose est nouvelle.",
+            "J'aime cette chose.",
+            "Qu'est-ce que c'est que cette chose ?"
+        ],
+        "es": [
+            "Esta cosa es nueva.",
+            "Me gusta esta cosa.",
+            "¿Qué es esta cosa?"
+        ],
+        "pt": [
+            "Esta coisa é nova.",
+            "Eu gosto desta coisa.",
+            "O que é esta coisa?"
+        ],
+        "ru": {
+            "cyr": [
+                "Эта вещь новая.",
+                "Мне нравится эта вещь.",
+                "Что это за вещь?"
+            ],
+            "lat": [
+                "Eta veshch novaya.",
+                "Mne nravitsya eta veshch.",
+                "Chto eto za veshch?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "הדבר הזה חדש.",
+                "אני אוהב את הדבר הזה.",
+                "מה זה הדבר הזה?"
+            ],
+            "lat": [
+                "ha-davar hazeh chadash.",
+                "ani ohev et ha-davar hazeh.",
+                "ma ze ha-davar hazeh?"
+            ]
+        }
+    },
+    "validated": false
+}

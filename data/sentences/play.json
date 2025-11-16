@@ -1,0 +1,49 @@
+{
+    "play": {
+        "en": [
+            "We play every day.",
+            "They play football.",
+            "I like to play."
+        ],
+        "fr": [
+            "Nous jouons tous les jours.",
+            "Ils jouent au football.",
+            "J'aime jouer."
+        ],
+        "es": [
+            "Jugamos todos los días.",
+            "Ellos juegan al fútbol.",
+            "Me gusta jugar."
+        ],
+        "pt": [
+            "Jogamos todos os dias.",
+            "Eles jogam futebol.",
+            "Eu gosto de jogar."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы играем каждый день.",
+                "Они играют в футбол.",
+                "Мне нравится играть."
+            ],
+            "lat": [
+                "My igraem kazhdy den'.",
+                "Oni igrayut v futbol.",
+                "Mne nravitsya igrat’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו משחקים כל יום.",
+                "הם משחקים כדורגל.",
+                "אני אוהב לשחק."
+            ],
+            "lat": [
+                "anachnu mesachakim kol yom.",
+                "hem mesachakim kaduregel.",
+                "ani ohev lesachek."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "easy": {
+        "en": "easy",
+        "fr": "facile",
+        "es": "fácil",
+        "pt": "fácil",
+        "ru": {
+            "cyr": "легкий",
+            "lat": "legkiy"
+        },
+        "il": {
+            "heb": "קל",
+            "lat": "kal"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "spirit": {
+        "en": "spirit",
+        "fr": "esprit",
+        "es": "espíritu",
+        "pt": "espírito",
+        "ru": {
+            "cyr": "дух",
+            "lat": "dukh"
+        },
+        "il": {
+            "heb": "רוח",
+            "lat": "ruach"
+        }
+    },
+    "validated": false
+}

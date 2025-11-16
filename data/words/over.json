@@ -1,0 +1,17 @@
+{
+    "over": {
+        "en": "over",
+        "fr": "au-dessus de",
+        "es": "sobre",
+        "pt": "sobre",
+        "ru": {
+            "cyr": "над",
+            "lat": "nad"
+        },
+        "il": {
+            "heb": "מעל",
+            "lat": "me'al"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "also": {
+        "en": [
+            "I also like tea.",
+            "She is also a student.",
+            "We also live here."
+        ],
+        "fr": [
+            "J'aime aussi le thé.",
+            "Elle est aussi étudiante.",
+            "Nous habitons aussi ici."
+        ],
+        "es": [
+            "También me gusta el té.",
+            "Ella también es estudiante.",
+            "También vivimos aquí."
+        ],
+        "pt": [
+            "Também gosto de chá.",
+            "Ela também é estudante.",
+            "Também moramos aqui."
+        ],
+        "ru": {
+            "cyr": [
+                "Я тоже люблю чай.",
+                "Она тоже студентка.",
+                "Мы тоже живём здесь."
+            ],
+            "lat": [
+                "Ya tozhe lyublyu chay.",
+                "Ona tozhe studentka.",
+                "My tozhe zhivyom zdes'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני גם אוהב תה.",
+                "היא גם סטודנטית.",
+                "אנחנו גם גרים כאן."
+            ],
+            "lat": [
+                "ani gam ohev te.",
+                "hi gam studentit.",
+                "anachnu gam garim kan."
+            ]
+        }
+    },
+    "validated": false
+}

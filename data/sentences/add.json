@@ -1,0 +1,49 @@
+{
+    "add": {
+        "en": [
+            "I add sugar.",
+            "Add water, please.",
+            "We add milk."
+        ],
+        "fr": [
+            "J'ajoute du sucre.",
+            "Ajoutez de l'eau, s'il vous plaît.",
+            "Nous ajoutons du lait."
+        ],
+        "es": [
+            "Yo añado azúcar.",
+            "Añada agua, por favor.",
+            "Nosotros añadimos leche."
+        ],
+        "pt": [
+            "Eu adiciono açúcar.",
+            "Adicione água, por favor.",
+            "Nós adicionamos leite."
+        ],
+        "ru": {
+            "cyr": [
+                "Я добавляю сахар.",
+                "Добавьте воды, пожалуйста.",
+                "Мы добавляем молоко."
+            ],
+            "lat": [
+                "Ya dobavlyayu sakhar.",
+                "Dobav’te vody, pozhaluysta.",
+                "My dobavlyaem moloko."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מוסיף סוכר.",
+                "הוסף מים, בבקשה.",
+                "אנחנו מוסיפים חלב."
+            ],
+            "lat": [
+                "ani mosif sukar.",
+                "hosef mayim, bevakasha.",
+                "anachnu mosifim chalav."
+            ]
+        }
+    },
+    "validated": false
+}

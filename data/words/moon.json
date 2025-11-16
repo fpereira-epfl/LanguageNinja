@@ -1,0 +1,17 @@
+{
+    "moon": {
+        "en": "moon",
+        "fr": "lune",
+        "es": "luna",
+        "pt": "lua",
+        "ru": {
+            "cyr": "луна",
+            "lat": "luna"
+        },
+        "il": {
+            "heb": "ירח",
+            "lat": "yareach"
+        }
+    },
+    "validated": false
+}

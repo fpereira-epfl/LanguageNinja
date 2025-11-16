@@ -1,0 +1,17 @@
+{
+    "teach": {
+        "en": "teach",
+        "fr": "enseigner",
+        "es": "enseñar",
+        "pt": "ensinar",
+        "ru": {
+            "cyr": "учить",
+            "lat": "uchit"
+        },
+        "il": {
+            "heb": "ללמד",
+            "lat": "lelamed"
+        }
+    },
+    "validated": false
+}

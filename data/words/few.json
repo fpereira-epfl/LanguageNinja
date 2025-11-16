@@ -1,0 +1,17 @@
+{
+    "few": {
+        "en": "few",
+        "fr": "peu",
+        "es": "pocos",
+        "pt": "poucos",
+        "ru": {
+            "cyr": "мало",
+            "lat": "malo"
+        },
+        "il": {
+            "heb": "מעט",
+            "lat": "me'at"
+        }
+    },
+    "validated": false
+}

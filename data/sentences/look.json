@@ -1,0 +1,49 @@
+{
+    "look": {
+        "en": [
+            "Look at the sky.",
+            "I look at the picture.",
+            "We look out the window."
+        ],
+        "fr": [
+            "Regarde le ciel.",
+            "Je regarde l'image.",
+            "Nous regardons par la fenêtre."
+        ],
+        "es": [
+            "Mira el cielo.",
+            "Miro la imagen.",
+            "Miramos por la ventana."
+        ],
+        "pt": [
+            "Olha o céu.",
+            "Olho para a imagem.",
+            "Olhamos pela janela."
+        ],
+        "ru": {
+            "cyr": [
+                "Смотри на небо.",
+                "Я смотрю на картинку.",
+                "Мы смотрим в окно."
+            ],
+            "lat": [
+                "Smotri na nebo.",
+                "Ya smotryu na kartinku.",
+                "My smotrim v okno."
+            ]
+        },
+        "il": {
+            "heb": [
+                "תסתכל על השמיים.",
+                "אני מסתכל על התמונה.",
+                "אנחנו מסתכלים דרך החלון."
+            ],
+            "lat": [
+                "tistakel al ha-shamayim.",
+                "ani mistakel al ha-tmuna.",
+                "anachnu mistaklim derech ha-chalon."
+            ]
+        }
+    },
+    "validated": false
+}

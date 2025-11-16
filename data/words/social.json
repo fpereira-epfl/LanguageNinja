@@ -1,0 +1,17 @@
+{
+    "social": {
+        "en": "social",
+        "fr": "social",
+        "es": "social",
+        "pt": "social",
+        "ru": {
+            "cyr": "социальный",
+            "lat": "sotsialny"
+        },
+        "il": {
+            "heb": "חברתי",
+            "lat": "chevrati"
+        }
+    },
+    "validated": false
+}

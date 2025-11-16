@@ -1,0 +1,49 @@
+{
+    "question": {
+        "en": [
+            "I have a question.",
+            "The question is simple.",
+            "He answers the question."
+        ],
+        "fr": [
+            "J'ai une question.",
+            "La question est simple.",
+            "Il répond à la question."
+        ],
+        "es": [
+            "Tengo una pregunta.",
+            "La pregunta es simple.",
+            "Él responde a la pregunta."
+        ],
+        "pt": [
+            "Tenho uma pergunta.",
+            "A pergunta é simples.",
+            "Ele responde à pergunta."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня есть вопрос.",
+                "Вопрос простой.",
+                "Он отвечает на вопрос."
+            ],
+            "lat": [
+                "U menya yest’ vopros.",
+                "Vopros prostoy.",
+                "On otvechayet na vopros."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי שאלה.",
+                "השאלה פשוטה.",
+                "הוא עונה על השאלה."
+            ],
+            "lat": [
+                "yesh li sheela.",
+                "hasheela peshuta.",
+                "hu one al hasheela."
+            ]
+        }
+    },
+    "validated": false
+}

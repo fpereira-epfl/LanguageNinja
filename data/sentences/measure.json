@@ -1,0 +1,49 @@
+{
+    "measure": {
+        "en": [
+            "Measure the table.",
+            "We measure the room.",
+            "This is a good measure."
+        ],
+        "fr": [
+            "Mesure la table.",
+            "Nous mesurons la pièce.",
+            "C'est une bonne mesure."
+        ],
+        "es": [
+            "Mide la mesa.",
+            "Medimos la habitación.",
+            "Es una buena medida."
+        ],
+        "pt": [
+            "Meça a mesa.",
+            "Nós medimos o quarto.",
+            "É uma boa medida."
+        ],
+        "ru": {
+            "cyr": [
+                "Измерь стол.",
+                "Мы измеряем комнату.",
+                "Это хорошая мера."
+            ],
+            "lat": [
+                "Izmer’ stol.",
+                "My izmeryaem komnatu.",
+                "Eto khoroshaya mera."
+            ]
+        },
+        "il": {
+            "heb": [
+                "מדוד את השולחן.",
+                "אנחנו מודדים את החדר.",
+                "זה צעד טוב."
+            ],
+            "lat": [
+                "medod et hashulchan.",
+                "anachnu modedim et hacheder.",
+                "ze tsa'ad tov."
+            ]
+        }
+    },
+    "validated": false
+}

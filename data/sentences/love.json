@@ -1,0 +1,49 @@
+{
+    "love": {
+        "en": [
+            "Love is strong.",
+            "I feel love.",
+            "They need love."
+        ],
+        "fr": [
+            "L'amour est fort.",
+            "Je ressens de l'amour.",
+            "Ils ont besoin d'amour."
+        ],
+        "es": [
+            "El amor es fuerte.",
+            "Siento amor.",
+            "Ellos necesitan amor."
+        ],
+        "pt": [
+            "O amor é forte.",
+            "Sinto amor.",
+            "Eles precisam de amor."
+        ],
+        "ru": {
+            "cyr": [
+                "Любовь сильна.",
+                "Я чувствую любовь.",
+                "Им нужна любовь."
+            ],
+            "lat": [
+                "Lyubov silna.",
+                "Ya chuvstvuyu lyubov.",
+                "Im nuzhna lyubov."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אהבה חזקה.",
+                "אני מרגיש אהבה.",
+                "הם צריכים אהבה."
+            ],
+            "lat": [
+                "ahava chazaka.",
+                "ani margish ahava.",
+                "hem tzrikhim ahava."
+            ]
+        }
+    },
+    "validated": false
+}

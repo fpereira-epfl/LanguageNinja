@@ -1,0 +1,49 @@
+{
+    "nothing": {
+        "en": [
+            "I see nothing.",
+            "There is nothing here.",
+            "She said nothing."
+        ],
+        "fr": [
+            "Je ne vois rien.",
+            "Il n'y a rien ici.",
+            "Elle n'a rien dit."
+        ],
+        "es": [
+            "No veo nada.",
+            "No hay nada aquí.",
+            "Ella no dijo nada."
+        ],
+        "pt": [
+            "Eu não vejo nada.",
+            "Não há nada aqui.",
+            "Ela não disse nada."
+        ],
+        "ru": {
+            "cyr": [
+                "Я ничего не вижу.",
+                "Здесь ничего нет.",
+                "Она ничего не сказала."
+            ],
+            "lat": [
+                "Ya nichego ne vizhu.",
+                "Zdes’ nichego net.",
+                "Ona nichego ne skazala."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני לא רואה כלום.",
+                "אין כאן כלום.",
+                "היא לא אמרה כלום."
+            ],
+            "lat": [
+                "ani lo ro'eh klum.",
+                "ein kan klum.",
+                "hi lo amra klum."
+            ]
+        }
+    },
+    "validated": false
+}

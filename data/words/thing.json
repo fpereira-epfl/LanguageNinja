@@ -1,0 +1,17 @@
+{
+    "thing": {
+        "en": "thing",
+        "fr": "chose",
+        "es": "cosa",
+        "pt": "coisa",
+        "ru": {
+            "cyr": "вещь",
+            "lat": "veshch"
+        },
+        "il": {
+            "heb": "דבר",
+            "lat": "davar"
+        }
+    },
+    "validated": false
+}

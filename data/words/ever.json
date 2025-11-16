@@ -1,0 +1,17 @@
+{
+    "ever": {
+        "en": "ever",
+        "fr": "déjà",
+        "es": "alguna vez",
+        "pt": "alguma vez",
+        "ru": {
+            "cyr": "когда-либо",
+            "lat": "kogda-libo"
+        },
+        "il": {
+            "heb": "אי פעם",
+            "lat": "ey pa'am"
+        }
+    },
+    "validated": false
+}

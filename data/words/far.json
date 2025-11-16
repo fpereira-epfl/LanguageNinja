@@ -1,0 +1,17 @@
+{
+    "far": {
+        "en": "far",
+        "fr": "loin",
+        "es": "lejos",
+        "pt": "longe",
+        "ru": {
+            "cyr": "далеко",
+            "lat": "daleko"
+        },
+        "il": {
+            "heb": "רחוק",
+            "lat": "rachok"
+        }
+    },
+    "validated": false
+}

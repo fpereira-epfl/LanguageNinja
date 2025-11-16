@@ -1,0 +1,17 @@
+{
+    "just": {
+        "en": "just",
+        "fr": "seulement",
+        "es": "solo",
+        "pt": "só",
+        "ru": {
+            "cyr": "только",
+            "lat": "tolko"
+        },
+        "il": {
+            "heb": "רק",
+            "lat": "rak"
+        }
+    },
+    "validated": false
+}

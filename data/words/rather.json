@@ -1,0 +1,17 @@
+{
+    "rather": {
+        "en": "rather",
+        "fr": "plutôt",
+        "es": "bastante",
+        "pt": "bastante",
+        "ru": {
+            "cyr": "довольно",
+            "lat": "dovol'no"
+        },
+        "il": {
+            "heb": "די",
+            "lat": "day"
+        }
+    },
+    "validated": false
+}

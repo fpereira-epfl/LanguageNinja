@@ -1,0 +1,49 @@
+{
+    "no": {
+        "en": [
+            "No, thank you.",
+            "No, I don't want it.",
+            "No, that's not possible."
+        ],
+        "fr": [
+            "Non, merci.",
+            "Non, je n'en veux pas.",
+            "Non, ce n'est pas possible."
+        ],
+        "es": [
+            "No, gracias.",
+            "No, no lo quiero.",
+            "No, no es posible."
+        ],
+        "pt": [
+            "Não, obrigado.",
+            "Não, eu não o quero.",
+            "Não, isso não é possível."
+        ],
+        "ru": {
+            "cyr": [
+                "Нет, спасибо.",
+                "Нет, я не хочу этого.",
+                "Нет, это невозможно."
+            ],
+            "lat": [
+                "Net, spasibo.",
+                "Net, ya ne khochu etogo.",
+                "Net, eto nevozmozhno."
+            ]
+        },
+        "il": {
+            "heb": [
+                "לא, תודה.",
+                "לא, אני לא רוצה את זה.",
+                "לא, זה לא אפשרי."
+            ],
+            "lat": [
+                "lo, toda.",
+                "lo, ani lo rotze et ze.",
+                "lo, ze lo efshari."
+            ]
+        }
+    },
+    "validated": false
+}

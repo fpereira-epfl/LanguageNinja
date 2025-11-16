@@ -1,0 +1,17 @@
+{
+    "before": {
+        "en": "before",
+        "fr": "avant",
+        "es": "antes",
+        "pt": "antes",
+        "ru": {
+            "cyr": "до",
+            "lat": "do"
+        },
+        "il": {
+            "heb": "לפני",
+            "lat": "lifnei"
+        }
+    },
+    "validated": false
+}

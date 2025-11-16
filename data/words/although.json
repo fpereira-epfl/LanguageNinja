@@ -1,0 +1,17 @@
+{
+    "although": {
+        "en": "although",
+        "fr": "bien que",
+        "es": "aunque",
+        "pt": "embora",
+        "ru": {
+            "cyr": "хотя",
+            "lat": "khotya"
+        },
+        "il": {
+            "heb": "למרות ש",
+            "lat": "lamrot she"
+        }
+    },
+    "validated": false
+}

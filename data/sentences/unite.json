@@ -1,0 +1,49 @@
+{
+    "unite": {
+        "en": [
+            "We unite the teams.",
+            "The family unites today.",
+            "They unite the people."
+        ],
+        "fr": [
+            "Nous unissons les équipes.",
+            "La famille s'unit aujourd'hui.",
+            "Ils unissent les gens."
+        ],
+        "es": [
+            "Unimos los equipos.",
+            "La familia se une hoy.",
+            "Ellos unen a las personas."
+        ],
+        "pt": [
+            "Unimos as equipes.",
+            "A família se une hoje.",
+            "Eles unem as pessoas."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы объединяем команды.",
+                "Семья объединяется сегодня.",
+                "Они объединяют людей."
+            ],
+            "lat": [
+                "My obedinyayem komandy.",
+                "Semya obedinyayetsya segodnya.",
+                "Oni obedinyayut lyudey."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו מאחדים את הקבוצות.",
+                "המשפחה מתאחדת היום.",
+                "הם מאחדים את האנשים."
+            ],
+            "lat": [
+                "anachnu me'achadim et hakvutzot.",
+                "hamishpacha mit'achedet hayom.",
+                "hem me'achadim et ha'anashim."
+            ]
+        }
+    },
+    "validated": false
+}

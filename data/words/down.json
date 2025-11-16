@@ -1,0 +1,17 @@
+{
+    "down": {
+        "en": "down",
+        "fr": "en bas",
+        "es": "abajo",
+        "pt": "para baixo",
+        "ru": {
+            "cyr": "вниз",
+            "lat": "vniz"
+        },
+        "il": {
+            "heb": "למטה",
+            "lat": "lemata"
+        }
+    },
+    "validated": false
+}

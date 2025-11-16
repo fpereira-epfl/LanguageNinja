@@ -1,0 +1,17 @@
+{
+    "return": {
+        "en": "return",
+        "fr": "retour",
+        "es": "retorno",
+        "pt": "retorno",
+        "ru": {
+            "cyr": "возвращение",
+            "lat": "vozvrashchenie"
+        },
+        "il": {
+            "heb": "חזרה",
+            "lat": "chazara"
+        }
+    },
+    "validated": false
+}

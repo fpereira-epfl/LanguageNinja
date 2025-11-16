@@ -1,0 +1,49 @@
+{
+    "effect": {
+        "en": [
+            "This is the effect.",
+            "The effect is small.",
+            "I see the effect."
+        ],
+        "fr": [
+            "C'est l'effet.",
+            "L'effet est petit.",
+            "Je vois l'effet."
+        ],
+        "es": [
+            "Este es el efecto.",
+            "El efecto es pequeño.",
+            "Veo el efecto."
+        ],
+        "pt": [
+            "Este é o efeito.",
+            "O efeito é pequeno.",
+            "Eu vejo o efeito."
+        ],
+        "ru": {
+            "cyr": [
+                "Это эффект.",
+                "Эффект маленький.",
+                "Я вижу эффект."
+            ],
+            "lat": [
+                "Eto effekt.",
+                "Effekt malen'kiy.",
+                "Ya vizhu effekt."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו ההשפעה.",
+                "ההשפעה קטנה.",
+                "אני רואה את ההשפעה."
+            ],
+            "lat": [
+                "zo hahashpaa.",
+                "hahashpaa ktana.",
+                "ani roeh et hahashpaa."
+            ]
+        }
+    },
+    "validated": false
+}

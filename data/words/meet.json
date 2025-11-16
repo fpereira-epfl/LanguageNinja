@@ -1,0 +1,17 @@
+{
+    "meet": {
+        "en": "meet",
+        "fr": "rencontrer",
+        "es": "reunirse",
+        "pt": "reunir-se",
+        "ru": {
+            "cyr": "встретиться",
+            "lat": "vstretitsya"
+        },
+        "il": {
+            "heb": "להיפגש",
+            "lat": "lehipagesh"
+        }
+    },
+    "validated": false
+}

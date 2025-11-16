@@ -1,0 +1,49 @@
+{
+    "experience": {
+        "en": [
+            "I have experience.",
+            "She has little experience.",
+            "This job needs experience."
+        ],
+        "fr": [
+            "J'ai de l'expérience.",
+            "Elle a peu d'expérience.",
+            "Ce travail demande de l'expérience."
+        ],
+        "es": [
+            "Tengo experiencia.",
+            "Ella tiene poca experiencia.",
+            "Este trabajo necesita experiencia."
+        ],
+        "pt": [
+            "Tenho experiência.",
+            "Ela tem pouca experiência.",
+            "Este trabalho precisa de experiência."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня есть опыт.",
+                "У неё мало опыта.",
+                "Эта работа требует опыта."
+            ],
+            "lat": [
+                "U menya yest’ opyt.",
+                "U neyo malo opyta.",
+                "Eta rabota trebuet opyta."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי ניסיון.",
+                "יש לה מעט ניסיון.",
+                "העבודה הזאת דורשת ניסיון."
+            ],
+            "lat": [
+                "yesh li nisayon.",
+                "yesh la me'at nisayon.",
+                "ha-avoda hazot doreshet nisayon."
+            ]
+        }
+    },
+    "validated": false
+}

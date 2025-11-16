@@ -1,0 +1,49 @@
+{
+    "reason": {
+        "en": [
+            "This is the reason.",
+            "I know the reason.",
+            "There is no reason."
+        ],
+        "fr": [
+            "C'est la raison.",
+            "Je connais la raison.",
+            "Il n'y a pas de raison."
+        ],
+        "es": [
+            "Esta es la razón.",
+            "Conozco la razón.",
+            "No hay razón."
+        ],
+        "pt": [
+            "Esta é a razão.",
+            "Eu sei a razão.",
+            "Não há razão."
+        ],
+        "ru": {
+            "cyr": [
+                "Это причина.",
+                "Я знаю причину.",
+                "Нет причины."
+            ],
+            "lat": [
+                "Eto prichina.",
+                "Ya znayu prichinu.",
+                "Net prichiny."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו הסיבה.",
+                "אני יודע את הסיבה.",
+                "אין סיבה."
+            ],
+            "lat": [
+                "zo ha-siba.",
+                "ani yodea et ha-siba.",
+                "ein siba."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "lead": {
+        "en": [
+            "Lead is heavy.",
+            "This paint contains lead.",
+            "Lead is a metal."
+        ],
+        "fr": [
+            "Le plomb est lourd.",
+            "Cette peinture contient du plomb.",
+            "Le plomb est un métal."
+        ],
+        "es": [
+            "El plomo es pesado.",
+            "Esta pintura contiene plomo.",
+            "El plomo es un metal."
+        ],
+        "pt": [
+            "O chumbo é pesado.",
+            "Esta tinta contém chumbo.",
+            "O chumbo é um metal."
+        ],
+        "ru": {
+            "cyr": [
+                "Свинец тяжелый.",
+                "Эта краска содержит свинец.",
+                "Свинец — металл."
+            ],
+            "lat": [
+                "Svinets tyazhelyy.",
+                "Eta kraska soderzhit svinets.",
+                "Svinets — metall."
+            ]
+        },
+        "il": {
+            "heb": [
+                "העופרת כבדה.",
+                "הצבע הזה מכיל עופרת.",
+                "העופרת היא מתכת."
+            ],
+            "lat": [
+                "ha'oferet kveda.",
+                "ha-tzeva ha-ze mekhil oferet.",
+                "ha'oferet hi matechet."
+            ]
+        }
+    },
+    "validated": false
+}

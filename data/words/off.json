@@ -1,0 +1,17 @@
+{
+    "off": {
+        "en": "off",
+        "fr": "éteint",
+        "es": "apagado",
+        "pt": "desligado",
+        "ru": {
+            "cyr": "выключено",
+            "lat": "vyklyucheno"
+        },
+        "il": {
+            "heb": "כבוי",
+            "lat": "kabuy"
+        }
+    },
+    "validated": false
+}

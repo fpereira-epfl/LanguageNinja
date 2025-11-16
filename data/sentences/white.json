@@ -1,0 +1,49 @@
+{
+    "white": {
+        "en": [
+            "The cat is white.",
+            "I see a white bird.",
+            "Her car is white."
+        ],
+        "fr": [
+            "Le chat est blanc.",
+            "Je vois un oiseau blanc.",
+            "Sa voiture est blanche."
+        ],
+        "es": [
+            "El gato es blanco.",
+            "Veo un pájaro blanco.",
+            "Su coche es blanco."
+        ],
+        "pt": [
+            "O gato é branco.",
+            "Eu vejo um pássaro branco.",
+            "O carro dela é branco."
+        ],
+        "ru": {
+            "cyr": [
+                "Кот белый.",
+                "Я вижу белую птицу.",
+                "Её машина белая."
+            ],
+            "lat": [
+                "Kot belyy.",
+                "Ya vizhu beluyu ptitsu.",
+                "Yeyo mashina belaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "החתול לבן.",
+                "אני רואה ציפור לבנה.",
+                "המכונית שלה לבנה."
+            ],
+            "lat": [
+                "ha-chatul lavan.",
+                "ani ro'eh tzipor levana.",
+                "ha-mechonit shela levana."
+            ]
+        }
+    },
+    "validated": false
+}

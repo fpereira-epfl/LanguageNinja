@@ -1,0 +1,49 @@
+{
+    "yet": {
+        "en": [
+            "He is not here yet.",
+            "I haven't finished yet.",
+            "The movie hasn't started yet."
+        ],
+        "fr": [
+            "Il n'est pas encore ici.",
+            "Je n'ai pas encore fini.",
+            "Le film n'a pas encore commencé."
+        ],
+        "es": [
+            "Él no está aquí todavía.",
+            "Todavía no he terminado.",
+            "La película todavía no ha empezado."
+        ],
+        "pt": [
+            "Ele não está aqui ainda.",
+            "Ainda não terminei.",
+            "O filme ainda não começou."
+        ],
+        "ru": {
+            "cyr": [
+                "Он ещё не здесь.",
+                "Я ещё не закончил.",
+                "Фильм ещё не начался."
+            ],
+            "lat": [
+                "On eshchyo ne zdes’.",
+                "Ya eshchyo ne zakonchil.",
+                "Fil’m eshchyo ne nachalsya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הוא עדיין לא כאן.",
+                "עדיין לא סיימתי.",
+                "הסרט עדיין לא התחיל."
+            ],
+            "lat": [
+                "hu adayin lo kan.",
+                "adayin lo siyamti.",
+                "ha-seret adayin lo hitchil."
+            ]
+        }
+    },
+    "validated": false
+}

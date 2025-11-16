@@ -1,0 +1,49 @@
+{
+    "head": {
+        "en": [
+            "My head hurts.",
+            "He has a big head.",
+            "The head is round."
+        ],
+        "fr": [
+            "J'ai mal à la tête.",
+            "Il a une grande tête.",
+            "La tête est ronde."
+        ],
+        "es": [
+            "Me duele la cabeza.",
+            "Él tiene una cabeza grande.",
+            "La cabeza es redonda."
+        ],
+        "pt": [
+            "Minha cabeça dói.",
+            "Ele tem uma cabeça grande.",
+            "A cabeça é redonda."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня болит голова.",
+                "У него большая голова.",
+                "Голова круглая."
+            ],
+            "lat": [
+                "U menya bolit golova.",
+                "U nego bol'shaya golova.",
+                "Golova kruglaya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "כואב לי הראש.",
+                "יש לו ראש גדול.",
+                "הראש עגול."
+            ],
+            "lat": [
+                "koev li ha rosh.",
+                "yesh lo rosh gadol.",
+                "ha rosh agol."
+            ]
+        }
+    },
+    "validated": false
+}

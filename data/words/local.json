@@ -1,0 +1,17 @@
+{
+    "local": {
+        "en": "local",
+        "fr": "local",
+        "es": "local",
+        "pt": "local",
+        "ru": {
+            "cyr": "местный",
+            "lat": "mestnyi"
+        },
+        "il": {
+            "heb": "מקומי",
+            "lat": "mekomi"
+        }
+    },
+    "validated": false
+}

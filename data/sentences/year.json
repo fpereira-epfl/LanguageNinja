@@ -1,0 +1,49 @@
+{
+    "year": {
+        "en": [
+            "The year is long.",
+            "I work all year.",
+            "We start next year."
+        ],
+        "fr": [
+            "L'année est longue.",
+            "Je travaille toute l'année.",
+            "Nous commençons l'année prochaine."
+        ],
+        "es": [
+            "El año es largo.",
+            "Trabajo todo el año.",
+            "Empezamos el próximo año."
+        ],
+        "pt": [
+            "O ano é longo.",
+            "Eu trabalho o ano todo.",
+            "Começamos no próximo ano."
+        ],
+        "ru": {
+            "cyr": [
+                "Год длинный.",
+                "Я работаю весь год.",
+                "Мы начинаем в следующем году."
+            ],
+            "lat": [
+                "God dlinnyy.",
+                "Ya rabotayu ves’ god.",
+                "My nachinayem v sleduyushchem godu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השנה ארוכה.",
+                "אני עובד כל השנה.",
+                "אנחנו מתחילים בשנה הבאה."
+            ],
+            "lat": [
+                "hashana aruka.",
+                "ani oved kol hashana.",
+                "anachnu matchilim bashana haba'a."
+            ]
+        }
+    },
+    "validated": false
+}

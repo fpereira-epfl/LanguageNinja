@@ -1,0 +1,17 @@
+{
+    "light": {
+        "en": "light",
+        "fr": "allumer",
+        "es": "encender",
+        "pt": "acender",
+        "ru": {
+            "cyr": "зажигать",
+            "lat": "zazhigat"
+        },
+        "il": {
+            "heb": "להדליק",
+            "lat": "lehadlik"
+        }
+    },
+    "validated": false
+}

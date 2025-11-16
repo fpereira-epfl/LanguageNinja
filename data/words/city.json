@@ -1,0 +1,17 @@
+{
+    "city": {
+        "en": "city",
+        "fr": "ville",
+        "es": "ciudad",
+        "pt": "cidade",
+        "ru": {
+            "cyr": "город",
+            "lat": "gorod"
+        },
+        "il": {
+            "heb": "עיר",
+            "lat": "ir"
+        }
+    },
+    "validated": false
+}

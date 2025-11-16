@@ -1,0 +1,17 @@
+{
+    "inform": {
+        "en": "inform",
+        "fr": "informer",
+        "es": "informar",
+        "pt": "informar",
+        "ru": {
+            "cyr": "информировать",
+            "lat": "informirovat"
+        },
+        "il": {
+            "heb": "להודיע",
+            "lat": "lehodia"
+        }
+    },
+    "validated": false
+}

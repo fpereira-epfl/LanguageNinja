@@ -1,0 +1,17 @@
+{
+    "above": {
+        "en": "above",
+        "fr": "au-dessus",
+        "es": "encima",
+        "pt": "acima",
+        "ru": {
+            "cyr": "над",
+            "lat": "nad"
+        },
+        "il": {
+            "heb": "מעל",
+            "lat": "me'al"
+        }
+    },
+    "validated": false
+}

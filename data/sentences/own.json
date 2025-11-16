@@ -1,0 +1,49 @@
+{
+    "own": {
+        "en": [
+            "I have my own room.",
+            "She has her own car.",
+            "We use our own tools."
+        ],
+        "fr": [
+            "J'ai ma propre chambre.",
+            "Elle a sa propre voiture.",
+            "Nous utilisons nos propres outils."
+        ],
+        "es": [
+            "Tengo mi propia habitación.",
+            "Ella tiene su propio coche.",
+            "Usamos nuestras propias herramientas."
+        ],
+        "pt": [
+            "Tenho meu próprio quarto.",
+            "Ela tem seu próprio carro.",
+            "Usamos nossas próprias ferramentas."
+        ],
+        "ru": {
+            "cyr": [
+                "У меня есть собственная комната.",
+                "У неё есть собственная машина.",
+                "Мы используем свои собственные инструменты."
+            ],
+            "lat": [
+                "U menya yest’ sobstvennaya komnata.",
+                "U neyo yest’ sobstvennaya mashina.",
+                "My ispol’zuem svoi sobstvennye instrumenty."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לי חדר משלי.",
+                "יש לה רכב משלה.",
+                "אנחנו משתמשים בכלים משלנו."
+            ],
+            "lat": [
+                "yesh li cheder misheli.",
+                "yesh la rechev mishela.",
+                "anachnu mishtamshim bekelim mishelanu."
+            ]
+        }
+    },
+    "validated": false
+}

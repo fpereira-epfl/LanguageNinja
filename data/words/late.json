@@ -1,0 +1,17 @@
+{
+    "late": {
+        "en": "late",
+        "fr": "tard",
+        "es": "tarde",
+        "pt": "tarde",
+        "ru": {
+            "cyr": "поздно",
+            "lat": "pozdno"
+        },
+        "il": {
+            "heb": "מאוחר",
+            "lat": "meuchar"
+        }
+    },
+    "validated": false
+}

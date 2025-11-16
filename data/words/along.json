@@ -1,0 +1,17 @@
+{
+    "along": {
+        "en": "along",
+        "fr": "le long de",
+        "es": "a lo largo de",
+        "pt": "ao longo de",
+        "ru": {
+            "cyr": "вдоль",
+            "lat": "vdol"
+        },
+        "il": {
+            "heb": "לאורך",
+            "lat": "leorech"
+        }
+    },
+    "validated": false
+}

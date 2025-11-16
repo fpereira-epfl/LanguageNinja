@@ -1,0 +1,17 @@
+{
+    "great": {
+        "en": "great",
+        "fr": "génial",
+        "es": "genial",
+        "pt": "ótimo",
+        "ru": {
+            "cyr": "отличный",
+            "lat": "otlichnyy"
+        },
+        "il": {
+            "heb": "נהדר",
+            "lat": "nehedar"
+        }
+    },
+    "validated": false
+}

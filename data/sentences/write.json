@@ -1,0 +1,49 @@
+{
+    "write": {
+        "en": [
+            "I write a letter.",
+            "Please write your name.",
+            "She writes every day."
+        ],
+        "fr": [
+            "J'écris une lettre.",
+            "S'il te plaît, écris ton nom.",
+            "Elle écrit chaque jour."
+        ],
+        "es": [
+            "Escribo una carta.",
+            "Por favor, escribe tu nombre.",
+            "Ella escribe todos los días."
+        ],
+        "pt": [
+            "Eu escrevo uma carta.",
+            "Por favor, escreva seu nome.",
+            "Ela escreve todos os dias."
+        ],
+        "ru": {
+            "cyr": [
+                "Я пишу письмо.",
+                "Пожалуйста, напиши своё имя.",
+                "Она пишет каждый день."
+            ],
+            "lat": [
+                "Ya pishu pis'mo.",
+                "Pozhaluysta, napishi svoyo imya.",
+                "Ona pishet kazhdyy den'."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני כותב מכתב.",
+                "בבקשה, כתוב את שמך.",
+                "היא כותבת כל יום."
+            ],
+            "lat": [
+                "ani kotev michtav.",
+                "bevakasha, ktov et shimkha.",
+                "hi kotevet kol yom."
+            ]
+        }
+    },
+    "validated": false
+}

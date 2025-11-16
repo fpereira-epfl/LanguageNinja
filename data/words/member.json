@@ -1,0 +1,17 @@
+{
+    "member": {
+        "en": "member",
+        "fr": "membre",
+        "es": "miembro",
+        "pt": "membro",
+        "ru": {
+            "cyr": "член",
+            "lat": "chlen"
+        },
+        "il": {
+            "heb": "חבר",
+            "lat": "chaver"
+        }
+    },
+    "validated": false
+}

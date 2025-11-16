@@ -1,0 +1,17 @@
+{
+    "so": {
+        "en": "so",
+        "fr": "donc",
+        "es": "entonces",
+        "pt": "então",
+        "ru": {
+            "cyr": "так",
+            "lat": "tak"
+        },
+        "il": {
+            "heb": "אז",
+            "lat": "az"
+        }
+    },
+    "validated": false
+}

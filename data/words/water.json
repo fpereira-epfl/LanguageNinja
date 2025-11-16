@@ -1,0 +1,17 @@
+{
+    "water": {
+        "en": "water",
+        "fr": "eau",
+        "es": "agua",
+        "pt": "água",
+        "ru": {
+            "cyr": "вода",
+            "lat": "voda"
+        },
+        "il": {
+            "heb": "מים",
+            "lat": "mayim"
+        }
+    },
+    "validated": false
+}

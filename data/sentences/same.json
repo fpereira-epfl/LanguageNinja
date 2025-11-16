@@ -1,0 +1,49 @@
+{
+    "same": {
+        "en": [
+            "We have the same book.",
+            "They live in the same city.",
+            "This is the same problem."
+        ],
+        "fr": [
+            "Nous avons le même livre.",
+            "Ils vivent dans la même ville.",
+            "C'est le même problème."
+        ],
+        "es": [
+            "Tenemos el mismo libro.",
+            "Ellos viven en la misma ciudad.",
+            "Es el mismo problema."
+        ],
+        "pt": [
+            "Temos o mesmo livro.",
+            "Eles vivem na mesma cidade.",
+            "É o mesmo problema."
+        ],
+        "ru": {
+            "cyr": [
+                "У нас та же самая книга.",
+                "Они живут в том же самом городе.",
+                "Это та же самая проблема."
+            ],
+            "lat": [
+                "U nas ta zhe samaya kniga.",
+                "Oni zhivut v tom zhe samom gorode.",
+                "Eto ta zhe samaya problema."
+            ]
+        },
+        "il": {
+            "heb": [
+                "יש לנו אותו ספר.",
+                "הם גרים באותה עיר.",
+                "זו אותה בעיה."
+            ],
+            "lat": [
+                "yesh lanu oto sefer.",
+                "hem garim be'otah ir.",
+                "zo otah be'aya."
+            ]
+        }
+    },
+    "validated": false
+}

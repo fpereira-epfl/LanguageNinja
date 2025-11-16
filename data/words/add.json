@@ -1,0 +1,17 @@
+{
+    "add": {
+        "en": "add",
+        "fr": "ajouter",
+        "es": "añadir",
+        "pt": "adicionar",
+        "ru": {
+            "cyr": "добавить",
+            "lat": "dobavit"
+        },
+        "il": {
+            "heb": "להוסיף",
+            "lat": "lehosif"
+        }
+    },
+    "validated": false
+}

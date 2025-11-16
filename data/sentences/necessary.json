@@ -1,0 +1,49 @@
+{
+    "necessary": {
+        "en": [
+            "Water is necessary.",
+            "It is necessary to rest.",
+            "Is it necessary?"
+        ],
+        "fr": [
+            "L'eau est nécessaire.",
+            "Il est nécessaire de se reposer.",
+            "Est-ce nécessaire?"
+        ],
+        "es": [
+            "El agua es necesaria.",
+            "Es necesario descansar.",
+            "¿Es necesario?"
+        ],
+        "pt": [
+            "A água é necessária.",
+            "É necessário descansar.",
+            "É necessário?"
+        ],
+        "ru": {
+            "cyr": [
+                "Вода необходима.",
+                "Необходимо отдыхать.",
+                "Это необходимо?"
+            ],
+            "lat": [
+                "Voda neobkhodima.",
+                "Neobkhodimo otdykhat’.",
+                "Eto neobkhodimo?"
+            ]
+        },
+        "il": {
+            "heb": [
+                "מים נחוצים.",
+                "צריך לנוח.",
+                "זה נחוץ?"
+            ],
+            "lat": [
+                "mayim nachutzim.",
+                "tsarich lanuach.",
+                "ze nachutz?"
+            ]
+        }
+    },
+    "validated": false
+}

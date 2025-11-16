@@ -1,0 +1,17 @@
+{
+    "reach": {
+        "en": "reach",
+        "fr": "atteindre",
+        "es": "alcanzar",
+        "pt": "alcançar",
+        "ru": {
+            "cyr": "достигать",
+            "lat": "dostigat"
+        },
+        "il": {
+            "heb": "להגיע",
+            "lat": "lehagia"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "understand": {
+        "en": [
+            "I understand you.",
+            "Do you understand?",
+            "We understand the rules."
+        ],
+        "fr": [
+            "Je te comprends.",
+            "Tu comprends ?",
+            "Nous comprenons les règles."
+        ],
+        "es": [
+            "Te entiendo.",
+            "¿Entiendes?",
+            "Entendemos las reglas."
+        ],
+        "pt": [
+            "Eu entendo você.",
+            "Você entende?",
+            "Nós entendemos as regras."
+        ],
+        "ru": {
+            "cyr": [
+                "Я тебя понимаю.",
+                "Ты понимаешь?",
+                "Мы понимаем правила."
+            ],
+            "lat": [
+                "Ya tebya ponimayu.",
+                "Ty ponimayesh’?",
+                "My ponimayem pravila."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מבין אותך.",
+                "אתה מבין?",
+                "אנחנו מבינים את החוקים."
+            ],
+            "lat": [
+                "ani mevin otkha.",
+                "ata mevin?",
+                "anachnu mevinim et ha-chukim."
+            ]
+        }
+    },
+    "validated": false
+}

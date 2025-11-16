@@ -1,0 +1,49 @@
+{
+    "art": {
+        "en": [
+            "I like art.",
+            "Art is beautiful.",
+            "This is art."
+        ],
+        "fr": [
+            "J'aime l'art.",
+            "L'art est beau.",
+            "C'est de l'art."
+        ],
+        "es": [
+            "Me gusta el arte.",
+            "El arte es hermoso.",
+            "Esto es arte."
+        ],
+        "pt": [
+            "Eu gosto de arte.",
+            "A arte é bonita.",
+            "Isto é arte."
+        ],
+        "ru": {
+            "cyr": [
+                "Мне нравится искусство.",
+                "Искусство красиво.",
+                "Это искусство."
+            ],
+            "lat": [
+                "Mne nravitsya iskusstvo.",
+                "Iskusstvo krasivo.",
+                "Eto iskusstvo."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני אוהב אמנות.",
+                "האמנות יפה.",
+                "זה אמנות."
+            ],
+            "lat": [
+                "ani ohev amanut.",
+                "ha-amanut yafa.",
+                "ze amanut."
+            ]
+        }
+    },
+    "validated": false
+}

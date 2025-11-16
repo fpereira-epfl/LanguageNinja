@@ -1,0 +1,49 @@
+{
+    "ever": {
+        "en": [
+            "Have you ever seen a rainbow?",
+            "No one ever calls me.",
+            "If you ever need help, call me."
+        ],
+        "fr": [
+            "As-tu déjà vu un arc-en-ciel ?",
+            "Personne ne m'appelle jamais.",
+            "Si jamais tu as besoin d'aide, appelle-moi."
+        ],
+        "es": [
+            "¿Has visto alguna vez un arcoíris?",
+            "Nadie me llama nunca.",
+            "Si alguna vez necesitas ayuda, llámame."
+        ],
+        "pt": [
+            "Você já viu um arco-íris?",
+            "Ninguém nunca me liga.",
+            "Se você alguma vez precisar de ajuda, me ligue."
+        ],
+        "ru": {
+            "cyr": [
+                "Ты когда-нибудь видел радугу?",
+                "Никто никогда мне не звонит.",
+                "Если тебе когда-нибудь нужна помощь, позвони мне."
+            ],
+            "lat": [
+                "Ty kogda-nibud’ videl radugu?",
+                "Nikto nikogda mne ne zvonit.",
+                "Esli tebe kogda-nibud’ nuzhna pomoshch’, pozvoni mne."
+            ]
+        },
+        "il": {
+            "heb": [
+                "האם אי פעם ראית קשת?",
+                "אף אחד אף פעם לא מתקשר אליי.",
+                "אם אי פעם תצטרך עזרה, תתקשר אליי."
+            ],
+            "lat": [
+                "ha'im ey pa'am ra'ita keshet?",
+                "af echad af pa'am lo mitkasher elay.",
+                "im ey pa'am titztarekh ezra, titkasher elay."
+            ]
+        }
+    },
+    "validated": false
+}

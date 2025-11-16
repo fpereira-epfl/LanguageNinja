@@ -1,0 +1,49 @@
+{
+    "sense": {
+        "en": [
+            "I sense danger.",
+            "She senses a problem.",
+            "We sense a change."
+        ],
+        "fr": [
+            "Je sens le danger.",
+            "Elle sent un problème.",
+            "Nous sentons un changement."
+        ],
+        "es": [
+            "Siento peligro.",
+            "Ella siente un problema.",
+            "Sentimos un cambio."
+        ],
+        "pt": [
+            "Eu sinto perigo.",
+            "Ela sente um problema.",
+            "Nós sentimos uma mudança."
+        ],
+        "ru": {
+            "cyr": [
+                "Я чувствую опасность.",
+                "Она чувствует проблему.",
+                "Мы чувствуем изменение."
+            ],
+            "lat": [
+                "Ya chuvstvuyu opasnost'.",
+                "Ona chuvstvuyet problemu.",
+                "My chuvstvuem izmenenie."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני חש סכנה.",
+                "היא חשה בעיה.",
+                "אנחנו חשים שינוי."
+            ],
+            "lat": [
+                "ani chash sakana.",
+                "hi chasha be'aya.",
+                "anachnu chashim shinui."
+            ]
+        }
+    },
+    "validated": false
+}

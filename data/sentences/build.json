@@ -1,0 +1,49 @@
+{
+    "build": {
+        "en": [
+            "We build a house.",
+            "He builds a bridge.",
+            "They build a wall."
+        ],
+        "fr": [
+            "Nous construisons une maison.",
+            "Il construit un pont.",
+            "Ils construisent un mur."
+        ],
+        "es": [
+            "Construimos una casa.",
+            "Él construye un puente.",
+            "Ellos construyen una pared."
+        ],
+        "pt": [
+            "Construímos uma casa.",
+            "Ele constrói uma ponte.",
+            "Eles constroem uma parede."
+        ],
+        "ru": {
+            "cyr": [
+                "Мы строим дом.",
+                "Он строит мост.",
+                "Они строят стену."
+            ],
+            "lat": [
+                "My stroim dom.",
+                "On stroit most.",
+                "Oni stroyat stenu."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אנחנו בונים בית.",
+                "הוא בונה גשר.",
+                "הם בונים קיר."
+            ],
+            "lat": [
+                "anachnu bonim bayit.",
+                "hu bone gesher.",
+                "hem bonim kir."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "sun": {
+        "en": [
+            "The sun is bright.",
+            "I see the sun.",
+            "The sun is in the sky."
+        ],
+        "fr": [
+            "Le soleil est brillant.",
+            "Je vois le soleil.",
+            "Le soleil est dans le ciel."
+        ],
+        "es": [
+            "El sol es brillante.",
+            "Veo el sol.",
+            "El sol está en el cielo."
+        ],
+        "pt": [
+            "O sol é brilhante.",
+            "Eu vejo o sol.",
+            "O sol está no céu."
+        ],
+        "ru": {
+            "cyr": [
+                "Солнце яркое.",
+                "Я вижу солнце.",
+                "Солнце в небе."
+            ],
+            "lat": [
+                "Solntse yarkoye.",
+                "Ya vizhu solntse.",
+                "Solntse v nebe."
+            ]
+        },
+        "il": {
+            "heb": [
+                "השמש בהירה.",
+                "אני רואה את השמש.",
+                "השמש בשמיים."
+            ],
+            "lat": [
+                "ha-shemesh behira.",
+                "ani ro'e et ha-shemesh.",
+                "ha-shemesh ba-shamayim."
+            ]
+        }
+    },
+    "validated": false
+}

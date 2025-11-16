@@ -1,0 +1,49 @@
+{
+    "here": {
+        "en": [
+            "I am here.",
+            "The book is here.",
+            "We live here."
+        ],
+        "fr": [
+            "Je suis ici.",
+            "Le livre est ici.",
+            "Nous habitons ici."
+        ],
+        "es": [
+            "Estoy aquí.",
+            "El libro está aquí.",
+            "Vivimos aquí."
+        ],
+        "pt": [
+            "Estou aqui.",
+            "O livro está aqui.",
+            "Nós moramos aqui."
+        ],
+        "ru": {
+            "cyr": [
+                "Я здесь.",
+                "Книга здесь.",
+                "Мы живём здесь."
+            ],
+            "lat": [
+                "Ya zdes’.",
+                "Kniga zdes’.",
+                "My zhivyom zdes’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני כאן.",
+                "הספר כאן.",
+                "אנחנו גרים כאן."
+            ],
+            "lat": [
+                "ani kan.",
+                "hasefer kan.",
+                "anachnu garim kan."
+            ]
+        }
+    },
+    "validated": false
+}

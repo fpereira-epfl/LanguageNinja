@@ -1,0 +1,17 @@
+{
+    "step": {
+        "en": "step",
+        "fr": "pas",
+        "es": "paso",
+        "pt": "passo",
+        "ru": {
+            "cyr": "шаг",
+            "lat": "shag"
+        },
+        "il": {
+            "heb": "צעד",
+            "lat": "tza'ad"
+        }
+    },
+    "validated": false
+}

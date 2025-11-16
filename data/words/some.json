@@ -1,0 +1,17 @@
+{
+    "some": {
+        "en": "some",
+        "fr": "quelques",
+        "es": "algunos",
+        "pt": "alguns",
+        "ru": {
+            "cyr": "некоторые",
+            "lat": "nekotorye"
+        },
+        "il": {
+            "heb": "כמה",
+            "lat": "kama"
+        }
+    },
+    "validated": false
+}

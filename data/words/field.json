@@ -1,0 +1,17 @@
+{
+    "field": {
+        "en": "field",
+        "fr": "champ",
+        "es": "campo",
+        "pt": "campo",
+        "ru": {
+            "cyr": "поле",
+            "lat": "pole"
+        },
+        "il": {
+            "heb": "שדה",
+            "lat": "sade"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "full": {
+        "en": [
+            "The bag is full.",
+            "The room is full.",
+            "The cup is full."
+        ],
+        "fr": [
+            "Le sac est plein.",
+            "La salle est pleine.",
+            "La tasse est pleine."
+        ],
+        "es": [
+            "La bolsa está llena.",
+            "La sala está llena.",
+            "La taza está llena."
+        ],
+        "pt": [
+            "A bolsa está cheia.",
+            "A sala está cheia.",
+            "A xícara está cheia."
+        ],
+        "ru": {
+            "cyr": [
+                "Сумка полна.",
+                "Комната полна.",
+                "Чашка полна."
+            ],
+            "lat": [
+                "Sumka polna.",
+                "Komnata polna.",
+                "Chashka polna."
+            ]
+        },
+        "il": {
+            "heb": [
+                "התיק מלא.",
+                "החדר מלא.",
+                "הכוס מלאה."
+            ],
+            "lat": [
+                "hatik male.",
+                "hacheder male.",
+                "hakos mele'a."
+            ]
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "love": {
+        "en": "love",
+        "fr": "amour",
+        "es": "amor",
+        "pt": "amor",
+        "ru": {
+            "cyr": "любовь",
+            "lat": "lyubov"
+        },
+        "il": {
+            "heb": "אהבה",
+            "lat": "ahava"
+        }
+    },
+    "validated": false
+}

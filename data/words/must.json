@@ -1,0 +1,17 @@
+{
+    "must": {
+        "en": "must",
+        "fr": "devoir",
+        "es": "deber",
+        "pt": "dever",
+        "ru": {
+            "cyr": "надо",
+            "lat": "nado"
+        },
+        "il": {
+            "heb": "חייב",
+            "lat": "chayav"
+        }
+    },
+    "validated": false
+}

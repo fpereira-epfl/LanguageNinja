@@ -1,0 +1,17 @@
+{
+    "eye": {
+        "en": "eye",
+        "fr": "œil",
+        "es": "ojo",
+        "pt": "olho",
+        "ru": {
+            "cyr": "глаз",
+            "lat": "glaz"
+        },
+        "il": {
+            "heb": "עין",
+            "lat": "ayin"
+        }
+    },
+    "validated": false
+}

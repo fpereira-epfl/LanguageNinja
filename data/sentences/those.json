@@ -1,0 +1,49 @@
+{
+    "those": {
+        "en": [
+            "Those are my books.",
+            "Those are red.",
+            "Those are for you."
+        ],
+        "fr": [
+            "Ceux-là sont mes livres.",
+            "Ceux-là sont rouges.",
+            "Ceux-là sont pour toi."
+        ],
+        "es": [
+            "Aquellos son mis libros.",
+            "Aquellos son rojos.",
+            "Aquellos son para ti."
+        ],
+        "pt": [
+            "Aqueles são meus livros.",
+            "Aqueles são vermelhos.",
+            "Aqueles são para você."
+        ],
+        "ru": {
+            "cyr": [
+                "Те — мои книги.",
+                "Те красные.",
+                "Те для тебя."
+            ],
+            "lat": [
+                "Te — moi knigi.",
+                "Te krasnye.",
+                "Te dlya tebya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "ההם הם הספרים שלי.",
+                "ההם אדומים.",
+                "ההם בשבילך."
+            ],
+            "lat": [
+                "hahem hem hasefarim sheli.",
+                "hahem adumim.",
+                "hahem bishvilekha."
+            ]
+        }
+    },
+    "validated": false
+}

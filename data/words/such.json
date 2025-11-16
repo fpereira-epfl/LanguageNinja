@@ -1,0 +1,17 @@
+{
+    "such": {
+        "en": "such",
+        "fr": "tel",
+        "es": "tal",
+        "pt": "tal",
+        "ru": {
+            "cyr": "такой",
+            "lat": "takoy"
+        },
+        "il": {
+            "heb": "כזה",
+            "lat": "kaze"
+        }
+    },
+    "validated": false
+}

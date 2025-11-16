@@ -1,0 +1,49 @@
+{
+    "expect": {
+        "en": [
+            "I expect good news.",
+            "Do you expect rain?",
+            "They expect a baby."
+        ],
+        "fr": [
+            "J'attends de bonnes nouvelles.",
+            "Tu t'attends à de la pluie ?",
+            "Ils attendent un bébé."
+        ],
+        "es": [
+            "Espero buenas noticias.",
+            "¿Esperas lluvia?",
+            "Ellos esperan un bebé."
+        ],
+        "pt": [
+            "Espero boas notícias.",
+            "Você espera chuva?",
+            "Eles esperam um bebê."
+        ],
+        "ru": {
+            "cyr": [
+                "Я ожидаю хороших новостей.",
+                "Ты ожидаешь дождя?",
+                "Они ожидают ребёнка."
+            ],
+            "lat": [
+                "Ya ozhidayu khoroshikh novostey.",
+                "Ty ozhidayesh' dozhdya?",
+                "Oni ozhidayut rebyonka."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני מצפה לחדשות טובות.",
+                "אתה מצפה לגשם?",
+                "הם מצפים לתינוק."
+            ],
+            "lat": [
+                "ani metzape le-chadashot tovot.",
+                "ata metzape le-geshem?",
+                "hem metzapim le-tinok."
+            ]
+        }
+    },
+    "validated": false
+}

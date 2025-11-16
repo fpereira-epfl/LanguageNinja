@@ -1,0 +1,17 @@
+{
+    "action": {
+        "en": "action",
+        "fr": "action",
+        "es": "acción",
+        "pt": "ação",
+        "ru": {
+            "cyr": "действие",
+            "lat": "deystvie"
+        },
+        "il": {
+            "heb": "פעולה",
+            "lat": "pe'ula"
+        }
+    },
+    "validated": false
+}

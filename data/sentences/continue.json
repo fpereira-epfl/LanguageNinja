@@ -1,0 +1,49 @@
+{
+    "continue": {
+        "en": [
+            "Please continue here.",
+            "We continue the work.",
+            "She continued after lunch."
+        ],
+        "fr": [
+            "S'il vous plaît, continuez ici.",
+            "Nous continuons le travail.",
+            "Elle a continué après le déjeuner."
+        ],
+        "es": [
+            "Por favor, continúe aquí.",
+            "Continuamos el trabajo.",
+            "Ella continuó después del almuerzo."
+        ],
+        "pt": [
+            "Por favor, continue aqui.",
+            "Continuamos o trabalho.",
+            "Ela continuou depois do almoço."
+        ],
+        "ru": {
+            "cyr": [
+                "Пожалуйста, продолжайте здесь.",
+                "Мы продолжаем работу.",
+                "Она продолжила после обеда."
+            ],
+            "lat": [
+                "Pozhaluysta, prodolzhayte zdes'.",
+                "My prodolzhayem rabotu.",
+                "Ona prodolzhila posle obeda."
+            ]
+        },
+        "il": {
+            "heb": [
+                "בבקשה, תמשיך כאן.",
+                "אנחנו ממשיכים את העבודה.",
+                "היא המשיכה אחרי ארוחת צהריים."
+            ],
+            "lat": [
+                "bevakasha, tamshich kan.",
+                "anachnu mamshichim et haavoda.",
+                "hi himshicha acharei aruchat tzohorayim."
+            ]
+        }
+    },
+    "validated": false
+}

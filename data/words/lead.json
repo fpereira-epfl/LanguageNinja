@@ -1,0 +1,17 @@
+{
+    "lead": {
+        "en": "lead",
+        "fr": "plomb",
+        "es": "plomo",
+        "pt": "chumbo",
+        "ru": {
+            "cyr": "свинец",
+            "lat": "svinets"
+        },
+        "il": {
+            "heb": "עופרת",
+            "lat": "oferet"
+        }
+    },
+    "validated": false
+}

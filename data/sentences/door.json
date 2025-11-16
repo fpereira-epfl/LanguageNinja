@@ -1,0 +1,49 @@
+{
+    "door": {
+        "en": [
+            "The door is open.",
+            "Close the door, please.",
+            "I see a red door."
+        ],
+        "fr": [
+            "La porte est ouverte.",
+            "Ferme la porte, s'il te plaît.",
+            "Je vois une porte rouge."
+        ],
+        "es": [
+            "La puerta está abierta.",
+            "Cierra la puerta, por favor.",
+            "Veo una puerta roja."
+        ],
+        "pt": [
+            "A porta está aberta.",
+            "Feche a porta, por favor.",
+            "Eu vejo uma porta vermelha."
+        ],
+        "ru": {
+            "cyr": [
+                "Дверь открыта.",
+                "Закрой дверь, пожалуйста.",
+                "Я вижу красную дверь."
+            ],
+            "lat": [
+                "Dver’ otkryta.",
+                "Zakroy dver’, pozhaluysta.",
+                "Ya vizhu krasnuyu dver’."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הדלת פתוחה.",
+                "סגור את הדלת, בבקשה.",
+                "אני רואה דלת אדומה."
+            ],
+            "lat": [
+                "ha-delet petucha.",
+                "sgor et ha-delet, bevakasha.",
+                "ani ro'eh delet aduma."
+            ]
+        }
+    },
+    "validated": false
+}

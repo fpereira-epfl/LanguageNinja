@@ -1,0 +1,17 @@
+{
+    "value": {
+        "en": "value",
+        "fr": "valeur",
+        "es": "valor",
+        "pt": "valor",
+        "ru": {
+            "cyr": "значение",
+            "lat": "znachenie"
+        },
+        "il": {
+            "heb": "ערך",
+            "lat": "erekh"
+        }
+    },
+    "validated": false
+}

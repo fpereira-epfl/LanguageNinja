@@ -1,0 +1,17 @@
+{
+    "work": {
+        "en": "work",
+        "fr": "travail",
+        "es": "trabajo",
+        "pt": "trabalho",
+        "ru": {
+            "cyr": "работа",
+            "lat": "rabota"
+        },
+        "il": {
+            "heb": "עבודה",
+            "lat": "avoda"
+        }
+    },
+    "validated": false
+}

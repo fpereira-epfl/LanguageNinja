@@ -1,0 +1,49 @@
+{
+    "case": {
+        "en": [
+            "This case is easy.",
+            "In this case, we wait.",
+            "Every case is different."
+        ],
+        "fr": [
+            "Ce cas est facile.",
+            "Dans ce cas, nous attendons.",
+            "Chaque cas est différent."
+        ],
+        "es": [
+            "Este caso es fácil.",
+            "En este caso, esperamos.",
+            "Cada caso es diferente."
+        ],
+        "pt": [
+            "Este caso é fácil.",
+            "Neste caso, esperamos.",
+            "Cada caso é diferente."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот случай простой.",
+                "В этом случае мы ждём.",
+                "Каждый случай разный."
+            ],
+            "lat": [
+                "Etot sluchay prostoy.",
+                "V etom sluchaye my zhdyom.",
+                "Kazhdyy sluchay raznyy."
+            ]
+        },
+        "il": {
+            "heb": [
+                "המקרה הזה קל.",
+                "במקרה הזה אנחנו מחכים.",
+                "כל מקרה שונה."
+            ],
+            "lat": [
+                "hamikre haze kal.",
+                "bemikre haze anachnu mechakim.",
+                "kol mikre shone."
+            ]
+        }
+    },
+    "validated": false
+}

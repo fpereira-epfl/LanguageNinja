@@ -1,0 +1,17 @@
+{
+    "girl": {
+        "en": "girl",
+        "fr": "fille",
+        "es": "niña",
+        "pt": "menina",
+        "ru": {
+            "cyr": "девочка",
+            "lat": "devochka"
+        },
+        "il": {
+            "heb": "ילדה",
+            "lat": "yalda"
+        }
+    },
+    "validated": false
+}

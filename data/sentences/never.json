@@ -1,0 +1,49 @@
+{
+    "never": {
+        "en": [
+            "I never eat meat.",
+            "He never smokes.",
+            "We never go there."
+        ],
+        "fr": [
+            "Je ne mange jamais de viande.",
+            "Il ne fume jamais.",
+            "Nous n'allons jamais là-bas."
+        ],
+        "es": [
+            "Nunca como carne.",
+            "Él nunca fuma.",
+            "Nunca vamos allí."
+        ],
+        "pt": [
+            "Eu nunca como carne.",
+            "Ele nunca fuma.",
+            "Nós nunca vamos lá."
+        ],
+        "ru": {
+            "cyr": [
+                "Я никогда не ем мясо.",
+                "Он никогда не курит.",
+                "Мы никогда туда не ходим."
+            ],
+            "lat": [
+                "Ya nikogda ne yem myaso.",
+                "On nikogda ne kurit.",
+                "My nikogda tuda ne khodim."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני לעולם לא אוכל בשר.",
+                "הוא לעולם לא מעשן.",
+                "אנחנו לעולם לא הולכים לשם."
+            ],
+            "lat": [
+                "ani le'olam lo okhel basar.",
+                "hu le'olam lo me'ashen.",
+                "anachnu le'olam lo holkhim lesham."
+            ]
+        }
+    },
+    "validated": false
+}

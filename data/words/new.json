@@ -1,0 +1,17 @@
+{
+    "new": {
+        "en": "new",
+        "fr": "nouveau",
+        "es": "nuevo",
+        "pt": "novo",
+        "ru": {
+            "cyr": "новый",
+            "lat": "novy"
+        },
+        "il": {
+            "heb": "חדש",
+            "lat": "chadash"
+        }
+    },
+    "validated": false
+}

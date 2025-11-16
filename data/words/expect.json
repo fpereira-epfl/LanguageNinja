@@ -1,0 +1,17 @@
+{
+    "expect": {
+        "en": "expect",
+        "fr": "s'attendre à",
+        "es": "esperar",
+        "pt": "esperar",
+        "ru": {
+            "cyr": "ожидать",
+            "lat": "ozhidat'"
+        },
+        "il": {
+            "heb": "לצפות",
+            "lat": "letsapot"
+        }
+    },
+    "validated": false
+}

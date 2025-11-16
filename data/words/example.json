@@ -1,0 +1,17 @@
+{
+    "example": {
+        "en": "example",
+        "fr": "exemple",
+        "es": "ejemplo",
+        "pt": "exemplo",
+        "ru": {
+            "cyr": "пример",
+            "lat": "primer"
+        },
+        "il": {
+            "heb": "דוגמה",
+            "lat": "dugma"
+        }
+    },
+    "validated": false
+}

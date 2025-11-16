@@ -1,0 +1,49 @@
+{
+    "set": {
+        "en": [
+            "This set is small.",
+            "The set has three elements.",
+            "A set is a collection of things."
+        ],
+        "fr": [
+            "Cet ensemble est petit.",
+            "L'ensemble a trois éléments.",
+            "Un ensemble est une collection de choses."
+        ],
+        "es": [
+            "Este conjunto es pequeño.",
+            "El conjunto tiene tres elementos.",
+            "Un conjunto es una colección de cosas."
+        ],
+        "pt": [
+            "Este conjunto é pequeno.",
+            "O conjunto tem três elementos.",
+            "Um conjunto é uma coleção de coisas."
+        ],
+        "ru": {
+            "cyr": [
+                "Этот набор маленький.",
+                "Набор имеет три элемента.",
+                "Набор — это коллекция вещей."
+            ],
+            "lat": [
+                "Etot nabor malen'kiy.",
+                "Nabor imeet tri elementa.",
+                "Nabor — eto kollektsiya veshchey."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הקבוצה הזאת קטנה.",
+                "לקבוצה יש שלושה איברים.",
+                "קבוצה היא אוסף של דברים."
+            ],
+            "lat": [
+                "ha-kvutza ha-zot ktana.",
+                "la-kvutza yesh shlosha eivarim.",
+                "kvutza hi osef shel dvarim."
+            ]
+        }
+    },
+    "validated": false
+}

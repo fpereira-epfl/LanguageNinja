@@ -1,0 +1,17 @@
+{
+    "strong": {
+        "en": "strong",
+        "fr": "fort",
+        "es": "fuerte",
+        "pt": "forte",
+        "ru": {
+            "cyr": "сильный",
+            "lat": "silnyy"
+        },
+        "il": {
+            "heb": "חזק",
+            "lat": "chazak"
+        }
+    },
+    "validated": false
+}

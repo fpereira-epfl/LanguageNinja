@@ -1,0 +1,17 @@
+{
+    "best": {
+        "en": "best",
+        "fr": "meilleur",
+        "es": "mejor",
+        "pt": "melhor",
+        "ru": {
+            "cyr": "лучший",
+            "lat": "luchshiy"
+        },
+        "il": {
+            "heb": "הטוב ביותר",
+            "lat": "hatov beyoter"
+        }
+    },
+    "validated": false
+}

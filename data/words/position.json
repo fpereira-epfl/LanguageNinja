@@ -1,0 +1,17 @@
+{
+    "position": {
+        "en": "position",
+        "fr": "position",
+        "es": "posición",
+        "pt": "posição",
+        "ru": {
+            "cyr": "позиция",
+            "lat": "pozitsiya"
+        },
+        "il": {
+            "heb": "עמדה",
+            "lat": "emda"
+        }
+    },
+    "validated": false
+}

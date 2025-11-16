@@ -1,0 +1,49 @@
+{
+    "today": {
+        "en": [
+            "I work today.",
+            "We have a test today.",
+            "The store opens today."
+        ],
+        "fr": [
+            "Je travaille aujourd'hui.",
+            "Nous avons un test aujourd'hui.",
+            "Le magasin ouvre aujourd'hui."
+        ],
+        "es": [
+            "Trabajo hoy.",
+            "Tenemos un examen hoy.",
+            "La tienda abre hoy."
+        ],
+        "pt": [
+            "Eu trabalho hoje.",
+            "Temos uma prova hoje.",
+            "A loja abre hoje."
+        ],
+        "ru": {
+            "cyr": [
+                "Я работаю сегодня.",
+                "У нас сегодня тест.",
+                "Магазин открывается сегодня."
+            ],
+            "lat": [
+                "Ya rabotayu segodnya.",
+                "U nas segodnya test.",
+                "Magazin otkryvayetsya segodnya."
+            ]
+        },
+        "il": {
+            "heb": [
+                "אני עובד היום.",
+                "יש לנו מבחן היום.",
+                "החנות נפתחת היום."
+            ],
+            "lat": [
+                "ani oved hayom.",
+                "yesh lanu mivkhan hayom.",
+                "hachanot niftakhat hayom."
+            ]
+        }
+    },
+    "validated": false
+}

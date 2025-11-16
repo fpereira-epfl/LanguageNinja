@@ -1,0 +1,49 @@
+{
+    "state": {
+        "en": [
+            "This is a big state.",
+            "The state has a flag.",
+            "We live in this state."
+        ],
+        "fr": [
+            "C'est un grand État.",
+            "L'État a un drapeau.",
+            "Nous vivons dans cet État."
+        ],
+        "es": [
+            "Este es un estado grande.",
+            "El estado tiene una bandera.",
+            "Vivimos en este estado."
+        ],
+        "pt": [
+            "Este é um estado grande.",
+            "O estado tem uma bandeira.",
+            "Nós moramos neste estado."
+        ],
+        "ru": {
+            "cyr": [
+                "Это большое государство.",
+                "У государства есть флаг.",
+                "Мы живём в этом государстве."
+            ],
+            "lat": [
+                "Eto bol’shoe gosudarstvo.",
+                "U gosudarstva yest’ flag.",
+                "My zhivyom v etom gosudarstve."
+            ]
+        },
+        "il": {
+            "heb": [
+                "זו מדינה גדולה.",
+                "למדינה יש דגל.",
+                "אנחנו גרים במדינה הזאת."
+            ],
+            "lat": [
+                "zo medina gdola.",
+                "la-medina yesh degel.",
+                "anachnu garim be-medina hazot."
+            ]
+        }
+    },
+    "validated": false
+}

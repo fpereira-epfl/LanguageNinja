@@ -1,0 +1,49 @@
+{
+    "grow": {
+        "en": [
+            "Plants grow fast.",
+            "Children grow quickly.",
+            "I want to grow."
+        ],
+        "fr": [
+            "Les plantes poussent vite.",
+            "Les enfants grandissent vite.",
+            "Je veux grandir."
+        ],
+        "es": [
+            "Las plantas crecen rápido.",
+            "Los niños crecen rápido.",
+            "Quiero crecer."
+        ],
+        "pt": [
+            "As plantas crescem rápido.",
+            "As crianças crescem rápido.",
+            "Quero crescer."
+        ],
+        "ru": {
+            "cyr": [
+                "Растения растут быстро.",
+                "Дети растут быстро.",
+                "Я хочу расти."
+            ],
+            "lat": [
+                "Rasteniya rastut bystro.",
+                "Deti rastut bystro.",
+                "Ya hochu rasti."
+            ]
+        },
+        "il": {
+            "heb": [
+                "הצמחים גדלים מהר.",
+                "ילדים גדלים מהר.",
+                "אני רוצה לגדול."
+            ],
+            "lat": [
+                "hatzmahim gdelim maher.",
+                "yeladim gdelim maher.",
+                "ani rotzeh ligdol."
+            ]
+        }
+    },
+    "validated": false
+}

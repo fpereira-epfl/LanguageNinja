@@ -1,0 +1,17 @@
+{
+    "each": {
+        "en": "each",
+        "fr": "chaque",
+        "es": "cada",
+        "pt": "cada",
+        "ru": {
+            "cyr": "каждый",
+            "lat": "kazhdyy"
+        },
+        "il": {
+            "heb": "כל",
+            "lat": "kol"
+        }
+    },
+    "validated": false
+}

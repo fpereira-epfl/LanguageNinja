@@ -1,0 +1,17 @@
+{
+    "right": {
+        "en": "right",
+        "fr": "droite",
+        "es": "derecha",
+        "pt": "direita",
+        "ru": {
+            "cyr": "правый",
+            "lat": "pravyi"
+        },
+        "il": {
+            "heb": "ימין",
+            "lat": "yamin"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,17 @@
+{
+    "write": {
+        "en": "write",
+        "fr": "écrire",
+        "es": "escribir",
+        "pt": "escrever",
+        "ru": {
+            "cyr": "писать",
+            "lat": "pisat"
+        },
+        "il": {
+            "heb": "לכתוב",
+            "lat": "lichtov"
+        }
+    },
+    "validated": false
+}

@@ -1,0 +1,49 @@
+{
+    "tree": {
+        "en": [
+            "The tree is tall.",
+            "I see a tree.",
+            "There is a bird in the tree."
+        ],
+        "fr": [
+            "L'arbre est grand.",
+            "Je vois un arbre.",
+            "Il y a un oiseau dans l'arbre."
+        ],
+        "es": [
+            "El árbol es alto.",
+            "Veo un árbol.",
+            "Hay un pájaro en el árbol."
+        ],
+        "pt": [
+            "A árvore é alta.",
+            "Eu vejo uma árvore.",
+            "Há um pássaro na árvore."
+        ],
+        "ru": {
+            "cyr": [
+                "Дерево высокое.",
+                "Я вижу дерево.",
+                "На дереве есть птица."
+            ],
+            "lat": [
+                "Derevo vysokoe.",
+                "Ya vizhu derevo.",
+                "Na dereve yest' ptitsa."
+            ]
+        },
+        "il": {
+            "heb": [
+                "העץ גבוה.",
+                "אני רואה עץ.",
+                "יש ציפור על העץ."
+            ],
+            "lat": [
+                "ha-etz gavoah.",
+                "ani ro'eh etz.",
+                "yesh tsipor al ha-etz."
+            ]
+        }
+    },
+    "validated": false
+}

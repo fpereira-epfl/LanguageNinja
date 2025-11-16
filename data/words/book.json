@@ -1,0 +1,17 @@
+{
+    "book": {
+        "en": "book",
+        "fr": "livre",
+        "es": "libro",
+        "pt": "livro",
+        "ru": {
+            "cyr": "книга",
+            "lat": "kniga"
+        },
+        "il": {
+            "heb": "ספר",
+            "lat": "sefer"
+        }
+    },
+    "validated": false
+}
