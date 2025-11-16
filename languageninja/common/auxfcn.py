@@ -23,6 +23,19 @@ def batch_convert_aiff_to_mp3(input_folder: Path):
         if not mp3.exists():
             aiff_to_mp3(aiff, mp3, bitrate_kbps=64)
 
+# Auxiliary function: Parse list of words with stats
+def parse_word_list_with_stats(file_path='resources/sources/list_of_words_with_stats.txt'):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    # Parse format row_num freq word
+    word_list = []
+    for line in lines:
+        parts = line.strip().split()
+        if len(parts) >= 3:
+            word = parts[2]
+            word_list.append(word)
+    return word_list
+
 # Execute as main
 if __name__ == "__main__":
     input_dir = Path("data/audio")
