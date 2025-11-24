@@ -272,7 +272,7 @@ class Word():
         #----------------#
         # Validate words #
         #----------------#
-        if self.words_validated==False and (what is None or what=='words'):
+        if self.words_validated==False and (what is None or what=='word'):
 
             # Generate and print full prompt
             full_prompt = gpt_prompt_words + '\n' + json.dumps(self.langs, ensure_ascii=False, indent=4)
@@ -301,7 +301,7 @@ class Word():
                 rich.print_json(data=out.get("corrections", {}))
 
         # Word already validated
-        elif self.words_validated==True and (what is None or what=='words'):
+        elif self.words_validated==True and (what is None or what=='word'):
             print("👍 Word translations already validated.")
 
         #--------------------#
@@ -338,6 +338,13 @@ class Word():
         # Sentences already validated
         elif self.sentences_validated==True and (what is None or what=='sentences'):
             print("👍 Sample sentences already validated.")
+
+    # Method: Get word list
+    @staticmethod
+    def get_word_list():
+        word_files = [f for f in os.listdir(WORDS_FOLDER_PATH) if f.endswith('.json')]
+        word_list = [os.path.splitext(f)[0] for f in word_files]
+        return word_list
 
 #================#
 # Main execution #
