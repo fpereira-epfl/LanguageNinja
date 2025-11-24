@@ -6,12 +6,12 @@
         "pt": "obter",
         "ru": {
             "cyr": "получить",
-            "lat": "poluchit"
+            "lat": "poluchit'"
         },
         "il": {
             "heb": "לקבל",
             "lat": "lekabel"
         }
     },
-    "validated": false
+    "validated": true
 }

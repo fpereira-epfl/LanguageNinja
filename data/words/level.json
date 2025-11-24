@@ -6,12 +6,12 @@
         "pt": "nível",
         "ru": {
             "cyr": "уровень",
-            "lat": "uroven"
+            "lat": "uroven'"
         },
         "il": {
             "heb": "רמה",
             "lat": "rama"
         }
     },
-    "validated": false
+    "validated": true
 }

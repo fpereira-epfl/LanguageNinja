@@ -6,12 +6,12 @@
         "pt": "olhar",
         "ru": {
             "cyr": "смотреть",
-            "lat": "smotret"
+            "lat": "smotret'"
         },
         "il": {
             "heb": "להסתכל",
             "lat": "lehistakel"
         }
     },
-    "validated": false
+    "validated": true
 }

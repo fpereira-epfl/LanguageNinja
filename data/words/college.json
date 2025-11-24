@@ -1,9 +1,9 @@
 {
     "college": {
         "en": "college",
-        "fr": "collège",
-        "es": "colegio",
-        "pt": "colégio",
+        "fr": "université",
+        "es": "universidad",
+        "pt": "faculdade",
         "ru": {
             "cyr": "колледж",
             "lat": "kolledzh"
@@ -13,5 +13,5 @@
             "lat": "mikhlala"
         }
     },
-    "validated": false
+    "validated": true
 }

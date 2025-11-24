@@ -6,12 +6,12 @@
         "pt": "jogar",
         "ru": {
             "cyr": "играть",
-            "lat": "igrat"
+            "lat": "igrat'"
         },
         "il": {
             "heb": "לשחק",
             "lat": "lesachek"
         }
     },
-    "validated": false
+    "validated": true
 }

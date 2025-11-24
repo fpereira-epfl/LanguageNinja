@@ -6,12 +6,12 @@
         "pt": "manter",
         "ru": {
             "cyr": "держать",
-            "lat": "derzhat"
+            "lat": "derzhat'"
         },
         "il": {
             "heb": "לשמור",
             "lat": "lishmor"
         }
     },
-    "validated": false
+    "validated": true
 }

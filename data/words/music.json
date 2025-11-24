@@ -3,7 +3,7 @@
         "en": "music",
         "fr": "musique",
         "es": "música",
-        "pt": "мúsica",
+        "pt": "música",
         "ru": {
             "cyr": "музыка",
             "lat": "muzyka"
@@ -13,5 +13,5 @@
             "lat": "muzika"
         }
     },
-    "validated": false
+    "validated": true
 }

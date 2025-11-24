@@ -9,9 +9,9 @@
             "lat": "na"
         },
         "il": {
-            "heb": "לפי",
-            "lat": "lefi"
+            "heb": "ל-",
+            "lat": "le-"
         }
     },
-    "validated": false
+    "validated": true
 }

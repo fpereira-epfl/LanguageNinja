@@ -9,9 +9,9 @@
             "lat": "stanovitsya"
         },
         "il": {
-            "heb": "להפוך",
-            "lat": "lehafokh"
+            "heb": "להפוך ל",
+            "lat": "lehafokh le-"
         }
     },
-    "validated": false
+    "validated": true
 }

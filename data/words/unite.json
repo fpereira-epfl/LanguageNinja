@@ -6,12 +6,12 @@
         "pt": "unir",
         "ru": {
             "cyr": "объединять",
-            "lat": "obedinyat"
+            "lat": "obyedinyat'"
         },
         "il": {
             "heb": "לאחד",
             "lat": "le'ached"
         }
     },
-    "validated": false
+    "validated": true
 }

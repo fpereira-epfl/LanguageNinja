@@ -3,7 +3,7 @@
         "en": "number",
         "fr": "nombre",
         "es": "número",
-        "pt": "נúmero",
+        "pt": "número",
         "ru": {
             "cyr": "число",
             "lat": "chislo"
@@ -13,5 +13,5 @@
             "lat": "mispar"
         }
     },
-    "validated": false
+    "validated": true
 }

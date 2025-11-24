@@ -9,9 +9,9 @@
             "lat": "moch"
         },
         "il": {
-            "heb": "אפשר",
-            "lat": "efshar"
+            "heb": "יכול",
+            "lat": "yakhol"
         }
     },
-    "validated": false
+    "validated": true
 }

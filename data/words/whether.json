@@ -9,9 +9,9 @@
             "lat": "li"
         },
         "il": {
-            "heb": "האם",
-            "lat": "ha'im"
+            "heb": "אם",
+            "lat": "im"
         }
     },
-    "validated": false
+    "validated": true
 }

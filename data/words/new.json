@@ -6,12 +6,12 @@
         "pt": "novo",
         "ru": {
             "cyr": "новый",
-            "lat": "novy"
+            "lat": "novyi"
         },
         "il": {
             "heb": "חדש",
             "lat": "chadash"
         }
     },
-    "validated": false
+    "validated": true
 }

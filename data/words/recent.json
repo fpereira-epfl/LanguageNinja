@@ -9,9 +9,9 @@
             "lat": "nedavniy"
         },
         "il": {
-            "heb": "עדכני",
-            "lat": "adkani"
+            "heb": "אחרון",
+            "lat": "akharon"
         }
     },
-    "validated": false
+    "validated": true
 }

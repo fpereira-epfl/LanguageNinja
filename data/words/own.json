@@ -9,9 +9,9 @@
             "lat": "sobstvenny"
         },
         "il": {
-            "heb": "עצמי",
-            "lat": "atsmi"
+            "heb": "של עצמו",
+            "lat": "shel atsmo"
         }
     },
-    "validated": false
+    "validated": true
 }

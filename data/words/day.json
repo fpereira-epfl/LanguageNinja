@@ -6,12 +6,12 @@
         "pt": "dia",
         "ru": {
             "cyr": "день",
-            "lat": "den"
+            "lat": "den'"
         },
         "il": {
             "heb": "יום",
             "lat": "yom"
         }
     },
-    "validated": false
+    "validated": true
 }
