@@ -13,7 +13,7 @@
         "es": [
             "Aumentamos el tamaño.",
             "Él quiere aumentar el número.",
-            "La empresa va aumentar la producción."
+            "La empresa va a aumentar la producción."
         ],
         "pt": [
             "Aumentamos o tamanho.",
@@ -45,5 +45,5 @@
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

@@ -1,0 +1,1785 @@
+(.venv.ninja311) ➜  LanguageNinja git:(main) ✗ ipython
+Python 3.11.10 (main, Oct 25 2025, 11:11:12) [Clang 17.0.0 (clang-1700.0.13.5)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 9.6.0 -- An enhanced Interactive Python. Type '?' for help.
+Tip: You can change the editing mode of IPython to behave more like vi, or emacs.
+Cmd click to launch VS Code Native REPL
+
+In [1]: %reload_ext autoreload
+   ...: %autoreload 2
+   ...: %xmode verbose
+   ...: from languageninja.models.word import Word
+Exception reporting mode: Verbose
+Using AI model: gpt-5
+
+In [2]: list_of_words = Word.get_word_list()
+
+In [3]: for key in sorted(list_of_words):
+   ...:     w = Word(key)
+   ...:     w.validate(what='sentences')
+   ...: 
+
+=============
+🈳 Word: 'I'
+=============
+👍 Sample sentences already validated.
+
+=============
+🈳 Word: 'a'
+=============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'about'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "heb": [
+      "הספר הזה על חתולים.",
+      "הסרט על אהבה.",
+      "יש לי שאלות על העבודה."
+    ],
+    "lat": [
+      "ha-sefer hazeh al chatulim.",
+      "ha-seret al ahava.",
+      "yesh li she'elot al ha-avoda."
+    ]
+  }
+}
+
+=================
+🈳 Word: 'above'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'act'
+===============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'action'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'active'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'add'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'after'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'again'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'against'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'age'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'all'
+===============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'almost'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "pt": [
+    "Quase caí.",
+    "Ela está quase pronta.",
+    "É quase meio-dia."
+  ]
+}
+
+=================
+🈳 Word: 'along'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "Nous marchons le long de la rivière.",
+    "Le chat court le long du mur.",
+    "Conduis sur cette route."
+  ],
+  "es": [
+    "Caminamos a lo largo del río.",
+    "El gato corre a lo largo del muro.",
+    "Conduce por esta carretera."
+  ],
+  "pt": [
+    "Caminhamos ao longo do rio.",
+    "O gato corre ao longo do muro.",
+    "Dirija por esta estrada."
+  ],
+  "ru": {
+    "cyr": [
+      "Мы идём вдоль реки.",
+      "Кот бежит вдоль стены.",
+      "Едь по этой дороге."
+    ],
+    "lat": [
+      "My idyom vdol' reki.",
+      "Kot bezhit vdol' steny.",
+      "Ed' po etoy doroge."
+    ]
+  },
+  "il": {
+    "heb": [
+      "אנחנו הולכים לאורך הנהר.",
+      "החתול רץ לאורך הקיר.",
+      "סע בכביש הזה."
+    ],
+    "lat": [
+      "anachnu holkhim le'orekh ha-nahar.",
+      "ha-chatul ratz le'orekh ha-kir.",
+      "sa ba-kvish hazeh."
+    ]
+  }
+}
+
+================
+🈳 Word: 'also'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'although'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'always'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'among'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "ani bein chaverim.",
+      "ha-maftechot bein ha-sfarim.",
+      "anachnu holchim bein ha-etzim."
+    ]
+  }
+}
+
+===============
+🈳 Word: 'and'
+===============
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'another'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'any'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'appear'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'around'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'art'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'as'
+==============
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'ask'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'at'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'away'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'back'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'be'
+==============
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'because'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'become'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'before'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'begin'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'believe'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'best'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'better'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'between'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'big'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'board'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'body'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'book'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'both'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'boy'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'bring'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'build'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'business'
+====================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "es": [
+    "Él trabaja en los negocios.",
+    "Nuestro negocio va bien.",
+    "Hacemos negocios con ellos."
+  ],
+  "pt": [
+    "Ele trabalha com negócios.",
+    "Nosso negócio vai bem.",
+    "Fazemos negócios com eles."
+  ],
+  "il": {
+    "heb": [
+      "הוא עובד בעסקים.",
+      "העסק שלנו טוב.",
+      "אנחנו עושים עסקים איתם."
+    ],
+    "lat": [
+      "hu oved be'asakim.",
+      "ha'esek shelanu tov.",
+      "anachnu osim asakim itam."
+    ]
+  }
+}
+
+===============
+🈳 Word: 'but'
+===============
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'by'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'call'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'can'
+===============
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'car'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'care'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'carry'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'case'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'cause'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'center'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'certain'
+===================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Какой-то человек здесь.",
+      "Какой-то день был очень холодным.",
+      "Мы встретились в каком-то месте."
+    ],
+    "lat": [
+      "Kakoy-to chelovek zdes’.",
+      "Kakoy-to den’ byl ochen’ kholodnym.",
+      "My vstretilis’ v kakom-to meste."
+    ]
+  }
+}
+
+==================
+🈳 Word: 'change'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'child'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'church'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'city'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'class'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'clear'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'close'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'cloud'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'college'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'come'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'company'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'complete'
+====================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "heb": [
+      "אני משלים את המשימה.",
+      "היא ממלאת את הטופס.",
+      "אנחנו משלימים את הפרויקט."
+    ],
+    "lat": [
+      "ani mashlim et hamesima.",
+      "hi memale'et et hatofes.",
+      "anachnu mashlimim et haproyekt."
+    ]
+  }
+}
+
+===================
+🈳 Word: 'concern'
+===================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "У меня есть опасение.",
+      "Её здоровье вызывает беспокойство.",
+      "Это тебя не касается."
+    ],
+    "lat": [
+      "U menya yest' opasenie.",
+      "Yeyo zdorovye vyzyvayet bespokoystvo.",
+      "Eto tebya ne kasaetsya."
+    ],
+    "notes": "The first sentence was slightly unnatural; 'опасение' is a more natural countable rendering of 'a concern' in Russian. Ordering preserved."
+  }
+}
+
+=====================
+🈳 Word: 'condition'
+=====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'consider'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'continue'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'control'
+===================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "lat": [
+      "Ya kontroliruyu mashinu.",
+      "Ona kontroliruet byudzhet.",
+      "Nam nuzhen kontrol'."
+    ]
+  }
+}
+
+================
+🈳 Word: 'cost'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'could'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "heb": [
+      "הוא היה יכול לעזור.",
+      "היא הייתה יכולה לבוא מחר.",
+      "הם היו יכולים להתקשר אלינו."
+    ],
+    "lat": [
+      "hu haya yakhol la'azor.",
+      "hi hayta yekhola lavo makhar.",
+      "hem hayu yekholim lehitkasher eleinu."
+    ]
+  }
+}
+
+===================
+🈳 Word: 'country'
+===================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "Ce pays est grand.",
+    "Je vis dans ce pays.",
+    "Ce pays-là est loin."
+  ]
+}
+
+==================
+🈳 Word: 'course'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'court'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'cut'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'day'
+===============
+⏳ Waiting for sentence validation ...
+^[✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'deal'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=====================
+🈳 Word: 'determine'
+=====================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "lat": [
+      "My opredelyaem datu.",
+      "Ya opredelyayu razmer.",
+      "Oni opredelyayut pravila."
+    ]
+  }
+}
+
+===================
+🈳 Word: 'develop'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=====================
+🈳 Word: 'different'
+=====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'direct'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'do'
+==============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'doctor'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'door'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'down'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "Va en bas.",
+    "Regarde en bas.",
+    "Pose-le."
+  ],
+  "es": [
+    "Ve abajo.",
+    "Mira abajo.",
+    "Ponlo en el suelo."
+  ],
+  "pt": [
+    "Vá para baixo.",
+    "Olhe para baixo.",
+    "Ponha isso no chão."
+  ],
+  "ru": {
+    "cyr": [
+      "Иди вниз.",
+      "Посмотри вниз.",
+      "Положи."
+    ],
+    "lat": [
+      "Idi vniz.",
+      "Posmotri vniz.",
+      "Polozhi."
+    ]
+  },
+  "il": {
+    "heb": [
+      "רד למטה.",
+      "תסתכל למטה.",
+      "שים את זה."
+    ],
+    "lat": [
+      "red lemata.",
+      "tistakel lemata.",
+      "sim et ze."
+    ]
+  }
+}
+
+=================
+🈳 Word: 'drive'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "Je conduis une voiture.",
+    "Elle conduit pour aller au travail.",
+    "Peux-tu conduire ce soir ?"
+  ]
+}
+
+==================
+🈳 Word: 'during'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'each'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'early'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "Je me réveille tôt.",
+    "Elle arrive tôt.",
+    "Nous partons tôt."
+  ],
+  "es": [
+    "Me despierto temprano.",
+    "Ella llega temprano.",
+    "Nosotros salimos temprano."
+  ],
+  "ru": {
+    "cyr": [
+      "Я просыпаюсь рано.",
+      "Она приходит рано.",
+      "Мы уходим рано."
+    ],
+    "lat": [
+      "Ya prosypayus' rano.",
+      "Ona prikhodit rano.",
+      "My ukhodim rano."
+    ]
+  },
+  "il": {
+    "heb": [
+      "אני מתעורר מוקדם.",
+      "היא מגיעה מוקדם.",
+      "אנחנו יוצאים מוקדם."
+    ],
+    "lat": [
+      "ani mitorer mukdam.",
+      "hi magia mukdam.",
+      "anachnu yotzim mukdam."
+    ]
+  }
+}
+
+=================
+🈳 Word: 'earth'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'easy'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'effect'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'either'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "ata yakhol lakakhat kol echad mishnei ha-sfarim.",
+      "o sheanachnu yotzim akhshav, o sheanachnu mefasfesim et ha-otobus.",
+      "gam ani lo ohev et ze."
+    ]
+  }
+}
+
+===============
+🈳 Word: 'end'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'enough'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'even'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'ever'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'every'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'example'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'expect'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "Je m'attends à de bonnes nouvelles.",
+    "Tu t'attends à de la pluie ?",
+    "Ils attendent un bébé."
+  ]
+}
+
+======================
+🈳 Word: 'experience'
+======================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'eye'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "Mon œil me fait mal.",
+    "L'œil est ouvert.",
+    "Il a un seul œil."
+  ],
+  "es": [
+    "Me duele el ojo.",
+    "El ojo está abierto.",
+    "Él tiene un solo ojo."
+  ],
+  "pt": [
+    "Meu olho dói.",
+    "O olho está aberto.",
+    "Ele tem apenas um olho."
+  ]
+}
+
+================
+🈳 Word: 'face'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'fact'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'fall'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'family'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'far'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "pt": [
+    "A escola fica longe.",
+    "Fica longe daqui.",
+    "A estação fica longe?"
+  ]
+}
+
+================
+🈳 Word: 'feel'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'few'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'field'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'figure'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'find'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "pt": [
+    "Encontro a chave.",
+    "Ela encontra um emprego.",
+    "Encontramos a resposta."
+  ]
+}
+
+================
+🈳 Word: 'fire'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'first'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'follow'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "heb": [
+      "עקוב אחריי, בבקשה.",
+      "אני פועל לפי הכללים.",
+      "החתול עוקב אחרי הילד."
+    ],
+    "lat": [
+      "akov akharai, bevakasha.",
+      "ani poel lefi haklalim.",
+      "hachatul okev akharei hayeled."
+    ]
+  }
+}
+
+================
+🈳 Word: 'foot'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "pt": [
+    "Meu pé dói.",
+    "Este é o meu pé.",
+    "Lave o seu pé."
+  ]
+}
+
+===============
+🈳 Word: 'for'
+===============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'force'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'form'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'free'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'friend'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'from'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'full'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'general'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'get'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'girl'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'give'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'go'
+==============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'god'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'good'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'govern'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'great'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'group'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'grow'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'hand'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "lat": [
+      "Eto moya ruka.",
+      "Yego ruka bol'shaya.",
+      "Yeyo ruka malen'kaya."
+    ]
+  }
+}
+
+=====================
+🈳 Word: 'happiness'
+=====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'have'
+================
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'he'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'head'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'hear'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'help'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'here'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'high'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "La montagne est haute.",
+    "Le mur est haut.",
+    "Le prix est élevé."
+  ]
+}
+
+===================
+🈳 Word: 'history'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'hold'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'home'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'hope'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'hour'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'house'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'how'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Как ты?",
+      "Как погода?",
+      "Как мы пойдём домой?"
+    ],
+    "lat": [
+      "Kak ty?",
+      "Kak pogoda?",
+      "Kak my poydyom domoy?"
+    ]
+  }
+}
+
+===================
+🈳 Word: 'however'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'human'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'idea'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'if'
+==============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=====================
+🈳 Word: 'important'
+=====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'in'
+==============
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'include'
+===================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Цена включает налог.",
+      "Пожалуйста, укажите своё имя.",
+      "Мы включаем всех."
+    ],
+    "lat": [
+      "Tsena vklyuchayet nalog.",
+      "Pozhaluysta, ukazhite svoyo imya.",
+      "My vklyuchayem vsekh."
+    ]
+  }
+}
+
+====================
+🈳 Word: 'increase'
+====================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "es": [
+    "Aumentamos el tamaño.",
+    "Él quiere aumentar el número.",
+    "La empresa va a aumentar la producción."
+  ]
+}
+
+====================
+🈳 Word: 'industry'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'inform'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'interest'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'into'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'it'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'just'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'keep'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'kind'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'know'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'large'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'last'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'late'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'law'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "ha-chok barur.",
+      "hi lomedet mishpatim.",
+      "anachnu metzaytim la-chok."
+    ]
+  }
+}
+
+================
+🈳 Word: 'lead'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'least'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'leave'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'less'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'let'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'level'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'life'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "La vie est belle.",
+    "J'aime la vie.",
+    "La vie est courte."
+  ],
+  "ru": {
+    "cyr": [
+      "Жизнь хороша.",
+      "Я люблю жизнь.",
+      "Жизнь коротка."
+    ],
+    "lat": [
+      "Zhizn' khorosha.",
+      "Ya lyublyu zhizn'.",
+      "Zhizn' korotka."
+    ]
+  }
+}
+
+=================
+🈳 Word: 'light'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'like'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'line'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'little'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'live'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'local'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'long'
+================
+⏳ Waiting for sentence validation ...
+^C^C
+KeyboardInterrupt
+
+^C---------------------------------------------------------------------------
+KeyboardInterrupt                         Traceback (most recent call last)
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/IPython/core/async_helpers.py:128, in _pseudo_sync_runner(coro=<coroutine object InteractiveShell.run_cell_async>)
+    120 """
+    121 A runner that does not really allow async execution, and just advance the coroutine.
+    122 
+   (...)    125 Credit to Nathaniel Smith
+    126 """
+    127 try:
+--> 128     coro.send(None)
+        coro = <coroutine object InteractiveShell.run_cell_async at 0x1032613c0>    129 except StopIteration as exc:
+    130     return exc.value
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/IPython/core/interactiveshell.py:3413, in InteractiveShell.run_cell_async(self=<IPython.terminal.interactiveshell.TerminalInteractiveShell object>, raw_cell="for key in sorted(list_of_words):\n    w = Word(key)\n    w.validate(what='sentences')\n    ", store_history=True, silent=False, shell_futures=True, transformed_cell="for key in sorted(list_of_words):\n    w = Word(key)\n    w.validate(what='sentences')\n\n", preprocessing_exc_tuple=None, cell_id=None)
+   3409 exec_count = self.execution_count
+   3410 if result.error_in_exec:
+   3411     # Store formatted traceback and error details
+   3412     self.history_manager.exceptions[exec_count] = (
+-> 3413         self._format_exception_for_storage(result.error_in_exec)
+        exec_count = 3
+        self = <IPython.terminal.interactiveshell.TerminalInteractiveShell object at 0x1018b1690>
+        result = <ExecutionResult object at 103379cd0, execution_count=3 error_before_exec=None error_in_exec= info=<ExecutionInfo object at 1030ea5d0, raw_cell="for key in sorted(list_of_words):
+    w = Word(key.." transformed_cell="for key in sorted(list_of_words):
+    w = Word(key.." store_history=True silent=False shell_futures=True cell_id=None> result=None>
+        result.error_in_exec = KeyboardInterrupt()   3414     )
+   3416 # Each cell is a *single* input, regardless of how many lines it has
+   3417 self.execution_count += 1
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/IPython/core/interactiveshell.py:3467, in InteractiveShell._format_exception_for_storage(self=<IPython.terminal.interactiveshell.TerminalInteractiveShell object>, exception=KeyboardInterrupt(), filename=None, running_compiled_code=False)
+   3464         stb = evalue._render_traceback_()
+   3465     else:
+   3466         # Otherwise, use InteractiveTB to format the traceback.
+-> 3467         stb = self.InteractiveTB.structured_traceback(
+        self = <IPython.terminal.interactiveshell.TerminalInteractiveShell object at 0x1018b1690>
+        self.InteractiveTB = <IPython.core.ultratb.AutoFormattedTB object at 0x1030f89d0>
+        etype = <class 'KeyboardInterrupt'>
+        evalue = KeyboardInterrupt()
+        tb = <traceback object at 0x105637400>   3468             etype, evalue, tb, tb_offset=1
+   3469         )
+   3470 except Exception:
+   3471     # In case formatting fails, fallback to Python's built-in formatting.
+   3472     stb = traceback.format_exception(etype, evalue, tb)
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/IPython/core/ultratb.py:1185, in AutoFormattedTB.structured_traceback(self=<IPython.core.ultratb.AutoFormattedTB object>, etype=<class 'KeyboardInterrupt'>, evalue=KeyboardInterrupt(), etb=<traceback object>, tb_offset=1, context=5)
+   1183 else:
+   1184     self.tb = etb
+-> 1185 return FormattedTB.structured_traceback(
+        etype = <class 'KeyboardInterrupt'>
+        etb = <traceback object at 0x105637400>
+        self = <IPython.core.ultratb.AutoFormattedTB object at 0x1030f89d0>
+        evalue = KeyboardInterrupt()
+        tb_offset = 1
+        context = 5   1186     self, etype, evalue, etb, tb_offset, context
+   1187 )
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/IPython/core/ultratb.py:1056, in FormattedTB.structured_traceback(self=<IPython.core.ultratb.AutoFormattedTB object>, etype=<class 'KeyboardInterrupt'>, evalue=KeyboardInterrupt(), etb=<traceback object>, tb_offset=1, context=5)
+   1053 mode = self.mode
+   1054 if mode in self.verbose_modes:
+   1055     # Verbose modes need a full traceback
+-> 1056     return VerboseTB.structured_traceback(
+        tb_offset = 1
+        self = <IPython.core.ultratb.AutoFormattedTB object at 0x1030f89d0>
+        etype = <class 'KeyboardInterrupt'>
+        evalue = KeyboardInterrupt()
+        etb = <traceback object at 0x105637400>
+        context = 5   1057         self, etype, evalue, etb, tb_offset, context
+   1058     )
+   1059 elif mode == "Docs":
+   1060     # return DocTB
+   1061     return DocTB(
+   1062         theme_name=self._theme_name,
+   1063         call_pdb=self.call_pdb,
+   (...)   1071         etype, evalue, etb, tb_offset, 1
+   1072     )  # type: ignore[arg-type]
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/IPython/core/ultratb.py:864, in VerboseTB.structured_traceback(self=<IPython.core.ultratb.AutoFormattedTB object>, etype=<class 'KeyboardInterrupt'>, evalue=KeyboardInterrupt(), etb=<traceback object>, tb_offset=1, context=5)
+    855 def structured_traceback(
+    856     self,
+    857     etype: type,
+   (...)    861     context: int = 5,
+    862 ) -> list[str]:
+    863     """Return a nice text document describing the traceback."""
+--> 864     formatted_exceptions: list[list[str]] = self.format_exception_as_a_whole(
+        self = <IPython.core.ultratb.AutoFormattedTB object at 0x1030f89d0>
+        evalue = KeyboardInterrupt()
+        etype = <class 'KeyboardInterrupt'>
+        etb = <traceback object at 0x105637400>
+        context = 5
+        tb_offset = 1    865         etype, evalue, etb, context, tb_offset
+    866     )
+    868     termsize = min(75, get_terminal_size()[0])
+    869     theme = theme_table[self._theme_name]
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/IPython/core/ultratb.py:776, in VerboseTB.format_exception_as_a_whole(self=<IPython.core.ultratb.AutoFormattedTB object>, etype='KeyboardInterrupt', evalue=KeyboardInterrupt(), etb=<traceback object>, context=5, tb_offset=1)
+    766         frames.append(
+    767             theme_table[self._theme_name].format(
+    768                 [
+   (...)    773             )
+    774         )
+    775         skipped = 0
+--> 776     frames.append(self.format_record(record))
+        frames = ["\x1b[36mCell\x1b[39m\x1b[36m \x1b[39m\x1b[32mIn[3]\x1b[39m\x1b[32m, line 3\x1b[39m\n\x1b[32m      1\x1b[39m \x1b[38;5;28;01mfor\x1b[39;00m key \x1b[38;5;129;01min\x1b[39;00m \x1b[38;5;28msorted\x1b[39m(list_of_words):\n\x1b[32m      2\x1b[39m     w = Word(key)\n\x1b[32m----> \x1b[39m\x1b[32m3\x1b[39m     \x1b[43mw\x1b[49m\x1b[43m.\x1b[49m\x1b[43mvalidate\x1b[49m\x1b[43m(\x1b[49m\x1b[43mwhat\x1b[49m\x1b[43m=\x1b[49m\x1b[33;43m'\x1b[39;49m\x1b[33;43msentences\x1b[39;49m\x1b[33;43m'\x1b[39;49m\x1b[43m)\x1b[49m\n        w \x1b[34m= \x1b[39m\x1b[34m<languageninja.models.word.Word object at 0x105621950>\x1b[39m", '\x1b[36mFile \x1b[39m\x1b[32m~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/languageninja/models/word.py:327\x1b[39m, in \x1b[36mWord.validate\x1b[39m\x1b[34m(self=<languageninja.models.word.Word object>, what=\'sentences\', verbose=False)\x1b[39m\n\x1b[32m    324\x1b[39m     \x1b[38;5;28mprint\x1b[39m(\x1b[33m"\x1b[39m\x1b[33m⏳ Waiting for sentence validation ...\x1b[39m\x1b[33m"\x1b[39m)\n\x1b[32m    326\x1b[39m \x1b[38;5;66;03m# Execute prompt (function already returns parsed JSON)\x1b[39;00m\n\x1b[32m--> \x1b[39m\x1b[32m327\x1b[39m out = \x1b[43mai\x1b[49m\x1b[43m.\x1b[49m\x1b[43msend_prompt\x1b[49m\x1b[43m(\x1b[49m\x1b[43mfull_prompt\x1b[49m\x1b[43m)\x1b[49m\n        full_prompt \x1b[34m= \x1b[39m\x1b[34m\'\\nThe following is a JSON object representing translations of sample sentences (related to one word) in multiple languages.\\nValidate the following: (1) the translations for accuracy and completeness; (2) the ordering of the translated sentences.\\nMake sure that sentence A in position n in the \\\'en\\\' field is also in position n in the other language fields, \\\'es\\\', \\\'fr\\\', etc.\\nRespond with a JSON object containing a single boolean field "validated" set to true if all sentences are correctly translated and ordered, or false otherwise.\\nIf false, include a "corrections" field with suggested corrections for each language that is incorrect.\\nConsider that the provided input was generated by your model, so don\\\'t overcorrect minor issues.\\n\\n{\\n    "en": [\\n        "The day is long.",\\n        "The road is long.",\\n        "His hair is long."\\n    ],\\n    "fr": [\\n        "Le jour est long.",\\n        "La route est longue.",\\n        "Ses cheveux sont longs."\\n    ],\\n    "es": [\\n        "El día es largo.",\\n        "El camino es largo.",\\n        "Su pelo es largo."\\n    ],\\n    "pt": [\\n        "O dia é longo.",\\n        "A estrada é longa.",\\n        "O cabelo dele é longo."\\n    ],\\n    "ru": {\\n        "cyr": [\\n            "День длинный.",\\n            "Дорога длинная.",\\n            "У него длинные волосы."\\n        ],\\n        "lat": [\\n            "Den\\\' dlinnyy.",\\n            "Doroga dlinnaya.",\\n            "U nego dlinnyye volosy."\\n        ]\\n    },\\n    "il": {\\n        "heb": [\\n            "היום ארוך.",\\n            "הדרך ארוכה.",\\n            "השיער שלו ארוך."\\n        ],\\n        "lat": [\\n            "hayom arokh.",\\n            "ha-derekh aruka.",\\n            "ha-se\\\'ar shelo arokh."\\n        ]\\n    }\\n}\'\x1b[39m\n        ai \x1b[34m= \x1b[39m\x1b[34m<languageninja.models.gptclient.GPTConnector object at 0x1035ddfd0>\x1b[39m\x1b[32m    329\x1b[39m \x1b[38;5;66;03m# Check validation result\x1b[39;00m\n\x1b[32m    330\x1b[39m \x1b[38;5;28;01mif\x1b[39;00m out.get(\x1b[33m"\x1b[39m\x1b[33mvalidated\x1b[39m\x1b[33m"\x1b[39m) \x1b[38;5;129;01mis\x1b[39;00m \x1b[38;5;28;01mTrue\x1b[39;00m:\n', '\x1b[36mFile \x1b[39m\x1b[32m~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/languageninja/models/gptclient.py:30\x1b[39m, in \x1b[36mGPTConnector.send_prompt\x1b[39m\x1b[34m(self=<languageninja.models.gptclient.GPTConnector object>, prompt=\'\\nThe following is a JSON object representing tra...        "ha-se\\\'ar shelo arokh."\\n        ]\\n    }\\n}\')\x1b[39m\n\x1b[32m     23\x1b[39m \x1b[38;5;28;01mdef\x1b[39;00m\x1b[38;5;250m \x1b[39m\x1b[34msend_prompt\x1b[39m(\x1b[38;5;28mself\x1b[39m, prompt: \x1b[38;5;28mstr\x1b[39m) -> \x1b[38;5;28mdict\x1b[39m:\n\x1b[32m     24\x1b[39m \x1b[38;5;250m    \x1b[39m\x1b[33;03m"""\x1b[39;00m\n\x1b[32m     25\x1b[39m \x1b[33;03m    Sends a prompt to ChatGPT and returns the JSON response.\x1b[39;00m\n\x1b[32m     26\x1b[39m \n\x1b[32m     27\x1b[39m \x1b[33;03m    :param prompt: The text prompt to send to ChatGPT\x1b[39;00m\n\x1b[32m     28\x1b[39m \x1b[33;03m    :return: A dictionary containing the model\'s JSON response\x1b[39;00m\n\x1b[32m     29\x1b[39m \x1b[33;03m    """\x1b[39;00m\n\x1b[32m---> \x1b[39m\x1b[32m30\x1b[39m     response = \x1b[38;5;28;43mself\x1b[39;49m\x1b[43m.\x1b[49m\x1b[43mclient\x1b[49m\x1b[43m.\x1b[49m\x1b[43mchat\x1b[49m\x1b[43m.\x1b[49m\x1b[43mcompletions\x1b[49m\x1b[43m.\x1b[49m\x1b[43mcreate\x1b[49m\x1b[43m(\x1b[49m\n        self.client.chat.completions \x1b[34m= \x1b[39m\x1b[34m<openai.resources.chat.completions.completions.Completions object at 0x1035672d0>\x1b[39m\n        self.client.chat \x1b[34m= \x1b[39m\x1b[34m<openai.resources.chat.chat.Chat object at 0x1035aeb50>\x1b[39m\n        self \x1b[34m= \x1b[39m\x1b[34m<languageninja.models.gptclient.GPTConnector object at 0x1035ddfd0>\x1b[39m\n        self.client \x1b[34m= \x1b[39m\x1b[34m<openai.OpenAI object at 0x104b9e0d0>\x1b[39m\n        self.model \x1b[34m= \x1b[39m\x1b[34m\'gpt-5\'\x1b[39m\n        [{"role": "user", "content": prompt}] \x1b[34m= \x1b[39m\x1b[34m[{\'role\': \'user\', \'content\': \'\\nThe following is a JSON object representing translations of sample sentences (related to one word) in multiple languages.\\nValidate the following: (1) the translations for accuracy and completeness; (2) the ordering of the translated sentences.\\nMake sure that sentence A in position n in the \\\'en\\\' field is also in position n in the other language fields, \\\'es\\\', \\\'fr\\\', etc.\\nRespond with a JSON object containing a single boolean field "validated" set to true if all sentences are correctly translated and ordered, or false otherwise.\\nIf false, include a "corrections" field with suggested corrections for each language that is incorrect.\\nConsider that the provided input was generated by your model, so don\\\'t overcorrect minor issues.\\n\\n{\\n    "en": [\\n        "The day is long.",\\n        "The road is long.",\\n        "His hair is long."\\n    ],\\n    "fr": [\\n        "Le jour est long.",\\n        "La route est longue.",\\n        "Ses cheveux sont longs."\\n    ],\\n    "es": [\\n        "El día es largo.",\\n        "El camino es largo.",\\n        "Su pelo es largo."\\n    ],\\n    "pt": [\\n        "O dia é longo.",\\n        "A estrada é longa.",\\n        "O cabelo dele é longo."\\n    ],\\n    "ru": {\\n        "cyr": [\\n            "День длинный.",\\n            "Дорога длинная.",\\n            "У него длинные волосы."\\n        ],\\n        "lat": [\\n            "Den\\\' dlinnyy.",\\n            "Doroga dlinnaya.",\\n            "U nego dlinnyye volosy."\\n        ]\\n    },\\n    "il": {\\n        "heb": [\\n            "היום ארוך.",\\n            "הדרך ארוכה.",\\n            "השיער שלו ארוך."\\n        ],\\n        "lat": [\\n            "hayom arokh.",\\n            "ha-derekh aruka.",\\n            "ha-se\\\'ar shelo arokh."\\n        ]\\n    }\\n}\'}]\x1b[39m\n        {"role": "user", "content": prompt} \x1b[34m= \x1b[39m\x1b[34m{\'role\': \'user\', \'content\': \'\\nThe following is a JSON object representing translations of sample sentences (related to one word) in multiple languages.\\nValidate the following: (1) the translations for accuracy and completeness; (2) the ordering of the translated sentences.\\nMake sure that sentence A in position n in the \\\'en\\\' field is also in position n in the other language fields, \\\'es\\\', \\\'fr\\\', etc.\\nRespond with a JSON object containing a single boolean field "validated" set to true if all sentences are correctly translated and ordered, or false otherwise.\\nIf false, include a "corrections" field with suggested corrections for each language that is incorrect.\\nConsider that the provided input was generated by your model, so don\\\'t overcorrect minor issues.\\n\\n{\\n    "en": [\\n        "The day is long.",\\n        "The road is long.",\\n        "His hair is long."\\n    ],\\n    "fr": [\\n        "Le jour est long.",\\n        "La route est longue.",\\n        "Ses cheveux sont longs."\\n    ],\\n    "es": [\\n        "El día es largo.",\\n        "El camino es largo.",\\n        "Su pelo es largo."\\n    ],\\n    "pt": [\\n        "O dia é longo.",\\n        "A estrada é longa.",\\n        "O cabelo dele é longo."\\n    ],\\n    "ru": {\\n        "cyr": [\\n            "День длинный.",\\n            "Дорога длинная.",\\n            "У него длинные волосы."\\n        ],\\n        "lat": [\\n            "Den\\\' dlinnyy.",\\n            "Doroga dlinnaya.",\\n            "U nego dlinnyye volosy."\\n        ]\\n    },\\n    "il": {\\n        "heb": [\\n            "היום ארוך.",\\n            "הדרך ארוכה.",\\n            "השיער שלו ארוך."\\n        ],\\n        "lat": [\\n            "hayom arokh.",\\n            "ha-derekh aruka.",\\n            "ha-se\\\'ar shelo arokh."\\n        ]\\n    }\\n}\'}\x1b[39m\n        prompt \x1b[34m= \x1b[39m\x1b[34m\'\\nThe following is a JSON object representing translations of sample sentences (related to one word) in multiple languages.\\nValidate the following: (1) the translations for accuracy and completeness; (2) the ordering of the translated sentences.\\nMake sure that sentence A in position n in the \\\'en\\\' field is also in position n in the other language fields, \\\'es\\\', \\\'fr\\\', etc.\\nRespond with a JSON object containing a single boolean field "validated" set to true if all sentences are correctly translated and ordered, or false otherwise.\\nIf false, include a "corrections" field with suggested corrections for each language that is incorrect.\\nConsider that the provided input was generated by your model, so don\\\'t overcorrect minor issues.\\n\\n{\\n    "en": [\\n        "The day is long.",\\n        "The road is long.",\\n        "His hair is long."\\n    ],\\n    "fr": [\\n        "Le jour est long.",\\n        "La route est longue.",\\n        "Ses cheveux sont longs."\\n    ],\\n    "es": [\\n        "El día es largo.",\\n        "El camino es largo.",\\n        "Su pelo es largo."\\n    ],\\n    "pt": [\\n        "O dia é longo.",\\n        "A estrada é longa.",\\n        "O cabelo dele é longo."\\n    ],\\n    "ru": {\\n        "cyr": [\\n            "День длинный.",\\n            "Дорога длинная.",\\n            "У него длинные волосы."\\n        ],\\n        "lat": [\\n            "Den\\\' dlinnyy.",\\n            "Doroga dlinnaya.",\\n            "U nego dlinnyye volosy."\\n        ]\\n    },\\n    "il": {\\n        "heb": [\\n            "היום ארוך.",\\n            "הדרך ארוכה.",\\n            "השיער שלו ארוך."\\n        ],\\n        "lat": [\\n            "hayom arokh.",\\n            "ha-derekh aruka.",\\n            "ha-se\\\'ar shelo arokh."\\n        ]\\n    }\\n}\'\x1b[39m\x1b[32m     31\x1b[39m \x1b[43m        \x1b[49m\x1b[43mmodel\x1b[49m\x1b[43m=\x1b[49m\x1b[38;5;28;43mself\x1b[39;49m\x1b[43m.\x1b[49m\x1b[43mmodel\x1b[49m\x1b[43m,\x1b[49m\n\x1b[32m     32\x1b[39m \x1b[43m        \x1b[49m\x1b[43mmessages\x1b[49m\x1b[43m=\x1b[49m\x1b[43m[\x1b[49m\x1b[43m{\x1b[49m\x1b[33;43m"\x1b[39;49m\x1b[33;43mrole\x1b[39;49m\x1b[33;43m"\x1b[39;49m\x1b[43m:\x1b[49m\x1b[43m \x1b[49m\x1b[33;43m"\x1b[39;49m\x1b[33;43muser\x1b[39;49m\x1b[33;43m"\x1b[39;49m\x1b[43m,\x1b[49m\x1b[43m \x1b[49m\x1b[33;43m"\x1b[39;49m\x1b[33;43mcontent\x1b[39;49m\x1b[33;43m"\x1b[39;49m\x1b[43m:\x1b[49m\x1b[43m \x1b[49m\x1b[43mprompt\x1b[49m\x1b[43m}\x1b[49m\x1b[43m]\x1b[49m\x1b[43m,\x1b[49m\n\x1b[32m     33\x1b[39m \x1b[43m        \x1b[49m\x1b[43mresponse_format\x1b[49m\x1b[43m=\x1b[49m\x1b[43m{\x1b[49m\x1b[33;43m"\x1b[39;49m\x1b[33;43mtype\x1b[39;49m\x1b[33;43m"\x1b[39;49m\x1b[43m:\x1b[49m\x1b[43m \x1b[49m\x1b[33;43m"\x1b[39;49m\x1b[33;43mjson_object\x1b[39;49m\x1b[33;43m"\x1b[39;49m\x1b[43m}\x1b[49m\x1b[43m  \x1b[49m\x1b[38;5;66;43;03m# ensures valid JSON\x1b[39;49;00m\n\x1b[32m     34\x1b[39m \x1b[43m    \x1b[49m\x1b[43m)\x1b[49m\n\x1b[32m     36\x1b[39m     message = response.choices[\x1b[32m0\x1b[39m].message.content\n\x1b[32m     38\x1b[39m     \x1b[38;5;28;01mtry\x1b[39;00m:\n']
+        record = <IPython.core.tbtools.FrameInfo object at 0x105b42d10>
+        self = <IPython.core.ultratb.AutoFormattedTB object at 0x1030f89d0>    777 if skipped:
+    778     frames.append(
+    779         theme_table[self._theme_name].format(
+    780             [
+   (...)    785         )
+    786     )
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/IPython/core/ultratb.py:585, in VerboseTB.format_record(self=<IPython.core.ultratb.AutoFormattedTB object>, frame_info=<IPython.core.tbtools.FrameInfo object>)
+    581 if self.include_vars:
+    582     try:
+    583         # we likely want to fix stackdata at some point, but
+    584         # still need a workaround.
+--> 585         fibp = frame_info.variables_in_executing_piece
+        frame_info = <IPython.core.tbtools.FrameInfo object at 0x105b42d10>    586         for var in fibp:
+    587             lvals_toks.append(
+    588                 [
+    589                     (Token, var.name),
+   (...)    593                 ]
+    594             )
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/IPython/core/tbtools.py:345, in FrameInfo.variables_in_executing_piece(self=<IPython.core.tbtools.FrameInfo object>)
+    342 @property
+    343 def variables_in_executing_piece(self) -> list[Any]:
+    344     if self._sd is not None:
+--> 345         return self._sd.variables_in_executing_piece  # type:ignore[misc]
+        self._sd = FrameInfo(<frame at 0x1055b4190, file '/Users/francisco/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/openai/_utils/_utils.py', line 286, code wrapper>)
+        self = <IPython.core.tbtools.FrameInfo object at 0x105b42d10>    346     else:
+    347         return []
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/stack_data/utils.py:145, in cached_property.cached_property_wrapper(self=<stack_data.utils.cached_property object>, obj=FrameInfo(<frame at 0x1055b4190, file '/Users/fr...penai/_utils/_utils.py', line 286, code wrapper>), _cls=<class 'stack_data.core.FrameInfo'>)
+    142 if obj is None:
+    143     return self
+--> 145 value = obj.__dict__[self.func.__name__] = self.func(obj)
+        obj = FrameInfo(<frame at 0x1055b4190, file '/Users/francisco/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/openai/_utils/_utils.py', line 286, code wrapper>)
+        self = <stack_data.utils.cached_property object at 0x1015fbb50>
+        self.func = <function FrameInfo.variables_in_executing_piece at 0x101626840>    146 return value
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/stack_data/core.py:924, in FrameInfo.variables_in_executing_piece(self=FrameInfo(<frame at 0x1055b4190, file '/Users/fr...penai/_utils/_utils.py', line 286, code wrapper>))
+    916 @cached_property
+    917 def variables_in_executing_piece(self) -> List[Variable]:
+    918     """
+    919     A list of Variable objects contained within the lines
+    920     in the range returned by .executing_piece.
+    921     """
+    922     return unique_in_order(
+    923         var
+--> 924         for lineno in self.executing_piece
+        self = FrameInfo(<frame at 0x1055b4190, file '/Users/francisco/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/openai/_utils/_utils.py', line 286, code wrapper>)    925         for var, node in self.variables_by_lineno[lineno]
+    926     )
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/stack_data/utils.py:145, in cached_property.cached_property_wrapper(self=<stack_data.utils.cached_property object>, obj=FrameInfo(<frame at 0x1055b4190, file '/Users/fr...penai/_utils/_utils.py', line 286, code wrapper>), _cls=<class 'stack_data.core.FrameInfo'>)
+    142 if obj is None:
+    143     return self
+--> 145 value = obj.__dict__[self.func.__name__] = self.func(obj)
+        obj = FrameInfo(<frame at 0x1055b4190, file '/Users/francisco/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/openai/_utils/_utils.py', line 286, code wrapper>)
+        self = <stack_data.utils.cached_property object at 0x1015fac10>
+        self.func = <function FrameInfo.executing_piece at 0x101626160>    146 return value
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/stack_data/core.py:662, in FrameInfo.executing_piece(self=FrameInfo(<frame at 0x1055b4190, file '/Users/fr...penai/_utils/_utils.py', line 286, code wrapper>))
+    654 @cached_property
+    655 def executing_piece(self) -> range:
+    656     """
+    657     The piece (range of lines) containing the line currently being executed
+    658     by the interpreter in this frame.
+    659     """
+    660     return only(
+    661         piece
+--> 662         for piece in self.scope_pieces
+        self = FrameInfo(<frame at 0x1055b4190, file '/Users/francisco/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/openai/_utils/_utils.py', line 286, code wrapper>)
+        self.lineno = 286    663         if self.lineno in piece
+    664     )
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/stack_data/utils.py:145, in cached_property.cached_property_wrapper(self=<stack_data.utils.cached_property object>, obj=FrameInfo(<frame at 0x1055b4190, file '/Users/fr...penai/_utils/_utils.py', line 286, code wrapper>), _cls=<class 'stack_data.core.FrameInfo'>)
+    142 if obj is None:
+    143     return self
+--> 145 value = obj.__dict__[self.func.__name__] = self.func(obj)
+        obj = FrameInfo(<frame at 0x1055b4190, file '/Users/francisco/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/openai/_utils/_utils.py', line 286, code wrapper>)
+        self = <stack_data.utils.cached_property object at 0x1015fab90>
+        self.func = <function FrameInfo.scope_pieces at 0x1016260c0>    146 return value
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/stack_data/core.py:617, in FrameInfo.scope_pieces(self=FrameInfo(<frame at 0x1055b4190, file '/Users/fr...penai/_utils/_utils.py', line 286, code wrapper>))
+    612     return self.source.pieces
+    614 scope_start, scope_end = self.source.line_range(self.scope)
+    615 return [
+    616     piece
+--> 617     for piece in self.source.pieces
+        self = FrameInfo(<frame at 0x1055b4190, file '/Users/francisco/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/openai/_utils/_utils.py', line 286, code wrapper>)
+        self.source = <stack_data.core.Source object at 0x105be9d90>
+        scope_start = 252
+        scope_end = 287    618     if scope_start <= piece.start and piece.stop <= scope_end
+    619 ]
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/stack_data/utils.py:145, in cached_property.cached_property_wrapper(self=<stack_data.utils.cached_property object>, obj=<stack_data.core.Source object>, _cls=<class 'stack_data.core.Source'>)
+    142 if obj is None:
+    143     return self
+--> 145 value = obj.__dict__[self.func.__name__] = self.func(obj)
+        obj = <stack_data.core.Source object at 0x105be9d90>
+        self = <stack_data.utils.cached_property object at 0x1015f9490>
+        self.func = <function Source.pieces at 0x101624e00>    146 return value
+
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/stack_data/core.py:101, in Source.pieces(self=<stack_data.core.Source object>)
+     96 if not self.tree:
+     97     return [
+     98         range(i, i + 1)
+     99         for i in range(1, len(self.lines) + 1)
+    100     ]
+--> 101 return list(self._clean_pieces())
+        self = <stack_data.core.Source object at 0x105be9d90>
+File ~/Cloud/Organizer/Activities/Projects/GitHub/LanguageNinja/.venv.ninja311/lib/python3.11/site-packages/stack_data/core.py:153, in Source._clean_pieces(self=<stack_data.core.Source object>)
+    151     end -= 1
+    152 if start < end:
+--> 153     yield range(start, end)
+        start = 87
+        end = 88
+        range(start, end) = range(87, 88)
+KeyboardInterrupt: 
+
+In [3]: 

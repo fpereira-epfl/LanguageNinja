@@ -6,7 +6,7 @@
             "Life is short."
         ],
         "fr": [
-            "La vie est bonne.",
+            "La vie est belle.",
             "J'aime la vie.",
             "La vie est courte."
         ],
@@ -22,14 +22,14 @@
         ],
         "ru": {
             "cyr": [
-                "Жизнь хорошая.",
+                "Жизнь хороша.",
                 "Я люблю жизнь.",
-                "Жизнь короткая."
+                "Жизнь коротка."
             ],
             "lat": [
-                "Zhizn' khoroshaya.",
+                "Zhizn' khorosha.",
                 "Ya lyublyu zhizn'.",
-                "Zhizn' korotkaya."
+                "Zhizn' korotka."
             ]
         },
         "il": {
@@ -45,5 +45,5 @@
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

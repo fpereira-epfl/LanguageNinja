@@ -11,13 +11,13 @@
             "Nous faisons des affaires avec eux."
         ],
         "es": [
-            "Él trabaja en negocios.",
-            "Nuestros negocios son buenos.",
+            "Él trabaja en los negocios.",
+            "Nuestro negocio va bien.",
             "Hacemos negocios con ellos."
         ],
         "pt": [
-            "Ele trabalha nos negócios.",
-            "Nossos negócios são bons.",
+            "Ele trabalha com negócios.",
+            "O nosso negócio vai bem.",
             "Fazemos negócios com eles."
         ],
         "ru": {
@@ -35,15 +35,15 @@
         "il": {
             "heb": [
                 "הוא עובד בעסקים.",
-                "העסקים שלנו טובים.",
+                "העסק שלנו טוב.",
                 "אנחנו עושים עסקים איתם."
             ],
             "lat": [
                 "hu oved be'asakim.",
-                "ha'asakim shelanu tovim.",
+                "ha'esek shelanu tov.",
                 "anachnu osim asakim itam."
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

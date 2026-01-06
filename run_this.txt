@@ -1,0 +1,5 @@
+from languageninja.models.word import Word
+list_of_words = Word.get_word_list()
+for key in sorted(list_of_words):
+    w = Word(key)
+    w.validate(what='sentences')

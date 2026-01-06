@@ -8,17 +8,17 @@
         "fr": [
             "Mon œil me fait mal.",
             "L'œil est ouvert.",
-            "Il a un œil."
+            "Il a un seul œil."
         ],
         "es": [
             "Me duele el ojo.",
             "El ojo está abierto.",
-            "Él tiene un ojo."
+            "Él tiene un solo ojo."
         ],
         "pt": [
             "Meu olho dói.",
             "O olho está aberto.",
-            "Ele tem um olho."
+            "Ele tem apenas um olho."
         ],
         "ru": {
             "cyr": [
@@ -45,5 +45,5 @@
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

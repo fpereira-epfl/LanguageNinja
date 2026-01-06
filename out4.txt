@@ -1,0 +1,2762 @@
+(.venv.ninja311) ➜  LanguageNinja git:(main) ✗ ipython
+Python 3.11.10 (main, Oct 25 2025, 11:11:12) [Clang 17.0.0 (clang-1700.0.13.5)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 9.6.0 -- An enhanced Interactive Python. Type '?' for help.
+Tip: IPython supports combining unicode identifiers, eg F\vec<tab> will become F⃗, useful for physics equations. Play with \dot \ddot and others.
+Cmd click to launch VS Code Native REPL
+
+In [1]: from languageninja.models.word import Word
+Using AI model: gpt-5
+
+In [2]: list_of_words = Word.get_word_list()
+
+In [3]: for key in sorted(list_of_words):
+   ...:     w = Word(key)
+   ...:     w.validate(what='sentences')
+   ...: 
+
+=============
+🈳 Word: 'I'
+=============
+👍 Sample sentences already validated.
+
+=============
+🈳 Word: 'a'
+=============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'about'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'above'
+=================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'act'
+===============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'action'
+==================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'active'
+==================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'add'
+===============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'after'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'again'
+=================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'against'
+===================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'age'
+===============
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'all'
+===============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'almost'
+==================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'along'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'also'
+================
+👍 Sample sentences already validated.
+
+====================
+🈳 Word: 'although'
+====================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'always'
+==================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'among'
+=================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'and'
+===============
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'another'
+===================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'any'
+===============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'appear'
+==================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'around'
+==================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'art'
+===============
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'as'
+==============
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'ask'
+===============
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'at'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'away'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'back'
+================
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'be'
+==============
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'because'
+===================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'become'
+==================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'before'
+==================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'begin'
+=================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'believe'
+===================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'best'
+================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'better'
+==================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'between'
+===================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'big'
+===============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'board'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'body'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'book'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'both'
+================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'boy'
+===============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'bring'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'build'
+=================
+👍 Sample sentences already validated.
+
+====================
+🈳 Word: 'business'
+====================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'but'
+===============
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'by'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'call'
+================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'can'
+===============
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'car'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'care'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'carry'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'case'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'cause'
+=================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'center'
+==================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'certain'
+===================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'change'
+==================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'child'
+=================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'church'
+==================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'city'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'class'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'clear'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'close'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'cloud'
+=================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'college'
+===================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'come'
+================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'company'
+===================
+👍 Sample sentences already validated.
+
+====================
+🈳 Word: 'complete'
+====================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'concern'
+===================
+👍 Sample sentences already validated.
+
+=====================
+🈳 Word: 'condition'
+=====================
+👍 Sample sentences already validated.
+
+====================
+🈳 Word: 'consider'
+====================
+👍 Sample sentences already validated.
+
+====================
+🈳 Word: 'continue'
+====================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'control'
+===================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'cost'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'could'
+=================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'country'
+===================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'course'
+==================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'court'
+=================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'cut'
+===============
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'day'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'deal'
+================
+👍 Sample sentences already validated.
+
+=====================
+🈳 Word: 'determine'
+=====================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'develop'
+===================
+👍 Sample sentences already validated.
+
+=====================
+🈳 Word: 'different'
+=====================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'direct'
+==================
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'do'
+==============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'doctor'
+==================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'door'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'down'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'drive'
+=================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'during'
+==================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'each'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'early'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'earth'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'easy'
+================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'effect'
+==================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'either'
+==================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'end'
+===============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'enough'
+==================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'even'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'ever'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'every'
+=================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'example'
+===================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'expect'
+==================
+👍 Sample sentences already validated.
+
+======================
+🈳 Word: 'experience'
+======================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'eye'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'face'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'fact'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'fall'
+================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'family'
+==================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'far'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'feel'
+================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'few'
+===============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'field'
+=================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'figure'
+==================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'find'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'fire'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'first'
+=================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'follow'
+==================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'foot'
+================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'for'
+===============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'force'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'form'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'free'
+================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'friend'
+==================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'from'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'full'
+================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'general'
+===================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'get'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'girl'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'give'
+================
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'go'
+==============
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'god'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'good'
+================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'govern'
+==================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'great'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'group'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'grow'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'hand'
+================
+👍 Sample sentences already validated.
+
+=====================
+🈳 Word: 'happiness'
+=====================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'have'
+================
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'he'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'head'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'hear'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'help'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'here'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'high'
+================
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'history'
+===================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'hold'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'home'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'hope'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'hour'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'house'
+=================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'how'
+===============
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'however'
+===================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'human'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'idea'
+================
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'if'
+==============
+👍 Sample sentences already validated.
+
+=====================
+🈳 Word: 'important'
+=====================
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'in'
+==============
+👍 Sample sentences already validated.
+
+===================
+🈳 Word: 'include'
+===================
+👍 Sample sentences already validated.
+
+====================
+🈳 Word: 'increase'
+====================
+👍 Sample sentences already validated.
+
+====================
+🈳 Word: 'industry'
+====================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'inform'
+==================
+👍 Sample sentences already validated.
+
+====================
+🈳 Word: 'interest'
+====================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'into'
+================
+👍 Sample sentences already validated.
+
+==============
+🈳 Word: 'it'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'just'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'keep'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'kind'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'know'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'large'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'last'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'late'
+================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'law'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'lead'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'least'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'leave'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'less'
+================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'let'
+===============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'level'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'life'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'light'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'like'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'line'
+================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'little'
+==================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'live'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'local'
+=================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'long'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'look'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'love'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'low'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'make'
+================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'man'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'many'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'matter'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'may'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'mean'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'measure'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'meet'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'member'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'might'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'mind'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'moment'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'month'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "В году двенадцать месяцев.",
+      "В следующем месяце мы будем путешествовать.",
+      "Месяц почти закончился."
+    ],
+    "lat": [
+      "V godu dvenadtsat' mesyatsev.",
+      "V sleduyushchem mesyatse my budem puteshestvovat'.",
+      "Mesyats pochti zakonchilsya."
+    ]
+  }
+}
+
+================
+🈳 Word: 'moon'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'more'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'most'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'mountain'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'move'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'much'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'music'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'must'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'name'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Моё имя Ана.",
+      "Как тебя зовут?",
+      "Это моё имя."
+    ],
+    "lat": [
+      "Moyo imya Ana.",
+      "Kak tebya zovut?",
+      "Eto moyo imya."
+    ]
+  }
+}
+
+==================
+🈳 Word: 'nation'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'nature'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'near'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=====================
+🈳 Word: 'necessary'
+=====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'need'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'never'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'new'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'next'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'night'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'no'
+==============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'not'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'note'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "heb": [
+      "אני כותב פתק.",
+      "קרא את הפתק.",
+      "הפתק הזה קצר."
+    ],
+    "lat": [
+      "ani kotev petek.",
+      "kra et hapetek.",
+      "hapetek hazeh katsar."
+    ]
+  }
+}
+
+===================
+🈳 Word: 'nothing'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'now'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'number'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'ocean'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "haokyanus gadol.",
+      "ani shoche baokyanus.",
+      "yesh galim baokyanus."
+    ]
+  }
+}
+
+==============
+🈳 Word: 'of'
+==============
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'off'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "ha'or kavui.",
+      "kabeh et ha-televizya.",
+      "ha-telefon sheli kavui."
+    ]
+  }
+}
+
+==================
+🈳 Word: 'office'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'often'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'old'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'on'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'once'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'one'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'only'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'open'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'or'
+==============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'order'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'other'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'out'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'over'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "ha-menorah me'al ha-shulchan.",
+      "ha-matos tas me'al ha-ir.",
+      "tle et ha-tmuna me'al ha-mita."
+    ]
+  }
+}
+
+===============
+🈳 Word: 'own'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'part'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+======================
+🈳 Word: 'particular'
+======================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "C'est un cas particulier.",
+    "Je veux un livre en particulier.",
+    "Il n'a aucune raison particulière."
+  ],
+  "ru": {
+    "cyr": [
+      "Это частный случай.",
+      "Я хочу конкретную книгу.",
+      "У него нет особой причины."
+    ],
+    "lat": [
+      "Eto chastnyy sluchay.",
+      "Ya khochu konkretnuyu knigu.",
+      "U nego net osoboy prichiny."
+    ]
+  }
+}
+
+=================
+🈳 Word: 'party'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'pass'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'pay'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'peace'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'people'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Люди здесь.",
+      "Люди много говорят.",
+      "Мне нравятся люди."
+    ],
+    "lat": [
+      "Lyudi zdes’.",
+      "Lyudi mnogo govoryat.",
+      "Mne nravyatsya lyudi."
+    ]
+  }
+}
+
+===============
+🈳 Word: 'per'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'perhaps'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'person'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'place'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "pt": [
+    "Este lugar é pequeno.",
+    "Esse lugar está longe.",
+    "O lugar é tranquilo."
+  ]
+}
+
+================
+🈳 Word: 'plan'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'play'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'point'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "heb": [
+      "הנקודה קטנה.",
+      "אני רואה נקודה על המפה.",
+      "שים נקודה כאן."
+    ],
+    "lat": [
+      "hanekuda ktana.",
+      "ani ro'eh nekuda al hamapa.",
+      "sim nekuda kan."
+    ]
+  }
+}
+
+====================
+🈳 Word: 'position'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'possible'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'power'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'present'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=====================
+🈳 Word: 'president'
+=====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'probable'
+====================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "heb": [
+      "סביר שהוא יבוא.",
+      "סביר שירד גשם מחר.",
+      "סביר שיהיה עיכוב."
+    ],
+    "lat": [
+      "savir shehu yavo.",
+      "savir sheyered geshem makhar.",
+      "savir sheyihiye ikuv."
+    ]
+  }
+}
+
+===================
+🈳 Word: 'problem'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'program'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'provide'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'public'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "heb": [
+      "זה אירוע ציבורי.",
+      "הוא מסר הצהרה פומבית.",
+      "זו ספרייה ציבורית."
+    ],
+    "lat": [
+      "ze irua tziburi.",
+      "hu masar hatzhara pumbit.",
+      "zo sifriya tziburit."
+    ]
+  }
+}
+
+===============
+🈳 Word: 'put'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'question'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'rain'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'rate'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'rather'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'reach'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'read'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'real'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'reason'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'receive'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'recent'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'record'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+====================
+🈳 Word: 'religion'
+====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'remain'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'report'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "anachnu korim et haduach.",
+      "haduach aroch.",
+      "hi katva duach."
+    ]
+  }
+}
+
+==================
+🈳 Word: 'result'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Результат хороший.",
+      "Мы увидели результат.",
+      "Я жду результата."
+    ],
+    "lat": [
+      "Rezultat khoroshiy.",
+      "My uvideli rezultat.",
+      "Ya zhdu rezultata."
+    ]
+  }
+}
+
+==================
+🈳 Word: 'return'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'right'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'river'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "ha-nahar arokh.",
+      "anachnu sochim be-nahar.",
+      "yesh gesher me'al ha-nahar."
+    ]
+  }
+}
+
+================
+🈳 Word: 'room'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'run'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "Je cours tous les jours.",
+    "Elle court vite.",
+    "Nous courons jusqu'au parc."
+  ]
+}
+
+================
+🈳 Word: 'same'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'say'
+===============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'school'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'second'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'see'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'seem'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'sense'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "lat": [
+      "Ya chuvstvuyu opasnost'.",
+      "Ona chuvstvuet problemu.",
+      "My chuvstvuem izmenenie."
+    ]
+  }
+}
+
+=================
+🈳 Word: 'serve'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'service'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'set'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Это множество маленькое.",
+      "Множество содержит три элемента.",
+      "Множество — это совокупность объектов."
+    ],
+    "lat": [
+      "Eto mnozhestvo malen'koye.",
+      "Mnozhestvo soderzhit tri elementa.",
+      "Mnozhestvo — eto sovokupnost' ob\"ektov."
+    ]
+  }
+}
+
+===================
+🈳 Word: 'several'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'she'
+===============
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'should'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "heb": [
+      "כדאי לך לנוח.",
+      "כדאי שנלך עכשיו.",
+      "כדאי לו להתקשר לאמא שלו."
+    ],
+    "lat": [
+      "kedai lekha lanuakh.",
+      "kedai shenelekh akhshav.",
+      "kedai lo lehitkasher le-ima shelo."
+    ]
+  }
+}
+
+================
+🈳 Word: 'show'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'side'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'simple'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'since'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'sit'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'sky'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'small'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'snow'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'so'
+==============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'social'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'some'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Некоторые люди здесь.",
+      "У меня есть несколько вопросов.",
+      "Она купила несколько книг."
+    ],
+    "lat": [
+      "Nekotorye lyudi zdes’.",
+      "U menya yest’ neskol’ko voprosov.",
+      "Ona kupila neskol’ko knig."
+    ]
+  },
+  "il": {
+    "heb": [
+      "יש כאן כמה אנשים.",
+      "יש לי כמה שאלות.",
+      "היא קנתה כמה ספרים."
+    ],
+    "lat": [
+      "yesh kan kama anashim.",
+      "yesh li kama she'elot.",
+      "hi kanta kama sfarim."
+    ]
+  }
+}
+
+=====================
+🈳 Word: 'something'
+=====================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'sound'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'speak'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'special'
+===================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "Ce gâteau est spécial.",
+    "C'est une amie spéciale.",
+    "Ce jour est spécial."
+  ],
+  "il": {
+    "lat": [
+      "ha'uga hazot meyukhedet.",
+      "hi khavera meyukhedet.",
+      "hayom hazeh meyukhad."
+    ]
+  }
+}
+
+==================
+🈳 Word: 'spirit'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'stand'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'star'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'start'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'state'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'step'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'still'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'street'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'strong'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'student'
+===================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Я студент.",
+      "Студент читает книгу.",
+      "Тот студент новый."
+    ],
+    "lat": [
+      "Ya student.",
+      "Student chitayet knigu.",
+      "Tot student novyy."
+    ]
+  },
+  "il": {
+    "heb": [
+      "אני סטודנט.",
+      "הסטודנט קורא ספר.",
+      "הסטודנט ההוא חדש."
+    ],
+    "lat": [
+      "ani student.",
+      "ha-student kore sefer.",
+      "ha-student ha-hu chadash."
+    ]
+  }
+}
+
+=================
+🈳 Word: 'study'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'such'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'sun'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'support'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'sure'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "pt": [
+    "Tenho certeza.",
+    "Você tem certeza?",
+    "Ela não tem certeza."
+  ]
+}
+
+==================
+🈳 Word: 'system'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'take'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "pt": [
+    "Eu pego as chaves.",
+    "Ela pega o livro.",
+    "Nós pegamos um táxi."
+  ]
+}
+
+================
+🈳 Word: 'talk'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'tax'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'teach'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'tell'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'than'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'that'
+================
+👍 Sample sentences already validated.
+
+===============
+🈳 Word: 'the'
+===============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'then'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'there'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'these'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'they'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'thing'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'think'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'this'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'those'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==================
+🈳 Word: 'though'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "es": [
+    "Aunque estoy cansado, trabajo.",
+    "Aunque llueve, jugamos.",
+    "Aunque es difícil, él lo intenta."
+  ]
+}
+
+===================
+🈳 Word: 'through'
+===================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "pt": [
+    "Caminhamos pelo parque.",
+    "A bola atravessou a janela.",
+    "Conduzimos pelo túnel."
+  ]
+}
+
+================
+🈳 Word: 'thus'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'time'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'to'
+==============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'today'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "ani oved hayom.",
+      "yesh lanu mivkhan hayom.",
+      "hachanut niftakhat hayom."
+    ]
+  }
+}
+
+===============
+🈳 Word: 'too'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "lat": [
+      "Ya tozhe ustal.",
+      "Ona tozhe zdes'.",
+      "My tozhe khotim chayu."
+    ]
+  }
+}
+
+==================
+🈳 Word: 'toward'
+==================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'train'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'tree'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'true'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'try'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'turn'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'type'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'under'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "hachatul mitachat la-shulchan.",
+      "ha-mafteach mitachat la-sefer.",
+      "anachnu yoshvim mitachat le-etz."
+    ],
+    "note": "Adjusted la/le in transliteration to match definiteness: la- for the table/book, le- for a tree. Hebrew script lines are fine."
+  }
+}
+
+======================
+🈳 Word: 'understand'
+======================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'unite'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'until'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+==============
+🈳 Word: 'up'
+==============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Смотри вверх!",
+      "Воздушный шар поднимается.",
+      "Он встаёт."
+    ],
+    "lat": [
+      "Smotri vverkh!",
+      "Vozdushnyy shar podnimayetsya.",
+      "On vstayot."
+    ]
+  }
+}
+
+================
+🈳 Word: 'upon'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'use'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'usual'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'value'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "es": [
+    "El valor es diez.",
+    "No sé el valor.",
+    "¿Cuál es el valor?"
+  ],
+  "pt": [
+    "O valor é dez.",
+    "Não sei o valor.",
+    "Qual é o valor?"
+  ]
+}
+
+================
+🈳 Word: 'very'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'walk'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'want'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'war'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'water'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'way'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "haderekh hazo ktsara.",
+      "zo haderekh hanekhona?",
+      "anachnu holkhim le'orekh haderekh."
+    ]
+  }
+}
+
+==============
+🈳 Word: 'we'
+==============
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'week'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Неделя долгая.",
+      "На следующей неделе я работаю.",
+      "На этой неделе мы отдыхаем."
+    ],
+    "lat": [
+      "Nedelya dolgaya.",
+      "Na sleduyushchey nedele ya rabotayu.",
+      "Na etoy nedele my otdykhaem."
+    ]
+  }
+}
+
+================
+🈳 Word: 'well'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'what'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'when'
+================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'where'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===================
+🈳 Word: 'whether'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'which'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'while'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'white'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'who'
+===============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'whole'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "achalti et kol hatapuach.",
+      "kol ha'ir shketa.",
+      "hi kar'a et kol hasefer."
+    ]
+  }
+}
+
+===============
+🈳 Word: 'why'
+===============
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "il": {
+    "lat": [
+      "lama ata atzuv?",
+      "lama ha-shamayim kchulim?",
+      "lama anachnu lomdim?"
+    ]
+  }
+}
+
+================
+🈳 Word: 'will'
+================
+👍 Sample sentences already validated.
+
+================
+🈳 Word: 'wind'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'with'
+================
+👍 Sample sentences already validated.
+
+==================
+🈳 Word: 'within'
+==================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "fr": [
+    "La clé est dans la boîte.",
+    "Reste dans les lignes.",
+    "Termine dans l'heure."
+  ],
+  "es": [
+    "La llave está dentro de la caja.",
+    "Quédate dentro de las líneas.",
+    "Termina en el plazo de una hora."
+  ],
+  "pt": [
+    "A chave está dentro da caixa.",
+    "Fique dentro das linhas.",
+    "Termine em até uma hora."
+  ]
+}
+
+===================
+🈳 Word: 'without'
+===================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'woman'
+=================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      null,
+      null,
+      "Та женщина моя подруга."
+    ],
+    "lat": [
+      null,
+      null,
+      "Ta zhenshchina moya podruga."
+    ]
+  },
+  "il": {
+    "heb": [
+      null,
+      null,
+      "האישה ההיא היא חברה שלי."
+    ],
+    "lat": [
+      null,
+      null,
+      "ha'isha ha-hi hi chavera sheli."
+    ]
+  }
+}
+
+================
+🈳 Word: 'word'
+================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'work'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "es": [
+    "Trabajo todos los días.",
+    "Ella trabaja en una escuela.",
+    "Empezamos a trabajar a las nueve."
+  ],
+  "il": {
+    "heb": [
+      "אני עובד כל יום.",
+      "היא עובדת בבית ספר.",
+      "אנחנו מתחילים לעבוד בתשע."
+    ],
+    "lat": [
+      "ani oved kol yom.",
+      "hi ovedet be-beit sefer.",
+      "anachnu matchilim la'avod be-tesha."
+    ]
+  }
+}
+
+=================
+🈳 Word: 'world'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+=================
+🈳 Word: 'would'
+=================
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'write'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+================
+🈳 Word: 'year'
+================
+⏳ Waiting for sentence validation ...
+❌ Sample sentences validation failed. Corrections:
+{
+  "ru": {
+    "cyr": [
+      "Год долгий.",
+      "Я работаю весь год.",
+      "Мы начинаем в следующем году."
+    ],
+    "lat": [
+      "God dolgiy.",
+      "Ya rabotayu ves’ god.",
+      "My nachinayem v sleduyushchem godu."
+    ]
+  }
+}
+
+===============
+🈳 Word: 'yet'
+===============
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
+===============
+🈳 Word: 'you'
+===============
+👍 Sample sentences already validated.
+
+=================
+🈳 Word: 'young'
+=================
+⏳ Waiting for sentence validation ...
+✅ Sample sentences validated successfully.
+
