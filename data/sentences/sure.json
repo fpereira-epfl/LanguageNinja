@@ -16,7 +16,7 @@
             "Ella no está segura."
         ],
         "pt": [
-            "Estou seguro.",
+            "Tenho certeza.",
             "Você tem certeza?",
             "Ela não tem certeza."
         ],
@@ -45,5 +45,5 @@
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

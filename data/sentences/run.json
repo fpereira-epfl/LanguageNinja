@@ -8,7 +8,7 @@
         "fr": [
             "Je cours tous les jours.",
             "Elle court vite.",
-            "Nous courons au parc."
+            "Nous courons jusqu'au parc."
         ],
         "es": [
             "Corro todos los días.",
@@ -45,5 +45,5 @@
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

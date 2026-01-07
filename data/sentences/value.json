@@ -12,12 +12,12 @@
         ],
         "es": [
             "El valor es diez.",
-            "No conozco el valor.",
+            "No sé el valor.",
             "¿Cuál es el valor?"
         ],
         "pt": [
             "O valor é dez.",
-            "Não conheço o valor.",
+            "Não sei o valor.",
             "Qual é o valor?"
         ],
         "ru": {
@@ -45,5 +45,5 @@
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

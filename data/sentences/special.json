@@ -7,7 +7,7 @@
         ],
         "fr": [
             "Ce gâteau est spécial.",
-            "Elle est une amie spéciale.",
+            "C'est une amie spéciale.",
             "Ce jour est spécial."
         ],
         "es": [
@@ -45,5 +45,5 @@
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

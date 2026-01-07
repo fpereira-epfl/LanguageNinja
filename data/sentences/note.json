@@ -36,14 +36,14 @@
             "heb": [
                 "אני כותב פתק.",
                 "קרא את הפתק.",
-                "הפתק קצר."
+                "הפתק הזה קצר."
             ],
             "lat": [
                 "ani kotev petek.",
                 "kra et hapetek.",
-                "hapetek katsar."
+                "hapetek hazeh katsar."
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

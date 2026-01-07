@@ -7,7 +7,7 @@
         ],
         "fr": [
             "C'est un cas particulier.",
-            "Je veux un livre particulier.",
+            "Je veux un livre en particulier.",
             "Il n'a aucune raison particulière."
         ],
         "es": [
@@ -45,5 +45,5 @@
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

@@ -24,12 +24,12 @@
             "cyr": [
                 "Люди здесь.",
                 "Люди много говорят.",
-                "Я люблю людей."
+                "Мне нравятся люди."
             ],
             "lat": [
                 "Lyudi zdes’.",
                 "Lyudi mnogo govoryat.",
-                "Ya lyublyu lyudey."
+                "Mne nravyatsya lyudi."
             ]
         },
         "il": {
@@ -45,5 +45,5 @@
             ]
         }
     },
-    "validated": false
+    "validated": true
 }

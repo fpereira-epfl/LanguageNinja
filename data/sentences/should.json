@@ -34,16 +34,16 @@
         },
         "il": {
             "heb": [
-                "אתה צריך לנוח.",
-                "אנחנו צריכים ללכת עכשיו.",
-                "הוא צריך להתקשר לאמא שלו."
+                "כדאי לך לנוח.",
+                "כדאי שנלך עכשיו.",
+                "כדאי לו להתקשר לאמא שלו."
             ],
             "lat": [
-                "ata tsarikh lanuakh.",
-                "anachnu tsrikhim lalechet akhshav.",
-                "hu tsarikh lehitkasher le-ima shelo."
+                "kedai lekha lanuakh.",
+                "kedai shenelekh akhshav.",
+                "kedai lo lehitkasher le-ima shelo."
             ]
         }
     },
-    "validated": false
+    "validated": true
 }
